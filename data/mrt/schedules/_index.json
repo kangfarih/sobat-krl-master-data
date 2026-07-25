@@ -1,0 +1,70 @@
+{
+  "count": 13,
+  "stations": [
+    {
+      "slug": "stasiun-lebak-bulus",
+      "name": "Stasiun MRT Lebak Bulus Bank Syariah Indonesia",
+      "available": true
+    },
+    {
+      "slug": "stasiun-asean",
+      "name": "ASEAN Headquarter",
+      "available": true
+    },
+    {
+      "slug": "bundaran-hi-bank-jakarta",
+      "name": "Bundaran HI Bank Jakarta",
+      "available": true
+    },
+    {
+      "slug": "stasiun-cipete-raya",
+      "name": "Stasiun MRT Cipete Raya TUKU",
+      "available": true
+    },
+    {
+      "slug": "stasiun-fatmawati-indomaret",
+      "name": "Stasiun MRT Fatmawati Indomaret",
+      "available": true
+    },
+    {
+      "slug": "stasiun-haji-nawi",
+      "name": "Stasiun MRT Haji Nawi",
+      "available": true
+    },
+    {
+      "slug": "stasiun-blok-a",
+      "name": "Stasiun MRT Blok A",
+      "available": true
+    },
+    {
+      "slug": "stasiun-blok-m-bca",
+      "name": "Stasiun MRT Blok M BCA",
+      "available": true
+    },
+    {
+      "slug": "stasiun-senayan-mastercard",
+      "name": "Stasiun MRT Senayan Mastercard",
+      "available": true
+    },
+    {
+      "slug": "stasiun-istora-mandiri",
+      "name": "Stasiun MRT Istora Mandiri",
+      "available": true
+    },
+    {
+      "slug": "stasiun-bendungan-hilir",
+      "name": "Stasiun MRT Bendungan Hilir",
+      "available": true
+    },
+    {
+      "slug": "stasiun-setiabudi-astra",
+      "name": "Stasiun MRT Setiabudi Astra",
+      "available": true
+    },
+    {
+      "slug": "stasiun-dukuh-atas-bni",
+      "name": "Stasiun MRT Dukuh Atas BNI",
+      "available": true
+    }
+  ]
+}
