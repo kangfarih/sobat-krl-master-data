@@ -1,0 +1,9 @@
+{
+  "lastUpdated": "2026-07-25T18:25:46.467Z",
+  "stationCount": 18,
+  "scheduleEntryCount": 348,
+  "scheduleTypes": {
+    "weekdays": 214,
+    "holidays": 134
+  }
+}
