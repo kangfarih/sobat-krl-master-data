@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2026-07-25T16:16:10.133Z",
+  "count": 1,
+  "failedStations": [
+    {
+      "sta_id": "GGL",
+      "sta_name": "GROGOL",
+      "error": "HTTP 404: https://kci.id/api/krl/schedules?stationid=GGL&timefrom=00:00&timeto=23:00"
+    }
+  ]
+}
