@@ -1,0 +1,67 @@
+{
+  "stop_name": "Antena III",
+  "stop_id": "B00052P",
+  "latitude": -6.250129,
+  "longitude": 106.791759,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:25:42"
+      ],
+      "weekends": [
+        "05:25:42"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:26:28"
+      ],
+      "weekends": [
+        "05:26:28"
+      ]
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:19:13",
+        "05:24:48",
+        "06:40:17",
+        "06:45:54"
+      ],
+      "weekends": [
+        "05:19:13",
+        "06:40:17"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:08:43",
+        "06:35:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

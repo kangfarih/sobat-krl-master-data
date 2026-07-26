@@ -1,0 +1,32 @@
+{
+  "stop_name": "Masjid Jami Al Wiqoyah",
+  "stop_id": "B02325P",
+  "latitude": -6.326852,
+  "longitude": 106.82337,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:31:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:29:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Minyak Raya",
+  "stop_id": "B01403P",
+  "latitude": -6.253372,
+  "longitude": 106.83813,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:35:33",
+        "06:35:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:43:37",
+        "05:43:38",
+        "05:43:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

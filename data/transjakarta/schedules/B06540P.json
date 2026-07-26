@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Gg. Kelor",
+  "stop_id": "B06540P",
+  "latitude": -6.211317,
+  "longitude": 106.85882,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:53:39",
+        "05:53:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

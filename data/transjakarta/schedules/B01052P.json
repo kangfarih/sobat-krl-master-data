@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Duri Tss Raya",
+  "stop_id": "B01052P",
+  "latitude": -6.156296,
+  "longitude": 106.80807,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:41:25",
+        "06:40:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

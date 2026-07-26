@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pertigaan Gg. Bahagia",
+  "stop_id": "B07190P",
+  "latitude": -6.32149,
+  "longitude": 106.8943,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:49:55",
+        "06:32:07",
+        "06:33:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

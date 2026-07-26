@@ -1,0 +1,41 @@
+{
+  "stop_name": "Mayang Permai",
+  "stop_id": "B02389P",
+  "latitude": -6.116421,
+  "longitude": 106.75963,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:29:41",
+        "06:42:02",
+        "06:58:08",
+        "08:05:39",
+        "08:11:54"
+      ],
+      "weekends": [
+        "07:10:27",
+        "07:20:27"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:25:22",
+        "01:37:43",
+        "05:14:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

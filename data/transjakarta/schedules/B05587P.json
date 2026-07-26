@@ -1,0 +1,32 @@
+{
+  "stop_name": "Taman Elok 1",
+  "stop_id": "B05587P",
+  "latitude": -6.195743,
+  "longitude": 106.93526,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via PIK",
+      "weekdays": [
+        "05:58:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "06:08:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

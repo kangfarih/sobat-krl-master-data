@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. Asrama Palad",
+  "stop_id": "B07583P",
+  "latitude": -6.21650571,
+  "longitude": 106.95361018,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:29:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "05:14:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

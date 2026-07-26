@@ -1,0 +1,21 @@
+{
+  "stop_name": "Wahidin 2",
+  "stop_id": "B05867P",
+  "latitude": -6.169193,
+  "longitude": 106.83975,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:19:54",
+        "05:19:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

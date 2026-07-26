@@ -1,0 +1,22 @@
+{
+  "stop_name": "Blue Gas Pulo Gebang",
+  "stop_id": "B00160P",
+  "latitude": -6.210605,
+  "longitude": 106.95645,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:38:10",
+        "05:39:33",
+        "07:07:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

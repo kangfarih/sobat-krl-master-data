@@ -1,0 +1,26 @@
+{
+  "stop_name": "TPU Jeruk Purut",
+  "stop_id": "B07441P",
+  "latitude": -6.279464,
+  "longitude": 106.813645,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:57:34",
+        "06:03:08",
+        "07:18:36",
+        "07:24:13"
+      ],
+      "weekends": [
+        "05:57:34",
+        "07:18:36"
+      ]
+    }
+  ]
+}

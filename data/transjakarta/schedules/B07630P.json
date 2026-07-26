@@ -1,0 +1,36 @@
+{
+  "stop_name": "Komplek Pergudangan JIEP",
+  "stop_id": "B07630P",
+  "latitude": -6.203918,
+  "longitude": 106.917754,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:00:10",
+        "05:47:08",
+        "06:44:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:00:10",
+        "06:33:07",
+        "08:03:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

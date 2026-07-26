@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Rawa Sumur II",
+  "stop_id": "B07636P",
+  "latitude": -6.208188,
+  "longitude": 106.916895,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:10:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

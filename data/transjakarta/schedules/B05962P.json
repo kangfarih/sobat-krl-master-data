@@ -1,0 +1,57 @@
+{
+  "stop_name": "Stadion BMW",
+  "stop_id": "B05962P",
+  "latitude": -6.12436,
+  "longitude": 106.85721,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "06:00:32",
+        "06:00:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:18:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:18:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "06:58:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "RSUD Pasar Rebo 2",
+  "stop_id": "B03216P",
+  "latitude": -6.304616,
+  "longitude": 106.86245,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "06:00:20",
+        "07:04:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:37:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

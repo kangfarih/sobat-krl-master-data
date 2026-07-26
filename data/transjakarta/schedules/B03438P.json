@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Agrowisata Cilangkap",
+  "stop_id": "B03438P",
+  "latitude": -6.339822,
+  "longitude": 106.90147,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "06:01:00",
+        "07:05:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

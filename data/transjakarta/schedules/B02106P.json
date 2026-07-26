@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kusuma Timur Vihara Dharma Bhakti",
+  "stop_id": "B02106P",
+  "latitude": -6.144916,
+  "longitude": 106.78076,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:34:58",
+        "05:35:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

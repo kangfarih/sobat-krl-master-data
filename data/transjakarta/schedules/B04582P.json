@@ -1,0 +1,38 @@
+{
+  "stop_name": "Sbr. Villa Ampera",
+  "stop_id": "B04582P",
+  "latitude": -6.273031,
+  "longitude": 106.81562,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:26:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:52:01",
+        "05:57:35",
+        "07:13:05",
+        "07:18:42"
+      ],
+      "weekends": [
+        "05:52:01",
+        "07:13:05"
+      ]
+    }
+  ]
+}

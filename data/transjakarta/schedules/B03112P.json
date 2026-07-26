@@ -1,0 +1,22 @@
+{
+  "stop_name": "RPTRA Menara",
+  "stop_id": "B03112P",
+  "latitude": -6.212997,
+  "longitude": 106.73123,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:27:52",
+        "06:03:57",
+        "07:47:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

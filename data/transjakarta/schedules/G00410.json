@@ -1,0 +1,78 @@
+{
+  "stop_name": "Ciliwung Arah Timur",
+  "stop_id": "G00410",
+  "latitude": -6.243005,
+  "longitude": 106.863512,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "06:17:09",
+        "06:34:46",
+        "06:35:12",
+        "06:35:17",
+        "06:45:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:35:21",
+        "07:11:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:17:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "06:04:15",
+        "07:07:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:42:05",
+        "05:58:09",
+        "07:00:10"
+      ],
+      "weekends": [
+        "05:58:09"
+      ]
+    }
+  ]
+}

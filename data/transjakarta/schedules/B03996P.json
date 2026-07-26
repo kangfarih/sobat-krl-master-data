@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Lapangan Kaprina",
+  "stop_id": "B03996P",
+  "latitude": -6.34739,
+  "longitude": 106.88437,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:36:33",
+        "06:21:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:56:53",
+        "06:49:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

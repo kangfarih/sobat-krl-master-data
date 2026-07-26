@@ -1,0 +1,22 @@
+{
+  "stop_name": "TPU Rawa Kuning",
+  "stop_id": "B05791P",
+  "latitude": -6.201735,
+  "longitude": 106.96052,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:31:15",
+        "05:32:38",
+        "07:00:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

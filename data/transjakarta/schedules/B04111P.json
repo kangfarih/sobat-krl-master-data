@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Mushola Al Hidayah Batu Ampar",
+  "stop_id": "B04111P",
+  "latitude": -6.274609,
+  "longitude": 106.86054,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:26:57",
+        "05:26:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:43:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "stop_name": "Ruko Cordoba 3",
+  "stop_id": "B03235P",
+  "latitude": -6.110884,
+  "longitude": 106.741082,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:41:51",
+        "06:54:14",
+        "07:10:20",
+        "08:17:52",
+        "08:23:29"
+      ],
+      "weekends": [
+        "07:22:40",
+        "07:32:40"
+      ]
+    }
+  ]
+}

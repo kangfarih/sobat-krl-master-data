@@ -1,0 +1,32 @@
+{
+  "stop_name": "Rukan Golf Island Blok L",
+  "stop_id": "B08235P",
+  "latitude": -6.092104,
+  "longitude": 106.746271,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:11:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "05:54:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

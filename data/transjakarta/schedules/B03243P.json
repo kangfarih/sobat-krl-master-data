@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Green Mansion",
+  "stop_id": "B03243P",
+  "latitude": -6.158298,
+  "longitude": 106.763929,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:03:30",
+        "06:25:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "06:12:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

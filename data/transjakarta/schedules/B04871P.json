@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Jln. Peta Selatan",
+  "stop_id": "B04871P",
+  "latitude": -6.145305,
+  "longitude": 106.70275,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:16:31",
+        "06:02:27",
+        "07:07:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

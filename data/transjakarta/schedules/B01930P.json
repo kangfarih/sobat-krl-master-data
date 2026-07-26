@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kel. Marunda",
+  "stop_id": "B01930P",
+  "latitude": -6.124938,
+  "longitude": 106.95818,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:55:48",
+        "07:13:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

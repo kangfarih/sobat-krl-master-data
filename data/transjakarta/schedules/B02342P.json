@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Jami Baiturrahman",
+  "stop_id": "B02342P",
+  "latitude": -6.216586,
+  "longitude": 106.84412,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:20:54",
+        "06:46:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:38:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

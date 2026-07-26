@@ -1,0 +1,75 @@
+{
+  "stop_name": "Jembatan Serong",
+  "stop_id": "B01766P",
+  "latitude": -6.182204,
+  "longitude": 106.81814,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:04:32",
+        "05:04:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:04:34",
+        "05:04:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:50:08",
+        "06:01:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:02:48",
+        "05:56:03",
+        "05:59:54",
+        "06:07:56",
+        "06:15:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:04:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Komplek DPR I Kb. Jeruk",
+  "stop_id": "B02034P",
+  "latitude": -6.198878,
+  "longitude": 106.77685,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "06:20:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:44:39",
+        "06:21:03",
+        "07:04:55",
+        "07:44:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

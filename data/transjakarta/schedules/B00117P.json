@@ -1,0 +1,21 @@
+{
+  "stop_name": "Batalyon Kavaleri 1",
+  "stop_id": "B00117P",
+  "latitude": -6.252806,
+  "longitude": 106.65064,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:29:32",
+        "05:29:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

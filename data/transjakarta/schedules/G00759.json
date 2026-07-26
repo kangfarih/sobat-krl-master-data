@@ -1,0 +1,23 @@
+{
+  "stop_name": "PGC",
+  "stop_id": "G00759",
+  "latitude": -6.2619,
+  "longitude": 106.8657,
+  "routes": [
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "06:07:19",
+        "07:20:00",
+        "07:24:38",
+        "07:39:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

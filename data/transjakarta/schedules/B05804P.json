@@ -1,0 +1,70 @@
+{
+  "stop_name": "TTI Center",
+  "stop_id": "B05804P",
+  "latitude": -6.2862,
+  "longitude": 106.8339,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:10:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:10:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:15:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:16:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:15:19",
+        "05:16:16",
+        "05:16:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

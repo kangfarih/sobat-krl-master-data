@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Pulo Gebang 13",
+  "stop_id": "B03418P",
+  "latitude": -6.197112,
+  "longitude": 106.96259,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:20:53",
+        "06:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

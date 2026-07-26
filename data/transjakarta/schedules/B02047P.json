@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Kijang Kencana",
+  "stop_id": "B02047P",
+  "latitude": -6.194345,
+  "longitude": 106.78962,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:49:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

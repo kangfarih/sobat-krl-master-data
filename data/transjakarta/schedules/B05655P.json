@@ -1,0 +1,46 @@
+{
+  "stop_name": "Taman Sunter",
+  "stop_id": "B05655P",
+  "latitude": -6.150072,
+  "longitude": 106.85779,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:33:20",
+        "07:03:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:48:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "06:01:58",
+        "06:04:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

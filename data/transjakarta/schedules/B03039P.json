@@ -1,0 +1,21 @@
+{
+  "stop_name": "Puskesmas Batu Ampar",
+  "stop_id": "B03039P",
+  "latitude": -6.283558,
+  "longitude": 106.85936,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:20:15",
+        "05:59:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

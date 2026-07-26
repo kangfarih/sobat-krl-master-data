@@ -1,0 +1,37 @@
+{
+  "stop_name": "Dinas Olahraga Dan Pemuda",
+  "stop_id": "B00308P",
+  "latitude": -6.219715,
+  "longitude": 106.86802,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:47:33",
+        "06:29:00",
+        "06:40:24",
+        "06:44:15",
+        "06:52:17",
+        "06:59:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:50:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

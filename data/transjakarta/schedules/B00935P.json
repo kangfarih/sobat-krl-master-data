@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bima Bojong Raya",
+  "stop_id": "B00935P",
+  "latitude": -6.168827,
+  "longitude": 106.73414,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:11:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

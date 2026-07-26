@@ -1,0 +1,32 @@
+{
+  "stop_name": "SDN Srengseng Sawah 01",
+  "stop_id": "B03426P",
+  "latitude": -6.332965,
+  "longitude": 106.8338,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:33:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:52:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

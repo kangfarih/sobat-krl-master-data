@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Bahari 2",
+  "stop_id": "B05987P",
+  "latitude": -6.12396,
+  "longitude": 106.81329,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:04:45",
+        "06:08:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

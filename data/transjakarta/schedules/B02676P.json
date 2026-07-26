@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Rawasari",
+  "stop_id": "B02676P",
+  "latitude": -6.185624,
+  "longitude": 106.87178,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:48:10",
+        "07:15:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

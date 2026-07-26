@@ -1,0 +1,63 @@
+{
+  "stop_name": "Pemuda Pramuka",
+  "stop_id": "G00467",
+  "latitude": -6.192821,
+  "longitude": 106.874931,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "00:41:20",
+        "05:41:18",
+        "05:41:19",
+        "06:43:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:17:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "06:13:35",
+        "06:17:24",
+        "06:17:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:34:54"
+      ],
+      "weekends": [
+        "06:34:54"
+      ]
+    }
+  ]
+}

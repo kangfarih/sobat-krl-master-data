@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Lagoa Kanal",
+  "stop_id": "B03761P",
+  "latitude": -6.111783,
+  "longitude": 106.8841,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:34:26",
+        "06:13:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Fajar Baru Utara",
+  "stop_id": "B08021P",
+  "latitude": -6.14669,
+  "longitude": 106.73446,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:07:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

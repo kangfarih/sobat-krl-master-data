@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Bendungan Hilir 01",
+  "stop_id": "B03338P",
+  "latitude": -6.207519,
+  "longitude": 106.80898,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:08:29",
+        "06:07:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

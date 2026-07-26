@@ -1,0 +1,93 @@
+{
+  "stop_name": "Tokyo Riverside Selatan",
+  "stop_id": "B08135P",
+  "latitude": -6.041968,
+  "longitude": 106.693331,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:52:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "09:01:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "PIK2",
+      "weekdays": [
+        "10:07:23"
+      ],
+      "weekends": [
+        "12:37:23"
+      ]
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "19:28:35",
+        "21:08:35"
+      ],
+      "weekends": [
+        "13:55:13",
+        "15:25:13",
+        "17:25:13",
+        "18:55:13",
+        "20:25:13",
+        "21:55:13"
+      ]
+    },
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "06:21:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:45:31",
+        "10:24:54"
+      ],
+      "weekends": [
+        "10:24:54"
+      ]
+    }
+  ]
+}

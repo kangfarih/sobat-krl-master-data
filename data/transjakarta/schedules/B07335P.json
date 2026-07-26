@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pondok Indah Mall 3",
+  "stop_id": "B07335P",
+  "latitude": -6.264341,
+  "longitude": 106.782185,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:21:24",
+        "06:30:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

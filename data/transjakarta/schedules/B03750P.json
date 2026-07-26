@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kemang Selatan VIII",
+  "stop_id": "B03750P",
+  "latitude": -6.268532,
+  "longitude": 106.8157,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:23:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

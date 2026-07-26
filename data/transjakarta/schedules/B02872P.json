@@ -1,0 +1,20 @@
+{
+  "stop_name": "Plaza Senayan 2",
+  "stop_id": "B02872P",
+  "latitude": -6.227047,
+  "longitude": 106.798379,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:51:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

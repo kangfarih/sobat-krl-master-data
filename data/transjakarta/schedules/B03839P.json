@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Semanan II",
+  "stop_id": "B03839P",
+  "latitude": -6.163658,
+  "longitude": 106.70524,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:57:07",
+        "06:10:54",
+        "08:05:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

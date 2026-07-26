@@ -1,0 +1,34 @@
+{
+  "stop_name": "Wisma Pemda Riau",
+  "stop_id": "B05894P",
+  "latitude": -6.189306,
+  "longitude": 106.80001,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:22:56",
+        "06:30:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:32:17",
+        "06:32:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

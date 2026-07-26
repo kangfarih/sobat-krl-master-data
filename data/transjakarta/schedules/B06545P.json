@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. RSIA Tambak",
+  "stop_id": "B06545P",
+  "latitude": -6.206658,
+  "longitude": 106.84894,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:10:58",
+        "06:13:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

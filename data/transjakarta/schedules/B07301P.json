@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Tolo",
+  "stop_id": "B07301P",
+  "latitude": -6.206388,
+  "longitude": 106.94299,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:38:29",
+        "06:16:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

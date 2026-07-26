@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Makam",
+  "stop_id": "B01340P",
+  "latitude": -6.238418,
+  "longitude": 106.77745,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:16:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:17:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

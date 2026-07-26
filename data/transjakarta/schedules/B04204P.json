@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Pintu III Taman Mini",
+  "stop_id": "B04204P",
+  "latitude": -6.305526,
+  "longitude": 106.88903,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:17:51",
+        "05:18:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:30:37",
+        "05:30:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

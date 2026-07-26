@@ -1,0 +1,47 @@
+{
+  "stop_name": "Jln. Kb. Kacang X",
+  "stop_id": "B01233P",
+  "latitude": -6.18713,
+  "longitude": 106.8201,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:08:45",
+        "05:22:35",
+        "05:22:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:39:33",
+        "06:10:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen via Wahid Hasyim",
+      "weekdays": [
+        "05:41:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

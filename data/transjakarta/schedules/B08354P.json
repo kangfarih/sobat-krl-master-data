@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cipinang Latihan",
+  "stop_id": "B08354P",
+  "latitude": -6.21621,
+  "longitude": 106.88682,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:51:22",
+        "05:52:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

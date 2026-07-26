@@ -1,0 +1,33 @@
+{
+  "stop_name": "SMKN 5",
+  "stop_id": "B05320P",
+  "latitude": -6.212826,
+  "longitude": 106.87364,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "06:05:09",
+        "06:15:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:20:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Lapangan Bola II",
+  "stop_id": "B01314P",
+  "latitude": -6.201787,
+  "longitude": 106.76025,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:29:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

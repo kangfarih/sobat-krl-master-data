@@ -1,0 +1,35 @@
+{
+  "stop_name": "Pusdiklat Kemenag 2",
+  "stop_id": "B03033P",
+  "latitude": -6.312209,
+  "longitude": 106.75252,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:55:29",
+        "07:22:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "06:08:29",
+        "06:19:22",
+        "08:13:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

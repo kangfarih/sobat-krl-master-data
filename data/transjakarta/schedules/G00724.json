@@ -1,0 +1,63 @@
+{
+  "stop_name": "Petamburan",
+  "stop_id": "G00724",
+  "latitude": -6.201973,
+  "longitude": 106.800059,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:54:08"
+      ],
+      "weekends": [
+        "05:54:08"
+      ]
+    },
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "05:50:53",
+        "05:51:25",
+        "05:51:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:20:23",
+        "06:24:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:26:02",
+        "05:52:17",
+        "06:14:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

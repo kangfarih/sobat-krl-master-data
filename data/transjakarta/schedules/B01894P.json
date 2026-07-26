@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kehakiman",
+  "stop_id": "B01894P",
+  "latitude": -6.176674,
+  "longitude": 106.64456,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:11:51",
+        "05:11:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:11:51",
+        "05:11:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

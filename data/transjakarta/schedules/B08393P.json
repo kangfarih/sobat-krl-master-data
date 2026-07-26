@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rorotan VI",
+  "stop_id": "B08393P",
+  "latitude": -6.141429,
+  "longitude": 106.955596,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "06:09:14",
+        "07:26:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

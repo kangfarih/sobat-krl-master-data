@@ -1,0 +1,33 @@
+{
+  "stop_name": "Child Care Pre School",
+  "stop_id": "B00245P",
+  "latitude": -6.257557,
+  "longitude": 106.8009,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:51:41",
+        "05:53:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:08:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

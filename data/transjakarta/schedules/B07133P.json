@@ -1,0 +1,21 @@
+{
+  "stop_name": "RS Puri Medika",
+  "stop_id": "B07133P",
+  "latitude": -6.128483,
+  "longitude": 106.893344,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:19:28",
+        "06:19:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

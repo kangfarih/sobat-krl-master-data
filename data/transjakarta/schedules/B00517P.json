@@ -1,0 +1,45 @@
+{
+  "stop_name": "Gg. Molen",
+  "stop_id": "B00517P",
+  "latitude": -6.30713,
+  "longitude": 106.87629,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:06:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:06:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "06:39:31",
+        "06:40:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

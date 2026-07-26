@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kunang Kunang 2",
+  "stop_id": "B01309P",
+  "latitude": -6.25692,
+  "longitude": 107.02125,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:25:01",
+        "07:58:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

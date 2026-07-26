@@ -1,0 +1,22 @@
+{
+  "stop_name": "Islamic",
+  "stop_id": "B00808P",
+  "latitude": -6.228521,
+  "longitude": 106.61473,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "06:52:23",
+        "08:45:27",
+        "09:29:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

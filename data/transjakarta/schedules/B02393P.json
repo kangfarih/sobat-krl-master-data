@@ -1,0 +1,50 @@
+{
+  "stop_name": "MBAU",
+  "stop_id": "B02393P",
+  "latitude": -6.245829,
+  "longitude": 106.8428,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:02:21",
+        "06:27:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:22:29",
+        "05:22:36",
+        "05:52:37",
+        "15:52:36"
+      ],
+      "weekends": [
+        "05:22:29"
+      ]
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:13:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

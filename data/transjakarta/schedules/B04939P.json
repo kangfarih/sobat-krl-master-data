@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kesemek 1",
+  "stop_id": "B04939P",
+  "latitude": -6.113408,
+  "longitude": 106.92089,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:40:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stop_name": "Tanah Abang Blok G",
+  "stop_id": "B05669P",
+  "latitude": -6.18865,
+  "longitude": 106.81293,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:07:41",
+        "06:10:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:07:36",
+        "07:07:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:07:36",
+        "05:07:39",
+        "06:13:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:07:42",
+        "06:27:58",
+        "07:07:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

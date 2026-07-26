@@ -1,0 +1,22 @@
+{
+  "stop_name": "Term. Sawangan",
+  "stop_id": "B08180P",
+  "latitude": -6.402891,
+  "longitude": 106.771737,
+  "routes": [
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:00:10",
+        "06:35:59",
+        "07:59:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Damai Lubang Buaya",
+  "stop_id": "B01024P",
+  "latitude": -6.291394,
+  "longitude": 106.90593,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:06:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

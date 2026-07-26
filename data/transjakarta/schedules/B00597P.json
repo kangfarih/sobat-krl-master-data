@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gedung Judo Kelapa Gading",
+  "stop_id": "B00597P",
+  "latitude": -6.162982,
+  "longitude": 106.90728,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:33:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Kota Bambu Selatan IV",
+  "stop_id": "B01294P",
+  "latitude": -6.189285,
+  "longitude": 106.80164,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:23:56",
+        "06:31:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:33:17",
+        "06:33:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

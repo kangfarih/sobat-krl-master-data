@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Raya Bogor Suci",
+  "stop_id": "B05111P",
+  "latitude": -6.318777,
+  "longitude": 106.86512,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:26:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

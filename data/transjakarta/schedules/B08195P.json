@@ -1,0 +1,22 @@
+{
+  "stop_name": "Grand Kota Bintang",
+  "stop_id": "B08195P",
+  "latitude": -6.249426,
+  "longitude": 106.957556,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:28:04",
+        "07:59:31",
+        "08:56:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

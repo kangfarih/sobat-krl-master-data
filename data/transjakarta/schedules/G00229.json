@@ -1,0 +1,45 @@
+{
+  "stop_name": "Jaga Jakarta",
+  "stop_id": "G00229",
+  "latitude": -6.178152,
+  "longitude": 106.842002,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:29:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:15:00",
+        "05:15:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "05:29:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

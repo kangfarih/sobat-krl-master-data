@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Cikokol",
+  "stop_id": "B03348P",
+  "latitude": -6.200519,
+  "longitude": 106.628075,
+  "routes": [
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "07:03:10",
+        "09:34:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

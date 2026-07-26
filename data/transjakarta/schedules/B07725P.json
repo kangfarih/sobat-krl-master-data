@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. RPTRA Rusun Cakung Barat",
+  "stop_id": "B07725P",
+  "latitude": -6.172759,
+  "longitude": 106.933033,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:20:11",
+        "06:13:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

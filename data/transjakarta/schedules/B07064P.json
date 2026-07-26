@@ -1,0 +1,47 @@
+{
+  "stop_name": "Simpang Danau Sunter Selatan",
+  "stop_id": "B07064P",
+  "latitude": -6.14211,
+  "longitude": 106.8869,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:23:02",
+        "05:23:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:35:51",
+        "07:14:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:44:34",
+        "05:46:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

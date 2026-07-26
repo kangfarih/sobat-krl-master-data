@@ -1,0 +1,44 @@
+{
+  "stop_name": "Jln. Bandengan Utara Raya",
+  "stop_id": "B08377P",
+  "latitude": -6.13635,
+  "longitude": 106.80107,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:54:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:17:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:20:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

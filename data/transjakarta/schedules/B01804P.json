@@ -1,0 +1,45 @@
+{
+  "stop_name": "Kampung Melayu Besar 2",
+  "stop_id": "B01804P",
+  "latitude": -6.225314,
+  "longitude": 106.86292,
+  "routes": [
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:35:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:06:05",
+        "06:37:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:16:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

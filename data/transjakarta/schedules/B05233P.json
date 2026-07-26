@@ -1,0 +1,35 @@
+{
+  "stop_name": "Situ Gintung 2",
+  "stop_id": "B05233P",
+  "latitude": -6.301629,
+  "longitude": 106.76139,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:47:30",
+        "07:14:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "06:00:29",
+        "06:11:23",
+        "08:05:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

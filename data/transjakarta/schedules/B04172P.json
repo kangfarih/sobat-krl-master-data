@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Slipi",
+  "stop_id": "B04172P",
+  "latitude": -6.190034,
+  "longitude": 106.79557,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:03:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

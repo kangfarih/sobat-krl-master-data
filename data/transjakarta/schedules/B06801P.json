@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Kapuk III",
+  "stop_id": "B06801P",
+  "latitude": -6.217219,
+  "longitude": 106.899917,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:31:04",
+        "06:35:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

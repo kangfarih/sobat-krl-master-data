@@ -1,0 +1,29 @@
+{
+  "stop_name": "Duri Kepa",
+  "stop_id": "G00391",
+  "latitude": -6.185266,
+  "longitude": 106.76842,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "06:12:57",
+        "06:13:06",
+        "06:13:07",
+        "06:13:11",
+        "07:13:19",
+        "07:44:24",
+        "15:12:58"
+      ],
+      "weekends": [
+        "06:13:06",
+        "06:13:11"
+      ]
+    }
+  ]
+}

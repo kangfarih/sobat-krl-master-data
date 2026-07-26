@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pinggir Kali Sunter",
+  "stop_id": "B05073P",
+  "latitude": -6.112358,
+  "longitude": 106.90584,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:38:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

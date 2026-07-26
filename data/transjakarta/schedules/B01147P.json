@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. H. Terin Pangkalan Jati",
+  "stop_id": "B01147P",
+  "latitude": -6.327961,
+  "longitude": 106.80054,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:00:10",
+        "06:24:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:00:10",
+        "06:55:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

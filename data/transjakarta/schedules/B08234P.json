@@ -1,0 +1,44 @@
+{
+  "stop_name": "Central Market",
+  "stop_id": "B08234P",
+  "latitude": -6.091779,
+  "longitude": 106.746561,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:05:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:33:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "05:48:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

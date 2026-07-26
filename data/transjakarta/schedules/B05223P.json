@@ -1,0 +1,35 @@
+{
+  "stop_name": "Simprug 1",
+  "stop_id": "B05223P",
+  "latitude": -6.223678,
+  "longitude": 106.7902,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "06:13:29",
+        "06:27:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:41:50",
+        "06:08:15",
+        "06:30:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

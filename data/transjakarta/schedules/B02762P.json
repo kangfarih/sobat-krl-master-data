@@ -1,0 +1,38 @@
+{
+  "stop_name": "Pertani",
+  "stop_id": "B02762P",
+  "latitude": -6.256308,
+  "longitude": 106.84325,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:32:22",
+        "05:32:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:59:29",
+        "06:05:23",
+        "07:21:12",
+        "16:50:56"
+      ],
+      "weekends": [
+        "06:05:23"
+      ]
+    }
+  ]
+}

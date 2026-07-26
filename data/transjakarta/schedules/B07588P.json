@@ -1,0 +1,32 @@
+{
+  "stop_name": "SDN Pulogebang 02",
+  "stop_id": "B07588P",
+  "latitude": -6.20358933,
+  "longitude": 106.95568621,
+  "routes": [
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Pulo Gebang",
+      "weekdays": [
+        "05:41:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "07:11:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

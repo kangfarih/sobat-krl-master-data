@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Penjaringan",
+  "stop_id": "B03285P",
+  "latitude": -6.130702,
+  "longitude": 106.79487,
+  "routes": [
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:00:10",
+        "05:17:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

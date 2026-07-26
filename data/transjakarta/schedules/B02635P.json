@@ -1,0 +1,44 @@
+{
+  "stop_name": "Ps. Kopro",
+  "stop_id": "B02635P",
+  "latitude": -6.176185,
+  "longitude": 106.78364,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "06:02:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:31:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:29:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

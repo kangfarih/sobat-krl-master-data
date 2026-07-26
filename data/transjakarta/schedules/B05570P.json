@@ -1,0 +1,45 @@
+{
+  "stop_name": "Taman Anggrek",
+  "stop_id": "B05570P",
+  "latitude": -6.17624,
+  "longitude": 106.79281,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:54:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:36:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "07:23:45",
+        "07:23:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Siman Noar",
+  "stop_id": "B03845P",
+  "latitude": -6.300101,
+  "longitude": 106.88069,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:16:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

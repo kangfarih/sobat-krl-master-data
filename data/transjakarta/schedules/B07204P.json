@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. SMPN 180",
+  "stop_id": "B07204P",
+  "latitude": -6.319876,
+  "longitude": 106.901295,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:02:19",
+        "05:02:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

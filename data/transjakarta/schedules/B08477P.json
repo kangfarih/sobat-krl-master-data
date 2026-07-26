@@ -1,0 +1,20 @@
+{
+  "stop_name": "Satuan Angkutan Perairan",
+  "stop_id": "B08477P",
+  "latitude": -6.110271,
+  "longitude": 106.878882,
+  "routes": [
+    {
+      "route_id": "10C",
+      "route_short_name": "10C",
+      "route_long_name": "Pelabuhan Tanjung Priok - Tanjung Priok",
+      "color": "9B474A",
+      "category": "Non-BRT",
+      "direction": "Pelabuhan Tanjung Priok dan Tanjung Priok",
+      "weekdays": [
+        "05:10:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Global SeVilla Pulo Mas",
+  "stop_id": "B00649P",
+  "latitude": -6.183941,
+  "longitude": 106.88694,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:40:15",
+        "08:23:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:51:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

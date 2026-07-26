@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Dermaga Baru",
+  "stop_id": "B08345P",
+  "latitude": -6.22134,
+  "longitude": 106.90655,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:31:13",
+        "05:32:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

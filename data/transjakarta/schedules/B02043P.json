@@ -1,0 +1,22 @@
+{
+  "stop_name": "Komplek Kav DKI Utama",
+  "stop_id": "B02043P",
+  "latitude": -6.207697,
+  "longitude": 106.73052,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:30:47",
+        "06:06:52",
+        "07:50:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

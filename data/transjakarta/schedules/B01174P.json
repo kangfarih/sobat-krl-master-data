@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Jelambar Utama Sakti VIII",
+  "stop_id": "B01174P",
+  "latitude": -6.153541,
+  "longitude": 106.77931,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:23:51",
+        "05:24:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

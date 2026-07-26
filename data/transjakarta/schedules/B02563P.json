@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pancoran Tugu 2",
+  "stop_id": "B02563P",
+  "latitude": -6.242943,
+  "longitude": 106.8444,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:06:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:15:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

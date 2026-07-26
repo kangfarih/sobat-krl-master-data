@@ -1,0 +1,24 @@
+{
+  "stop_name": "Lapangan Urip Sumoharjo",
+  "stop_id": "B07607P",
+  "latitude": -6.213892,
+  "longitude": 106.863112,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "06:24:30",
+        "06:35:55",
+        "06:39:46",
+        "06:47:48",
+        "06:55:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

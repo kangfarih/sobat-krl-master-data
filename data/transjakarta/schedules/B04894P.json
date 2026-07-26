@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kalisari Raya Lapan",
+  "stop_id": "B04894P",
+  "latitude": -6.339969,
+  "longitude": 106.86403,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:18:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

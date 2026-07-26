@@ -1,0 +1,44 @@
+{
+  "stop_name": "Simpang Kramat II",
+  "stop_id": "B04954P",
+  "latitude": -6.235583,
+  "longitude": 106.78529,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:35:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:36:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:02:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

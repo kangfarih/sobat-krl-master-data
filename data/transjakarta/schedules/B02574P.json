@@ -1,0 +1,33 @@
+{
+  "stop_name": "Panti Asuhan Putera Mulia",
+  "stop_id": "B02574P",
+  "latitude": -6.188966,
+  "longitude": 106.88841,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:18:58",
+        "05:19:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:07:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

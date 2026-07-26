@@ -1,0 +1,20 @@
+{
+  "stop_name": "Roxy",
+  "stop_id": "G00130",
+  "latitude": -6.166262,
+  "longitude": 106.796706,
+  "routes": [
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:11:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

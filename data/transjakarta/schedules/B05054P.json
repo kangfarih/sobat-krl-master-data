@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Patra Lontar Raya",
+  "stop_id": "B05054P",
+  "latitude": -6.182359,
+  "longitude": 106.78119,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:29:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:42:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

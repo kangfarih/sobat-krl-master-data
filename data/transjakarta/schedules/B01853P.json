@@ -1,0 +1,48 @@
+{
+  "stop_name": "Kayuringin 2",
+  "stop_id": "B01853P",
+  "latitude": -6.245948,
+  "longitude": 106.99247,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "06:08:50",
+        "07:21:03",
+        "07:41:21"
+      ],
+      "weekends": [
+        "07:21:03"
+      ]
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:27:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:11:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

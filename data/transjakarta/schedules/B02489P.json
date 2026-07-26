@@ -1,0 +1,61 @@
+{
+  "stop_name": "Muara Angke",
+  "stop_id": "B02489P",
+  "latitude": -6.110009,
+  "longitude": 106.77471,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:06:47",
+        "05:06:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:27:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:39:41",
+        "05:39:42",
+        "05:39:51"
+      ],
+      "weekends": [
+        "05:39:40"
+      ]
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:02:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

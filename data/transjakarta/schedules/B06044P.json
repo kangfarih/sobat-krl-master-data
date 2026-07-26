@@ -1,0 +1,24 @@
+{
+  "stop_name": "The Piano",
+  "stop_id": "B06044P",
+  "latitude": -6.094772,
+  "longitude": 106.74292,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:05:41",
+        "05:05:42"
+      ],
+      "weekends": [
+        "05:05:39",
+        "05:05:40"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN CBU 10",
+  "stop_id": "B07040P",
+  "latitude": -6.2202,
+  "longitude": 106.87991,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:21:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

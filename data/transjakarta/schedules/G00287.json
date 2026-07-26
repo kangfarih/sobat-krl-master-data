@@ -1,0 +1,58 @@
+{
+  "stop_name": "Rasuna Said",
+  "stop_id": "G00287",
+  "latitude": -6.221641,
+  "longitude": 106.832283,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:13:49",
+        "06:17:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "05:25:38",
+        "06:44:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Kuningan",
+      "weekdays": [
+        "06:25:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:09:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

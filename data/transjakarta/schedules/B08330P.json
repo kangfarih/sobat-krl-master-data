@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Daud Srengseng",
+  "stop_id": "B08330P",
+  "latitude": -6.2158155,
+  "longitude": 106.7696139,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:58:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Hang Lekir",
+  "stop_id": "B00760P",
+  "latitude": -6.231815,
+  "longitude": 106.794504,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:08:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

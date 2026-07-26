@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Kedaung Kaliangke 14",
+  "stop_id": "B06343P",
+  "latitude": -6.143607,
+  "longitude": 106.750731,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:22:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

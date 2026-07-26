@@ -1,0 +1,119 @@
+{
+  "stop_name": "FX Sudirman",
+  "stop_id": "B00378P",
+  "latitude": -6.225532,
+  "longitude": 106.8037,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:11:33",
+        "05:41:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:12:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:02:18",
+        "06:33:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:05:32",
+        "05:42:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "10:40:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "05:12:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "17:11:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D32",
+      "route_short_name": "D32",
+      "route_long_name": "Cinere - Bundaran Senayan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bundaran Senayan",
+      "weekdays": [
+        "07:31:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "17:11:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

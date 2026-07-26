@@ -1,0 +1,32 @@
+{
+  "stop_name": "Seskoal 1",
+  "stop_id": "B04684P",
+  "latitude": -6.238155,
+  "longitude": 106.77231,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:19:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:20:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

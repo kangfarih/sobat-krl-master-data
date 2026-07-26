@@ -1,0 +1,38 @@
+{
+  "stop_name": "Galeri Niaga Mediterania 2",
+  "stop_id": "B06045P",
+  "latitude": -6.116486,
+  "longitude": 106.77142,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:33:46",
+        "05:33:47",
+        "05:33:56"
+      ],
+      "weekends": [
+        "05:33:45"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:05:37",
+        "06:00:46",
+        "23:09:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

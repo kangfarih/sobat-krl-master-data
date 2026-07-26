@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Annur Pengadegan",
+  "stop_id": "B04038P",
+  "latitude": -6.24951,
+  "longitude": 106.84974,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:07:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

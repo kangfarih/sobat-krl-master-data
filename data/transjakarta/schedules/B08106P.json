@@ -1,0 +1,27 @@
+{
+  "stop_name": "Flavor Bliss",
+  "stop_id": "B08106P",
+  "latitude": -6.244152,
+  "longitude": 106.650826,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:00:10",
+        "07:20:49",
+        "09:31:18",
+        "09:44:49"
+      ],
+      "weekends": [
+        "05:00:10",
+        "09:31:18",
+        "09:44:49"
+      ]
+    }
+  ]
+}

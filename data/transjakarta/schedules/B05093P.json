@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pulo Asem Utara Timur",
+  "stop_id": "B05093P",
+  "latitude": -6.188074,
+  "longitude": 106.89668,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:10:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

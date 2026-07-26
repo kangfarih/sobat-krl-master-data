@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Nusa Indah",
+  "stop_id": "B08043P",
+  "latitude": -6.151192,
+  "longitude": 106.731147,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:41:03",
+        "06:21:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

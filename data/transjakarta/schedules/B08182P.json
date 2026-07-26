@@ -1,0 +1,22 @@
+{
+  "stop_name": "Exit Tol Desari 1",
+  "stop_id": "B08182P",
+  "latitude": -6.395414,
+  "longitude": 106.782752,
+  "routes": [
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:10:34",
+        "05:11:10",
+        "06:25:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

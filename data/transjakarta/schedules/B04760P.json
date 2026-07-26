@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Cempaka Putih Barat XXVI",
+  "stop_id": "B04760P",
+  "latitude": -6.176241,
+  "longitude": 106.86392,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:42:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:39:50",
+        "05:40:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

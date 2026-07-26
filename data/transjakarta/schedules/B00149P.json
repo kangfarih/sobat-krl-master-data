@@ -1,0 +1,20 @@
+{
+  "stop_name": "Binus Kampus Kijang",
+  "stop_id": "B00149P",
+  "latitude": -6.194535,
+  "longitude": 106.78757,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:30:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "TPU Pondok Kelapa",
+  "stop_id": "B05790P",
+  "latitude": -6.237272,
+  "longitude": 106.94293,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:01:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

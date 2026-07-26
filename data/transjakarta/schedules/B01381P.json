@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Melati Indah Pejuang",
+  "stop_id": "B01381P",
+  "latitude": -6.180893,
+  "longitude": 106.97951,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:44:17",
+        "06:41:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

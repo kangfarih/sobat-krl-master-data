@@ -1,0 +1,20 @@
+{
+  "stop_name": "Arista 2",
+  "stop_id": "B08552P",
+  "latitude": -6.23803,
+  "longitude": 106.93102,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:01:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

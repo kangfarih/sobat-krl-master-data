@@ -1,0 +1,21 @@
+{
+  "stop_name": "Term. BSD",
+  "stop_id": "B05701P",
+  "latitude": -6.306375,
+  "longitude": 106.68536,
+  "routes": [
+    {
+      "route_id": "S12",
+      "route_short_name": "S12",
+      "route_long_name": "Term. BSD - Fatmawati",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Fatmawati",
+      "weekdays": [
+        "05:00:10",
+        "06:27:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pulo Gundul",
+  "stop_id": "B01522P",
+  "latitude": -6.186182,
+  "longitude": 106.85155,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:27:10",
+        "06:54:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:27:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Adjid",
+  "stop_id": "B07592P",
+  "latitude": -6.17452898,
+  "longitude": 106.85779095,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:07:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

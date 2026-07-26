@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kemayoran",
+  "stop_id": "G00716",
+  "latitude": -6.158896,
+  "longitude": 106.85145,
+  "routes": [
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "category": "BRT",
+      "direction": "Senen dan JIS",
+      "weekdays": [
+        "05:25:56",
+        "06:01:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:26:35",
+        "05:26:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "stop_name": "Trikora",
+  "stop_id": "G00317",
+  "latitude": -6.301945,
+  "longitude": 106.868002,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Melayu via Tol Hek",
+      "weekdays": [
+        "05:13:29",
+        "05:13:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:13:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:14:26",
+        "05:14:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:13:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

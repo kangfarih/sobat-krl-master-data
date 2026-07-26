@@ -1,0 +1,20 @@
+{
+  "stop_name": "Senayan City",
+  "stop_id": "B04674P",
+  "latitude": -6.227767,
+  "longitude": 106.798089,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:12:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

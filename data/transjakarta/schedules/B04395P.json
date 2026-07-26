@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Sekolah Saint Caroline",
+  "stop_id": "B04395P",
+  "latitude": -6.157308,
+  "longitude": 106.87164,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:03:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

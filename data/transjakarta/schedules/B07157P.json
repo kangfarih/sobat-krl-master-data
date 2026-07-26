@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tanah Merdeka IV",
+  "stop_id": "B07157P",
+  "latitude": -6.312016,
+  "longitude": 106.87948,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:26:22",
+        "06:18:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Universitas Esa Unggul",
+  "stop_id": "B06979P",
+  "latitude": -6.15827,
+  "longitude": 106.972931,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:58:22",
+        "07:03:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

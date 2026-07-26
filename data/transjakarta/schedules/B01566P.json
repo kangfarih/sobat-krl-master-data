@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Sawah Mede I",
+  "stop_id": "B01566P",
+  "latitude": -6.0981,
+  "longitude": 106.70801,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:19:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

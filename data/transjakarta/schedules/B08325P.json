@@ -1,0 +1,20 @@
+{
+  "stop_name": "Polimedia",
+  "stop_id": "B08325P",
+  "latitude": -6.345808,
+  "longitude": 106.827057,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:39:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Gembrong Cempaka Baru",
+  "stop_id": "B07596P",
+  "latitude": -6.179937,
+  "longitude": 106.859433,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:04:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

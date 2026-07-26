@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Mukarromah Lagoa",
+  "stop_id": "B04030P",
+  "latitude": -6.112884,
+  "longitude": 106.91091,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:41:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

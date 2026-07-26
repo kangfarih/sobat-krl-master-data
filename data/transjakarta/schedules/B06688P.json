@@ -1,0 +1,20 @@
+{
+  "stop_name": "Hutan Kota Kemayoran 2",
+  "stop_id": "B06688P",
+  "latitude": -6.135487,
+  "longitude": 106.84744,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:27:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

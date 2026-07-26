@@ -1,0 +1,49 @@
+{
+  "stop_name": "Univ. Satya Negara",
+  "stop_id": "B05837P",
+  "latitude": -6.241863,
+  "longitude": 106.78286,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:15:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "06:08:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:08:11",
+        "06:29:17",
+        "06:29:19"
+      ],
+      "weekends": [
+        "05:08:11",
+        "06:29:17"
+      ]
+    }
+  ]
+}

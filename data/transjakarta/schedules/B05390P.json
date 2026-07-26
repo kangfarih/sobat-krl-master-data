@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMPN 79",
+  "stop_id": "B05390P",
+  "latitude": -6.157289,
+  "longitude": 106.856804,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:33:55",
+        "05:34:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:46:59",
+        "05:47:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

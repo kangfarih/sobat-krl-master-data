@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bundaran Senayan 3",
+  "stop_id": "B06928P",
+  "latitude": -6.228433,
+  "longitude": 106.799963,
+  "routes": [
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "10:38:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

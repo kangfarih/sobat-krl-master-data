@@ -1,0 +1,46 @@
+{
+  "stop_name": "Khong Guan Wahid Hasyim",
+  "stop_id": "B01979P",
+  "latitude": -6.187193,
+  "longitude": 106.82815,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:04:01",
+        "05:17:50",
+        "05:17:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen via Wahid Hasyim",
+      "weekdays": [
+        "05:37:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:04:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

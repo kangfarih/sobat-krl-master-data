@@ -1,0 +1,20 @@
+{
+  "stop_name": "CBD Ciledug",
+  "stop_id": "G00612",
+  "latitude": -6.223635,
+  "longitude": 106.70907,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

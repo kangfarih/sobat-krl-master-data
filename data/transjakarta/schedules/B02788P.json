@@ -1,0 +1,22 @@
+{
+  "stop_name": "Perum Kedoya Garden",
+  "stop_id": "B02788P",
+  "latitude": -6.1806,
+  "longitude": 106.75004,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:12:51",
+        "06:45:18",
+        "07:21:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

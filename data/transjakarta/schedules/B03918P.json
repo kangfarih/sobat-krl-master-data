@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kel. Jelambar",
+  "stop_id": "B03918P",
+  "latitude": -6.161593,
+  "longitude": 106.78153,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:16:30",
+        "05:16:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

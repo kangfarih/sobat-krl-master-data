@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Depo Damri Cawang",
+  "stop_id": "B08220P",
+  "latitude": -6.244892,
+  "longitude": 106.8776,
+  "routes": [
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:05:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

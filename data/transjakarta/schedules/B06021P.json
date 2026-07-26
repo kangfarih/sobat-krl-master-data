@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Puri Muara III",
+  "stop_id": "B06021P",
+  "latitude": -6.278312,
+  "longitude": 106.809503,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:35:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:37:35",
+        "05:38:32",
+        "05:38:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Cermai",
+  "stop_id": "B06847P",
+  "latitude": -6.324671,
+  "longitude": 106.811372,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:29:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

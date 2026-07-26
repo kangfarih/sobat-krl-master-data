@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Mesir",
+  "stop_id": "B00472P",
+  "latitude": -6.337868,
+  "longitude": 106.81624,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:22:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Sentosa Tambun Rengas",
+  "stop_id": "B03841P",
+  "latitude": -6.176453,
+  "longitude": 106.96247,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:33:30",
+        "06:43:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

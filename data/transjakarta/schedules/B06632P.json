@@ -1,0 +1,20 @@
+{
+  "stop_name": "Buncit Indah 2",
+  "stop_id": "B06632P",
+  "latitude": -6.274071,
+  "longitude": 106.83047,
+  "routes": [
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:48:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

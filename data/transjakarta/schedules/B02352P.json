@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Jami Nurul Ain 2",
+  "stop_id": "B02352P",
+  "latitude": -6.227874,
+  "longitude": 106.91942,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:29:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:37:26",
+        "05:37:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

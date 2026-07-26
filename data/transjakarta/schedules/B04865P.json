@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Lembah Aren",
+  "stop_id": "B04865P",
+  "latitude": -6.232503,
+  "longitude": 106.93103,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:14:09",
+        "05:15:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

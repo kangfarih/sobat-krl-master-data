@@ -1,0 +1,88 @@
+{
+  "stop_name": "Jelambar",
+  "stop_id": "G00138",
+  "latitude": -6.166481,
+  "longitude": 106.786459,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:46:05",
+        "06:05:07",
+        "06:39:21"
+      ],
+      "weekends": [
+        "05:46:05"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "06:41:15",
+        "06:41:36",
+        "06:41:38",
+        "06:41:41",
+        "07:41:49",
+        "08:12:54",
+        "09:26:01"
+      ],
+      "weekends": [
+        "06:41:36",
+        "06:41:41"
+      ]
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "05:33:51",
+        "07:34:33",
+        "07:36:23",
+        "07:45:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:06:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:00:10",
+        "05:38:21"
+      ],
+      "weekends": [
+        "05:00:10",
+        "05:38:21"
+      ]
+    }
+  ]
+}

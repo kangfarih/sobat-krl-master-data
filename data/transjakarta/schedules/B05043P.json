@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Ps. Kb. Pisang",
+  "stop_id": "B05043P",
+  "latitude": -6.152576,
+  "longitude": 106.78156,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:25:50",
+        "05:26:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

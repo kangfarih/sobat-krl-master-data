@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cempaka III",
+  "stop_id": "B06743P",
+  "latitude": -6.261689,
+  "longitude": 106.808327,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:26:18",
+        "06:34:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

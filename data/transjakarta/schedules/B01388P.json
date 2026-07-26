@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Menteng Atas Raya",
+  "stop_id": "B01388P",
+  "latitude": -6.214616,
+  "longitude": 106.83799,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:27:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

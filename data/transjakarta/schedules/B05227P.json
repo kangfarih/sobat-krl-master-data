@@ -1,0 +1,20 @@
+{
+  "stop_name": "Singapore International School",
+  "stop_id": "B05227P",
+  "latitude": -6.149554,
+  "longitude": 106.915842,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:32:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Sindang Laut",
+  "stop_id": "B06239P",
+  "latitude": -6.108114,
+  "longitude": 106.91444,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "06:06:39",
+        "06:37:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:20:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "stop_name": "Bundaran Senayan",
+  "stop_id": "G00696",
+  "latitude": -6.227766,
+  "longitude": 106.800954,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:11:21",
+        "05:11:27",
+        "05:11:29",
+        "06:11:45",
+        "08:11:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Palmerah",
+      "weekdays": [
+        "05:25:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:11:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:11:28",
+        "07:33:55"
+      ],
+      "weekends": [
+        "07:33:55"
+      ]
+    }
+  ]
+}

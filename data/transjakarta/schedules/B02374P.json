@@ -1,0 +1,38 @@
+{
+  "stop_name": "Masjid Pondok Indah 2",
+  "stop_id": "B02374P",
+  "latitude": -6.261469,
+  "longitude": 106.78201,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:37:27",
+        "05:38:30"
+      ],
+      "weekends": [
+        "05:38:30"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:38:13",
+        "05:39:15"
+      ],
+      "weekends": [
+        "05:39:15"
+      ]
+    }
+  ]
+}

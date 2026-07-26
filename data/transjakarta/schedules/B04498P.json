@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 84",
+  "stop_id": "B04498P",
+  "latitude": -6.115934,
+  "longitude": 106.91123,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:38:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

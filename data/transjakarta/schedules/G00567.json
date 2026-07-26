@@ -1,0 +1,48 @@
+{
+  "stop_name": "Landasan Pacu",
+  "stop_id": "G00567",
+  "latitude": -6.152119,
+  "longitude": 106.85423,
+  "routes": [
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Kota dan Sunter Boulevard Barat",
+      "weekdays": [
+        "05:57:19",
+        "06:04:10",
+        "06:52:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "category": "BRT",
+      "direction": "Senen dan JIS",
+      "weekdays": [
+        "05:50:51",
+        "06:26:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "06:02:22",
+        "06:21:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

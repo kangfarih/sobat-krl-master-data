@@ -1,0 +1,44 @@
+{
+  "stop_name": "Jln. Sunan Drajad",
+  "stop_id": "B01606P",
+  "latitude": -6.193665,
+  "longitude": 106.89479,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:22:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:12:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:15:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

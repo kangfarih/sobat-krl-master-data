@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sunan Giri 1",
+  "stop_id": "B07265P",
+  "latitude": -6.193014,
+  "longitude": 106.882943,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "JIEP",
+      "weekdays": [
+        "06:02:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "06:17:02",
+        "07:53:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

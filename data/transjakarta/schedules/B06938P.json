@@ -1,0 +1,24 @@
+{
+  "stop_name": "RS Harapan Kita 2",
+  "stop_id": "B06938P",
+  "latitude": -6.184941,
+  "longitude": 106.797242,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "06:44:26",
+        "06:44:27",
+        "07:28:04",
+        "07:28:19",
+        "08:45:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

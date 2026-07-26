@@ -1,0 +1,59 @@
+{
+  "stop_name": "Damai",
+  "stop_id": "G00142",
+  "latitude": -6.163413,
+  "longitude": 106.77522,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:32:21",
+        "05:32:23",
+        "05:33:03",
+        "06:08:28",
+        "06:39:36",
+        "06:46:49",
+        "06:53:00"
+      ],
+      "weekends": [
+        "06:08:28",
+        "06:46:49"
+      ]
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:27:40",
+        "06:29:30",
+        "06:38:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "06:01:46",
+        "06:40:24",
+        "07:15:32"
+      ],
+      "weekends": [
+        "06:01:46"
+      ]
+    }
+  ]
+}

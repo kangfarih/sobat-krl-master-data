@@ -1,0 +1,47 @@
+{
+  "stop_name": "Apartemen Simprug Teras",
+  "stop_id": "B00058P",
+  "latitude": -6.232197,
+  "longitude": 106.78874,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "06:19:24",
+        "06:33:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:32:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:47:43",
+        "06:14:10",
+        "06:36:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "RS Islam Pondok Kopi 2",
+  "stop_id": "B03146P",
+  "latitude": -6.220383,
+  "longitude": 106.94075,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:12:22",
+        "06:13:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:09:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

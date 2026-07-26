@@ -1,0 +1,44 @@
+{
+  "stop_name": "Jln. H. Kasam",
+  "stop_id": "B01113P",
+  "latitude": -6.208405,
+  "longitude": 106.7378,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "06:09:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:25:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:12:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "stop_name": "Pegangsaan Timur",
+  "stop_id": "B05433P",
+  "latitude": -6.199263,
+  "longitude": 106.84205,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:23:48",
+        "06:05:25",
+        "06:16:50",
+        "06:20:41",
+        "06:28:43",
+        "06:36:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:45:43",
+        "05:45:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:01:19",
+        "05:27:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:35:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

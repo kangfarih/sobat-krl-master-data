@@ -1,0 +1,49 @@
+{
+  "stop_name": "Komdak 2",
+  "stop_id": "B02013P",
+  "latitude": -6.221715,
+  "longitude": 106.81426,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:30:13",
+        "05:36:07",
+        "06:51:43",
+        "16:21:35"
+      ],
+      "weekends": [
+        "05:36:07"
+      ]
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "15:55:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "17:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

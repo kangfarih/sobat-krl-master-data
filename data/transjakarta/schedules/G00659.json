@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tanah Apit",
+  "stop_id": "G00659",
+  "latitude": -6.182793,
+  "longitude": 106.97608,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:18:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

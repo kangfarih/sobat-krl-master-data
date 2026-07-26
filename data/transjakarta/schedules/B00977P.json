@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cempaka Putih Barat II B-C",
+  "stop_id": "B00977P",
+  "latitude": -6.175286,
+  "longitude": 106.85993,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:19:55",
+        "08:03:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

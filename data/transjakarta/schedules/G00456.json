@@ -1,0 +1,35 @@
+{
+  "stop_name": "Pedati Prumpung",
+  "stop_id": "G00456",
+  "latitude": -6.220159,
+  "longitude": 106.874432,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "06:06:54",
+        "06:54:24",
+        "07:37:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:38:20",
+        "05:38:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

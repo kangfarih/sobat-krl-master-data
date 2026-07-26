@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Mawar Kb. Jeruk",
+  "stop_id": "B00516P",
+  "latitude": -6.197361,
+  "longitude": 106.7672,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:23:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

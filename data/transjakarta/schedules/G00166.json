@@ -1,0 +1,110 @@
+{
+  "stop_name": "Petojo",
+  "stop_id": "G00166",
+  "latitude": -6.17001,
+  "longitude": 106.81699,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M via Cideng",
+      "weekdays": [
+        "05:29:52",
+        "06:04:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:07:27",
+        "05:07:29",
+        "05:08:09",
+        "06:14:42",
+        "06:21:55",
+        "06:28:06"
+      ],
+      "weekends": [
+        "06:21:55"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "05:12:34",
+        "05:12:36",
+        "09:12:34"
+      ],
+      "weekends": [
+        "05:12:34"
+      ]
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "06:02:53",
+        "06:02:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:02:44",
+        "06:04:34",
+        "06:13:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:25:00",
+        "06:16:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:12:36"
+      ],
+      "weekends": [
+        "05:12:36"
+      ]
+    }
+  ]
+}

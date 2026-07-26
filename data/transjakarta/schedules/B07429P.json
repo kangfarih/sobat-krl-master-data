@@ -1,0 +1,26 @@
+{
+  "stop_name": "Pasar Damai Raya 2",
+  "stop_id": "B07429P",
+  "latitude": -6.260133,
+  "longitude": 106.797719,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:30:53",
+        "05:36:27",
+        "06:51:56",
+        "06:57:33"
+      ],
+      "weekends": [
+        "05:30:53",
+        "06:51:56"
+      ]
+    }
+  ]
+}

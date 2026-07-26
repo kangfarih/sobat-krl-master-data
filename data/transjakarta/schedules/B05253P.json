@@ -1,0 +1,65 @@
+{
+  "stop_name": "SMAK Penabur Enam 2",
+  "stop_id": "B05253P",
+  "latitude": -6.115644,
+  "longitude": 106.77506,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:37:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:23:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:20:26",
+        "06:32:47",
+        "06:48:48",
+        "07:56:23",
+        "08:01:53"
+      ],
+      "weekends": [
+        "07:01:12",
+        "07:11:10"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:15:57",
+        "01:28:18",
+        "05:08:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

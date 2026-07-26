@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. B",
+  "stop_id": "B05976P",
+  "latitude": -6.13446,
+  "longitude": 106.83491,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:32:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

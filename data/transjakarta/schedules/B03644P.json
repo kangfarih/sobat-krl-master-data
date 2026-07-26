@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. B Basmol Raya",
+  "stop_id": "B03644P",
+  "latitude": -6.16156,
+  "longitude": 106.7519,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:00:25",
+        "06:32:52",
+        "07:09:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

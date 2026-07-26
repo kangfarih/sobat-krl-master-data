@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Salak Pesanggrahan",
+  "stop_id": "B03830P",
+  "latitude": -6.251278,
+  "longitude": 106.75643,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:46:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:38:59",
+        "05:39:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

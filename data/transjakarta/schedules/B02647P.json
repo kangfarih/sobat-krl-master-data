@@ -1,0 +1,76 @@
+{
+  "stop_name": "Pasar Minggu",
+  "stop_id": "B02647P",
+  "latitude": -6.284413,
+  "longitude": 106.84414,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:39:43",
+        "06:05:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:31:40",
+        "06:37:32",
+        "07:53:43",
+        "17:23:27"
+      ],
+      "weekends": [
+        "06:37:32"
+      ]
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:11:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "06:08:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "06:12:42",
+        "07:22:14",
+        "07:23:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

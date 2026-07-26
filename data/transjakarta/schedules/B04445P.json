@@ -1,0 +1,48 @@
+{
+  "stop_name": "Sbr. SMK Malahayati Marunda",
+  "stop_id": "B04445P",
+  "latitude": -6.124292,
+  "longitude": 106.95707,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:25:37",
+        "05:25:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:26:36",
+        "05:27:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:18:08",
+        "05:54:43",
+        "07:12:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

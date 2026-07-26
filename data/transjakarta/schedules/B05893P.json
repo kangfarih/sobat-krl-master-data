@@ -1,0 +1,21 @@
+{
+  "stop_name": "Wisma Pembina Petukangan Utara",
+  "stop_id": "B05893P",
+  "latitude": -6.225773,
+  "longitude": 106.74743,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:27:18",
+        "07:08:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

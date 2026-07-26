@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Pulo Mas Raya Timur",
+  "stop_id": "B05094P",
+  "latitude": -6.178746,
+  "longitude": 106.8856,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:36:27",
+        "08:19:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:25:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

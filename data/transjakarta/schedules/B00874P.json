@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Asia Baru I",
+  "stop_id": "B00874P",
+  "latitude": -6.169601,
+  "longitude": 106.77103,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:53:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

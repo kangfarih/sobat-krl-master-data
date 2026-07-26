@@ -1,0 +1,33 @@
+{
+  "stop_name": "St. Ancol Pintu 3",
+  "stop_id": "B05998P",
+  "latitude": -6.12877,
+  "longitude": 106.84083,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:31:20",
+        "06:36:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:28:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

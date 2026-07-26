@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pinang VI Pondok Labu",
+  "stop_id": "B01498P",
+  "latitude": -6.30618,
+  "longitude": 106.80099,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:34:09",
+        "06:45:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

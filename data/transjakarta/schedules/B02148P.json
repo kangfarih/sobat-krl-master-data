@@ -1,0 +1,20 @@
+{
+  "stop_name": "Lodan Center P1",
+  "stop_id": "B02148P",
+  "latitude": -6.130168,
+  "longitude": 106.816511,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:42:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

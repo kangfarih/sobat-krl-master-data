@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Empat Pelita 2",
+  "stop_id": "B04802P",
+  "latitude": -6.126386,
+  "longitude": 106.88368,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:24:02",
+        "06:02:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

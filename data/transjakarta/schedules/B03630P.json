@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Al Hidayah Basmol",
+  "stop_id": "B03630P",
+  "latitude": -6.163322,
+  "longitude": 106.75056,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:01:52",
+        "06:34:19",
+        "07:10:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

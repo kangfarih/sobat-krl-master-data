@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bojong Raya",
+  "stop_id": "B00943P",
+  "latitude": -6.171085,
+  "longitude": 106.72838,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Puri Kembangan",
+      "weekdays": [
+        "05:41:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

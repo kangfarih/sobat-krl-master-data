@@ -1,0 +1,35 @@
+{
+  "stop_name": "PLN Pusat Raya Tugu",
+  "stop_id": "B02881P",
+  "latitude": -6.128057,
+  "longitude": 106.92596,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:00:10",
+        "06:27:47",
+        "06:28:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "06:05:50",
+        "06:05:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

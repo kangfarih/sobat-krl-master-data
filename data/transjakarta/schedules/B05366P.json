@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 205",
+  "stop_id": "B05366P",
+  "latitude": -6.170396,
+  "longitude": 106.70696,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:18:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

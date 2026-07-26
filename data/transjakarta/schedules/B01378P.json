@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Mawar Kav DKI",
+  "stop_id": "B01378P",
+  "latitude": -6.208619,
+  "longitude": 106.73068,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:06:14",
+        "06:47:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Bumi Raya",
+  "stop_id": "B04855P",
+  "latitude": -6.225145,
+  "longitude": 106.91238,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:34:50",
+        "06:46:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

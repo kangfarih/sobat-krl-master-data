@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. SMP 175",
+  "stop_id": "B03850P",
+  "latitude": -6.319433,
+  "longitude": 106.82518,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:53:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

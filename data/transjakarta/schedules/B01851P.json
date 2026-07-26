@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kayu Tinggi",
+  "stop_id": "B01851P",
+  "latitude": -6.184407,
+  "longitude": 106.94383,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:21:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

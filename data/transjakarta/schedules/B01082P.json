@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Gorontalo Sungai Bambu",
+  "stop_id": "B01082P",
+  "latitude": -6.114713,
+  "longitude": 106.88118,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:04:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

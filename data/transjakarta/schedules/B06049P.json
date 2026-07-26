@@ -1,0 +1,27 @@
+{
+  "stop_name": "Melody Golf",
+  "stop_id": "B06049P",
+  "latitude": -6.091746,
+  "longitude": 106.7461,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:58:51",
+        "07:08:03",
+        "07:27:04",
+        "08:31:41",
+        "08:36:52"
+      ],
+      "weekends": [
+        "07:39:40",
+        "07:49:23"
+      ]
+    }
+  ]
+}

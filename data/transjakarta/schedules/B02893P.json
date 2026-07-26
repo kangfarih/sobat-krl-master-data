@@ -1,0 +1,25 @@
+{
+  "stop_name": "PMI",
+  "stop_id": "B02893P",
+  "latitude": -6.241288,
+  "longitude": 106.8351,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:28:20",
+        "05:28:37",
+        "05:58:37",
+        "15:58:37"
+      ],
+      "weekends": [
+        "05:28:20"
+      ]
+    }
+  ]
+}

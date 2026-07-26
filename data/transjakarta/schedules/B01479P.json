@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Permata Indah 8",
+  "stop_id": "B01479P",
+  "latitude": -6.182805,
+  "longitude": 106.98805,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:07:52",
+        "07:05:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

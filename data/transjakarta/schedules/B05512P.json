@@ -1,0 +1,33 @@
+{
+  "stop_name": "St. Tebet 3",
+  "stop_id": "B05512P",
+  "latitude": -6.225604,
+  "longitude": 106.85923,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:00:10",
+        "06:39:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:45:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

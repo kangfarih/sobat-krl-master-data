@@ -1,0 +1,34 @@
+{
+  "stop_name": "St. LRT Harjamukti 1",
+  "stop_id": "B07080P",
+  "latitude": -6.372529,
+  "longitude": 106.895331,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:56:54",
+        "06:35:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "06:03:46",
+        "06:48:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

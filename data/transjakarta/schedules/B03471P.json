@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Cempaka Putih Barat III",
+  "stop_id": "B03471P",
+  "latitude": -6.176201,
+  "longitude": 106.8618,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:43:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:41:14",
+        "05:41:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

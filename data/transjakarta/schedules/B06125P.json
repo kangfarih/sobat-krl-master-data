@@ -1,0 +1,20 @@
+{
+  "stop_name": "Rutan Salemba",
+  "stop_id": "B06125P",
+  "latitude": -6.189042,
+  "longitude": 106.860836,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:37:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

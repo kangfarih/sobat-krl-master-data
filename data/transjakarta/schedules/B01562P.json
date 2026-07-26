@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Saorma Kalisari",
+  "stop_id": "B01562P",
+  "latitude": -6.338286,
+  "longitude": 106.85875,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:22:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

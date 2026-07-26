@@ -1,0 +1,22 @@
+{
+  "stop_name": "Lapangan Bola Danu Setiawan",
+  "stop_id": "B02115P",
+  "latitude": -6.252242,
+  "longitude": 106.89466,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:00:10",
+        "06:03:51",
+        "06:04:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

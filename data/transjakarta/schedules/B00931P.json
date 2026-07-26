@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bendungan Jatiluhur IV",
+  "stop_id": "B00931P",
+  "latitude": -6.215133,
+  "longitude": 106.81377,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:40:21",
+        "06:00:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

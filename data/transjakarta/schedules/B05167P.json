@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Taman Malaka Utara Barat",
+  "stop_id": "B05167P",
+  "latitude": -6.230694,
+  "longitude": 106.9284,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:23:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

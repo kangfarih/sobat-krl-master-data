@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kel. Tanah Tinggi",
+  "stop_id": "B03938P",
+  "latitude": -6.183851,
+  "longitude": 106.8492,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:58:36",
+        "05:58:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

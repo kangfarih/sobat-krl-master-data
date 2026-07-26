@@ -1,0 +1,51 @@
+{
+  "stop_name": "Jln. BB Utara",
+  "stop_id": "B00917P",
+  "latitude": -6.120279,
+  "longitude": 106.79409,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:09:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:11:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:52:29",
+        "06:04:51",
+        "06:20:51",
+        "07:28:20",
+        "07:28:35"
+      ],
+      "weekends": [
+        "06:33:15",
+        "06:43:24"
+      ]
+    }
+  ]
+}

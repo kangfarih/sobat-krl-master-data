@@ -1,0 +1,22 @@
+{
+  "stop_name": "Cut Mutia 6",
+  "stop_id": "B08530P",
+  "latitude": -6.26013,
+  "longitude": 106.995965,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:14:54",
+        "05:15:00",
+        "05:15:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

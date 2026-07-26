@@ -1,0 +1,35 @@
+{
+  "stop_name": "Puri Sakti",
+  "stop_id": "B06745P",
+  "latitude": -6.273029,
+  "longitude": 106.80887,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:32:45",
+        "06:41:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:18:11"
+      ],
+      "weekends": [
+        "05:18:11"
+      ]
+    }
+  ]
+}

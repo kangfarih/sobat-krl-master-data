@@ -1,0 +1,73 @@
+{
+  "stop_name": "Sbr. Goethe Institute",
+  "stop_id": "B03596P",
+  "latitude": -6.189435,
+  "longitude": 106.83131,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:45:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Balai Kota dan Gondangdia",
+      "weekdays": [
+        "05:13:47",
+        "05:23:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:35:05",
+        "08:53:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:00:10",
+        "05:34:38",
+        "06:00:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:00:10",
+        "05:51:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

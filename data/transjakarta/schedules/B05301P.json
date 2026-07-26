@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMK Sahid Jakarta",
+  "stop_id": "B05301P",
+  "latitude": -6.314831,
+  "longitude": 106.87418,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:50:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

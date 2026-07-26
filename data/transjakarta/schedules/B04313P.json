@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ruko Taman Cemara",
+  "stop_id": "B04313P",
+  "latitude": -6.180871,
+  "longitude": 106.97758,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:43:08",
+        "06:40:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

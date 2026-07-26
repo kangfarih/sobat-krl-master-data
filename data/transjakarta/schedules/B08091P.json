@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Sungai Kendal",
+  "stop_id": "B08091P",
+  "latitude": -6.13934187,
+  "longitude": 106.96893203,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:12:36",
+        "07:41:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

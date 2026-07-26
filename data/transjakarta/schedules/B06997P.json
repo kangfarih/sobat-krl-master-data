@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Sekolah Diponegoro 1",
+  "stop_id": "B06997P",
+  "latitude": -6.195597,
+  "longitude": 106.88345,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:34:37",
+        "08:07:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

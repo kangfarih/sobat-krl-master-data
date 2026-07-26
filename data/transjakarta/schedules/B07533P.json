@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Gelong Baru Utara",
+  "stop_id": "B07533P",
+  "latitude": -6.175678,
+  "longitude": 106.79315,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:19:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:11:12",
+        "07:41:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

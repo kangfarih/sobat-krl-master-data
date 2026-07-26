@@ -1,0 +1,21 @@
+{
+  "stop_name": "Astek",
+  "stop_id": "B00078P",
+  "latitude": -6.291175,
+  "longitude": 106.66598,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "07:25:20",
+        "09:56:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

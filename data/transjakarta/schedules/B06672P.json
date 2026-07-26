@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Rusun Harum Tebet",
+  "stop_id": "B06672P",
+  "latitude": -6.235159,
+  "longitude": 106.85202,
+  "routes": [
+    {
+      "route_id": "JAK.43C",
+      "route_short_name": "JAK.43C",
+      "route_long_name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "St. Cawang dan Sarana Jaya via TEP",
+      "weekdays": [
+        "05:03:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

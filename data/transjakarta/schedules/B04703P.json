@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Anggrek Rosliana VII",
+  "stop_id": "B04703P",
+  "latitude": -6.194473,
+  "longitude": 106.79332,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:47:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

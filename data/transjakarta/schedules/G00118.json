@@ -1,0 +1,39 @@
+{
+  "stop_name": "Juanda",
+  "stop_id": "G00118",
+  "latitude": -6.168065,
+  "longitude": 106.830937,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Juanda dan Kalideres",
+      "weekdays": [
+        "05:00:10",
+        "06:13:59"
+      ],
+      "weekends": [
+        "06:13:59"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "05:04:38",
+        "05:04:39",
+        "09:04:38"
+      ],
+      "weekends": [
+        "05:04:38"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bangunan Timur 2",
+  "stop_id": "B00111P",
+  "latitude": -6.189526,
+  "longitude": 106.88571,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:57:38",
+        "07:25:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

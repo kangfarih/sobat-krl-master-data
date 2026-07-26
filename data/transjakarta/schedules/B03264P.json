@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rumah Pompa Industri",
+  "stop_id": "B03264P",
+  "latitude": -6.144634,
+  "longitude": 106.83396,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:16:33",
+        "06:17:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

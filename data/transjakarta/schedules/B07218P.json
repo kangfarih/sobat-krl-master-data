@@ -1,0 +1,20 @@
+{
+  "stop_name": "Stadion GBK",
+  "stop_id": "B07218P",
+  "latitude": -6.214401,
+  "longitude": 106.799145,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:44:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

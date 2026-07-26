@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Perdatam 2",
+  "stop_id": "B04870P",
+  "latitude": -6.238833,
+  "longitude": 106.76345,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:27:14",
+        "06:46:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

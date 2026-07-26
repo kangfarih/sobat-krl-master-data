@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. SMK Patria Wisata",
+  "stop_id": "B06027P",
+  "latitude": -6.276784,
+  "longitude": 106.824822,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:49:11",
+        "06:57:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:54:36",
+        "07:04:15",
+        "07:05:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

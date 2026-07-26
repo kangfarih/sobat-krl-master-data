@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Masjid Nurul Jannah",
+  "stop_id": "B06778P",
+  "latitude": -6.242995,
+  "longitude": 106.759126,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:32:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

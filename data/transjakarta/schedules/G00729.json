@@ -1,0 +1,21 @@
+{
+  "stop_name": "Blok M Jalur 2",
+  "stop_id": "G00729",
+  "latitude": -6.243391,
+  "longitude": 106.801898,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "05:55:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

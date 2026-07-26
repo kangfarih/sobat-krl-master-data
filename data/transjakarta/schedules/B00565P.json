@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Swadaya II Cibubur",
+  "stop_id": "B00565P",
+  "latitude": -6.361451,
+  "longitude": 106.88461,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "06:08:45",
+        "06:46:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

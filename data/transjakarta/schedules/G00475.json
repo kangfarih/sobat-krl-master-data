@@ -1,0 +1,63 @@
+{
+  "stop_name": "Pulo Mas Bypass",
+  "stop_id": "G00475",
+  "latitude": -6.176988,
+  "longitude": 106.875987,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "00:49:48",
+        "05:49:46",
+        "05:49:47",
+        "06:51:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:25:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "06:22:03",
+        "06:25:53",
+        "06:26:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:43:22"
+      ],
+      "weekends": [
+        "06:43:22"
+      ]
+    }
+  ]
+}

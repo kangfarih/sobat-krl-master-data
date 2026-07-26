@@ -1,0 +1,83 @@
+{
+  "stop_name": "Wisma SMR",
+  "stop_id": "B05897P",
+  "latitude": -6.150176,
+  "longitude": 106.88771,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:29:29",
+        "05:29:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "05:59:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:02:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:44:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:54:12",
+        "06:52:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:42:05",
+        "07:21:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

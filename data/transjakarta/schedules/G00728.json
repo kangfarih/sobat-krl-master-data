@@ -1,0 +1,33 @@
+{
+  "stop_name": "Blok M Jalur 2",
+  "stop_id": "G00728",
+  "latitude": -6.243393,
+  "longitude": 106.801996,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "05:49:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:14:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

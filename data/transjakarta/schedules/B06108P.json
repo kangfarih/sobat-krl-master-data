@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pospol Tegal Alur",
+  "stop_id": "B06108P",
+  "latitude": -6.104729,
+  "longitude": 106.708149,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:12:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

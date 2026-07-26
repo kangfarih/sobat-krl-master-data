@@ -1,0 +1,78 @@
+{
+  "stop_name": "Jln. IKPN Bintaro",
+  "stop_id": "B01154P",
+  "latitude": -6.25997,
+  "longitude": 106.76787,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "06:01:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:52:50",
+        "05:53:53"
+      ],
+      "weekends": [
+        "05:53:53"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:53:36",
+        "05:54:38"
+      ],
+      "weekends": [
+        "05:54:38"
+      ]
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:54:19",
+        "05:54:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:40:13",
+        "05:40:33",
+        "06:00:13",
+        "07:19:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

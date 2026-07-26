@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Agathis Elok",
+  "stop_id": "B07285P",
+  "latitude": -6.196178,
+  "longitude": 106.939122,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:08:55",
+        "05:47:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

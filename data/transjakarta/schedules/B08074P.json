@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Pulo Lentut",
+  "stop_id": "B08074P",
+  "latitude": -6.189456,
+  "longitude": 106.910404,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:11:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pool PPD",
+  "stop_id": "B02944P",
+  "latitude": -6.154911,
+  "longitude": 106.769716,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:07:52",
+        "06:29:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

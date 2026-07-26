@@ -1,0 +1,21 @@
+{
+  "stop_name": "Malaka Jaya RW11 Rorotan",
+  "stop_id": "B02182P",
+  "latitude": -6.144631,
+  "longitude": 106.9562,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:00:15",
+        "07:36:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

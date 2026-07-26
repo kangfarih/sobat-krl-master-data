@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pajak Dan Retribusi Duren Sawit",
+  "stop_id": "B02549P",
+  "latitude": -6.230968,
+  "longitude": 106.89767,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:57:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

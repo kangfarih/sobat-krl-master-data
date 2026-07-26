@@ -1,0 +1,69 @@
+{
+  "stop_name": "Kemayoran",
+  "stop_id": "G00715",
+  "latitude": -6.158869,
+  "longitude": 106.851581,
+  "routes": [
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "category": "BRT",
+      "direction": "Senen dan JIS",
+      "weekdays": [
+        "05:21:04",
+        "05:21:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok via JIS",
+      "weekdays": [
+        "05:29:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2C",
+      "route_short_name": "2C",
+      "route_long_name": "Balai Kota - JIEXPO",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "JIEXPO dan Balai Kota",
+      "weekdays": [
+        "05:46:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "06:03:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ3",
+      "route_short_name": "PRJ3",
+      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
+      "color": "54659C",
+      "category": "BRT",
+      "direction": "Pulo Gadung - JIEXPO Kemayoran - Pulo Gadung",
+      "weekdays": [
+        "13:15:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

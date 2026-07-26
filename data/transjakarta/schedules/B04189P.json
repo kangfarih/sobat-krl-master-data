@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Perum Gading Kirana",
+  "stop_id": "B04189P",
+  "latitude": -6.145982,
+  "longitude": 106.90123,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:36:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

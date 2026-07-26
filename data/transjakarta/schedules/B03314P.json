@@ -1,0 +1,58 @@
+{
+  "stop_name": "MH Thamrin 2",
+  "stop_id": "B03314P",
+  "latitude": -6.188238,
+  "longitude": 106.82277,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:37:10",
+        "06:07:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:37:57",
+        "05:37:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "11:04:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "06:58:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

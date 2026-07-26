@@ -1,0 +1,47 @@
+{
+  "stop_name": "Kuningan",
+  "stop_id": "G00285",
+  "latitude": -6.228755,
+  "longitude": 106.833168,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:46:02",
+        "05:46:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Semanggi",
+      "weekdays": [
+        "05:46:01",
+        "05:46:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:12:37",
+        "08:30:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

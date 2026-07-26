@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Cakung Barat Albo",
+  "stop_id": "B03267P",
+  "latitude": -6.16751,
+  "longitude": 106.93243,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:00:10",
+        "06:28:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

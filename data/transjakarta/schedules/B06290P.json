@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jati Padang 1",
+  "stop_id": "B06290P",
+  "latitude": -6.285553,
+  "longitude": 106.8261,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:15:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:15:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:20:16",
+        "05:21:13",
+        "05:21:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

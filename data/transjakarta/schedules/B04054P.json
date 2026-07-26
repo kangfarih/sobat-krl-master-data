@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Masjid Jami Al Badariah Kemayoran",
+  "stop_id": "B04054P",
+  "latitude": -6.1533,
+  "longitude": 106.85895,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:37:14",
+        "05:37:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:28:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

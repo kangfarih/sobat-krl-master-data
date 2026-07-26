@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Dul. Djaim Cipedak",
+  "stop_id": "B07506P",
+  "latitude": -6.361797,
+  "longitude": 106.807215,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:12:23",
+        "07:25:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:01:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

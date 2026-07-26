@@ -1,0 +1,35 @@
+{
+  "stop_name": "Ruko Permata Senayan 2",
+  "stop_id": "B03253P",
+  "latitude": -6.22148,
+  "longitude": 106.79111,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "06:12:07",
+        "06:25:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:40:27",
+        "06:06:52",
+        "06:28:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

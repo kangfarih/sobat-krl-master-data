@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. Swadaya 2 Basmol",
+  "stop_id": "B07220P",
+  "latitude": -6.162402,
+  "longitude": 106.751261,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:01:07",
+        "06:33:34",
+        "07:09:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

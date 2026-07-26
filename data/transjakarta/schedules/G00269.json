@@ -1,0 +1,48 @@
+{
+  "stop_name": "Duren Tiga",
+  "stop_id": "G00269",
+  "latitude": -6.252331,
+  "longitude": 106.826951,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:31:45",
+        "05:31:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Semanggi",
+      "weekdays": [
+        "05:31:45",
+        "05:31:46",
+        "05:31:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:58:20",
+        "08:16:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

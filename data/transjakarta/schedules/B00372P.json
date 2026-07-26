@@ -1,0 +1,21 @@
+{
+  "stop_name": "Flyover Setiabudi",
+  "stop_id": "B00372P",
+  "latitude": -6.202064,
+  "longitude": 106.8281,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:58:43",
+        "05:58:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

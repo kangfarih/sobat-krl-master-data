@@ -1,0 +1,20 @@
+{
+  "stop_name": "Minimarket Kemanggisan 2",
+  "stop_id": "B02461P",
+  "latitude": -6.193859,
+  "longitude": 106.78638,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:53:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

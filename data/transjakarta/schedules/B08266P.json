@@ -1,0 +1,20 @@
+{
+  "stop_name": "NICE East Gate",
+  "stop_id": "B08266P",
+  "latitude": -6.05622,
+  "longitude": 106.69413,
+  "routes": [
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "08:50:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

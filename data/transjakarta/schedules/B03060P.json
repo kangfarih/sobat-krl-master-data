@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Pasar Minggu",
+  "stop_id": "B03060P",
+  "latitude": -6.320616,
+  "longitude": 106.82544,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:54:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "stop_name": "Tanjung Duren Arah Barat",
+  "stop_id": "G00403",
+  "latitude": -6.175635,
+  "longitude": 106.792248,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:00:10",
+        "05:28:04",
+        "05:28:06",
+        "06:53:01",
+        "07:05:42",
+        "09:28:04"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    },
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "06:07:21",
+        "06:35:16",
+        "06:35:35",
+        "07:55:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:49:15",
+        "06:27:53",
+        "07:03:01"
+      ],
+      "weekends": [
+        "05:49:15"
+      ]
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "07:10:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:28:06"
+      ],
+      "weekends": [
+        "05:28:06"
+      ]
+    },
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "05:47:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Grogol",
+      "weekdays": [
+        "06:14:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:42:01",
+        "05:42:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

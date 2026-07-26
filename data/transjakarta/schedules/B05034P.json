@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Panjang Arteri Madrasah I",
+  "stop_id": "B05034P",
+  "latitude": -6.21542,
+  "longitude": 106.77446,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:46:05",
+        "06:17:42",
+        "06:52:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

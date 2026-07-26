@@ -1,0 +1,35 @@
+{
+  "stop_name": "Ps. Ciputat",
+  "stop_id": "B02600P",
+  "latitude": -6.315761,
+  "longitude": 106.746948,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:00:22",
+        "07:27:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "06:13:22",
+        "06:24:15",
+        "08:18:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

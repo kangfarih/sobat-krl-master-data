@@ -1,0 +1,58 @@
+{
+  "stop_name": "Rawa Bambu",
+  "stop_id": "B03078P",
+  "latitude": -6.294753,
+  "longitude": 106.84078,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:33:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:00:10",
+        "06:16:54",
+        "07:24:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:05:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

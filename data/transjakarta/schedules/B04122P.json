@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Pansoshan Anak Putra Utama I",
+  "stop_id": "B04122P",
+  "latitude": -6.236966,
+  "longitude": 106.91837,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:32:03",
+        "06:36:33",
+        "06:43:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

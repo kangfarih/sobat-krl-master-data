@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang H. Kelik Kelapa Dua",
+  "stop_id": "B04834P",
+  "latitude": -6.208516,
+  "longitude": 106.7692,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:03:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

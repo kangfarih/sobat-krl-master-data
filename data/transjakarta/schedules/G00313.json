@@ -1,0 +1,73 @@
+{
+  "stop_name": "Tanah Merdeka Arah Timur",
+  "stop_id": "G00313",
+  "latitude": -6.307866,
+  "longitude": 106.87389,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Rambutan via Tol Hek",
+      "weekdays": [
+        "05:59:56",
+        "06:02:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "07:06:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "06:25:52",
+        "07:25:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:44:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "07:09:36",
+        "09:12:26",
+        "09:27:05",
+        "09:31:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

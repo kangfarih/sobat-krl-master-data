@@ -1,0 +1,47 @@
+{
+  "stop_name": "DPR MPR 2",
+  "stop_id": "B00322P",
+  "latitude": -6.206314,
+  "longitude": 106.80194,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:25:45",
+        "06:02:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Palmerah",
+      "weekdays": [
+        "05:25:45",
+        "05:41:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:27:35",
+        "05:28:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

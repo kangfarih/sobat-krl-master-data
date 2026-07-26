@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. SDN Cipedak 03",
+  "stop_id": "B04330P",
+  "latitude": -6.349013,
+  "longitude": 106.80931,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:07:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:12:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

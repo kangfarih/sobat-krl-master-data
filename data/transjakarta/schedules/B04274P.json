@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Anggrek Mas",
+  "stop_id": "B04274P",
+  "latitude": -6.203221,
+  "longitude": 106.77291,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:07:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

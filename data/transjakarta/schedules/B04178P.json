@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. PAUD Bina Keluarga Balita",
+  "stop_id": "B04178P",
+  "latitude": -6.101793,
+  "longitude": 106.69714,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:26:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

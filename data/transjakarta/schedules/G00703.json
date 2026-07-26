@@ -1,0 +1,36 @@
+{
+  "stop_name": "Jembatan Baru",
+  "stop_id": "G00703",
+  "latitude": -6.154762,
+  "longitude": 106.730332,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:14:43",
+        "05:14:44",
+        "06:07:55"
+      ],
+      "weekends": [
+        "05:14:43"
+      ]
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:14:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

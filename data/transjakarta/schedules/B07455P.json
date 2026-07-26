@@ -1,0 +1,58 @@
+{
+  "stop_name": "Jln. Dr. Sumarno",
+  "stop_id": "B07455P",
+  "latitude": -6.21232,
+  "longitude": 106.943325,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:03:26",
+        "05:49:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Pulo Gebang",
+      "weekdays": [
+        "05:32:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Walikota Jakarta Timur",
+      "weekdays": [
+        "05:35:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:45:23",
+        "06:23:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

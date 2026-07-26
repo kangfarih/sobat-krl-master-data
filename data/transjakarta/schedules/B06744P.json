@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Abdul Majid Raya",
+  "stop_id": "B06744P",
+  "latitude": -6.265937,
+  "longitude": 106.808605,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:28:43",
+        "06:36:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

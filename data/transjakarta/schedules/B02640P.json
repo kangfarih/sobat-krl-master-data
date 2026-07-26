@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Lokbin Muria",
+  "stop_id": "B02640P",
+  "latitude": -6.220614,
+  "longitude": 106.83827,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:31:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

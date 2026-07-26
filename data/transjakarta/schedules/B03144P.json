@@ -1,0 +1,21 @@
+{
+  "stop_name": "RS Islam Pondok Kopi",
+  "stop_id": "B03144P",
+  "latitude": -6.220062,
+  "longitude": 106.93908,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:07:46",
+        "05:07:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

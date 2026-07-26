@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Matraman Raya 1",
+  "stop_id": "B06539P",
+  "latitude": -6.209196,
+  "longitude": 106.85975,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:51:49",
+        "05:51:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

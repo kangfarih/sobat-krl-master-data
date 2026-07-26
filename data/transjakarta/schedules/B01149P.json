@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. H. Ung",
+  "stop_id": "B01149P",
+  "latitude": -6.164059,
+  "longitude": 106.85306,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:46:20",
+        "07:17:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:01:50",
+        "07:45:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

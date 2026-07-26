@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gramedia",
+  "stop_id": "B07351P",
+  "latitude": -6.291251,
+  "longitude": 106.639463,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Summarecon Serpong",
+      "weekdays": [
+        "18:26:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

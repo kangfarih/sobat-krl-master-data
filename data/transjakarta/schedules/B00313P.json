@@ -1,0 +1,37 @@
+{
+  "stop_name": "Direktorat Jenderal Pajak",
+  "stop_id": "B00313P",
+  "latitude": -6.224628,
+  "longitude": 106.81558,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:43:03",
+        "05:43:20",
+        "06:13:20",
+        "16:13:20"
+      ],
+      "weekends": [
+        "05:43:03"
+      ]
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "07:05:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

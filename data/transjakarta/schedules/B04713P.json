@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Bango Tridharma Raya",
+  "stop_id": "B04713P",
+  "latitude": -6.303372,
+  "longitude": 106.804459,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:33:21",
+        "05:33:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

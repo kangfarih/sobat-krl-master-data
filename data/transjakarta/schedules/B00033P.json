@@ -1,0 +1,21 @@
+{
+  "stop_name": "Aljabr Islamic School",
+  "stop_id": "B00033P",
+  "latitude": -6.308023,
+  "longitude": 106.80371,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:40:52",
+        "06:51:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Manggis Pangeran Jayakarta",
+  "stop_id": "B01358P",
+  "latitude": -6.139928,
+  "longitude": 106.820651,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:42:02",
+        "05:42:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:02:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

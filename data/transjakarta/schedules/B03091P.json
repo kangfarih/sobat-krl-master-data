@@ -1,0 +1,58 @@
+{
+  "stop_name": "Raya Pulo Gebang Akses St. Cakung",
+  "stop_id": "B03091P",
+  "latitude": -6.216671,
+  "longitude": 106.95301,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:12:53",
+        "05:58:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Pulo Gebang",
+      "weekdays": [
+        "05:12:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:06:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:06:42",
+        "06:03:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "stop_name": "Pancoran Tugu Arah Timur",
+  "stop_id": "G00418",
+  "latitude": -6.243082,
+  "longitude": 106.84392,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "06:06:40",
+        "06:24:13",
+        "06:24:43",
+        "06:24:45",
+        "06:34:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:24:51",
+        "07:00:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:53:44",
+        "06:57:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:31:35",
+        "05:47:39",
+        "06:49:41"
+      ],
+      "weekends": [
+        "05:47:39"
+      ]
+    },
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bogor",
+      "weekdays": [
+        "05:24:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

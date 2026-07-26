@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Ar Ridho Jelambar",
+  "stop_id": "B02329P",
+  "latitude": -6.152844,
+  "longitude": 106.78376,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:27:10",
+        "05:27:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

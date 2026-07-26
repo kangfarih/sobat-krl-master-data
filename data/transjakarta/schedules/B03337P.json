@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Batu Ampar 12",
+  "stop_id": "B03337P",
+  "latitude": -6.278157,
+  "longitude": 106.86091,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:41:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

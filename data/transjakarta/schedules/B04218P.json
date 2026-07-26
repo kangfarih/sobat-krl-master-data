@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Polsek Makasar",
+  "stop_id": "B04218P",
+  "latitude": -6.29086,
+  "longitude": 106.8844,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:35:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

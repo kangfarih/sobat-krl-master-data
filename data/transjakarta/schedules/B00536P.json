@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Puskesmas Kebagusan Raya",
+  "stop_id": "B00536P",
+  "latitude": -6.296645,
+  "longitude": 106.8273,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:39:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

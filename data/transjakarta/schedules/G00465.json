@@ -1,0 +1,49 @@
+{
+  "stop_name": "Utan Kayu Rawamangun",
+  "stop_id": "G00465",
+  "latitude": -6.197554,
+  "longitude": 106.874051,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "05:54:44",
+        "06:42:15",
+        "07:25:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:54:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:58:23",
+        "08:07:36",
+        "08:16:02",
+        "08:27:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

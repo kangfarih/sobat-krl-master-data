@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Swakarsa III Pondok Kelapa",
+  "stop_id": "B01624P",
+  "latitude": -6.244759,
+  "longitude": 106.94249,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "06:00:48",
+        "07:02:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:33:31",
+        "06:34:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

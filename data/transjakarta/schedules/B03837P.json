@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Selat Potinti",
+  "stop_id": "B03837P",
+  "latitude": -6.236086,
+  "longitude": 106.91635,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:30:32",
+        "06:35:01",
+        "06:42:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

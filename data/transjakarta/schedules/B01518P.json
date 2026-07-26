@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pucung 2 Munggang",
+  "stop_id": "B01518P",
+  "latitude": -6.278959,
+  "longitude": 106.85078,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:30:32",
+        "06:09:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:02:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

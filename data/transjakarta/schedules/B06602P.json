@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. H. Oyar",
+  "stop_id": "B06602P",
+  "latitude": -6.1767,
+  "longitude": 106.9183,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:07:16",
+        "07:26:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

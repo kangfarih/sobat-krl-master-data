@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kalimalang",
+  "stop_id": "B04891P",
+  "latitude": -6.245523,
+  "longitude": 106.90507,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:47:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

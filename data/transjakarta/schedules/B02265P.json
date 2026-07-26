@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Annur Radio Dalam",
+  "stop_id": "B02265P",
+  "latitude": -6.260666,
+  "longitude": 106.78889,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:35:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:05:08",
+        "06:05:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

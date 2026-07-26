@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid Nurul Falah Grogol",
+  "stop_id": "B04071P",
+  "latitude": -6.170757,
+  "longitude": 106.78477,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:22:05",
+        "06:16:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

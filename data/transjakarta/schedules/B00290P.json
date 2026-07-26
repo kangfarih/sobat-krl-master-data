@@ -1,0 +1,35 @@
+{
+  "stop_name": "Dammara",
+  "stop_id": "B00290P",
+  "latitude": -6.25419,
+  "longitude": 106.83146,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:31:07",
+        "06:30:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:39:11",
+        "05:39:12",
+        "05:39:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

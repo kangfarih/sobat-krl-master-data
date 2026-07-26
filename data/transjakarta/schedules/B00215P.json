@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bunda Hati Kudus Jelambar",
+  "stop_id": "B00215P",
+  "latitude": -6.165552,
+  "longitude": 106.78484,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:57:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

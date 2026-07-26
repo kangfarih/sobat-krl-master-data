@@ -1,0 +1,75 @@
+{
+  "stop_name": "Karet Tengsin",
+  "stop_id": "B01838P",
+  "latitude": -6.20698,
+  "longitude": 106.81696,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:39:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Karet via Underpass dan Stasiun Tebet",
+      "weekdays": [
+        "05:30:51"
+      ],
+      "weekends": [
+        "05:30:51"
+      ]
+    },
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Karet",
+      "weekdays": [
+        "05:00:10",
+        "05:54:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:40:46",
+        "05:45:24",
+        "05:54:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:30:29",
+        "05:30:32",
+        "06:30:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

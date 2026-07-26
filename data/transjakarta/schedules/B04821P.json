@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Gunung Sahari Martadinata",
+  "stop_id": "B04821P",
+  "latitude": -6.130897,
+  "longitude": 106.83094,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:42:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

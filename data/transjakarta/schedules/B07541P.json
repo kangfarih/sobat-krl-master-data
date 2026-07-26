@@ -1,0 +1,44 @@
+{
+  "stop_name": "Penjaringan 2",
+  "stop_id": "B07541P",
+  "latitude": -6.127555,
+  "longitude": 106.792365,
+  "routes": [
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:14:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:28:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:08:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

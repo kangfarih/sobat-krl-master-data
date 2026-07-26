@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSUD Kalideres",
+  "stop_id": "B00918P",
+  "latitude": -6.145855,
+  "longitude": 106.708636,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:12:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

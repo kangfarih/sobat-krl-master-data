@@ -1,0 +1,41 @@
+{
+  "stop_name": "Centro Metro Broadway",
+  "stop_id": "B00242P",
+  "latitude": -6.116362,
+  "longitude": 106.76143,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:28:36",
+        "06:40:57",
+        "06:57:03",
+        "08:04:34",
+        "08:09:45"
+      ],
+      "weekends": [
+        "07:09:22",
+        "07:19:22"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:24:17",
+        "01:36:38",
+        "05:13:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

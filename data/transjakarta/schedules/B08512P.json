@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Alfa Indah Blok J",
+  "stop_id": "B08512P",
+  "latitude": -6.223983,
+  "longitude": 106.756618,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "06:13:35",
+        "07:34:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

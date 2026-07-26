@@ -1,0 +1,21 @@
+{
+  "stop_name": "Aneka PIK Penggilingan",
+  "stop_id": "B00048P",
+  "latitude": -6.202636,
+  "longitude": 106.92867,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:47:35",
+        "05:49:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

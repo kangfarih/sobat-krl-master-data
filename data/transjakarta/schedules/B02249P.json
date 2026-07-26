@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Karomah Cipete",
+  "stop_id": "B02249P",
+  "latitude": -6.273435,
+  "longitude": 106.80064,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:49:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

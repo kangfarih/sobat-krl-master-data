@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Nurul Islam 2",
+  "stop_id": "B02356P",
+  "latitude": -6.14638,
+  "longitude": 106.774574,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:13:13",
+        "06:34:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

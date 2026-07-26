@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Lapangan Merah",
+  "stop_id": "B01315P",
+  "latitude": -6.218499,
+  "longitude": 106.75514,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:08:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

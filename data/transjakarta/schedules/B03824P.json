@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Rasamala Dalam",
+  "stop_id": "B03824P",
+  "latitude": -6.174903,
+  "longitude": 106.80482,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:43:41",
+        "06:44:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

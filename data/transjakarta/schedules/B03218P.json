@@ -1,0 +1,33 @@
+{
+  "stop_name": "RSUD Tj. Priok 1",
+  "stop_id": "B03218P",
+  "latitude": -6.115837,
+  "longitude": 106.88933,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:22:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:29:29",
+        "06:29:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

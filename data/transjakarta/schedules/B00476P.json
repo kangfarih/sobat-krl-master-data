@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Saibun Jati Padang",
+  "stop_id": "B00476P",
+  "latitude": -6.289383,
+  "longitude": 106.82903,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:20:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

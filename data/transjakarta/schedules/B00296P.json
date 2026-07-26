@@ -1,0 +1,33 @@
+{
+  "stop_name": "Dapsus 2",
+  "stop_id": "B00296P",
+  "latitude": -6.301728,
+  "longitude": 106.79463,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:07:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:25:00",
+        "06:35:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

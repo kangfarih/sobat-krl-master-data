@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Pinus Elok Blok A",
+  "stop_id": "B03287P",
+  "latitude": -6.201272,
+  "longitude": 106.93757,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:04:52",
+        "05:43:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

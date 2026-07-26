@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMKN 22",
+  "stop_id": "B04450P",
+  "latitude": -6.294235,
+  "longitude": 106.85558,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:20:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Teater Mobil 2",
+  "stop_id": "B05995P",
+  "latitude": -6.12959,
+  "longitude": 106.83563,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "06:43:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:28:21",
+        "06:19:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

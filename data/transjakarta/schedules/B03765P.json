@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Limo Grogol Selatan",
+  "stop_id": "B03765P",
+  "latitude": -6.225216,
+  "longitude": 106.77841,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:09:06",
+        "05:09:08",
+        "06:08:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

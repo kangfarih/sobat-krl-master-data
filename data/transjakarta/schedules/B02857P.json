@@ -1,0 +1,21 @@
+{
+  "stop_name": "PKP Jakarta Islamic School",
+  "stop_id": "B02857P",
+  "latitude": -6.339371,
+  "longitude": 106.88328,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:28:13",
+        "06:13:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

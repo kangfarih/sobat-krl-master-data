@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Slipi Jaya",
+  "stop_id": "B04414P",
+  "latitude": -6.18974,
+  "longitude": 106.79659,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:38:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

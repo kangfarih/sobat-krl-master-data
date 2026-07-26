@@ -1,0 +1,33 @@
+{
+  "stop_name": "Ps. Ciplak",
+  "stop_id": "B02597P",
+  "latitude": -6.23974,
+  "longitude": 106.88002,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:11:40",
+        "06:13:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:36:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

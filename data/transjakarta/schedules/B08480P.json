@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang 8",
+  "stop_id": "B08480P",
+  "latitude": -6.107361,
+  "longitude": 106.890358,
+  "routes": [
+    {
+      "route_id": "10C",
+      "route_short_name": "10C",
+      "route_long_name": "Pelabuhan Tanjung Priok - Tanjung Priok",
+      "color": "9B474A",
+      "category": "Non-BRT",
+      "direction": "Pelabuhan Tanjung Priok dan Tanjung Priok",
+      "weekdays": [
+        "05:07:30",
+        "05:21:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

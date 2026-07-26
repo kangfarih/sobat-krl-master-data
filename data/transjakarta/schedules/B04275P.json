@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. RS Aulia",
+  "stop_id": "B04275P",
+  "latitude": -6.334599,
+  "longitude": 106.82757,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:52:29",
+        "07:05:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:38:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

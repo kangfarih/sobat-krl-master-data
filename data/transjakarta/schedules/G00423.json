@@ -1,0 +1,70 @@
+{
+  "stop_name": "Simpang Kuningan",
+  "stop_id": "G00423",
+  "latitude": -6.237215,
+  "longitude": 106.827953,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "05:57:25",
+        "06:14:59",
+        "06:15:28",
+        "06:15:31",
+        "06:25:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:44:29",
+        "06:48:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:22:19",
+        "05:38:23",
+        "06:40:27"
+      ],
+      "weekends": [
+        "05:38:23"
+      ]
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:42:16",
+        "05:48:10",
+        "07:03:53",
+        "16:33:35"
+      ],
+      "weekends": [
+        "05:48:10"
+      ]
+    }
+  ]
+}

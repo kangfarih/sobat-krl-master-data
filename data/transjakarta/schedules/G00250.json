@@ -1,0 +1,81 @@
+{
+  "stop_name": "Jati Barat",
+  "stop_id": "G00250",
+  "latitude": -6.290979,
+  "longitude": 106.823689,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:54:04",
+        "06:58:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Semanggi",
+      "weekdays": [
+        "06:05:53",
+        "07:21:46",
+        "07:25:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "06:26:51",
+        "07:06:08",
+        "07:22:56",
+        "07:29:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:50:05",
+        "06:50:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "06:16:19",
+        "06:30:41",
+        "06:52:58",
+        "15:53:59"
+      ],
+      "weekends": [
+        "06:16:19",
+        "06:30:41"
+      ]
+    }
+  ]
+}

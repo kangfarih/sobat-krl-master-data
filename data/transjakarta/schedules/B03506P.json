@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Barokah Marunda",
+  "stop_id": "B03506P",
+  "latitude": -6.127818,
+  "longitude": 106.95885,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:10:29",
+        "05:10:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cikijang Timur 2",
+  "stop_id": "B06626P",
+  "latitude": -6.11432,
+  "longitude": 106.89839,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:03:14",
+        "06:03:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kampung Baru V",
+  "stop_id": "B03741P",
+  "latitude": -6.225077,
+  "longitude": 106.76062,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:34:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

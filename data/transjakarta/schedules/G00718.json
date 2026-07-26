@@ -1,0 +1,49 @@
+{
+  "stop_name": "Cawang Sentral",
+  "stop_id": "G00718",
+  "latitude": -6.250384,
+  "longitude": 106.873616,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:16:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Sunter Kelapa Gading dan PGC",
+      "weekdays": [
+        "06:23:51",
+        "07:11:20",
+        "07:54:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:59:25",
+        "07:12:06",
+        "07:16:44",
+        "07:31:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

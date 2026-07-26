@@ -1,0 +1,35 @@
+{
+  "stop_name": "Icon Residence",
+  "stop_id": "B00787P",
+  "latitude": -6.201827,
+  "longitude": 106.78268,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:50:37",
+        "05:50:39",
+        "05:50:40",
+        "08:14:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:59:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

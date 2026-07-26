@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sisma Medikal",
+  "stop_id": "B05229P",
+  "latitude": -6.113174,
+  "longitude": 106.91771,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:34:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Mandala Maphalindo",
+  "stop_id": "B04983P",
+  "latitude": -6.249189,
+  "longitude": 106.89108,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:56:13",
+        "05:56:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

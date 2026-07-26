@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Gotong Royong 2",
+  "stop_id": "B04818P",
+  "latitude": -6.125482,
+  "longitude": 106.89331,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:07:11",
+        "05:45:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:10:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

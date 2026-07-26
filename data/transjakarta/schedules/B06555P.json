@@ -1,0 +1,34 @@
+{
+  "stop_name": "Universitas Terbuka",
+  "stop_id": "B06555P",
+  "latitude": -6.201686,
+  "longitude": 106.87294,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "06:07:19",
+        "07:43:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:35:31",
+        "06:37:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

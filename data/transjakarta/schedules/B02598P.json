@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Ciplak Cibesel",
+  "stop_id": "B02598P",
+  "latitude": -6.236104,
+  "longitude": 106.88067,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:23:05",
+        "05:23:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

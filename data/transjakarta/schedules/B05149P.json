@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Seroja Cempaka",
+  "stop_id": "B05149P",
+  "latitude": -6.181809,
+  "longitude": 106.7991,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:39:56",
+        "06:47:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

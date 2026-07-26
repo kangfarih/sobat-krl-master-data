@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. LRT Equestrian 3",
+  "stop_id": "B06995P",
+  "latitude": -6.183192,
+  "longitude": 106.891611,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:18:48",
+        "07:51:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

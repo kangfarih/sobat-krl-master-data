@@ -1,0 +1,112 @@
+{
+  "stop_name": "Gold Coast",
+  "stop_id": "B06047P",
+  "latitude": -6.102693,
+  "longitude": 106.74065,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:47:36",
+        "06:59:59",
+        "07:16:05",
+        "08:23:37",
+        "08:27:58"
+      ],
+      "weekends": [
+        "07:28:25",
+        "07:38:25"
+      ]
+    },
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:27:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:54:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:09:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "PIK2",
+      "weekdays": [
+        "09:15:05"
+      ],
+      "weekends": [
+        "11:45:05"
+      ]
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "18:18:50",
+        "19:58:50"
+      ],
+      "weekends": [
+        "12:45:28",
+        "14:15:28",
+        "16:15:28",
+        "17:45:28",
+        "19:15:28",
+        "20:45:28"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "06:47:45",
+        "09:27:17"
+      ],
+      "weekends": [
+        "09:27:17"
+      ]
+    }
+  ]
+}

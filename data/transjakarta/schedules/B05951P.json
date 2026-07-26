@@ -1,0 +1,23 @@
+{
+  "stop_name": "Jln. Bintara IV",
+  "stop_id": "B05951P",
+  "latitude": -6.219675,
+  "longitude": 106.95236,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:00:10",
+        "06:09:37",
+        "07:14:13",
+        "07:21:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

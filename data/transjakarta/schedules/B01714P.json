@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Wisma Semar",
+  "stop_id": "B01714P",
+  "latitude": -6.310457,
+  "longitude": 106.805299,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:11:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:43:25",
+        "06:54:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Anggur Cipete Dalam",
+  "stop_id": "B00404P",
+  "latitude": -6.276068,
+  "longitude": 106.80052,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:36:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

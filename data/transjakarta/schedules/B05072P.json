@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pinang I Pondok Labu",
+  "stop_id": "B05072P",
+  "latitude": -6.308702,
+  "longitude": 106.795996,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "06:05:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

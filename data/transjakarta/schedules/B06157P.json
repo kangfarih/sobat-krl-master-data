@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Sekolah Wawasan Nusantara",
+  "stop_id": "B06157P",
+  "latitude": -6.142011,
+  "longitude": 106.752715,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:24:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Pengendapan Moch. Kahfi II",
+  "stop_id": "B07729P",
+  "latitude": -6.359476,
+  "longitude": 106.8077,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:11:01",
+        "07:24:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "06:27:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "stop_name": "RS PIK 2",
+  "stop_id": "B03165P",
+  "latitude": -6.112549,
+  "longitude": 106.75264,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:35:04",
+        "06:47:27",
+        "07:03:33",
+        "08:11:05",
+        "08:16:28"
+      ],
+      "weekends": [
+        "07:15:53",
+        "07:25:54"
+      ]
+    }
+  ]
+}

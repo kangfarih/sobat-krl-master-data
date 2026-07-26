@@ -1,0 +1,33 @@
+{
+  "stop_name": "Cluster Florida",
+  "stop_id": "B08252P",
+  "latitude": -6.030535,
+  "longitude": 106.637421,
+  "routes": [
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:00:10",
+        "09:42:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "05:19:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

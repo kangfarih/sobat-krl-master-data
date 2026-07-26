@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. PLN Tj. Priok",
+  "stop_id": "B04212P",
+  "latitude": -6.121744,
+  "longitude": 106.893611,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:15:09",
+        "06:54:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

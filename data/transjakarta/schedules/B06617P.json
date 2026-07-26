@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kampung Batu Tumbuh",
+  "stop_id": "B06617P",
+  "latitude": -6.13191,
+  "longitude": 106.91791,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:42:22",
+        "05:42:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

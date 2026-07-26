@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Panjang Duri Kepa",
+  "stop_id": "B05035P",
+  "latitude": -6.184205,
+  "longitude": 106.76833,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:57:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

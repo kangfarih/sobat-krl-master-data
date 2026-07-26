@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Adam Malik",
+  "stop_id": "B00835P",
+  "latitude": -6.237023,
+  "longitude": 106.74712,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:00:10",
+        "05:36:18",
+        "07:17:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

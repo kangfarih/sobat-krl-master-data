@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bungur Kemang",
+  "stop_id": "B07479P",
+  "latitude": -6.257587,
+  "longitude": 106.820277,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "06:11:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

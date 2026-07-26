@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Warung Buncit",
+  "stop_id": "B02695P",
+  "latitude": -6.255166,
+  "longitude": 106.82493,
+  "routes": [
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "05:56:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

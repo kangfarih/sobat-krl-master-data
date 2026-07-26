@@ -1,0 +1,36 @@
+{
+  "stop_name": "RS Dr Suyoto",
+  "stop_id": "B03132P",
+  "latitude": -6.267779,
+  "longitude": 106.76599,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:57:39",
+        "05:58:42"
+      ],
+      "weekends": [
+        "05:58:42"
+      ]
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:59:08",
+        "05:59:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

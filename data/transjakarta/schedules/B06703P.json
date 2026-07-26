@@ -1,0 +1,21 @@
+{
+  "stop_name": "JPO Benyamin Sueb",
+  "stop_id": "B06703P",
+  "latitude": -6.131046135840449,
+  "longitude": 106.84656635595532,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:33:37",
+        "06:54:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

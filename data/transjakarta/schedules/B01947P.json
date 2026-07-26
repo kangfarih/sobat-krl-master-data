@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Srengseng",
+  "stop_id": "B01947P",
+  "latitude": -6.203472,
+  "longitude": 106.75694,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:47:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

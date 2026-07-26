@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Bhakti VII Palmerah",
+  "stop_id": "B03654P",
+  "latitude": -6.193182,
+  "longitude": 106.78365,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:12:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:33:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

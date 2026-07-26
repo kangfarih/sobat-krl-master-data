@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Jami Al-Aqwam",
+  "stop_id": "B07481P",
+  "latitude": -6.244113,
+  "longitude": 106.816127,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:37:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

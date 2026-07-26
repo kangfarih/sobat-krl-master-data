@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Gorontalo II",
+  "stop_id": "B03703P",
+  "latitude": -6.113392,
+  "longitude": 106.88274,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:32:58",
+        "06:11:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

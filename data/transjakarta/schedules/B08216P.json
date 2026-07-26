@@ -1,0 +1,22 @@
+{
+  "stop_name": "RPTRA Rawasari Ceria",
+  "stop_id": "B08216P",
+  "latitude": -6.191507,
+  "longitude": 106.858505,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:29:00",
+        "06:36:18",
+        "06:46:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

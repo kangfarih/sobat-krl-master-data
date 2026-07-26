@@ -1,0 +1,20 @@
+{
+  "stop_name": "Institut Teknologi Budi Utomo 2",
+  "stop_id": "B00803P",
+  "latitude": -6.221926,
+  "longitude": 106.93933,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:12:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

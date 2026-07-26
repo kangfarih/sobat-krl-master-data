@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. SMP Nurul Falah",
+  "stop_id": "B04460P",
+  "latitude": -6.110663,
+  "longitude": 106.92596,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:53:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:49:15",
+        "05:49:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

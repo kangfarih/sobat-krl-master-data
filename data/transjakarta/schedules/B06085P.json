@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tebet Eco Park Selatan 2",
+  "stop_id": "B06085P",
+  "latitude": -6.240297,
+  "longitude": 106.85297,
+  "routes": [
+    {
+      "route_id": "JAK.43C",
+      "route_short_name": "JAK.43C",
+      "route_long_name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "St. Cawang dan Sarana Jaya via TEP",
+      "weekdays": [
+        "05:14:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

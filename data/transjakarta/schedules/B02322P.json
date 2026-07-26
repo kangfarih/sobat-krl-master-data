@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Al Muhsinin",
+  "stop_id": "B02322P",
+  "latitude": -6.182612,
+  "longitude": 106.99023,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:59:30",
+        "06:56:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

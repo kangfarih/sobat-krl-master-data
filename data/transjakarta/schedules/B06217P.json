@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Dahlia 10",
+  "stop_id": "B06217P",
+  "latitude": -6.176465,
+  "longitude": 106.94342,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:12:26",
+        "06:13:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

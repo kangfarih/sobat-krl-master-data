@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klinik Johar Medika",
+  "stop_id": "B01991P",
+  "latitude": -6.183726,
+  "longitude": 106.85608,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:51:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

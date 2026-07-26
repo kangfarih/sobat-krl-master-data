@@ -1,0 +1,25 @@
+{
+  "stop_name": "Lembaga Ilmu Pengetahuan 1",
+  "stop_id": "B02130P",
+  "latitude": -6.228921,
+  "longitude": 106.81852,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:40:04",
+        "05:40:21",
+        "06:10:21",
+        "16:10:21"
+      ],
+      "weekends": [
+        "05:40:04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "stop_name": "Tegal Parang 2",
+  "stop_id": "B05688P",
+  "latitude": -6.238571,
+  "longitude": 106.83054,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:43:55",
+        "05:49:49",
+        "07:05:31",
+        "16:35:14"
+      ],
+      "weekends": [
+        "05:49:49"
+      ]
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "16:48:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "16:48:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

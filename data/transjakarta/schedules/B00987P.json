@@ -1,0 +1,23 @@
+{
+  "stop_name": "Jln. Cempedak Pesanggrahan",
+  "stop_id": "B00987P",
+  "latitude": -6.259823,
+  "longitude": 106.75676,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:46:34",
+        "05:51:40",
+        "05:52:11",
+        "07:05:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

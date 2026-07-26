@@ -1,0 +1,22 @@
+{
+  "stop_name": "SDN Meruya Utara 02",
+  "stop_id": "B03397P",
+  "latitude": -6.198756,
+  "longitude": 106.74133,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:13:03",
+        "06:49:49",
+        "07:33:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

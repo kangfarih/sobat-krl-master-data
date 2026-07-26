@@ -1,0 +1,20 @@
+{
+  "stop_name": "KPU",
+  "stop_id": "B02095P",
+  "latitude": -6.199411,
+  "longitude": 106.82749,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:02:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

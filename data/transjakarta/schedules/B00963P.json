@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bungur Besar XVI",
+  "stop_id": "B00963P",
+  "latitude": -6.163661,
+  "longitude": 106.84089,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "06:34:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Rorotan IX Gg. V",
+  "stop_id": "B04269P",
+  "latitude": -6.155838,
+  "longitude": 106.95974,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:16:16",
+        "06:26:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

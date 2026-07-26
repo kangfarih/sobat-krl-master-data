@@ -1,0 +1,59 @@
+{
+  "stop_name": "Senayan Bank Jakarta",
+  "stop_id": "G00013",
+  "latitude": -6.224206,
+  "longitude": 106.80589,
+  "routes": [
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Palmerah",
+      "weekdays": [
+        "05:19:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "06:24:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "05:31:12",
+        "14:54:32"
+      ],
+      "weekends": [
+        "05:31:12"
+      ]
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "06:12:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ps. Cipinang Kebembem",
+  "stop_id": "B04138P",
+  "latitude": -6.211874,
+  "longitude": 106.88678,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:55:34",
+        "07:00:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

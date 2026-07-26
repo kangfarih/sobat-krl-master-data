@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Kebembem 3",
+  "stop_id": "B00493P",
+  "latitude": -6.208366,
+  "longitude": 106.88486,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:58:56",
+        "07:03:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

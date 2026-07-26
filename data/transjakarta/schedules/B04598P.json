@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yayasan Miftahul Falah",
+  "stop_id": "B04598P",
+  "latitude": -6.227379,
+  "longitude": 106.87869,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:47:17",
+        "06:51:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

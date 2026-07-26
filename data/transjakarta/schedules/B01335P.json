@@ -1,0 +1,36 @@
+{
+  "stop_name": "Jln. Madrasah II Sukabumi Selatan",
+  "stop_id": "B01335P",
+  "latitude": -6.209608,
+  "longitude": 106.78336,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:21:44",
+        "05:21:56",
+        "06:20:48",
+        "07:41:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:38:00",
+        "05:57:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Musholla II",
+  "stop_id": "B06841P",
+  "latitude": -6.317252,
+  "longitude": 106.817877,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:27:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

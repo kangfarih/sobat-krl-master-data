@@ -1,0 +1,47 @@
+{
+  "stop_name": "Sbr. KPP Pratama Tanah Abang Satu",
+  "stop_id": "B03988P",
+  "latitude": -6.202037,
+  "longitude": 106.80707,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:56:16",
+        "06:09:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:30:50",
+        "05:50:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:38:39",
+        "05:38:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

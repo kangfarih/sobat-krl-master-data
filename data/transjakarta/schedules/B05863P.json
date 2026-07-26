@@ -1,0 +1,49 @@
+{
+  "stop_name": "Waduk Pluit",
+  "stop_id": "B05863P",
+  "latitude": -6.11331,
+  "longitude": 106.79483,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:19:08",
+        "05:19:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:52:12",
+        "05:52:13",
+        "05:52:22"
+      ],
+      "weekends": [
+        "05:52:10"
+      ]
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:15:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

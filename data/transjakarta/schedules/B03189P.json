@@ -1,0 +1,21 @@
+{
+  "stop_name": "RSIA Asta Nugraha",
+  "stop_id": "B03189P",
+  "latitude": -6.22182,
+  "longitude": 106.91487,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:45:36",
+        "05:46:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

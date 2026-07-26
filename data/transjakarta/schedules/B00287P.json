@@ -1,0 +1,21 @@
+{
+  "stop_name": "D Mall",
+  "stop_id": "B00287P",
+  "latitude": -6.386793,
+  "longitude": 106.827726,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:04:42",
+        "05:04:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

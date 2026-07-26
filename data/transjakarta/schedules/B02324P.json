@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Al Muttaqin Balekambang",
+  "stop_id": "B02324P",
+  "latitude": -6.284041,
+  "longitude": 106.8506,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:26:31",
+        "06:05:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

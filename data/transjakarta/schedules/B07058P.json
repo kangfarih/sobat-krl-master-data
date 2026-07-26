@@ -1,0 +1,21 @@
+{
+  "stop_name": "Vihara Mahavira Graha Pusat",
+  "stop_id": "B07058P",
+  "latitude": -6.130687,
+  "longitude": 106.825562,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:22:51",
+        "06:14:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

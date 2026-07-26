@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Caraka Buana II",
+  "stop_id": "B06280P",
+  "latitude": -6.333842,
+  "longitude": 106.84581,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:31:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

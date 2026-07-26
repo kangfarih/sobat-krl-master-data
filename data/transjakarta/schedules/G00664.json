@@ -1,0 +1,35 @@
+{
+  "stop_name": "Widya Chandra Telkomsel Arah Barat",
+  "stop_id": "G00664",
+  "latitude": -6.227453,
+  "longitude": 106.817652,
+  "routes": [
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "05:47:21",
+        "05:47:23",
+        "05:47:25",
+        "05:48:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:52:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

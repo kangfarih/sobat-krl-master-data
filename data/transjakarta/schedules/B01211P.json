@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Karya Bakti III Cijantung",
+  "stop_id": "B01211P",
+  "latitude": -6.325758,
+  "longitude": 106.86079,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:15:28",
+        "06:20:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

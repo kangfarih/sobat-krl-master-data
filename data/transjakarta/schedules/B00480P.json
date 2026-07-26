@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Seman Susukan",
+  "stop_id": "B00480P",
+  "latitude": -6.327213,
+  "longitude": 106.86898,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:41:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

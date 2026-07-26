@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Tugu Indah",
+  "stop_id": "B01692P",
+  "latitude": -6.123127,
+  "longitude": 106.92665,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:12:25",
+        "06:12:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:14:59",
+        "06:33:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

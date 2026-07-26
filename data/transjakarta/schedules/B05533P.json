@@ -1,0 +1,24 @@
+{
+  "stop_name": "STM Mandiri",
+  "stop_id": "B05533P",
+  "latitude": -6.389279,
+  "longitude": 106.82612,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:57:39",
+        "08:48:16",
+        "08:59:48"
+      ],
+      "weekends": [
+        "08:48:16"
+      ]
+    }
+  ]
+}

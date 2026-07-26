@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. TK Nurul Ihsan Raya Pulo Gebang",
+  "stop_id": "B07582P",
+  "latitude": -6.21421256,
+  "longitude": 106.95551991,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:27:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "05:12:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

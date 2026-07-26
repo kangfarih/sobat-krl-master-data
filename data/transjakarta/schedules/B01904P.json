@@ -1,0 +1,47 @@
+{
+  "stop_name": "Kel. Benhil",
+  "stop_id": "B01904P",
+  "latitude": -6.201552,
+  "longitude": 106.80809,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:55:30",
+        "06:09:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:30:05",
+        "05:49:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:37:53",
+        "05:37:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Harun II Sukabumi Utara",
+  "stop_id": "B01152P",
+  "latitude": -6.20364,
+  "longitude": 106.77662,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:05:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

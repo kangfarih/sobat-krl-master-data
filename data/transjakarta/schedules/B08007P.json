@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. PLN GIS New Senayan",
+  "stop_id": "B08007P",
+  "latitude": -6.227641834,
+  "longitude": 106.7719362,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:16:00",
+        "06:35:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

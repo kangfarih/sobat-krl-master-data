@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Mushola As Salam Batu Ampar",
+  "stop_id": "B04115P",
+  "latitude": -6.271206,
+  "longitude": 106.86034,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:09:29",
+        "06:03:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

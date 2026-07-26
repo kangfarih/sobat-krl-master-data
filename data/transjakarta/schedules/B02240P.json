@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Hidayah",
+  "stop_id": "B02240P",
+  "latitude": -6.216385,
+  "longitude": 106.86296,
+  "routes": [
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "06:18:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

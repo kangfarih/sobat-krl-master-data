@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMK PGRI 11 Jakarta",
+  "stop_id": "B08394P",
+  "latitude": -6.14155,
+  "longitude": 106.95369,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "06:10:22",
+        "07:28:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

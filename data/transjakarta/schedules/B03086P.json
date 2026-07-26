@@ -1,0 +1,21 @@
+{
+  "stop_name": "Raya Bekasi Pulo Gebang 1",
+  "stop_id": "B03086P",
+  "latitude": -6.187709,
+  "longitude": 106.96005,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:42:43",
+        "06:52:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

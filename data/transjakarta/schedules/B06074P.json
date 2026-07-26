@@ -1,0 +1,59 @@
+{
+  "stop_name": "Institut Kesehatan Indonesia",
+  "stop_id": "B06074P",
+  "latitude": -6.154063,
+  "longitude": 106.89392,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:15:47",
+        "06:15:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:01:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:14:08",
+        "05:14:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:49:51",
+        "05:49:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

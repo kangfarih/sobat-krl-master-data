@@ -1,0 +1,35 @@
+{
+  "stop_name": "Univ. Indonesia",
+  "stop_id": "B05830P",
+  "latitude": -6.353357,
+  "longitude": 106.83186,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Universitas Indonesia",
+      "weekdays": [
+        "05:00:10",
+        "06:34:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:00:10",
+        "06:34:35",
+        "07:41:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

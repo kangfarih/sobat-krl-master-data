@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Bukit Cinere Indah",
+  "stop_id": "B03464P",
+  "latitude": -6.33992,
+  "longitude": 106.78012,
+  "routes": [
+    {
+      "route_id": "D32",
+      "route_short_name": "D32",
+      "route_long_name": "Cinere - Bundaran Senayan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:21:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:16:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

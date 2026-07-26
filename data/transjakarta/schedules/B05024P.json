@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Pahlawan Revolusi 2",
+  "stop_id": "B05024P",
+  "latitude": -6.238373,
+  "longitude": 106.89937,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:33:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:10:05",
+        "06:07:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

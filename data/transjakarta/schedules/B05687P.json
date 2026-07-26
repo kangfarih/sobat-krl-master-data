@@ -1,0 +1,37 @@
+{
+  "stop_name": "Tegal Parang 1",
+  "stop_id": "B05687P",
+  "latitude": -6.239791,
+  "longitude": 106.83149,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:30:29",
+        "05:30:47",
+        "06:00:47",
+        "16:00:47"
+      ],
+      "weekends": [
+        "05:30:29"
+      ]
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:20:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

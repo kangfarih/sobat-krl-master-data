@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bendungan Hilir",
+  "stop_id": "G00019",
+  "latitude": -6.217113,
+  "longitude": 106.815361,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M via Cideng",
+      "weekdays": [
+        "06:03:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

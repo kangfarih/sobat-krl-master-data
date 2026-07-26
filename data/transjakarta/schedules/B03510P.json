@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Bhakti Lingkar Timur",
+  "stop_id": "B03510P",
+  "latitude": -6.197386,
+  "longitude": 106.94404,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:12:05",
+        "06:49:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:12:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

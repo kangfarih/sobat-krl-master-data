@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Swadarma Utara",
+  "stop_id": "B01617P",
+  "latitude": -6.229106,
+  "longitude": 106.76056,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:32:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "Nifarro Park",
+  "stop_id": "B02532P",
+  "latitude": -6.263007,
+  "longitude": 106.84332,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:36:18",
+        "05:36:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:03:25",
+        "06:09:19",
+        "07:25:08",
+        "16:54:52"
+      ],
+      "weekends": [
+        "06:09:19"
+      ]
+    }
+  ]
+}

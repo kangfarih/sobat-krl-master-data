@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mangga Dua Plaza",
+  "stop_id": "B02212P",
+  "latitude": -6.135929,
+  "longitude": 106.82836,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:24:10",
+        "06:25:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

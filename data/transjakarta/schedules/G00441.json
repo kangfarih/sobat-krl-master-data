@@ -1,0 +1,49 @@
+{
+  "stop_name": "Jembatan Besi",
+  "stop_id": "G00441",
+  "latitude": -6.152006,
+  "longitude": 106.794881,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:09:16",
+        "06:21:56",
+        "06:49:51",
+        "06:50:10",
+        "08:09:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "07:24:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9F",
+      "route_short_name": "9F",
+      "route_long_name": "Rusun Tambora - Pluit",
+      "color": "85A4A2",
+      "category": "Rusun",
+      "direction": "Pluit dan Rusun Tambora",
+      "weekdays": [
+        "05:17:07",
+        "05:17:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Peternakan II",
+  "stop_id": "B06347P",
+  "latitude": -6.146592,
+  "longitude": 106.767227,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:08:36",
+        "05:49:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

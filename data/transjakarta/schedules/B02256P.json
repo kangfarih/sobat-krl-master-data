@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Munawaroh Sawah Besar",
+  "stop_id": "B02256P",
+  "latitude": -6.144672,
+  "longitude": 106.82641,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:35:56",
+        "05:36:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. SDN Kelapa Dua Wetan 01",
+  "stop_id": "B04351P",
+  "latitude": -6.343218,
+  "longitude": 106.88552,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:06:07",
+        "05:06:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:14:59",
+        "05:15:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

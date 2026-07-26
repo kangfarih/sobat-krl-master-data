@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Angkur",
+  "stop_id": "B07004P",
+  "latitude": -6.186646,
+  "longitude": 106.885174,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:22:18",
+        "05:22:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

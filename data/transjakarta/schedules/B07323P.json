@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Ampera Raya",
+  "stop_id": "B07323P",
+  "latitude": -6.275218,
+  "longitude": 106.820874,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:46:24",
+        "06:54:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

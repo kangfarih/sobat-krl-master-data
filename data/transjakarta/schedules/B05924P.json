@@ -1,0 +1,60 @@
+{
+  "stop_name": "Yayasan Muhammadiyah 1",
+  "stop_id": "B05924P",
+  "latitude": -6.197045,
+  "longitude": 106.81442,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:55:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:48:38",
+        "06:02:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:23:07",
+        "05:42:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:26:37",
+        "05:31:15",
+        "05:40:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

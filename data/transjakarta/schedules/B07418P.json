@@ -1,0 +1,25 @@
+{
+  "stop_name": "SMAN 29",
+  "stop_id": "B07418P",
+  "latitude": -6.237095,
+  "longitude": 106.783941,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:01:51",
+        "06:22:57",
+        "06:22:59"
+      ],
+      "weekends": [
+        "05:01:51",
+        "06:22:57"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stop_name": "Teuku Nyak Arief",
+  "stop_id": "B05731P",
+  "latitude": -6.2312,
+  "longitude": 106.7892,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:05:50",
+        "05:06:01",
+        "05:06:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:27:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:05:25",
+        "05:05:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

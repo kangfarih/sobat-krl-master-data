@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMPN 78",
+  "stop_id": "B05389P",
+  "latitude": -6.173538,
+  "longitude": 106.85226,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:51:44",
+        "07:22:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:07:32",
+        "07:50:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

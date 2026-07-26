@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Otista III Selatan",
+  "stop_id": "B01431P",
+  "latitude": -6.231786,
+  "longitude": 106.86931,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:46:10",
+        "06:44:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

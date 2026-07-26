@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Anawinka Naga Raya",
+  "stop_id": "B00403P",
+  "latitude": -6.223403,
+  "longitude": 106.90762,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:54:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

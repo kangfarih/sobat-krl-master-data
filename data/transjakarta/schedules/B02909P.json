@@ -1,0 +1,36 @@
+{
+  "stop_name": "Polsek Kembangan",
+  "stop_id": "B02909P",
+  "latitude": -6.198313,
+  "longitude": 106.73945,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:14:22",
+        "06:51:07",
+        "07:34:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:13:10",
+        "05:45:41",
+        "06:21:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

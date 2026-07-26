@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. H. Mawar Gg. VII",
+  "stop_id": "B07239P",
+  "latitude": -6.154235,
+  "longitude": 106.870133,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:32:44",
+        "06:31:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

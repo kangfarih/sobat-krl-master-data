@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Permata Indah 8",
+  "stop_id": "B03816P",
+  "latitude": -6.182668,
+  "longitude": 106.98794,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:58:10",
+        "06:55:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

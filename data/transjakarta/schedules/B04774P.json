@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Cipinang Indah II",
+  "stop_id": "B04774P",
+  "latitude": -6.232796,
+  "longitude": 106.89096,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:23:02",
+        "06:20:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

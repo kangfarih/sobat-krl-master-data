@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Duri Kepa 01",
+  "stop_id": "B04337P",
+  "latitude": -6.186108,
+  "longitude": 106.77589,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "06:02:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

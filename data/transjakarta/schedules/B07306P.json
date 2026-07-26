@@ -1,0 +1,20 @@
+{
+  "stop_name": "Indosiar 4",
+  "stop_id": "B07306P",
+  "latitude": -6.163158,
+  "longitude": 106.774183,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:11:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

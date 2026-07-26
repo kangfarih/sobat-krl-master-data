@@ -1,0 +1,21 @@
+{
+  "stop_name": "Klinik Pratama Pesona Medika",
+  "stop_id": "B01996P",
+  "latitude": -6.145812,
+  "longitude": 106.82585,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:38:58",
+        "06:34:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Haji Jakarta",
+  "stop_id": "B04282P",
+  "latitude": -6.290475,
+  "longitude": 106.88914,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:25:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

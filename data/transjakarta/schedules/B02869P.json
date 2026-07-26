@@ -1,0 +1,33 @@
+{
+  "stop_name": "Plaza Pp Condet 1",
+  "stop_id": "B02869P",
+  "latitude": -6.302522,
+  "longitude": 106.85729,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:16:11",
+        "05:16:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:16:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

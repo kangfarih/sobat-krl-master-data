@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Utan Kayu Jati I",
+  "stop_id": "B06996P",
+  "latitude": -6.192689,
+  "longitude": 106.884227,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:32:51",
+        "08:06:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pisok Giring Giring",
+  "stop_id": "B05077P",
+  "latitude": -6.16936,
+  "longitude": 106.90739,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:16:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

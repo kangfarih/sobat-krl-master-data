@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sekolah Daarun Naiim",
+  "stop_id": "B04626P",
+  "latitude": -6.158985,
+  "longitude": 106.70484,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:00:00",
+        "06:13:47",
+        "08:08:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

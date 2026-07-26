@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Puri Tjapang Indah",
+  "stop_id": "B06279P",
+  "latitude": -6.335267,
+  "longitude": 106.84901,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:29:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

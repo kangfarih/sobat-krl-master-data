@@ -1,0 +1,43 @@
+{
+  "stop_name": "Grogol",
+  "stop_id": "G00706",
+  "latitude": -6.166853,
+  "longitude": 106.789668,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:24:19",
+        "05:24:21",
+        "05:25:01",
+        "06:00:26",
+        "06:31:34",
+        "06:38:47",
+        "06:44:58"
+      ],
+      "weekends": [
+        "06:00:26",
+        "06:38:47"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Lebak Bulus via Cideng",
+      "weekdays": [
+        "05:29:21"
+      ],
+      "weekends": [
+        "05:29:21"
+      ]
+    }
+  ]
+}

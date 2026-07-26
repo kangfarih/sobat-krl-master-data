@@ -1,0 +1,23 @@
+{
+  "stop_name": "Jln. Bintaro Permai IV",
+  "stop_id": "B07752P",
+  "latitude": -6.265717,
+  "longitude": 106.756822,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:08:18",
+        "06:09:20"
+      ],
+      "weekends": [
+        "06:09:20"
+      ]
+    }
+  ]
+}

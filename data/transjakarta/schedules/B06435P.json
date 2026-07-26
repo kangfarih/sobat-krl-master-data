@@ -1,0 +1,22 @@
+{
+  "stop_name": "Perguruan Nurul Iman",
+  "stop_id": "B06435P",
+  "latitude": -6.213944,
+  "longitude": 106.872569,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:00:10",
+        "06:07:15",
+        "06:17:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. Japar",
+  "stop_id": "B07197P",
+  "latitude": -6.3238,
+  "longitude": 106.8947,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "06:00:46",
+        "06:42:56",
+        "06:44:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

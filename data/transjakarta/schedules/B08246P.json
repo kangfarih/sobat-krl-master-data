@@ -1,0 +1,20 @@
+{
+  "stop_name": "Magenta",
+  "stop_id": "B08246P",
+  "latitude": -6.065431,
+  "longitude": 106.689903,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:24:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

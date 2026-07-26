@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kantor Pos Pondok Pinang",
+  "stop_id": "B03891P",
+  "latitude": -6.261853,
+  "longitude": 106.77505,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:26:44",
+        "05:27:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

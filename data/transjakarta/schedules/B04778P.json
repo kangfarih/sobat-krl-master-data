@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Cipinang Lontar Mulya Jaya",
+  "stop_id": "B04778P",
+  "latitude": -6.217102,
+  "longitude": 106.89005,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:46:12",
+        "05:47:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

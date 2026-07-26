@@ -1,0 +1,20 @@
+{
+  "stop_name": "JIEXPO Kemayoran Pintu 2",
+  "stop_id": "B08577P",
+  "latitude": -6.14504,
+  "longitude": 106.84866,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:36:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

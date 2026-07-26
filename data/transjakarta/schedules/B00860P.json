@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Angkasa 1",
+  "stop_id": "B00860P",
+  "latitude": -6.1508,
+  "longitude": 106.84111,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:42:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:07:50",
+        "06:08:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

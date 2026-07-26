@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kec. Kelapa Gading",
+  "stop_id": "B01874P",
+  "latitude": -6.162414,
+  "longitude": 106.9078,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:17:55",
+        "06:25:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

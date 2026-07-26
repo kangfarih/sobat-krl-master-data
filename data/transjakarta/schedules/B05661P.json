@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Wahidin",
+  "stop_id": "B05661P",
+  "latitude": -6.166873,
+  "longitude": 106.83918,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:21:17",
+        "05:21:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

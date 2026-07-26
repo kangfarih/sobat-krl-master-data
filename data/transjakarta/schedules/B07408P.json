@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SDN Gandaria Utara 11",
+  "stop_id": "B07408P",
+  "latitude": -6.258281,
+  "longitude": 106.790641,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:54:07"
+      ],
+      "weekends": [
+        "05:54:07"
+      ]
+    }
+  ]
+}

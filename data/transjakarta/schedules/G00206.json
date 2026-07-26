@@ -1,0 +1,74 @@
+{
+  "stop_name": "Bali Mester",
+  "stop_id": "G00206",
+  "latitude": -6.21578,
+  "longitude": 106.866369,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:53:36",
+        "06:07:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang via BKT",
+      "weekdays": [
+        "05:12:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:14:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:36:16",
+        "05:37:43",
+        "06:30:52",
+        "06:50:24",
+        "06:55:02",
+        "07:09:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "06:48:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

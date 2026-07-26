@@ -1,0 +1,32 @@
+{
+  "stop_name": "Anggrek Neli Murni",
+  "stop_id": "B00051P",
+  "latitude": -6.18968,
+  "longitude": 106.79438,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:22:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:42:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

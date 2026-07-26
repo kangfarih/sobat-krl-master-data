@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Muhammadiyah Grogol",
+  "stop_id": "B04641P",
+  "latitude": -6.163319,
+  "longitude": 106.79327,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:03:30",
+        "05:03:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

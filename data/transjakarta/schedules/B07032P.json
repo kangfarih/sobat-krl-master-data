@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Cipinang Jaya LL",
+  "stop_id": "B07032P",
+  "latitude": -6.226328,
+  "longitude": 106.884023,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:27:38",
+        "06:13:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stop_name": "Sahid Sudirman Center",
+  "stop_id": "B03305P",
+  "latitude": -6.211581,
+  "longitude": 106.817992,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "06:04:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:22:55",
+        "05:59:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:34:58",
+        "05:39:36",
+        "05:49:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

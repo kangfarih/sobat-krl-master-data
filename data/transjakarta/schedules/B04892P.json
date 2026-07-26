@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Kalimalang Pahlawan Revolusi",
+  "stop_id": "B04892P",
+  "latitude": -6.245736,
+  "longitude": 106.90569,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:10:13",
+        "06:15:13",
+        "06:22:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stop_name": "SD Diakonia 2",
+  "stop_id": "B03323P",
+  "latitude": -6.112346,
+  "longitude": 106.78905,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:17:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:59:58",
+        "06:12:20",
+        "06:28:20",
+        "07:36:04",
+        "07:37:56"
+      ],
+      "weekends": [
+        "06:40:44",
+        "06:50:52"
+      ]
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:50:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

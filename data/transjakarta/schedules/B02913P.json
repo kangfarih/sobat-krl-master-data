@@ -1,0 +1,48 @@
+{
+  "stop_name": "Polsek Tanah Abang",
+  "stop_id": "B02913P",
+  "latitude": -6.201325,
+  "longitude": 106.809577,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:32:00",
+        "05:32:11",
+        "05:32:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:52:40",
+        "06:12:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:05:39",
+        "05:47:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

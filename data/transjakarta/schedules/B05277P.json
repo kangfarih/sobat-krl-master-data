@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 66",
+  "stop_id": "B05277P",
+  "latitude": -6.306231,
+  "longitude": 106.80379,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:39:47",
+        "06:50:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

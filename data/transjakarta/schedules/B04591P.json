@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Yayasan Al Azhar Syuhada",
+  "stop_id": "B04591P",
+  "latitude": -6.326612,
+  "longitude": 106.8207,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:20:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "06:00:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

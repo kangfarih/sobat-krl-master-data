@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Pinang IV Pondok Labu",
+  "stop_id": "B03818P",
+  "latitude": -6.307453,
+  "longitude": 106.80072,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:33:14",
+        "06:44:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

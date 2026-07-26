@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Utama Sakti",
+  "stop_id": "B05211P",
+  "latitude": -6.151962,
+  "longitude": 106.78157,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:44:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

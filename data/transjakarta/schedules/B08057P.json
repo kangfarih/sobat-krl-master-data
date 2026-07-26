@@ -1,0 +1,20 @@
+{
+  "stop_name": "Putri Duyung",
+  "stop_id": "B08057P",
+  "latitude": -6.122595,
+  "longitude": 106.839192,
+  "routes": [
+    {
+      "route_id": "SAT",
+      "route_short_name": "SAT",
+      "route_long_name": "Shuttle Ancol Timur",
+      "color": "b7342d",
+      "category": "Shuttle",
+      "direction": "Shuttle Ancol Timur",
+      "weekdays": [
+        "05:03:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

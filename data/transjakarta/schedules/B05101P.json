@@ -1,0 +1,35 @@
+{
+  "stop_name": "Simpang Rawa Belong Kemanggisan",
+  "stop_id": "B05101P",
+  "latitude": -6.198872,
+  "longitude": 106.78212,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "06:17:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:41:38",
+        "06:18:03",
+        "07:01:54",
+        "07:41:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Dapsus 4",
+  "stop_id": "B00298P",
+  "latitude": -6.301649,
+  "longitude": 106.79472,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:26:06",
+        "06:37:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

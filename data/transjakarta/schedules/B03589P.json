@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Raya Tugu",
+  "stop_id": "B03589P",
+  "latitude": -6.12452,
+  "longitude": 106.92245,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:05:56",
+        "06:24:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

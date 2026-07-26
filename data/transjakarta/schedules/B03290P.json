@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Pulo Gebang",
+  "stop_id": "B03290P",
+  "latitude": -6.201478,
+  "longitude": 106.94975,
+  "routes": [
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Pulo Gebang",
+      "weekdays": [
+        "05:00:10",
+        "05:45:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

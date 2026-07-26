@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bumi Daya Raya",
+  "stop_id": "B07773P",
+  "latitude": -6.334768,
+  "longitude": 106.787005,
+  "routes": [
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:05:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

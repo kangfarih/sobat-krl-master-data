@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Airy Eco Binus",
+  "stop_id": "B03439P",
+  "latitude": -6.195238,
+  "longitude": 106.78878,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:48:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

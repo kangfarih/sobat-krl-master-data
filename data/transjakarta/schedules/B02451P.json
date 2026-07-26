@@ -1,0 +1,44 @@
+{
+  "stop_name": "Midi Utama Meruya Selatan 2",
+  "stop_id": "B02451P",
+  "latitude": -6.212464,
+  "longitude": 106.73767,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "06:06:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:22:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:10:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

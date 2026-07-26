@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bugis",
+  "stop_id": "B07138P",
+  "latitude": -6.115792,
+  "longitude": 106.890323,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:28:49",
+        "06:29:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

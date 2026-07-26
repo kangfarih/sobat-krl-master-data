@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasar Cengkareng 1",
+  "stop_id": "B08045P",
+  "latitude": -6.151463,
+  "longitude": 106.728641,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:42:41",
+        "06:23:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

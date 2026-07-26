@@ -1,0 +1,20 @@
+{
+  "stop_name": "RS Pluit",
+  "stop_id": "B03166P",
+  "latitude": -6.125386,
+  "longitude": 106.79987,
+  "routes": [
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "06:56:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

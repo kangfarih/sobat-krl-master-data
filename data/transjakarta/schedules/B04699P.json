@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Al Barkah Dr Saharjo",
+  "stop_id": "B04699P",
+  "latitude": -6.220395,
+  "longitude": 106.84653,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:48:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

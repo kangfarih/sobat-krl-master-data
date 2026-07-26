@@ -1,0 +1,49 @@
+{
+  "stop_name": "Kodamar",
+  "stop_id": "G00487",
+  "latitude": -6.16205,
+  "longitude": 106.881665,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "00:58:36",
+        "05:58:36",
+        "05:58:37",
+        "07:00:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:34:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:52:10"
+      ],
+      "weekends": [
+        "06:52:10"
+      ]
+    }
+  ]
+}

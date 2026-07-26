@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pantai Indah",
+  "stop_id": "B07969P",
+  "latitude": -6.121714,
+  "longitude": 106.834394,
+  "routes": [
+    {
+      "route_id": "SAB",
+      "route_short_name": "SAB",
+      "route_long_name": "Shuttle Ancol Barat",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Ancol Barat",
+      "weekdays": [
+        "05:23:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jembatan Pluit Karang Timur",
+  "stop_id": "B01763P",
+  "latitude": -6.112866,
+  "longitude": 106.784373,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:07:20",
+        "01:19:41",
+        "05:04:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

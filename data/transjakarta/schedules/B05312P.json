@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMKN 30",
+  "stop_id": "B05312P",
+  "latitude": -6.235188,
+  "longitude": 106.791388,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:06:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

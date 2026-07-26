@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Cagar Budaya Batu Penggilingan",
+  "stop_id": "B08070P",
+  "latitude": -6.199742,
+  "longitude": 106.931625,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:37:27",
+        "05:39:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

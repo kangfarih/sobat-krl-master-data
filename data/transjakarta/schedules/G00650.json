@@ -1,0 +1,137 @@
+{
+  "stop_name": "Explorer Tanah Abang",
+  "stop_id": "G00650",
+  "latitude": -6.184305,
+  "longitude": 106.81158,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:15:53",
+        "05:29:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:46:39",
+        "06:17:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:37:17",
+        "05:49:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:55:05",
+        "05:55:14",
+        "06:02:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "06:21:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang",
+      "weekdays": [
+        "06:19:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:04:19",
+        "06:07:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:04:14",
+        "07:04:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama via Pos Pengumben",
+      "weekdays": [
+        "05:04:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:04:20",
+        "06:24:36",
+        "07:04:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

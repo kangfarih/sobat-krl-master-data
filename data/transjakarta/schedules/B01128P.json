@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Muhammad Sukabumi Utara",
+  "stop_id": "B01128P",
+  "latitude": -6.20361,
+  "longitude": 106.776069,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:33:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

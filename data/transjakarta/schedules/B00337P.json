@@ -1,0 +1,38 @@
+{
+  "stop_name": "Empang 3",
+  "stop_id": "B00337P",
+  "latitude": -6.263342,
+  "longitude": 106.84318,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:52:19",
+        "06:17:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:12:27",
+        "05:12:36",
+        "05:42:36",
+        "15:42:36"
+      ],
+      "weekends": [
+        "05:12:27"
+      ]
+    }
+  ]
+}

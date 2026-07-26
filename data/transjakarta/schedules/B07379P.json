@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Madrasah 2 Selatan",
+  "stop_id": "B07379P",
+  "latitude": -6.27984,
+  "longitude": 106.816751,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:33:18",
+        "05:34:15",
+        "05:34:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

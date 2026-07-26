@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Bojong Indah Raya",
+  "stop_id": "B03657P",
+  "latitude": -6.161731,
+  "longitude": 106.73261,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:23:22",
+        "05:23:31",
+        "07:14:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

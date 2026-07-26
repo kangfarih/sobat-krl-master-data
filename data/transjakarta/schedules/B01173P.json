@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Jelambar Barat IIIB",
+  "stop_id": "B01173P",
+  "latitude": -6.150348,
+  "longitude": 106.78321,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:29:22",
+        "05:29:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

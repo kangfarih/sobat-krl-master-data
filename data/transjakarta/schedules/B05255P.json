@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 10 Bekasi",
+  "stop_id": "B05255P",
+  "latitude": -6.176243,
+  "longitude": 106.98173,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:48:27",
+        "06:45:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Griya Harapan Permai",
+  "stop_id": "B00712P",
+  "latitude": -6.183297,
+  "longitude": 106.98167,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:11:46",
+        "07:09:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

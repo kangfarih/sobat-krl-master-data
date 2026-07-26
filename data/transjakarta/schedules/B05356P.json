@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 170",
+  "stop_id": "B05356P",
+  "latitude": -6.178079,
+  "longitude": 106.9132,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:39:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

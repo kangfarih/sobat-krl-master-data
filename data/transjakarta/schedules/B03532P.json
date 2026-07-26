@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. H. Loong Tengah",
+  "stop_id": "B03532P",
+  "latitude": -6.286908,
+  "longitude": 106.863,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:33:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

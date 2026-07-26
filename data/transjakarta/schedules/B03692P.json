@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Duri Tol",
+  "stop_id": "B03692P",
+  "latitude": -6.185032,
+  "longitude": 106.76979,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:58:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

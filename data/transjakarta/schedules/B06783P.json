@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusun Karet Tengsin",
+  "stop_id": "B06783P",
+  "latitude": -6.205575,
+  "longitude": 106.810424,
+  "routes": [
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:00:10",
+        "05:42:25",
+        "05:42:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

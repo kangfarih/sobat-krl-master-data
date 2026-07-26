@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kantor Kelurahan Larangan Utara",
+  "stop_id": "B07875P",
+  "latitude": -6.231631,
+  "longitude": 106.727857,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "06:23:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

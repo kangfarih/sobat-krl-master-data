@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Parang Tritis Raya",
+  "stop_id": "B08287P",
+  "latitude": -6.129779,
+  "longitude": 106.822003,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:52:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

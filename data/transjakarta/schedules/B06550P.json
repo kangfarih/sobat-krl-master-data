@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bank BRI Kayu Manis",
+  "stop_id": "B06550P",
+  "latitude": -6.20651,
+  "longitude": 106.86232,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:23:25",
+        "06:25:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

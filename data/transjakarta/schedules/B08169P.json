@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Sara Sawangan",
+  "stop_id": "B08169P",
+  "latitude": -6.396044,
+  "longitude": 106.776901,
+  "routes": [
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:09:51",
+        "05:10:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

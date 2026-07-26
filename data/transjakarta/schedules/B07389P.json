@@ -1,0 +1,22 @@
+{
+  "stop_name": "TK Al Mahri",
+  "stop_id": "B07389P",
+  "latitude": -6.286634,
+  "longitude": 106.812095,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:02:34"
+      ],
+      "weekends": [
+        "05:02:34"
+      ]
+    }
+  ]
+}

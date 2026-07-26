@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Rohimin Swadarma",
+  "stop_id": "B01137P",
+  "latitude": -6.232466,
+  "longitude": 106.76069,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:40:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

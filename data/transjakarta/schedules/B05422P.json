@@ -1,0 +1,33 @@
+{
+  "stop_name": "STAI Az Ziyadah 2",
+  "stop_id": "B05422P",
+  "latitude": -6.222785,
+  "longitude": 106.90469,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:52:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:29:21",
+        "06:41:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

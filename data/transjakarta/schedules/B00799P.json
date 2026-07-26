@@ -1,0 +1,33 @@
+{
+  "stop_name": "Infinia Park",
+  "stop_id": "B00799P",
+  "latitude": -6.212589,
+  "longitude": 106.84562,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:04:57",
+        "05:04:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "06:04:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

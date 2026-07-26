@@ -1,0 +1,74 @@
+{
+  "stop_name": "St. MRT Fatmawati",
+  "stop_id": "B05488P",
+  "latitude": -6.292526,
+  "longitude": 106.794354,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:53:15",
+        "05:53:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:55:32",
+        "05:55:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "06:12:29",
+        "06:20:55",
+        "07:27:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S12",
+      "route_short_name": "S12",
+      "route_long_name": "Term. BSD - Fatmawati",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Fatmawati",
+      "weekdays": [
+        "05:00:10",
+        "06:27:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S31",
+      "route_short_name": "S31",
+      "route_long_name": "Bintaro - Fatmawati",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Fatmawati",
+      "weekdays": [
+        "05:00:10",
+        "06:14:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

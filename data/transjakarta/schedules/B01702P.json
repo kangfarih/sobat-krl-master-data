@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Warakas I Gg. 5B",
+  "stop_id": "B01702P",
+  "latitude": -6.116724,
+  "longitude": 106.87801,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:53:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jembatan Chandrabaga",
+  "stop_id": "B08193P",
+  "latitude": -6.248011,
+  "longitude": 106.977509,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:36:13",
+        "05:36:28",
+        "05:36:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "SMK Mitra Pembangunan",
+  "stop_id": "B06019P",
+  "latitude": -6.278973,
+  "longitude": 106.815759,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:31:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:55:42",
+        "06:01:16",
+        "07:16:46",
+        "07:22:23"
+      ],
+      "weekends": [
+        "05:55:42",
+        "07:16:46"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Ps. Enjo",
+  "stop_id": "B06535P",
+  "latitude": -6.211062,
+  "longitude": 106.87438,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:27:37",
+        "05:27:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -4,142 +4,142 @@
     {
       "sta_id": "AC",
       "sta_name": "ANCOL",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "AK",
       "sta_name": "ANGKE",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BJD",
       "sta_name": "BOJONGGEDE",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BKS",
       "sta_name": "BEKASI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BKST",
       "sta_name": "BEKASI TIMUR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BOI",
       "sta_name": "BOJONG INDAH",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BOO",
       "sta_name": "BOGOR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BPR",
       "sta_name": "BATU CEPER",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BUA",
       "sta_name": "BUARAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CBN",
       "sta_name": "CIBINONG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CC",
       "sta_name": "CICAYUR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CIT",
       "sta_name": "CIBITUNG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CJT",
       "sta_name": "CILEJIT",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CKI",
       "sta_name": "CIKINI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CKR",
       "sta_name": "CIKARANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CKY",
       "sta_name": "CIKOYA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CLT",
       "sta_name": "CILEBUT",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CSK",
       "sta_name": "CISAUK",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CTA",
       "sta_name": "CITAYAM",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CTR",
       "sta_name": "CITERAS",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CUK",
       "sta_name": "CAKUNG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CW",
       "sta_name": "CAWANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DAR",
       "sta_name": "DARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DP",
       "sta_name": "DEPOK",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DPB",
       "sta_name": "DEPOK BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DRN",
       "sta_name": "DUREN KALIBATA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DU",
       "sta_name": "DURI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "GDD",
       "sta_name": "GONDANGDIA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "GGL",
@@ -149,412 +149,412 @@
     {
       "sta_id": "GST",
       "sta_name": "GANG SENTIONG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JAKK",
       "sta_name": "JAKARTA KOTA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JIS",
       "sta_name": "JAKARTA INTERNATIONAL STADIUM",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JAY",
       "sta_name": "JAYAKARTA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JTK",
       "sta_name": "JATAKE",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JMU",
       "sta_name": "JURANG MANGU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JNG",
       "sta_name": "JATINEGARA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JUA",
       "sta_name": "JUANDA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KAT",
       "sta_name": "KARET",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KBY",
       "sta_name": "KEBAYORAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KDS",
       "sta_name": "KALIDERES",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KLD",
       "sta_name": "KLENDER",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KLDB",
       "sta_name": "KLENDER BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KMO",
       "sta_name": "KEMAYORAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KMT",
       "sta_name": "KRAMAT",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KPB",
       "sta_name": "KAMPUNG BANDAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KRI",
       "sta_name": "KRANJI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "LNA",
       "sta_name": "LENTENG AGUNG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MGB",
       "sta_name": "MANGGA BESAR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MJ",
       "sta_name": "MAJA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MTR",
       "sta_name": "MATRAMAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MRI",
       "sta_name": "MANGGARAI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TLM",
       "sta_name": "METLAND TELAGAMURNI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "NMO",
       "sta_name": "NAMBO",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PDRG",
       "sta_name": "PONDOK RAJEG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PDJ",
       "sta_name": "PONDOK RANJI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PI",
       "sta_name": "PORIS",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PLM",
       "sta_name": "PALMERAH",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "POC",
       "sta_name": "PONDOK CINA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "POK",
       "sta_name": "PONDOK JATI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PRP",
       "sta_name": "PARUNG PANJANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PSE",
       "sta_name": "PASAR SENEN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PSG",
       "sta_name": "PESING",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PSM",
       "sta_name": "PASAR MINGGU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PSMB",
       "sta_name": "PASAR MINGGU BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "RJW",
       "sta_name": "RAJAWALI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "RU",
       "sta_name": "RAWA BUNTU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "RW",
       "sta_name": "RAWA BUAYA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SDM",
       "sta_name": "SUDIMARA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SRP",
       "sta_name": "SERPONG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SUD",
       "sta_name": "SUDIRMAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SUDB",
       "sta_name": "SUDIRMAN BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SW",
       "sta_name": "SAWAH BESAR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TB",
       "sta_name": "TAMBUN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TEB",
       "sta_name": "TEBET",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TEJ",
       "sta_name": "TENJO",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TGS",
       "sta_name": "TIGARAKSA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "THB",
       "sta_name": "TANAH ABANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TKO",
       "sta_name": "TAMAN KOTA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TNG",
       "sta_name": "TANGERANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TNT",
       "sta_name": "TANJUNG BARAT",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TPK",
       "sta_name": "TANJUNG PRIOK",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "THI",
       "sta_name": "TANAH TINGGI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "UI",
       "sta_name": "UNIV. INDONESIA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "UP",
       "sta_name": "UNIV. PANCASILA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "BBN",
       "sta_name": "BRAMBANAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CE",
       "sta_name": "CEPER",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "DL",
       "sta_name": "DELANGGU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "GW",
       "sta_name": "GAWOK",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JN",
       "sta_name": "JENAR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KT",
       "sta_name": "KLATEN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KTA",
       "sta_name": "KUTOARJO",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "LPN",
       "sta_name": "LEMPUYANGAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MGW",
       "sta_name": "MAGUWO",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PWS",
       "sta_name": "PURWOSARI",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SLO",
       "sta_name": "SOLO BALAPAN",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SWT",
       "sta_name": "SROWOT",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "WJ",
       "sta_name": "WOJO",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "WT",
       "sta_name": "WATES",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "YK",
       "sta_name": "YOGYAKARTA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "PL",
       "sta_name": "PALUR",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "SK",
       "sta_name": "SOLO JEBRES",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "JBU",
       "sta_name": "JAMBU BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CT",
       "sta_name": "CATANG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CKL",
       "sta_name": "CIKEUSAL",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "WLT",
       "sta_name": "WALANTAKA",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KRA",
       "sta_name": "KARANGANTU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "TOJB",
       "sta_name": "TONJONG BARU",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "RK",
       "sta_name": "RANGKASBITUNG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "CLG",
       "sta_name": "CILEGON",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "KEN",
       "sta_name": "KRENCENG",
-      "available": false
+      "available": true
     },
     {
       "sta_id": "MER",
       "sta_name": "MERAK",
-      "available": false
+      "available": true
     }
   ]
 }

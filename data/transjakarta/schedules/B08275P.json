@@ -1,0 +1,36 @@
+{
+  "stop_name": "Senopati Villas",
+  "stop_id": "B08275P",
+  "latitude": -6.052014,
+  "longitude": 106.704977,
+  "routes": [
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:48:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "08:30:53",
+        "10:05:53"
+      ],
+      "weekends": [
+        "08:36:50",
+        "10:36:50"
+      ]
+    }
+  ]
+}

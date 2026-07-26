@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Sukabumi Utara 03",
+  "stop_id": "B04372P",
+  "latitude": -6.20345,
+  "longitude": 106.77466,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:32:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

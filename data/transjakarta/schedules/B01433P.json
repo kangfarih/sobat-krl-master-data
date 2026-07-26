@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Pahlawan",
+  "stop_id": "B01433P",
+  "latitude": -6.300584,
+  "longitude": 106.76211,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:28:09",
+        "05:28:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:28:10",
+        "05:28:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

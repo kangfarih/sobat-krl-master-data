@@ -1,0 +1,38 @@
+{
+  "stop_name": "Jln. Tiang Bendera III",
+  "stop_id": "B01680P",
+  "latitude": -6.134768,
+  "longitude": 106.80901,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:49:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "05:31:59",
+        "06:02:02",
+        "07:09:37",
+        "07:11:28"
+      ],
+      "weekends": [
+        "06:14:17",
+        "06:24:37"
+      ]
+    }
+  ]
+}

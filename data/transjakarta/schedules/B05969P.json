@@ -1,0 +1,20 @@
+{
+  "stop_name": "Budi Mulia 1",
+  "stop_id": "B05969P",
+  "latitude": -6.13078,
+  "longitude": 106.842,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:28:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pool Taksi",
+  "stop_id": "B02947P",
+  "latitude": -6.188631,
+  "longitude": 106.93426,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:18:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:06:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

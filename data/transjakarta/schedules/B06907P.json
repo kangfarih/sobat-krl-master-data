@@ -1,0 +1,44 @@
+{
+  "stop_name": "PIK2 Pantjoran",
+  "stop_id": "B06907P",
+  "latitude": -6.089429,
+  "longitude": 106.741383,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Kali Besar Barat dan Pantai Maju",
+      "weekdays": [
+        "06:55:47",
+        "07:24:07"
+      ],
+      "weekends": [
+        "07:36:36",
+        "07:46:27"
+      ]
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "17:54:42",
+        "19:34:42"
+      ],
+      "weekends": [
+        "12:21:20",
+        "13:51:20",
+        "15:51:20",
+        "17:21:20",
+        "18:51:20",
+        "20:21:20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cemara Labu",
+  "stop_id": "B04749P",
+  "latitude": -6.116039,
+  "longitude": 106.91522,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:45:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

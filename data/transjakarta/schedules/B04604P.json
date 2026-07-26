@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. YPI Asyaadah",
+  "stop_id": "B04604P",
+  "latitude": -6.19093,
+  "longitude": 106.94391,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:16:33",
+        "06:54:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:16:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kantor Kecamatan Medan Satria",
+  "stop_id": "B08525P",
+  "latitude": -6.180809,
+  "longitude": 106.97371,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:16:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

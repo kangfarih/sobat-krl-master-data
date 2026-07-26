@@ -1,0 +1,21 @@
+{
+  "stop_name": "RSJ Dr Soeharto Heerdjan",
+  "stop_id": "B03198P",
+  "latitude": -6.162636,
+  "longitude": 106.78956,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:10:09",
+        "05:10:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

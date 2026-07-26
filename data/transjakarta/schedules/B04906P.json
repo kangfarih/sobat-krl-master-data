@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Karang Tengah Gunung Balong",
+  "stop_id": "B04906P",
+  "latitude": -6.303402,
+  "longitude": 106.78144,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:56:41",
+        "05:56:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

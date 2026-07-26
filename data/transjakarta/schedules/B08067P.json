@@ -1,0 +1,20 @@
+{
+  "stop_name": "Royal Palem 2",
+  "stop_id": "B08067P",
+  "latitude": -6.136572,
+  "longitude": 106.733708,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "06:07:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

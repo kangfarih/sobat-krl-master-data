@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Sunter Jaya V",
+  "stop_id": "B05164P",
+  "latitude": -6.158799,
+  "longitude": 106.87009,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:30:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

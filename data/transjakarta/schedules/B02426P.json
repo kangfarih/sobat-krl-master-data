@@ -1,0 +1,34 @@
+{
+  "stop_name": "Merpati",
+  "stop_id": "B02426P",
+  "latitude": -6.232175,
+  "longitude": 106.84496,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:10:45",
+        "06:36:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "06:26:15",
+        "06:28:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

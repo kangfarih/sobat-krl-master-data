@@ -1,0 +1,33 @@
+{
+  "stop_name": "Komplek DDN 1",
+  "stop_id": "B02025P",
+  "latitude": -6.303315,
+  "longitude": 106.798727,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "06:00:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:29:21",
+        "06:40:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

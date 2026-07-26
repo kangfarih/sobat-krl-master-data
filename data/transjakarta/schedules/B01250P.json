@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kelapa Kopyor Barat IV",
+  "stop_id": "B01250P",
+  "latitude": -6.168927,
+  "longitude": 106.90405,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:29:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

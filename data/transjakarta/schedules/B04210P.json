@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Plaza Senayan",
+  "stop_id": "B04210P",
+  "latitude": -6.224597,
+  "longitude": 106.798165,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:14:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

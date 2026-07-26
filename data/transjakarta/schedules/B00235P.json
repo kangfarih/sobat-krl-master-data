@@ -1,0 +1,46 @@
+{
+  "stop_name": "Cawang Soetoyo 2",
+  "stop_id": "B00235P",
+  "latitude": -6.245259,
+  "longitude": 106.876,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:52:50",
+        "05:52:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:08:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:30:12",
+        "05:30:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

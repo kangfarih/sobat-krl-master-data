@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Jeruk Raya",
+  "stop_id": "B07911P",
+  "latitude": -6.330917,
+  "longitude": 106.829158,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:50:03",
+        "07:03:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:36:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

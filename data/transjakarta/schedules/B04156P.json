@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Ps. Keramik Panglima Polim",
+  "stop_id": "B04156P",
+  "latitude": -6.25237,
+  "longitude": 106.797453,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:15:05",
+        "06:23:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:15:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

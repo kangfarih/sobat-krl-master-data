@@ -1,0 +1,34 @@
+{
+  "stop_name": "Putaran Pasar Rebo",
+  "stop_id": "B07656P",
+  "latitude": -6.306777,
+  "longitude": 106.86579,
+  "routes": [
+    {
+      "route_id": "7V",
+      "route_short_name": "7V",
+      "route_long_name": "Cibubur - Kampung Rambutan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan dan Cibubur",
+      "weekdays": [
+        "05:42:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:00:10",
+        "05:52:22",
+        "05:52:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

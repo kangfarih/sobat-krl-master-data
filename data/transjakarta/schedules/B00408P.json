@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Ash Shirot",
+  "stop_id": "B00408P",
+  "latitude": -6.297253,
+  "longitude": 106.89384,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:09:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

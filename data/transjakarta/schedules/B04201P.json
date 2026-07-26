@@ -1,0 +1,24 @@
+{
+  "stop_name": "Sbr. Pesona Square",
+  "stop_id": "B04201P",
+  "latitude": -6.379679,
+  "longitude": 106.84426,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:06:23",
+        "05:17:54",
+        "05:18:01"
+      ],
+      "weekends": [
+        "05:06:23"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Veteran 2",
+  "stop_id": "B01696P",
+  "latitude": -6.253771,
+  "longitude": 106.83574,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:34:08",
+        "06:33:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:42:12",
+        "05:42:13",
+        "05:42:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "stop_name": "Mall Kelapa Gading",
+  "stop_id": "B02191P",
+  "latitude": -6.156338,
+  "longitude": 106.90815,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:05:26",
+        "06:05:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:21:19",
+        "05:21:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:42:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:21:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:16:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

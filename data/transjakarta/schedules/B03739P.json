@@ -1,0 +1,47 @@
+{
+  "stop_name": "Sbr. Jln. Kampung Bali XXXIII",
+  "stop_id": "B03739P",
+  "latitude": -6.187046,
+  "longitude": 106.82189,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:07:41",
+        "05:21:30",
+        "05:21:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:38:29",
+        "06:08:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen via Wahid Hasyim",
+      "weekdays": [
+        "05:40:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

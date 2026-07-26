@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Puma Bundaran Kemayoran",
+  "stop_id": "B01526P",
+  "latitude": -6.155895,
+  "longitude": 106.85126,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:56:53",
+        "07:40:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "RPTRA Mutiara Rawabinong",
+  "stop_id": "B03113P",
+  "latitude": -6.298029,
+  "longitude": 106.90484,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:00:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:49:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

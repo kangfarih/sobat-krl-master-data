@@ -1,0 +1,21 @@
+{
+  "stop_name": "KUA Johar Baru",
+  "stop_id": "B02098P",
+  "latitude": -6.180784,
+  "longitude": 106.84778,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:01:12",
+        "06:01:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

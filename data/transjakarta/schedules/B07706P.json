@@ -1,0 +1,21 @@
+{
+  "stop_name": "SPBU Jln. DI Panjaitan 2",
+  "stop_id": "B07706P",
+  "latitude": -6.234979,
+  "longitude": 106.87775,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:46:48",
+        "05:46:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

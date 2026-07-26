@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pasir Putih Residences",
+  "stop_id": "B08589P",
+  "latitude": -6.02786,
+  "longitude": 106.67983,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "05:59:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

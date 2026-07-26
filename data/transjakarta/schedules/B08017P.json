@@ -1,0 +1,20 @@
+{
+  "stop_name": "Perumahan Cengkareng Elok",
+  "stop_id": "B08017P",
+  "latitude": -6.151179,
+  "longitude": 106.731017,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:03:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

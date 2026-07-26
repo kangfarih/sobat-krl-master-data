@@ -1,0 +1,53 @@
+{
+  "stop_name": "BNN 2",
+  "stop_id": "B07309P",
+  "latitude": -6.245687,
+  "longitude": 106.871111,
+  "routes": [
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:32:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "05:00:10",
+        "06:12:13",
+        "06:12:15",
+        "06:32:32",
+        "06:32:35"
+      ],
+      "weekends": [
+        "06:12:13",
+        "06:12:15"
+      ]
+    },
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "05:00:10",
+        "06:33:43",
+        "23:33:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

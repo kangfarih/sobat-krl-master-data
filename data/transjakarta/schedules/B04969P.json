@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Latumeten",
+  "stop_id": "B04969P",
+  "latitude": -6.162982,
+  "longitude": 106.79024,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:05:53",
+        "05:06:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

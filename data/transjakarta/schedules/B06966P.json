@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jembatan Baru 2",
+  "stop_id": "B06966P",
+  "latitude": -6.154695,
+  "longitude": 106.730574,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:00:10",
+        "05:46:02",
+        "06:26:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

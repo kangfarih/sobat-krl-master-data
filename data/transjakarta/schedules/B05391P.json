@@ -1,0 +1,36 @@
+{
+  "stop_name": "SMPN 8",
+  "stop_id": "B05391P",
+  "latitude": -6.201167,
+  "longitude": 106.84291,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:53:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:24:18",
+        "05:24:19",
+        "05:24:20",
+        "05:24:28",
+        "05:24:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

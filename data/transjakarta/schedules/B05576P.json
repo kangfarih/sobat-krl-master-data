@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Bambu 2",
+  "stop_id": "B05576P",
+  "latitude": -6.302619,
+  "longitude": 106.91542,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:53:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

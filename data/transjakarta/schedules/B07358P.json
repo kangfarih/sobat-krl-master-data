@@ -1,0 +1,38 @@
+{
+  "stop_name": "Tanah Kusir Kodam 2",
+  "stop_id": "B07358P",
+  "latitude": -6.25732,
+  "longitude": 106.78156,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:40:04",
+        "05:41:07"
+      ],
+      "weekends": [
+        "05:41:07"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:40:50",
+        "05:41:52"
+      ],
+      "weekends": [
+        "05:41:52"
+      ]
+    }
+  ]
+}

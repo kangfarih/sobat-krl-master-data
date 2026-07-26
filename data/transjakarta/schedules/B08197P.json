@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rumah Sakit Kayuringin Kalimalang",
+  "stop_id": "B08197P",
+  "latitude": -6.248133,
+  "longitude": 106.983735,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:42:11",
+        "08:13:38",
+        "09:10:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

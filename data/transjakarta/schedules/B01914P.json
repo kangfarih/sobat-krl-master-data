@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Duri Kepa",
+  "stop_id": "B01914P",
+  "latitude": -6.185277,
+  "longitude": 106.773209,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "06:00:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gereja Sumber Kasih",
+  "stop_id": "B00641P",
+  "latitude": -6.30282,
+  "longitude": 106.78628,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:19:21",
+        "06:30:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

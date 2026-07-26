@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. S. Bengawan Solo",
+  "stop_id": "B07961P",
+  "latitude": -6.1284844,
+  "longitude": 106.9255233,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:27:09",
+        "06:27:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

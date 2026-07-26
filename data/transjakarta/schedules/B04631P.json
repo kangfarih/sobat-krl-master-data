@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Islam Al Azhar Jagakarsa",
+  "stop_id": "B04631P",
+  "latitude": -6.330042,
+  "longitude": 106.82612,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:16:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

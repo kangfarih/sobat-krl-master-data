@@ -1,0 +1,90 @@
+{
+  "stop_name": "Pool Taksi Cawang",
+  "stop_id": "B00232P",
+  "latitude": -6.248836,
+  "longitude": 106.87801,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "06:04:37",
+        "06:04:39",
+        "06:24:57",
+        "06:24:59"
+      ],
+      "weekends": [
+        "06:04:37",
+        "06:04:39"
+      ]
+    },
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:26:07",
+        "23:26:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sentral via Jatiasih dan Vida Bekasi",
+      "weekdays": [
+        "06:09:43",
+        "06:38:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "08:20:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:48:50",
+        "05:49:14",
+        "07:11:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:14:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

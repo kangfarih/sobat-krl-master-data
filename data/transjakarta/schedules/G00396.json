@@ -1,0 +1,41 @@
+{
+  "stop_name": "Kedoya",
+  "stop_id": "G00396",
+  "latitude": -6.164433,
+  "longitude": 106.763061,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:23:22",
+        "05:48:05",
+        "05:51:16",
+        "07:16:03",
+        "07:28:52",
+        "14:10:48"
+      ],
+      "weekends": [
+        "05:23:22",
+        "05:48:05"
+      ]
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "06:07:58",
+        "06:07:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kel. Pademangan",
+  "stop_id": "B05973P",
+  "latitude": -6.13246,
+  "longitude": 106.84019,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:25:32",
+        "06:30:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

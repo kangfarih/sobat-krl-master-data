@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Cikini 7",
+  "stop_id": "B06001P",
+  "latitude": -6.188444,
+  "longitude": 106.83714,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:38:57",
+        "05:38:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:19:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

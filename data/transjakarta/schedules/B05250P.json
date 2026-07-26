@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMA Muhammadiyah 5",
+  "stop_id": "B05250P",
+  "latitude": -6.235661,
+  "longitude": 106.85353,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:03:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

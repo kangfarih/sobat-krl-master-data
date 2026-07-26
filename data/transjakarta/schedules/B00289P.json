@@ -1,0 +1,21 @@
+{
+  "stop_name": "Dahlia Town House",
+  "stop_id": "B00289P",
+  "latitude": -6.302547,
+  "longitude": 106.78796,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:20:24",
+        "06:31:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

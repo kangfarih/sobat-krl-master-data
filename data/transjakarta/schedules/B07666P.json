@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pengendapan JIEP",
+  "stop_id": "B07666P",
+  "latitude": -6.20486,
+  "longitude": 106.917525,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:32:18",
+        "08:02:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

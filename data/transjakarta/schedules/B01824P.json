@@ -1,0 +1,35 @@
+{
+  "stop_name": "Kantor Pos Lapangan Banteng",
+  "stop_id": "B01824P",
+  "latitude": -6.16877,
+  "longitude": 106.83507,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:59:19",
+        "06:00:01",
+        "06:06:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:24:12",
+        "05:24:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

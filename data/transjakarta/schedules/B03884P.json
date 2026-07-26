@@ -1,0 +1,47 @@
+{
+  "stop_name": "Sbr. Jembatan Serong",
+  "stop_id": "B03884P",
+  "latitude": -6.182357,
+  "longitude": 106.81818,
+  "routes": [
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:31:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:49:18",
+        "05:49:19",
+        "05:49:28",
+        "05:56:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang",
+      "weekdays": [
+        "06:13:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

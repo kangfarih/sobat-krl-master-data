@@ -1,0 +1,74 @@
+{
+  "stop_name": "Asean",
+  "stop_id": "G00012",
+  "latitude": -6.239911,
+  "longitude": 106.79897,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:03:56",
+        "05:04:02",
+        "05:04:03",
+        "08:04:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:03:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:03:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:04:03",
+        "07:26:31"
+      ],
+      "weekends": [
+        "07:26:31"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "PIK 2",
+      "weekdays": [
+        "05:03:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

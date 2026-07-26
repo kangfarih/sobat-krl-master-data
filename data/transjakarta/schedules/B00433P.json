@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Ciliwung Cililitan",
+  "stop_id": "B00433P",
+  "latitude": -6.263895,
+  "longitude": 106.86222,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:50:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

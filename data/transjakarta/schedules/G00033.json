@@ -1,0 +1,35 @@
+{
+  "stop_name": "Bundaran HI Astra",
+  "stop_id": "G00033",
+  "latitude": -6.193838,
+  "longitude": 106.822995,
+  "routes": [
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "06:06:51",
+        "06:06:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "06:09:58",
+        "06:09:59",
+        "06:11:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

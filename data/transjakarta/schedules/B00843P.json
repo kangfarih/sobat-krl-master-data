@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Al Hidayah Balekambang",
+  "stop_id": "B00843P",
+  "latitude": -6.288369,
+  "longitude": 106.85204,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:38:25",
+        "06:32:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

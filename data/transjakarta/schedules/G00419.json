@@ -1,0 +1,61 @@
+{
+  "stop_name": "Tegal Parang Arah Barat",
+  "stop_id": "G00419",
+  "latitude": -6.238863,
+  "longitude": 106.83022,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "05:26:28",
+        "05:54:40",
+        "05:54:41",
+        "05:54:42",
+        "05:54:43",
+        "07:14:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:29:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:33:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:54:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

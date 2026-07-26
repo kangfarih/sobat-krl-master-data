@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Cipinang Besar Selatan 01",
+  "stop_id": "B03357P",
+  "latitude": -6.228698,
+  "longitude": 106.87859,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:46:12",
+        "06:50:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

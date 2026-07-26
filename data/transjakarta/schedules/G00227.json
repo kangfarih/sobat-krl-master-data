@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jaga Jakarta",
+  "stop_id": "G00227",
+  "latitude": -6.178167,
+  "longitude": 106.842064,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:28:28",
+        "05:41:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "06:23:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

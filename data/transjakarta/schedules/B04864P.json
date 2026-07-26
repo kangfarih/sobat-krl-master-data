@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Kramat Jaya 2",
+  "stop_id": "B04864P",
+  "latitude": -6.108692,
+  "longitude": 106.91742,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:12:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

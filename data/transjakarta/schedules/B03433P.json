@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Tanah Tinggi",
+  "stop_id": "B03433P",
+  "latitude": -6.176001,
+  "longitude": 106.84694,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:04:17",
+        "06:04:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

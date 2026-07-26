@@ -1,0 +1,21 @@
+{
+  "stop_name": "Boulevard Hijau THB",
+  "stop_id": "B00167P",
+  "latitude": -6.183321,
+  "longitude": 106.98406,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:10:23",
+        "07:07:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

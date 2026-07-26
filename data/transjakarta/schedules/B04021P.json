@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Masjid Al Fida Komodor Halim",
+  "stop_id": "B04021P",
+  "latitude": -6.262977,
+  "longitude": 106.88503,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:16:42",
+        "06:09:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:12:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

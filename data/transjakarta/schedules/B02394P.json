@@ -1,0 +1,37 @@
+{
+  "stop_name": "Mediterania Boulevard",
+  "stop_id": "B02394P",
+  "latitude": -6.116048,
+  "longitude": 106.76505,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:30:11",
+        "05:30:21"
+      ],
+      "weekends": [
+        "05:30:10"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:02:02",
+        "05:57:11",
+        "23:05:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pulo Ayang 2",
+  "stop_id": "B07616P",
+  "latitude": -6.206231,
+  "longitude": 106.913885,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "06:04:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:27:45",
+        "07:57:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

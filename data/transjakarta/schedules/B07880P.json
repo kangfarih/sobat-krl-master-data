@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Yayasan As-Salam Joglo",
+  "stop_id": "B07880P",
+  "latitude": -6.223381,
+  "longitude": 106.73182,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:10:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kelapa Peon",
+  "stop_id": "B04921P",
+  "latitude": -6.317779,
+  "longitude": 106.82486,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:52:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

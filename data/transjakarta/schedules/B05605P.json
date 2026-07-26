@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Kayu Jati V",
+  "stop_id": "B05605P",
+  "latitude": -6.19034,
+  "longitude": 106.88672,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:23:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

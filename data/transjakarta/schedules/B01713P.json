@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Wijaya I",
+  "stop_id": "B01713P",
+  "latitude": -6.231789,
+  "longitude": 106.88646,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:26:31",
+        "06:24:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

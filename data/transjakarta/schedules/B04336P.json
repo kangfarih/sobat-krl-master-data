@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN Duren Sawit 01",
+  "stop_id": "B04336P",
+  "latitude": -6.226237,
+  "longitude": 106.91338,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:27:58",
+        "05:28:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

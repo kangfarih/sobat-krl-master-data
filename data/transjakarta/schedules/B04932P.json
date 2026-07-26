@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Kembangan Raya 2",
+  "stop_id": "B04932P",
+  "latitude": -6.176148,
+  "longitude": 106.74794,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:41:13",
+        "06:13:40",
+        "06:49:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

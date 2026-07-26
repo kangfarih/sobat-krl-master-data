@@ -1,0 +1,20 @@
+{
+  "stop_name": "Giant Pondok Gede 2",
+  "stop_id": "B00646P",
+  "latitude": -6.277896,
+  "longitude": 106.91309,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:22:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

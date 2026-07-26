@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. SMAN 63",
+  "stop_id": "B03847P",
+  "latitude": -6.228267,
+  "longitude": 106.74693,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:07:38",
+        "05:43:47",
+        "07:25:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

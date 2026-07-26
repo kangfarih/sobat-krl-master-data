@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Gaya Motor Raya 1",
+  "stop_id": "B07128P",
+  "latitude": -6.136009,
+  "longitude": 106.889432,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:01:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:30:47",
+        "07:09:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

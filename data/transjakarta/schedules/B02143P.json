@@ -1,0 +1,33 @@
+{
+  "stop_name": "Lion Metal 2",
+  "stop_id": "B02143P",
+  "latitude": -6.185858,
+  "longitude": 106.95209,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:24:41",
+        "06:29:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:26:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

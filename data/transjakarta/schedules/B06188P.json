@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMK Nurul Huda",
+  "stop_id": "B06188P",
+  "latitude": -6.17684,
+  "longitude": 106.93592,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "06:04:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

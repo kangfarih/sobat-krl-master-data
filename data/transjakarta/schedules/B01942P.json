@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kel. Rorotan",
+  "stop_id": "B01942P",
+  "latitude": -6.151739,
+  "longitude": 106.95584,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:45:02",
+        "05:45:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

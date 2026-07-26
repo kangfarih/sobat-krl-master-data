@@ -1,0 +1,33 @@
+{
+  "stop_name": "Graha Dirgantara",
+  "stop_id": "B00671P",
+  "latitude": -6.255702,
+  "longitude": 106.88296,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:43:25",
+        "05:43:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:08:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

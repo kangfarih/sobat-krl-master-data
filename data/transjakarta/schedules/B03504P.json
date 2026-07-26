@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Bali III Kalideres",
+  "stop_id": "B03504P",
+  "latitude": -6.15604,
+  "longitude": 106.70369,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "06:08:53",
+        "07:13:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

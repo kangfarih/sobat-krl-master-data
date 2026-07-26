@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kayu Manis X",
+  "stop_id": "B06538P",
+  "latitude": -6.209244,
+  "longitude": 106.86272,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:45:04",
+        "05:45:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

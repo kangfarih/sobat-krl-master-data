@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pool Blue Bird Puri 2",
+  "stop_id": "B02939P",
+  "latitude": -6.160742,
+  "longitude": 106.72685,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:44:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:32:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Univ. Darma Persada 2",
+  "stop_id": "B05828P",
+  "latitude": -6.230546,
+  "longitude": 106.92473,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "06:00:42",
+        "07:09:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:40:16",
+        "06:44:50",
+        "06:51:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

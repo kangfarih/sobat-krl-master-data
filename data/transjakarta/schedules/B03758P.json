@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Kramat V",
+  "stop_id": "B03758P",
+  "latitude": -6.299814,
+  "longitude": 106.91016,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:57:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:45:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

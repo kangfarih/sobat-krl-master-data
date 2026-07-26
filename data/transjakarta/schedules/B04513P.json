@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. STIE Rawamangun",
+  "stop_id": "B04513P",
+  "latitude": -6.189758,
+  "longitude": 106.88385,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:56:31",
+        "07:23:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

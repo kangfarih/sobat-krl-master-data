@@ -1,0 +1,61 @@
+{
+  "stop_name": "Tarakan",
+  "stop_id": "G00400",
+  "latitude": -6.17118,
+  "longitude": 106.810133,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Kota",
+      "weekdays": [
+        "06:00:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "05:16:17",
+        "05:16:19",
+        "09:16:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "06:06:36",
+        "06:06:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:16:19"
+      ],
+      "weekends": [
+        "05:16:19"
+      ]
+    }
+  ]
+}

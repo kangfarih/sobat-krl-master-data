@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Mangga Semangka",
+  "stop_id": "B04993P",
+  "latitude": -6.115742,
+  "longitude": 106.91088,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:39:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

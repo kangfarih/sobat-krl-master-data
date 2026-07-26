@@ -1,0 +1,34 @@
+{
+  "stop_name": "Taman Enim",
+  "stop_id": "B05589P",
+  "latitude": -6.11099,
+  "longitude": 106.88412,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:35:00",
+        "06:13:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:35:57",
+        "06:36:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

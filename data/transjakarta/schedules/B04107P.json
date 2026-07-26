@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. MTsN 38",
+  "stop_id": "B04107P",
+  "latitude": -6.158574,
+  "longitude": 106.95734,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:48:05",
+        "07:25:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:48:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

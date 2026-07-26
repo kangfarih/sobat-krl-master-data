@@ -1,0 +1,54 @@
+{
+  "stop_name": "Mangga Besar",
+  "stop_id": "G00688",
+  "latitude": -6.153256,
+  "longitude": 106.817543,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Taman Sari dan Blok M",
+      "weekdays": [
+        "05:14:43",
+        "05:14:45",
+        "05:14:48",
+        "05:22:46",
+        "05:22:47",
+        "06:04:57",
+        "08:14:47"
+      ],
+      "weekends": [
+        "05:14:43"
+      ]
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:29:12",
+        "06:29:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:09:53",
+        "06:01:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

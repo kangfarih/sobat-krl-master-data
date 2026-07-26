@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kec. Jagakarsa",
+  "stop_id": "B01871P",
+  "latitude": -6.334534,
+  "longitude": 106.82144,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:26:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

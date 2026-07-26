@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Puskesmas Jelambar II",
+  "stop_id": "B04250P",
+  "latitude": -6.160915,
+  "longitude": 106.78719,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:12:32",
+        "05:12:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

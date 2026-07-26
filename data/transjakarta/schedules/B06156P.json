@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Berlian",
+  "stop_id": "B06156P",
+  "latitude": -6.146518,
+  "longitude": 106.750728,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:20:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

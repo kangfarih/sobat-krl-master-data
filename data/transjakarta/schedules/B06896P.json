@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Danau Agung 5",
+  "stop_id": "B06896P",
+  "latitude": -6.145583,
+  "longitude": 106.860074,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:44:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

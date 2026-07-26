@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Sadar IV",
+  "stop_id": "B00548P",
+  "latitude": -6.292873,
+  "longitude": 106.90228,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:54:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Midi Utama Green Ville",
+  "stop_id": "B02447P",
+  "latitude": -6.172228,
+  "longitude": 106.77685,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:23:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Auto 2000",
+  "stop_id": "B00087P",
+  "latitude": -6.25922,
+  "longitude": 106.78922,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:36:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:06:03",
+        "06:06:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

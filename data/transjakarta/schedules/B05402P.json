@@ -1,0 +1,21 @@
+{
+  "stop_name": "SPBG Klender",
+  "stop_id": "B05402P",
+  "latitude": -6.213742,
+  "longitude": 106.90492,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:22:27",
+        "06:34:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

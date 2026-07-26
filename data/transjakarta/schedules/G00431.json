@@ -1,0 +1,62 @@
+{
+  "stop_name": "Semanggi",
+  "stop_id": "G00431",
+  "latitude": -6.220404,
+  "longitude": 106.813193,
+  "routes": [
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Semanggi dan Ancol",
+      "weekdays": [
+        "06:55:08"
+      ],
+      "weekends": [
+        "06:55:08"
+      ]
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:21:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan Alam Sutera",
+      "weekdays": [
+        "07:04:18"
+      ],
+      "weekends": [
+        "07:04:18"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:34:50"
+      ],
+      "weekends": [
+        "07:34:50"
+      ]
+    }
+  ]
+}

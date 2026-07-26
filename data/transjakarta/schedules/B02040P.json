@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Interkota Indah",
+  "stop_id": "B02040P",
+  "latitude": -6.166199,
+  "longitude": 106.724539,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:39:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stop_name": "Simpang Kodam Bintaro Permai",
+  "stop_id": "B04947P",
+  "latitude": -6.259127,
+  "longitude": 106.75974,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:03:01",
+        "06:04:03"
+      ],
+      "weekends": [
+        "06:04:03"
+      ]
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:30:32",
+        "06:51:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:44:31",
+        "05:49:38",
+        "05:50:08",
+        "07:03:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

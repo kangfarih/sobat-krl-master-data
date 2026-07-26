@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Delima Raya 2",
+  "stop_id": "B06773P",
+  "latitude": -6.221581,
+  "longitude": 106.926624,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "06:03:30",
+        "07:18:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

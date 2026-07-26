@@ -1,0 +1,22 @@
+{
+  "stop_name": "Cafe Walk",
+  "stop_id": "B08519P",
+  "latitude": -6.278034,
+  "longitude": 107.047399,
+  "routes": [
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "06:39:00",
+        "06:53:24",
+        "10:30:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

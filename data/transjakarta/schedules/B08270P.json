@@ -1,0 +1,20 @@
+{
+  "stop_name": "Galaxy",
+  "stop_id": "B08270P",
+  "latitude": -6.049351,
+  "longitude": 106.69926,
+  "routes": [
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "05:10:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

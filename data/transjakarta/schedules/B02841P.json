@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pintu Air Sunda Kelapa",
+  "stop_id": "B02841P",
+  "latitude": -6.126841,
+  "longitude": 106.80995,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:48:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

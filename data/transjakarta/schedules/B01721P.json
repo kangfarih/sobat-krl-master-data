@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jamsostek Gatot Subroto",
+  "stop_id": "B01721P",
+  "latitude": -6.232925,
+  "longitude": 106.82187,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:59:38",
+        "16:29:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

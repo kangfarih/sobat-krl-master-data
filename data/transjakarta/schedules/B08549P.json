@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kasuari",
+  "stop_id": "B08549P",
+  "latitude": -6.29972,
+  "longitude": 107.16333,
+  "routes": [
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "08:08:16",
+        "11:45:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

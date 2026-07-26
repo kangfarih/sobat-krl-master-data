@@ -1,0 +1,34 @@
+{
+  "stop_name": "UNJ 1",
+  "stop_id": "B07264P",
+  "latitude": -6.192708,
+  "longitude": 106.879957,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:01:13",
+        "07:31:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "06:15:21",
+        "07:51:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

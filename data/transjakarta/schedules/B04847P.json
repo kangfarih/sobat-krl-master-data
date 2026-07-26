@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Indraloka 1",
+  "stop_id": "B04847P",
+  "latitude": -6.157095,
+  "longitude": 106.77782,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:21:31",
+        "05:21:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "stop_name": "Stasiun Tebet",
+  "stop_id": "P00235",
+  "latitude": -6.225503,
+  "longitude": 106.85814,
+  "routes": [
+    {
+      "route_id": "6C",
+      "route_short_name": "6C",
+      "route_long_name": "Stasiun Tebet - Kuningan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Stasiun Tebet",
+      "weekdays": [
+        "05:00:10",
+        "05:44:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:00:10",
+        "05:50:07",
+        "06:06:59",
+        "06:27:12"
+      ],
+      "weekends": [
+        "05:00:10",
+        "06:06:59"
+      ]
+    }
+  ]
+}

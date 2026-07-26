@@ -1,0 +1,37 @@
+{
+  "stop_name": "Pisangan",
+  "stop_id": "G00461",
+  "latitude": -6.205525,
+  "longitude": 106.873771,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "00:34:22",
+        "05:34:20",
+        "05:34:21",
+        "06:36:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:27:56"
+      ],
+      "weekends": [
+        "06:27:56"
+      ]
+    }
+  ]
+}

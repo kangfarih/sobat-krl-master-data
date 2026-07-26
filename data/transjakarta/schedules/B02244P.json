@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Al Huda Kemayoran",
+  "stop_id": "B02244P",
+  "latitude": -6.163822,
+  "longitude": 106.85274,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:23:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:56:05",
+        "05:56:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Semangka I",
+  "stop_id": "B05142P",
+  "latitude": -6.179887,
+  "longitude": 106.8059,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:38:07",
+        "05:50:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

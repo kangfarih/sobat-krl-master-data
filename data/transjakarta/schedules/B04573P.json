@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Transvision Tebet",
+  "stop_id": "B04573P",
+  "latitude": -6.229498,
+  "longitude": 106.8471,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:12:53",
+        "06:38:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Cempaka Putih",
+  "stop_id": "G00479",
+  "latitude": -6.174226,
+  "longitude": 106.876454,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "05:42:02",
+        "06:29:33",
+        "07:12:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:42:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

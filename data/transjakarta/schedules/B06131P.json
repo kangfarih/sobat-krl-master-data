@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Kramat Jaya Baru I",
+  "stop_id": "B06131P",
+  "latitude": -6.184338,
+  "longitude": 106.855207,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:52:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:39:09",
+        "06:46:25",
+        "06:56:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

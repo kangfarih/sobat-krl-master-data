@@ -1,0 +1,34 @@
+{
+  "stop_name": "Taman Rekreasi Wiladatika",
+  "stop_id": "B05645P",
+  "latitude": -6.369751,
+  "longitude": 106.89248,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:59:57",
+        "06:37:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "06:08:45",
+        "06:53:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

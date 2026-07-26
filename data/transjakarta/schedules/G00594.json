@@ -1,0 +1,52 @@
+{
+  "stop_name": "Kebayoran Lama",
+  "stop_id": "G00594",
+  "latitude": -6.238344,
+  "longitude": 106.777524,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "01:31:32",
+        "05:29:44",
+        "05:29:45",
+        "05:29:50",
+        "06:04:26",
+        "06:43:21",
+        "23:15:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:33:22",
+        "06:43:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "06:00:55",
+        "07:27:27"
+      ]
+    }
+  ]
+}

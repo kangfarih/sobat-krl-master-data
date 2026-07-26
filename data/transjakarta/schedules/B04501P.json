@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. SPBU M Kahfi 1",
+  "stop_id": "B04501P",
+  "latitude": -6.350204,
+  "longitude": 106.80167,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:13:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:07:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

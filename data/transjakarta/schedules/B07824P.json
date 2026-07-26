@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 159 Jakarta",
+  "stop_id": "B07824P",
+  "latitude": -6.152082,
+  "longitude": 106.796394,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:58:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

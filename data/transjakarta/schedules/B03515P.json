@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. CC Palmerah",
+  "stop_id": "B03515P",
+  "latitude": -6.202017,
+  "longitude": 106.7883,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:26:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

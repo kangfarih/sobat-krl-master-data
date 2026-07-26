@@ -1,0 +1,32 @@
+{
+  "stop_name": "Menara Mandiri Wijaya Kusuma",
+  "stop_id": "B07900P",
+  "latitude": -6.158857,
+  "longitude": 106.76896,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "06:15:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:03:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kantor Kelurahan Palmeriam",
+  "stop_id": "B08400P",
+  "latitude": -6.207031,
+  "longitude": 106.861643,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:46:40",
+        "05:46:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

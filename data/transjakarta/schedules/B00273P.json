@@ -1,0 +1,35 @@
+{
+  "stop_name": "Cipta Karya Tata Ruang Pertahanan 2",
+  "stop_id": "B00273P",
+  "latitude": -6.179903,
+  "longitude": 106.81049,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:07:22",
+        "05:27:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:10:50",
+        "05:15:28",
+        "05:24:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

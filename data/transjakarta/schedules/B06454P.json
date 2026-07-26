@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Mushola Baburrahman",
+  "stop_id": "B06454P",
+  "latitude": -6.179741,
+  "longitude": 106.851642,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:46:11",
+        "06:53:22",
+        "07:03:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

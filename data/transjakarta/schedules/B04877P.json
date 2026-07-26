@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Salam IV",
+  "stop_id": "B04877P",
+  "latitude": -6.203626,
+  "longitude": 106.77898,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:04:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

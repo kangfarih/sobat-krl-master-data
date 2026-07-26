@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Grand Palm",
+  "stop_id": "B03606P",
+  "latitude": -6.178345,
+  "longitude": 106.71575,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:42:49",
+        "05:56:36",
+        "07:50:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

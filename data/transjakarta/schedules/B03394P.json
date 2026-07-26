@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Marunda 01",
+  "stop_id": "B03394P",
+  "latitude": -6.124985,
+  "longitude": 106.95892,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:56:20",
+        "07:14:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

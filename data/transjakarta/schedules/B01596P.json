@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Srengseng Dalam Lap Bola",
+  "stop_id": "B01596P",
+  "latitude": -6.203141,
+  "longitude": 106.75978,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:30:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kec. Kramat Jati",
+  "stop_id": "B01877P",
+  "latitude": -6.284472,
+  "longitude": 106.87141,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "06:07:49",
+        "07:07:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:42:29",
+        "05:42:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

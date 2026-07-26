@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Poncol Jaya 1",
+  "stop_id": "B01509P",
+  "latitude": -6.239706,
+  "longitude": 106.81889,
+  "routes": [
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:45:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:28:35",
+        "06:23:31",
+        "06:50:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

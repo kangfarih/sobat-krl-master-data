@@ -1,0 +1,74 @@
+{
+  "stop_name": "Matraman",
+  "stop_id": "G00216",
+  "latitude": -6.199931,
+  "longitude": 106.854476,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Galunggung via Saharjo",
+      "weekdays": [
+        "05:36:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:42:16",
+        "05:55:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:35:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:24:57",
+        "05:26:24",
+        "06:19:33",
+        "06:39:05",
+        "06:43:43",
+        "06:58:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "05:15:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

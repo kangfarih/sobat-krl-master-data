@@ -1,0 +1,34 @@
+{
+  "stop_name": "Gereja Ora Et Labora",
+  "stop_id": "B00633P",
+  "latitude": -6.110257,
+  "longitude": 106.92607,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:20:30",
+        "06:49:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:23:49",
+        "06:42:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

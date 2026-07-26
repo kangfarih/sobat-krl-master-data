@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMA 40",
+  "stop_id": "B05970P",
+  "latitude": -6.13136,
+  "longitude": 106.84143,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:26:33",
+        "06:31:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

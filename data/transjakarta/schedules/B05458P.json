@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Klender 2",
+  "stop_id": "B05458P",
+  "latitude": -6.213433,
+  "longitude": 106.89787,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:21:42",
+        "06:18:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

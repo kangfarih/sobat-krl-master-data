@@ -1,0 +1,21 @@
+{
+  "stop_name": "Penas Kalimalang 1",
+  "stop_id": "B02722P",
+  "latitude": -6.239263,
+  "longitude": 106.877862,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:46:26",
+        "07:22:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

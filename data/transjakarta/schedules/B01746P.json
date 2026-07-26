@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jembatan Kali Tegal Amba",
+  "stop_id": "B01746P",
+  "latitude": -6.222926,
+  "longitude": 106.90534,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:22:26",
+        "06:26:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:33:24",
+        "05:33:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

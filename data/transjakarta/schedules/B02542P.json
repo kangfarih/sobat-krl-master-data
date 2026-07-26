@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pabrik Plastik Sawah Mede",
+  "stop_id": "B02542P",
+  "latitude": -6.096407,
+  "longitude": 106.71066,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:20:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

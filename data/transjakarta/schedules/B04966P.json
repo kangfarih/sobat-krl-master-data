@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Lapan Madrasah 2",
+  "stop_id": "B04966P",
+  "latitude": -6.341683,
+  "longitude": 106.86317,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:40:47",
+        "06:45:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stop_name": "Sports Center",
+  "stop_id": "B08115P",
+  "latitude": -6.239559,
+  "longitude": 106.657872,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "07:14:23",
+        "09:24:46",
+        "09:38:17"
+      ],
+      "weekends": [
+        "09:24:46",
+        "09:38:17"
+      ]
+    }
+  ]
+}

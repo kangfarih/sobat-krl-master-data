@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tanjung Duren Arah Timur",
+  "stop_id": "P00212",
+  "latitude": -6.175799,
+  "longitude": 106.79308,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Kebayoran Lama",
+      "weekdays": [
+        "05:11:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

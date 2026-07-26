@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tanah Baru Cipedak",
+  "stop_id": "B05670P",
+  "latitude": -6.363462,
+  "longitude": 106.80684,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:18:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

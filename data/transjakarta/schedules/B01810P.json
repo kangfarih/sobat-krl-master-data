@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kampus Senayan",
+  "stop_id": "B01810P",
+  "latitude": -6.229233,
+  "longitude": 106.796966,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:11:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

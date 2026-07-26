@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Cibubur 11",
+  "stop_id": "B04329P",
+  "latitude": -6.342004,
+  "longitude": 106.87382,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:52:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "stop_name": "Paseban",
+  "stop_id": "G00218",
+  "latitude": -6.196736,
+  "longitude": 106.851064,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:39:43",
+        "05:53:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:22:24",
+        "05:23:51",
+        "06:17:00",
+        "06:36:32",
+        "06:41:10",
+        "06:56:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "05:17:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

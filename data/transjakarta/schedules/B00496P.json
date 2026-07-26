@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Kembang II Pagelarang",
+  "stop_id": "B00496P",
+  "latitude": -6.304986,
+  "longitude": 106.91681,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:31:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

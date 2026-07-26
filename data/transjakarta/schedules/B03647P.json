@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Bambu II Srengseng",
+  "stop_id": "B03647P",
+  "latitude": -6.210918,
+  "longitude": 106.75912,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:42:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:08:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Karya Sakti Srengseng",
+  "stop_id": "B01214P",
+  "latitude": -6.216001,
+  "longitude": 106.76008,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:30:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:39:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

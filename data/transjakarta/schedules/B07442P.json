@@ -1,0 +1,26 @@
+{
+  "stop_name": "Sbr. SMPN 212 Jakarta",
+  "stop_id": "B07442P",
+  "latitude": -6.282588,
+  "longitude": 106.813411,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:59:37",
+        "06:05:11",
+        "07:20:40",
+        "07:26:17"
+      ],
+      "weekends": [
+        "05:59:37",
+        "07:20:40"
+      ]
+    }
+  ]
+}

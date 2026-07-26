@@ -1,0 +1,55 @@
+{
+  "stop_name": "Roxy",
+  "stop_id": "G00128",
+  "latitude": -6.166316,
+  "longitude": 106.796808,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:20:30",
+        "05:20:32",
+        "05:21:12",
+        "05:56:37",
+        "06:27:45",
+        "06:34:58",
+        "06:41:09"
+      ],
+      "weekends": [
+        "05:56:37",
+        "06:34:58"
+      ]
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:15:48",
+        "06:17:38",
+        "06:26:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Damai",
+      "weekdays": [
+        "05:38:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

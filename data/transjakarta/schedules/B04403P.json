@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Sekretariat 06 Wijaya Kusuma",
+  "stop_id": "B04403P",
+  "latitude": -6.155595,
+  "longitude": 106.77781,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:22:33",
+        "05:22:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

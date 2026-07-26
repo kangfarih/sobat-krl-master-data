@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ps. Bulak",
+  "stop_id": "B04134P",
+  "latitude": -6.214906,
+  "longitude": 106.90402,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:23:36",
+        "06:35:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

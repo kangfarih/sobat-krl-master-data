@@ -1,0 +1,36 @@
+{
+  "stop_name": "Simpang Permata Meruya 2",
+  "stop_id": "B05067P",
+  "latitude": -6.195059,
+  "longitude": 106.73972,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:14:57",
+        "05:15:00",
+        "05:15:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:34:24",
+        "07:06:52",
+        "07:43:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

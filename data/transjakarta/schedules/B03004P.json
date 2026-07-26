@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pulo Mas Bypass 2",
+  "stop_id": "B03004P",
+  "latitude": -6.177207,
+  "longitude": 106.87582,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:32:21",
+        "05:32:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

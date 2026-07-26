@@ -1,0 +1,34 @@
+{
+  "stop_name": "Gg. Abdul Hamid",
+  "stop_id": "B00393P",
+  "latitude": -6.137241,
+  "longitude": 106.81896,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:09:49",
+        "06:30:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:25:08",
+        "07:08:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "RPTRA Ikapola",
+  "stop_id": "B08560P",
+  "latitude": -6.24706,
+  "longitude": 106.93519,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:20:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

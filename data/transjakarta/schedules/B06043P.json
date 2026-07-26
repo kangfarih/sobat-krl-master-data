@@ -1,0 +1,36 @@
+{
+  "stop_name": "Seberang Food Street",
+  "stop_id": "B06043P",
+  "latitude": -6.093258,
+  "longitude": 106.74379,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:04:38",
+        "05:04:39"
+      ],
+      "weekends": [
+        "05:04:36",
+        "05:04:37"
+      ]
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:41:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Slipi Petamburan 3",
+  "stop_id": "B06909P",
+  "latitude": -6.200982,
+  "longitude": 106.799123,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:27:34",
+        "05:27:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "05:29:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

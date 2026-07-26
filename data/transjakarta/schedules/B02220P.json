@@ -1,0 +1,41 @@
+{
+  "stop_name": "Margasatwa 2",
+  "stop_id": "B02220P",
+  "latitude": -6.116182,
+  "longitude": 106.76908,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:24:23",
+        "06:36:44",
+        "06:52:49",
+        "08:00:21",
+        "08:06:20"
+      ],
+      "weekends": [
+        "07:05:09",
+        "07:15:08"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:20:04",
+        "01:32:25",
+        "05:11:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

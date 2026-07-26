@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Z Sukabumi Selatan 1",
+  "stop_id": "B05221P",
+  "latitude": -6.218681,
+  "longitude": 106.77024,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:51:17",
+        "06:23:02",
+        "06:58:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

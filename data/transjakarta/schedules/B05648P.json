@@ -1,0 +1,47 @@
+{
+  "stop_name": "Taman Ria",
+  "stop_id": "B05648P",
+  "latitude": -6.213308,
+  "longitude": 106.80236,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:05:52",
+        "05:05:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Palmerah",
+      "weekdays": [
+        "05:05:52",
+        "05:05:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:21:11",
+        "05:22:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

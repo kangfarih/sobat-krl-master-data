@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kober Ulujami",
+  "stop_id": "B08609P",
+  "latitude": -6.253363,
+  "longitude": 106.764727,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:36:33",
+        "06:55:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

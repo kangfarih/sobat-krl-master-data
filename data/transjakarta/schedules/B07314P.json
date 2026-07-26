@@ -1,0 +1,34 @@
+{
+  "stop_name": "St. Palmerah 1",
+  "stop_id": "B07314P",
+  "latitude": -6.209138,
+  "longitude": 106.796946,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "06:03:47",
+        "06:17:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:58:32",
+        "06:20:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

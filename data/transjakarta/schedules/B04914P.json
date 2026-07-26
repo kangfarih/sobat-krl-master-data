@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Kejaksaan H. Muchtar Raya",
+  "stop_id": "B04914P",
+  "latitude": -6.225361,
+  "longitude": 106.73783,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:21:24",
+        "07:02:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

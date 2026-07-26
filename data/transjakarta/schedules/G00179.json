@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pemuda Rawamangun",
+  "stop_id": "G00179",
+  "latitude": -6.193526,
+  "longitude": 106.891694,
+  "routes": [
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:13:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Cluster Palm Spring",
+  "stop_id": "B08263P",
+  "latitude": -6.0620561,
+  "longitude": 106.6947325,
+  "routes": [
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "08:35:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

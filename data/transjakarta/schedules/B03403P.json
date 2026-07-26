@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Pegangsaan Dua 07",
+  "stop_id": "B03403P",
+  "latitude": -6.175069,
+  "longitude": 106.91123,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:28:57",
+        "06:36:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

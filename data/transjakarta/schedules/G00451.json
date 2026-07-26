@@ -1,0 +1,47 @@
+{
+  "stop_name": "Simpang Cawang",
+  "stop_id": "G00451",
+  "latitude": -6.244803,
+  "longitude": 106.876004,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Sunter Kelapa Gading dan PGC",
+      "weekdays": [
+        "06:20:34",
+        "07:08:02",
+        "07:50:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:48:25",
+        "05:49:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9N",
+      "route_short_name": "9N",
+      "route_long_name": "Pinang Ranti - Simpang Cawang",
+      "color": "66a4a0",
+      "category": "BRT",
+      "direction": "Simpang Cawang dan Pinang Ranti",
+      "weekdays": [],
+      "weekends": [
+        "05:36:39"
+      ]
+    }
+  ]
+}

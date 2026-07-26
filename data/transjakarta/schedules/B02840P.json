@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pintu Air Menteng",
+  "stop_id": "B02840P",
+  "latitude": -6.19598,
+  "longitude": 106.83266,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:39:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:52:43",
+        "05:52:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

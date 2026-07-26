@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Taman Pangkalan Jati",
+  "stop_id": "B04533P",
+  "latitude": -6.245966,
+  "longitude": 106.90497,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:50:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kb. Baru",
+  "stop_id": "B01861P",
+  "latitude": -6.115869,
+  "longitude": 106.92448,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:08:31",
+        "06:36:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

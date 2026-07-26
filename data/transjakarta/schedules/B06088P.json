@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Swadaya Utama Kalideres",
+  "stop_id": "B06088P",
+  "latitude": -6.157231,
+  "longitude": 106.702837,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:18:41",
+        "08:12:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jelambar Barat Utama I",
+  "stop_id": "B04881P",
+  "latitude": -6.151226,
+  "longitude": 106.78404,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:28:20",
+        "05:28:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

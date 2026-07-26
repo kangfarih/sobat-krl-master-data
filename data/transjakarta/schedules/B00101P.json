@@ -1,0 +1,25 @@
+{
+  "stop_name": "Balai Kartini",
+  "stop_id": "B00101P",
+  "latitude": -6.234791,
+  "longitude": 106.82457,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:39:59",
+        "05:45:53",
+        "07:01:26",
+        "16:31:17"
+      ],
+      "weekends": [
+        "05:45:53"
+      ]
+    }
+  ]
+}

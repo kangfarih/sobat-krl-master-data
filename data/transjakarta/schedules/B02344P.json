@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Jami Baitushobri Kembangan",
+  "stop_id": "B02344P",
+  "latitude": -6.18479,
+  "longitude": 106.73415,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:08:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:04:09",
+        "06:55:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

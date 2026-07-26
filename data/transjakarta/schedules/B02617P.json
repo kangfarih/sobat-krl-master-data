@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Jelambar Polri",
+  "stop_id": "B02617P",
+  "latitude": -6.160652,
+  "longitude": 106.77891,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:51:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

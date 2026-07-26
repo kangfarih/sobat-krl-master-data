@@ -1,0 +1,62 @@
+{
+  "stop_name": "Satrio 6",
+  "stop_id": "B02155P",
+  "latitude": -6.222992,
+  "longitude": 106.82306,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "06:11:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:30:32",
+        "05:47:13",
+        "06:07:32"
+      ],
+      "weekends": [
+        "05:47:13"
+      ]
+    },
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Karet",
+      "weekdays": [
+        "05:16:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:22:28",
+        "06:04:40",
+        "06:46:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Polsek Kemayoran 2",
+  "stop_id": "B02908P",
+  "latitude": -6.159595,
+  "longitude": 106.85329,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:30:55",
+        "05:31:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "stop_name": "Widya Chandra Telkomsel Arah Timur",
+  "stop_id": "G00667",
+  "latitude": -6.226556,
+  "longitude": 106.817451,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "06:06:52",
+        "06:07:20",
+        "06:07:25",
+        "06:17:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:36:22",
+        "06:40:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:14:13",
+        "05:30:17",
+        "06:32:20"
+      ],
+      "weekends": [
+        "05:30:17"
+      ]
+    }
+  ]
+}

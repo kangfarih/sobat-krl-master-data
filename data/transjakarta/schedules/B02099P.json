@@ -1,0 +1,20 @@
+{
+  "stop_name": "KUA Kramat Jati",
+  "stop_id": "B02099P",
+  "latitude": -6.291901,
+  "longitude": 106.87559,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:24:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

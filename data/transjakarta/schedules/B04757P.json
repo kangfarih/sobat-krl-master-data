@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cempaka IV Raya 1",
+  "stop_id": "B04757P",
+  "latitude": -6.178123,
+  "longitude": 106.860618,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:45:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

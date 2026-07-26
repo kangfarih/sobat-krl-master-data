@@ -1,0 +1,47 @@
+{
+  "stop_name": "Pintu Air Juanda",
+  "stop_id": "B06068P",
+  "latitude": -6.167859,
+  "longitude": 106.82997,
+  "routes": [
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Juanda",
+      "weekdays": [
+        "08:36:43"
+      ],
+      "weekends": [
+        "15:36:43"
+      ]
+    },
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Juanda dan Tanah Abang",
+      "weekdays": [
+        "05:19:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "07:29:49",
+        "07:29:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stop_name": "Patra Kuningan",
+  "stop_id": "G00281",
+  "latitude": -6.232696,
+  "longitude": 106.832085,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:20:01",
+        "06:24:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "05:31:50",
+        "06:51:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Kuningan",
+      "weekdays": [
+        "06:32:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Muala Palmerah",
+  "stop_id": "B03720P",
+  "latitude": -6.198462,
+  "longitude": 106.78774,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:54:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

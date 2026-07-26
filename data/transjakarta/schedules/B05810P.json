@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tugu Inti Persada Nusantara 2",
+  "stop_id": "B05810P",
+  "latitude": -6.095764,
+  "longitude": 106.71828,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:25:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

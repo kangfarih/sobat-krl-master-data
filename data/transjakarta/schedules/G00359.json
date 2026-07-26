@@ -1,0 +1,60 @@
+{
+  "stop_name": "Lebak Bulus",
+  "stop_id": "G00359",
+  "latitude": -6.28938,
+  "longitude": 106.774076,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:00:10",
+        "06:39:31",
+        "07:04:14",
+        "07:07:25",
+        "08:32:11",
+        "08:45:01",
+        "14:00:10",
+        "15:26:47"
+      ],
+      "weekends": [
+        "05:00:10",
+        "06:39:31",
+        "07:04:14"
+      ]
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:00:10",
+        "07:17:43",
+        "07:17:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:00:10",
+        "06:23:59",
+        "06:33:20",
+        "07:38:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

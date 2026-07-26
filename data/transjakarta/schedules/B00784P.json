@@ -1,0 +1,21 @@
+{
+  "stop_name": "Hutan Kota Srengseng",
+  "stop_id": "B00784P",
+  "latitude": -6.208678,
+  "longitude": 106.76361,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:00:10",
+        "06:30:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

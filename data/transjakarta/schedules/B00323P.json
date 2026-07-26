@@ -1,0 +1,89 @@
+{
+  "stop_name": "DPRD DKI Jakarta",
+  "stop_id": "B00323P",
+  "latitude": -6.182886,
+  "longitude": 106.82851,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:10:34",
+        "05:10:35",
+        "05:10:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:29:59",
+        "05:56:13",
+        "06:07:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Balai Kota dan Gondangdia",
+      "weekdays": [
+        "05:05:08",
+        "05:14:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:08:53",
+        "06:02:14",
+        "06:06:05",
+        "06:14:07",
+        "06:21:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW2",
+      "route_short_name": "BW2",
+      "route_long_name": "Monas Explorer",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Monas Explorer",
+      "weekdays": [
+        "10:09:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:11:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

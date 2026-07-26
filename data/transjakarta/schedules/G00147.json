@@ -1,0 +1,41 @@
+{
+  "stop_name": "Damai",
+  "stop_id": "G00147",
+  "latitude": -6.163347,
+  "longitude": 106.77525,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "06:35:25",
+        "06:35:27",
+        "06:35:30",
+        "07:35:38",
+        "08:06:43",
+        "09:10:00",
+        "15:35:14"
+      ],
+      "weekends": [
+        "06:35:25",
+        "06:35:30"
+      ]
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

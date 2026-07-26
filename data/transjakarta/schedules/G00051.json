@@ -1,0 +1,55 @@
+{
+  "stop_name": "Sawah Besar",
+  "stop_id": "G00051",
+  "latitude": -6.157366,
+  "longitude": 106.818702,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Taman Sari dan Blok M",
+      "weekdays": [
+        "05:17:05",
+        "05:17:07",
+        "05:17:11",
+        "05:25:08",
+        "05:25:09",
+        "06:07:20",
+        "08:17:10"
+      ],
+      "weekends": [
+        "05:17:05"
+      ]
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:23:10",
+        "06:31:34",
+        "06:31:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:12:18",
+        "06:03:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

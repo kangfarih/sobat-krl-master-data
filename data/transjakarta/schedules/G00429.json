@@ -1,0 +1,91 @@
+{
+  "stop_name": "Semanggi",
+  "stop_id": "G00429",
+  "latitude": -6.220511,
+  "longitude": 106.812943,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "05:40:16",
+        "06:08:26",
+        "06:08:30",
+        "06:08:31",
+        "07:28:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Semanggi dan Ancol",
+      "weekdays": [
+        "07:17:08"
+      ],
+      "weekends": [
+        "07:17:08"
+      ]
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:43:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:47:44",
+        "05:47:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan Alam Sutera",
+      "weekdays": [
+        "07:26:30"
+      ],
+      "weekends": [
+        "07:26:30"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:56:50"
+      ],
+      "weekends": [
+        "07:56:50"
+      ]
+    }
+  ]
+}

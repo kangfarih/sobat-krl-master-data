@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Burung Barito",
+  "stop_id": "B06737P",
+  "latitude": -6.242755,
+  "longitude": 106.793087,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:08:22",
+        "06:16:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

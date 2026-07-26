@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Iman Utara Cibubur",
+  "stop_id": "B00487P",
+  "latitude": -6.358625,
+  "longitude": 106.88184,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:00:10",
+        "06:11:13",
+        "06:49:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

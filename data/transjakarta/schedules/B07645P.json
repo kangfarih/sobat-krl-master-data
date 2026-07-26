@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Madrasah",
+  "stop_id": "B07645P",
+  "latitude": -6.3425898,
+  "longitude": 106.86093,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:03:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

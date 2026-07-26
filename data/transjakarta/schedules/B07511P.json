@@ -1,0 +1,20 @@
+{
+  "stop_name": "St. Klender 3",
+  "stop_id": "B07511P",
+  "latitude": -6.213714,
+  "longitude": 106.90048,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:38:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Aston Pluit 2",
+  "stop_id": "B00080P",
+  "latitude": -6.124268,
+  "longitude": 106.79419,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:09:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

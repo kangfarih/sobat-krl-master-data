@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gerbang Tol Joglo 1",
+  "stop_id": "B00617P",
+  "latitude": -6.218914,
+  "longitude": 106.74426,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:58:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "06:03:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

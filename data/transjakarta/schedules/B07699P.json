@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun PIK Penggilingan",
+  "stop_id": "B07699P",
+  "latitude": -6.205682,
+  "longitude": 106.929107,
+  "routes": [
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:19:52",
+        "05:59:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

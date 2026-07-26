@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Tj. Priok",
+  "stop_id": "B01954P",
+  "latitude": -6.113159,
+  "longitude": 106.8813,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:57:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jembatan Genit 2",
+  "stop_id": "B01744P",
+  "latitude": -6.15217,
+  "longitude": 106.771301,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:09:39",
+        "06:31:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:03:26",
+        "05:43:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

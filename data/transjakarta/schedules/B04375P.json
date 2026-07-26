@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Tengah 06",
+  "stop_id": "B04375P",
+  "latitude": -6.292621,
+  "longitude": 106.86173,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:26:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Mulyasari",
+  "stop_id": "B04291P",
+  "latitude": -6.129618,
+  "longitude": 106.90613,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:30:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "RS Setia Mitra 1",
+  "stop_id": "B03174P",
+  "latitude": -6.281325,
+  "longitude": 106.7964,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pondok Labu",
+      "weekdays": [
+        "05:31:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:46:46",
+        "05:47:43",
+        "05:47:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

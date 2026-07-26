@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RPTRA Radar Pembangunan",
+  "stop_id": "B04272P",
+  "latitude": -6.120126,
+  "longitude": 106.89638,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:43:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

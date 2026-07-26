@@ -1,0 +1,26 @@
+{
+  "stop_name": "Galunggung",
+  "stop_id": "G00202",
+  "latitude": -6.204347,
+  "longitude": 106.823351,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Manggarai dan Galunggung",
+      "weekdays": [
+        "05:38:19",
+        "06:08:29",
+        "06:12:42",
+        "06:23:58",
+        "06:48:56"
+      ],
+      "weekends": [
+        "06:08:29"
+      ]
+    }
+  ]
+}

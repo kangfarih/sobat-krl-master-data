@@ -1,0 +1,28 @@
+{
+  "stop_name": "Permata Hijau",
+  "stop_id": "G00381",
+  "latitude": -6.221458,
+  "longitude": 106.783239,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:50:22",
+        "05:50:32",
+        "05:50:35",
+        "06:50:44",
+        "07:21:49",
+        "14:50:23"
+      ],
+      "weekends": [
+        "05:50:32",
+        "05:50:35"
+      ]
+    }
+  ]
+}

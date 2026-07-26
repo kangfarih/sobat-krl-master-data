@@ -1,0 +1,20 @@
+{
+  "stop_name": "Permata Hijau Residence",
+  "stop_id": "B08587P",
+  "latitude": -6.02192,
+  "longitude": 106.6377,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "05:26:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

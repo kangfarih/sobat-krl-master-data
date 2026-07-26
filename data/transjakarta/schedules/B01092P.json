@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Hadiah Utama II",
+  "stop_id": "B01092P",
+  "latitude": -6.161501,
+  "longitude": 106.77987,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:52:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

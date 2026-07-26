@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Keramat",
+  "stop_id": "B06838P",
+  "latitude": -6.329124,
+  "longitude": 106.825056,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:16:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

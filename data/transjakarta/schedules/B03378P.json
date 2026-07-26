@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Kalisari 01",
+  "stop_id": "B03378P",
+  "latitude": -6.336151,
+  "longitude": 106.854529,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:32:22",
+        "06:36:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

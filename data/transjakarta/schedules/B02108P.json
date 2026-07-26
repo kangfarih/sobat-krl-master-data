@@ -1,0 +1,33 @@
+{
+  "stop_name": "Lakesgilut TNI AU 1",
+  "stop_id": "B02108P",
+  "latitude": -6.287631,
+  "longitude": 106.89811,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:09:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:50:17",
+        "06:42:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stop_name": "Bendungan Hilir",
+  "stop_id": "G00020",
+  "latitude": -6.217194,
+  "longitude": 106.815261,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:48:33",
+        "05:51:27",
+        "05:59:23",
+        "06:10:23",
+        "06:41:33",
+        "14:23:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

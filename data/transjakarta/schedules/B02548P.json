@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pajak Dan Retribusi Cakung",
+  "stop_id": "B02548P",
+  "latitude": -6.205256,
+  "longitude": 106.9312,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:31:23",
+        "05:33:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

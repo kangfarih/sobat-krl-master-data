@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ponpes Baitul Quran Al Ikhwan 2",
+  "stop_id": "B02933P",
+  "latitude": -6.12889,
+  "longitude": 106.96502,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:06:45",
+        "05:06:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

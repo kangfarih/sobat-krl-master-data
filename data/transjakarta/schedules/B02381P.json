@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Safinatul Husna",
+  "stop_id": "B02381P",
+  "latitude": -6.138183,
+  "longitude": 106.71594,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:06:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

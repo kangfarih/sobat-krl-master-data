@@ -1,0 +1,32 @@
+{
+  "stop_name": "SMPN 6 Bekasi",
+  "stop_id": "B05387P",
+  "latitude": -6.28259,
+  "longitude": 106.91272,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:18:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:03:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

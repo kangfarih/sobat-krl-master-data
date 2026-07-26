@@ -1,0 +1,21 @@
+{
+  "stop_name": "Utan Kayu Rawamangun 1",
+  "stop_id": "B07707P",
+  "latitude": -6.197461,
+  "longitude": 106.873873,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "06:09:42",
+        "07:45:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

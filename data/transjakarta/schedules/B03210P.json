@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSUD Jagakarsa",
+  "stop_id": "B03210P",
+  "latitude": -6.31636,
+  "longitude": 106.81168,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:34:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Masjid Jami Daarul Muttaqien",
+  "stop_id": "B02345P",
+  "latitude": -6.165096,
+  "longitude": 106.70508,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:56:12",
+        "06:09:59",
+        "08:04:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

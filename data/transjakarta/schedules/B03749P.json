@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Kemang II",
+  "stop_id": "B03749P",
+  "latitude": -6.256487,
+  "longitude": 106.8149,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:16:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:44:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

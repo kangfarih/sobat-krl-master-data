@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gerbang Tol Pondok Gede",
+  "stop_id": "B00622P",
+  "latitude": -6.258346,
+  "longitude": 106.91008,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:33:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

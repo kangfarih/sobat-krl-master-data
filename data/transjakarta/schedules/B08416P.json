@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Nurussalam Slipi",
+  "stop_id": "B08416P",
+  "latitude": -6.197954,
+  "longitude": 106.793115,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:45:01",
+        "07:53:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

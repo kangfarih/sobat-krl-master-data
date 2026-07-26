@@ -1,0 +1,21 @@
+{
+  "stop_name": "RS Medika Permata Hijau 4",
+  "stop_id": "B03151P",
+  "latitude": -6.218438,
+  "longitude": 106.77855,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:46:55",
+        "05:53:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

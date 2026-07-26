@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Kramat Jaya Baru 1",
+  "stop_id": "B04956P",
+  "latitude": -6.184392,
+  "longitude": 106.85245,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:54:32",
+        "05:54:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

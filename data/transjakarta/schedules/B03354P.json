@@ -1,0 +1,34 @@
+{
+  "stop_name": "SDN Cipete Selatan 01",
+  "stop_id": "B03354P",
+  "latitude": -6.272283,
+  "longitude": 106.80167,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:33:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:25:08"
+      ],
+      "weekends": [
+        "05:25:08"
+      ]
+    }
+  ]
+}

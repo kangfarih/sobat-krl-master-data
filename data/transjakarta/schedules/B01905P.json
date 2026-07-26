@@ -1,0 +1,23 @@
+{
+  "stop_name": "Kel. Bintaro",
+  "stop_id": "B01905P",
+  "latitude": -6.273047,
+  "longitude": 106.76405,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "06:00:53",
+        "06:01:56"
+      ],
+      "weekends": [
+        "06:01:56"
+      ]
+    }
+  ]
+}

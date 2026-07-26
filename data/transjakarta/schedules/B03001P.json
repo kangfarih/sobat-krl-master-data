@@ -1,0 +1,35 @@
+{
+  "stop_name": "Pulo Kamboja",
+  "stop_id": "B03001P",
+  "latitude": -6.215638,
+  "longitude": 106.793732,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:18:24",
+        "05:18:35",
+        "05:18:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:17:57",
+        "05:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

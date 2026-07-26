@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Gunung Sahari IX",
+  "stop_id": "B06264P",
+  "latitude": -6.152852,
+  "longitude": 106.83563,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:22:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Raya Pelepah Indah",
+  "stop_id": "B01540P",
+  "latitude": -6.153095,
+  "longitude": 106.90661,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:32:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

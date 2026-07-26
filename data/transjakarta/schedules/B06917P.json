@@ -1,0 +1,20 @@
+{
+  "stop_name": "YP IPPI Jakarta",
+  "stop_id": "B06917P",
+  "latitude": -6.199997,
+  "longitude": 106.9403,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:36:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

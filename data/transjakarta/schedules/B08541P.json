@@ -1,0 +1,21 @@
+{
+  "stop_name": "Swadaya Slipi",
+  "stop_id": "B08541P",
+  "latitude": -6.19677,
+  "longitude": 106.798047,
+  "routes": [
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "06:59:05",
+        "09:27:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stop_name": "Otorita Asahan",
+  "stop_id": "B02541P",
+  "latitude": -6.223991,
+  "longitude": 106.8159,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:31:49",
+        "05:37:43",
+        "06:53:19",
+        "16:23:11"
+      ],
+      "weekends": [
+        "05:37:43"
+      ]
+    }
+  ]
+}

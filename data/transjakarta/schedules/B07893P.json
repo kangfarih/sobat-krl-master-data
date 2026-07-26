@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kembangan Abadi VII",
+  "stop_id": "B07893P",
+  "latitude": -6.185929,
+  "longitude": 106.750532,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:35:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

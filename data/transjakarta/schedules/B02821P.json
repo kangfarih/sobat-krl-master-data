@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pesona Kalisari",
+  "stop_id": "B02821P",
+  "latitude": -6.337634,
+  "longitude": 106.85748,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:34:36",
+        "06:39:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

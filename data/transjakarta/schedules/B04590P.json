@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yayasan Adi Luhur Gedong",
+  "stop_id": "B04590P",
+  "latitude": -6.292934,
+  "longitude": 106.85577,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:32:46",
+        "06:27:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

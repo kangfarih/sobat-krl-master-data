@@ -1,0 +1,34 @@
+{
+  "stop_name": "Roxy",
+  "stop_id": "G00129",
+  "latitude": -6.166321,
+  "longitude": 106.796728,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Lebak Bulus via Cideng",
+      "weekdays": [
+        "05:25:35"
+      ],
+      "weekends": [
+        "05:25:35"
+      ]
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "06:29:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

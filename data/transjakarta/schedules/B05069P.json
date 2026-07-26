@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Persahabatan Raya",
+  "stop_id": "B05069P",
+  "latitude": -6.206364,
+  "longitude": 106.88575,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "06:00:27",
+        "07:04:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

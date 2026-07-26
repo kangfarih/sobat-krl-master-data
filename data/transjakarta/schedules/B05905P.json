@@ -1,0 +1,35 @@
+{
+  "stop_name": "Yado III",
+  "stop_id": "B05905P",
+  "latitude": -6.255284,
+  "longitude": 106.79037,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:56:18"
+      ],
+      "weekends": [
+        "05:56:18"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:08:28",
+        "06:08:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

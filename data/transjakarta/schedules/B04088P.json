@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Mess Polwan Esthi Bhakti Warapsari",
+  "stop_id": "B04088P",
+  "latitude": -6.206604,
+  "longitude": 106.81005,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:47:21",
+        "06:07:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stop_name": "Cempaka",
+  "stop_id": "B00238P",
+  "latitude": -6.277541,
+  "longitude": 106.76223,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "06:03:52",
+        "06:04:55"
+      ],
+      "weekends": [
+        "06:04:55"
+      ]
+    }
+  ]
+}

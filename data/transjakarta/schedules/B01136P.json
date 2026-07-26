@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Ridi Swadarma",
+  "stop_id": "B01136P",
+  "latitude": -6.235424,
+  "longitude": 106.76077,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:41:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

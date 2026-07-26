@@ -1,0 +1,32 @@
+{
+  "stop_name": "Bulog",
+  "stop_id": "B00209P",
+  "latitude": -6.237665,
+  "longitude": 106.82917,
+  "routes": [
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "16:47:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "16:47:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

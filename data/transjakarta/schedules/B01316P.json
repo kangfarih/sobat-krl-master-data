@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Lapangan Ros II Bukit Duri",
+  "stop_id": "B01316P",
+  "latitude": -6.22434,
+  "longitude": 106.85512,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:39:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:55:23",
+        "06:42:43",
+        "06:56:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

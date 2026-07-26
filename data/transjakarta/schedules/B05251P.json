@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMA Taman Madya 1",
+  "stop_id": "B05251P",
+  "latitude": -6.157284,
+  "longitude": 106.857019,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:41:51",
+        "07:12:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:42:56",
+        "05:42:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

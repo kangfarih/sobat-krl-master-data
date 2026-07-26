@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Grogol",
+  "stop_id": "B05446P",
+  "latitude": -6.161785,
+  "longitude": 106.789934,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:10:47",
+        "05:11:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

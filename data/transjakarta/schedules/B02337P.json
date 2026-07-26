@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami At Thoyyibah Cipinang",
+  "stop_id": "B02337P",
+  "latitude": -6.214789,
+  "longitude": 106.89002,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:47:50",
+        "05:49:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

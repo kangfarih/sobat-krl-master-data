@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. St. Gg. Sentiong",
+  "stop_id": "B04507P",
+  "latitude": -6.185904,
+  "longitude": 106.85081,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:26:26",
+        "06:53:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

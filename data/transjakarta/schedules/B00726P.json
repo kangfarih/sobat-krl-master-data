@@ -1,0 +1,46 @@
+{
+  "stop_name": "H. Alwi",
+  "stop_id": "B00726P",
+  "latitude": -6.309595,
+  "longitude": 106.8389,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Universitas Indonesia",
+      "weekdays": [
+        "06:02:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:29:43",
+        "06:42:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "06:02:34",
+        "07:09:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

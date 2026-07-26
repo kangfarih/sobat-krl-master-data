@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pos Bungur Batu Ampar",
+  "stop_id": "B02954P",
+  "latitude": -6.277838,
+  "longitude": 106.86067,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:24:58",
+        "05:25:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:41:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

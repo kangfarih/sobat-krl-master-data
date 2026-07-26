@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pool Pangkalan Jati",
+  "stop_id": "B06177P",
+  "latitude": -6.248386,
+  "longitude": 106.91713,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:00:10",
+        "05:55:23",
+        "07:15:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

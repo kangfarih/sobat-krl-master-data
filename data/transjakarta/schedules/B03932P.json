@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Kel. Serdang",
+  "stop_id": "B03932P",
+  "latitude": -6.159149,
+  "longitude": 106.85558,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:32:37",
+        "05:32:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:45:41",
+        "05:45:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

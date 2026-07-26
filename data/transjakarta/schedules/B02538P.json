@@ -1,0 +1,20 @@
+{
+  "stop_name": "One Belpark 1",
+  "stop_id": "B02538P",
+  "latitude": -6.304695,
+  "longitude": 106.79445,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pondok Labu",
+      "weekdays": [
+        "05:44:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

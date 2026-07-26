@@ -1,0 +1,35 @@
+{
+  "stop_name": "Kompas Gramedia",
+  "stop_id": "B02014P",
+  "latitude": -6.210472,
+  "longitude": 106.79598,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:21:50",
+        "05:22:01",
+        "05:22:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:21:22",
+        "05:21:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

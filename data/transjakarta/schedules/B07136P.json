@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kantor Camat Tj. Priok",
+  "stop_id": "B07136P",
+  "latitude": -6.116895,
+  "longitude": 106.892946,
+  "routes": [
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "08:15:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:26:28",
+        "06:26:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

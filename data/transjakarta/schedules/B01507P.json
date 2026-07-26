@@ -1,0 +1,57 @@
+{
+  "stop_name": "Jln. Pluit Mas Selatan 1",
+  "stop_id": "B01507P",
+  "latitude": -6.135231,
+  "longitude": 106.792691,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan",
+      "weekdays": [
+        "05:23:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:07:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:21:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:28:34",
+        "06:50:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

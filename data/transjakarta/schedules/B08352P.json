@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMAN 53",
+  "stop_id": "B08352P",
+  "latitude": -6.2211,
+  "longitude": 106.8861,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:48:05",
+        "05:48:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

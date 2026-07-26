@@ -1,0 +1,47 @@
+{
+  "stop_name": "Jembatan Item",
+  "stop_id": "G00714",
+  "latitude": -6.130986,
+  "longitude": 106.855139,
+  "routes": [
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "category": "BRT",
+      "direction": "Senen dan JIS",
+      "weekdays": [
+        "06:03:35",
+        "06:38:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "06:15:25",
+        "06:34:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:54:59",
+        "05:55:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

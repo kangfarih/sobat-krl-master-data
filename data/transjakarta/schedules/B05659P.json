@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Tulang Bawang",
+  "stop_id": "B05659P",
+  "latitude": -6.176606,
+  "longitude": 106.80842,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang via Benhil",
+      "weekdays": [
+        "05:05:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

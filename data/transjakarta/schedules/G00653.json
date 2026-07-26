@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pasar Modern Harapan Indah",
+  "stop_id": "G00653",
+  "latitude": -6.168544,
+  "longitude": 106.97431,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:00:10",
+        "06:29:30",
+        "07:20:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

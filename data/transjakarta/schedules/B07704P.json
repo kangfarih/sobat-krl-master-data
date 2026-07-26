@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pedati 4",
+  "stop_id": "B07704P",
+  "latitude": -6.224863,
+  "longitude": 106.875223,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:40:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

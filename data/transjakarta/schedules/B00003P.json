@@ -1,0 +1,23 @@
+{
+  "stop_name": "Acacia Residence",
+  "stop_id": "B00003P",
+  "latitude": -6.263358,
+  "longitude": 106.75675,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:06:46",
+        "06:07:48"
+      ],
+      "weekends": [
+        "06:07:48"
+      ]
+    }
+  ]
+}

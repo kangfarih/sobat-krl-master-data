@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pos Jaga Utama 2",
+  "stop_id": "B02959P",
+  "latitude": -6.261242,
+  "longitude": 106.88827,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:17:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

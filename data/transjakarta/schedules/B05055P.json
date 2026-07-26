@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pedongkelan Cilincing Bakti",
+  "stop_id": "B05055P",
+  "latitude": -6.108168,
+  "longitude": 106.93406,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:28:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Abdul Wahab",
+  "stop_id": "B00454P",
+  "latitude": -6.254462,
+  "longitude": 106.826383,
+  "routes": [
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "05:57:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

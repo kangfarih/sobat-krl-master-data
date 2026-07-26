@@ -1,0 +1,34 @@
+{
+  "stop_name": "Pompa Tekan Sunter",
+  "stop_id": "B07253P",
+  "latitude": -6.12547,
+  "longitude": 106.857918,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:00:10",
+        "08:43:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:00:10",
+        "06:08:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

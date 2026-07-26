@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pulosidik",
+  "stop_id": "B07639P",
+  "latitude": -6.201953,
+  "longitude": 106.909868,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:15:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

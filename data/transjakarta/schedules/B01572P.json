@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Selatan Lap Bola",
+  "stop_id": "B01572P",
+  "latitude": -6.204334,
+  "longitude": 106.75804,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:32:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

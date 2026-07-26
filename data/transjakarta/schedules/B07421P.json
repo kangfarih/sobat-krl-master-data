@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Bungur II",
+  "stop_id": "B07421P",
+  "latitude": -6.248612,
+  "longitude": 106.7844,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:14:28",
+        "06:35:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

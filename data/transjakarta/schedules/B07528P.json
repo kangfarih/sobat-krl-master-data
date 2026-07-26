@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Baitul Ma'mur",
+  "stop_id": "B07528P",
+  "latitude": -6.345876,
+  "longitude": 106.820888,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:17:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

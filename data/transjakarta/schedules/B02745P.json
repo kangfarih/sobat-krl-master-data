@@ -1,0 +1,33 @@
+{
+  "stop_name": "Perlintasan KA Rajawali",
+  "stop_id": "B02745P",
+  "latitude": -6.147838,
+  "longitude": 106.83729,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "08:01:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:42:16",
+        "07:25:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

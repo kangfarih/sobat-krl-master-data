@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Gorontalo 1",
+  "stop_id": "B07124P",
+  "latitude": -6.112923,
+  "longitude": 106.88361,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:03:55",
+        "06:42:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

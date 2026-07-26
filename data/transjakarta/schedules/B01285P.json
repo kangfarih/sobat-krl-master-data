@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. KH Cholil",
+  "stop_id": "B01285P",
+  "latitude": -6.200518,
+  "longitude": 106.78694,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:43:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

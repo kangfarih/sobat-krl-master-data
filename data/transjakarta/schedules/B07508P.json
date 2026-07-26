@@ -1,0 +1,22 @@
+{
+  "stop_name": "TPU Islam Tanah Baru",
+  "stop_id": "B07508P",
+  "latitude": -6.365547,
+  "longitude": 106.807457,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:00:10",
+        "06:16:04",
+        "07:29:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

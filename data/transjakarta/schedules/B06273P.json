@@ -1,0 +1,34 @@
+{
+  "stop_name": "Tebet Eco Park Utara",
+  "stop_id": "B06273P",
+  "latitude": -6.237129,
+  "longitude": 106.85238,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:34:54",
+        "06:22:06",
+        "06:35:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43C",
+      "route_short_name": "JAK.43C",
+      "route_long_name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "St. Cawang dan Sarana Jaya via TEP",
+      "weekdays": [
+        "05:17:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

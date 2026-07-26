@@ -1,0 +1,22 @@
+{
+  "stop_name": "Makam Serang 1",
+  "stop_id": "B02173P",
+  "latitude": -6.197579,
+  "longitude": 106.7351,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:39:11",
+        "07:11:39",
+        "07:47:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

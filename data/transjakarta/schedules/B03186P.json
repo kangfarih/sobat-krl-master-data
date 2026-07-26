@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSAU Dr Esnawan Antariska 2",
+  "stop_id": "B03186P",
+  "latitude": -6.256569,
+  "longitude": 106.89139,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:21:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Gg. Sentiong",
+  "stop_id": "B05443P",
+  "latitude": -6.185997,
+  "longitude": 106.85083,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:57:04",
+        "05:57:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

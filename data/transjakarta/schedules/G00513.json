@@ -1,0 +1,35 @@
+{
+  "stop_name": "Pulo Gebang",
+  "stop_id": "G00513",
+  "latitude": -6.213309,
+  "longitude": 106.95327,
+  "routes": [
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "category": "BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "00:00:10",
+        "06:01:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:00:10",
+        "06:17:27",
+        "07:29:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

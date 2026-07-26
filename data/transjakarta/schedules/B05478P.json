@@ -1,0 +1,33 @@
+{
+  "stop_name": "St. LRT Velodrome 2",
+  "stop_id": "B05478P",
+  "latitude": -6.192994,
+  "longitude": 106.89107,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "06:04:42",
+        "06:06:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:03:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

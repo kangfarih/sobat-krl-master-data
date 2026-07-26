@@ -1,0 +1,21 @@
+{
+  "stop_name": "RPTRA Taman Apel",
+  "stop_id": "B03115P",
+  "latitude": -6.1717,
+  "longitude": 106.78412,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:21:06",
+        "06:15:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. H. Kelik",
+  "stop_id": "B07742P",
+  "latitude": -6.209929,
+  "longitude": 106.759005,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:27:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:35:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jelambar",
+  "stop_id": "G00141",
+  "latitude": -6.166548,
+  "longitude": 106.786625,
+  "routes": [
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:46:09",
+        "05:46:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:52:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bundaran Cipinang Kebembem",
+  "stop_id": "B00218P",
+  "latitude": -6.211974,
+  "longitude": 106.88891,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:54:07",
+        "06:58:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

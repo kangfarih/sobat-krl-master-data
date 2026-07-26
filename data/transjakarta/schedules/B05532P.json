@@ -1,0 +1,34 @@
+{
+  "stop_name": "STM Cendrawasih",
+  "stop_id": "B05532P",
+  "latitude": -6.216418,
+  "longitude": 106.77393,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:41:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:47:15",
+        "06:18:58",
+        "06:54:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

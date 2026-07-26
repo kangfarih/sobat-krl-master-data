@@ -1,0 +1,21 @@
+{
+  "stop_name": "Musholla Al Mukhlisin 1",
+  "stop_id": "B02518P",
+  "latitude": -6.127835,
+  "longitude": 106.9179,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:04:16",
+        "06:22:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

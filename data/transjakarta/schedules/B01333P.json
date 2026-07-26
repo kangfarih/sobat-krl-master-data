@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Madrasah Duri Kosambi",
+  "stop_id": "B01333P",
+  "latitude": -6.179068,
+  "longitude": 106.72159,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:39:07",
+        "05:52:54",
+        "07:47:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

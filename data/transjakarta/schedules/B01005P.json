@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cipayung Barat I",
+  "stop_id": "B01005P",
+  "latitude": -6.330893,
+  "longitude": 106.8881,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:50:41",
+        "06:55:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

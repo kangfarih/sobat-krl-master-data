@@ -1,0 +1,20 @@
+{
+  "stop_name": "KBN Sukapura",
+  "stop_id": "B01856P",
+  "latitude": -6.143928,
+  "longitude": 106.92219,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:05:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

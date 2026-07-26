@@ -1,0 +1,33 @@
+{
+  "stop_name": "ITC Roxy",
+  "stop_id": "B00816P",
+  "latitude": -6.16737,
+  "longitude": 106.80248,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:14:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:00:10",
+        "05:14:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

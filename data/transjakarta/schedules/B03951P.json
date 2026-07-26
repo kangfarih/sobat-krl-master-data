@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Klinik Persada Sari",
+  "stop_id": "B03951P",
+  "latitude": -6.177412,
+  "longitude": 106.72242,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:37:56",
+        "05:51:43",
+        "07:45:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

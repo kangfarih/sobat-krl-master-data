@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jembatan Taman Kota",
+  "stop_id": "B01770P",
+  "latitude": -6.15763,
+  "longitude": 106.757458,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:55:15",
+        "06:27:42",
+        "07:03:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

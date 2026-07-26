@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Tlk Nimbung",
+  "stop_id": "B07838P",
+  "latitude": -6.12904466,
+  "longitude": 106.77722812,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:13:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Apotik Emilia Rawamangun",
+  "stop_id": "B00059P",
+  "latitude": -6.202019,
+  "longitude": 106.88477,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:56:14",
+        "06:58:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

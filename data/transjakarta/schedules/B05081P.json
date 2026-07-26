@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Poncol Raya Ciracas",
+  "stop_id": "B05081P",
+  "latitude": -6.329862,
+  "longitude": 106.86873,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:12:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

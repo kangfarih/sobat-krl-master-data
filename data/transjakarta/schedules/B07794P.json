@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cengkareng Business Center",
+  "stop_id": "B07794P",
+  "latitude": -6.113455,
+  "longitude": 106.691095,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:00:10",
+        "06:19:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

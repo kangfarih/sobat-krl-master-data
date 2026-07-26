@@ -1,0 +1,36 @@
+{
+  "stop_name": "Karya Baru",
+  "stop_id": "B08489P",
+  "latitude": -6.212955,
+  "longitude": 106.783292,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:40:10",
+        "05:46:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:40:01",
+        "05:40:30",
+        "06:11:34",
+        "06:46:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Syibi",
+  "stop_id": "B05569P",
+  "latitude": -6.350345,
+  "longitude": 106.83272,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Universitas Indonesia",
+      "weekdays": [
+        "06:26:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "06:26:16",
+        "07:33:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

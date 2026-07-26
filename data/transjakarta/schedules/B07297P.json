@@ -1,0 +1,21 @@
+{
+  "stop_name": "Madrasah Ibtidaiyah Al-Huda",
+  "stop_id": "B07297P",
+  "latitude": -6.197036,
+  "longitude": 106.943001,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:32:58",
+        "06:11:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

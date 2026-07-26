@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Mahatma Gading School",
+  "stop_id": "B07007P",
+  "latitude": -6.166345,
+  "longitude": 106.890251,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:05:39",
+        "05:05:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:41:20",
+        "05:41:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SPBU Terogong",
+  "stop_id": "B07383P",
+  "latitude": -6.28238,
+  "longitude": 106.791733,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:53:07",
+        "05:54:04",
+        "05:54:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

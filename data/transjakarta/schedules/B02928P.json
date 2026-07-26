@@ -1,0 +1,45 @@
+{
+  "stop_name": "Pondok Kelapa Raya Kalimalang",
+  "stop_id": "B02928P",
+  "latitude": -6.24883,
+  "longitude": 106.9354,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:54:33",
+        "06:56:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:19:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:58:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

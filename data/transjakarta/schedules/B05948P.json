@@ -1,0 +1,22 @@
+{
+  "stop_name": "Klinik Budhi Medika",
+  "stop_id": "B05948P",
+  "latitude": -6.19695,
+  "longitude": 106.73235,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:06:10",
+        "05:06:11",
+        "05:06:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

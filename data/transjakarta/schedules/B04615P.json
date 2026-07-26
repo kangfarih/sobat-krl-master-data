@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah At Taqwa Karang Tengah",
+  "stop_id": "B04615P",
+  "latitude": -6.149841,
+  "longitude": 106.97189,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "06:03:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

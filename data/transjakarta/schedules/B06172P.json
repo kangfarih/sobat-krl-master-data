@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Tumpah Pademangan",
+  "stop_id": "B06172P",
+  "latitude": -6.141145,
+  "longitude": 106.83754,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:55:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

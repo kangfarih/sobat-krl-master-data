@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kel. Meruya Selatan",
+  "stop_id": "B03925P",
+  "latitude": -6.214923,
+  "longitude": 106.73657,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:29:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

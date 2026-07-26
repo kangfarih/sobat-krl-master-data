@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. SMPN 197",
+  "stop_id": "B06093P",
+  "latitude": -6.170661,
+  "longitude": 106.760332,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:09:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

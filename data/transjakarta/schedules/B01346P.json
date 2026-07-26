@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mandiri Ciracas",
+  "stop_id": "B01346P",
+  "latitude": -6.316376,
+  "longitude": 106.87326,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:02:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

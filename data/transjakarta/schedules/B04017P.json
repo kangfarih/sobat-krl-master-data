@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Akhyar Cipete",
+  "stop_id": "B04017P",
+  "latitude": -6.269658,
+  "longitude": 106.8049,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:54:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

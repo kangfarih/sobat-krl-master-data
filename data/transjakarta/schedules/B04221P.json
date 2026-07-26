@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Polsek Tj. Priok",
+  "stop_id": "B04221P",
+  "latitude": -6.115168,
+  "longitude": 106.88061,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:05:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

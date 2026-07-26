@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Sungai Landak 3",
+  "stop_id": "B07672P",
+  "latitude": -6.104387,
+  "longitude": 106.939824,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:36:14",
+        "06:54:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

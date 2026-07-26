@@ -1,0 +1,95 @@
+{
+  "stop_name": "Pasar Baru Timur",
+  "stop_id": "G00233",
+  "latitude": -6.162278,
+  "longitude": 106.838066,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:37:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:56:43",
+        "07:10:40",
+        "07:46:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "05:50:05",
+        "06:09:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2C",
+      "route_short_name": "2C",
+      "route_long_name": "Balai Kota - JIEXPO",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "JIEXPO dan Balai Kota",
+      "weekdays": [
+        "05:20:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "06:57:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "05:37:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ3",
+      "route_short_name": "PRJ3",
+      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
+      "color": "54659C",
+      "category": "BRT",
+      "direction": "Pulo Gadung - JIEXPO Kemayoran - Pulo Gadung",
+      "weekdays": [
+        "12:50:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

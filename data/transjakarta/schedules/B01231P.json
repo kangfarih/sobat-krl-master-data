@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kb. Jahe II",
+  "stop_id": "B01231P",
+  "latitude": -6.180487,
+  "longitude": 106.81753,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:05:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

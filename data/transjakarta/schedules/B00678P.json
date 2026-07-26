@@ -1,0 +1,23 @@
+{
+  "stop_name": "Graha Nusantara",
+  "stop_id": "B00678P",
+  "latitude": -6.276867,
+  "longitude": 106.76244,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "06:03:20",
+        "06:04:23"
+      ],
+      "weekends": [
+        "06:04:23"
+      ]
+    }
+  ]
+}

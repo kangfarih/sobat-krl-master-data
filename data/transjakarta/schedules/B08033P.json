@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Melati Indah",
+  "stop_id": "B08033P",
+  "latitude": -6.14847,
+  "longitude": 106.74983,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:24:42",
+        "06:05:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

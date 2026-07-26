@@ -1,0 +1,33 @@
+{
+  "stop_name": "JPO Asrama Polri Cideng",
+  "stop_id": "B01784P",
+  "latitude": -6.17963,
+  "longitude": 106.81277,
+  "routes": [
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "05:03:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:04:14",
+        "06:03:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "stop_name": "Masjid Cut Meutia 1",
+  "stop_id": "B02291P",
+  "latitude": -6.186763,
+  "longitude": 106.834,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:47:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Balai Kota dan Gondangdia",
+      "weekdays": [
+        "05:00:53",
+        "05:00:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:37:48",
+        "08:56:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:02:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pasar Santa",
+  "stop_id": "G00757",
+  "latitude": -6.239239,
+  "longitude": 106.807681,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:44:49"
+      ],
+      "weekends": [
+        "06:44:49"
+      ]
+    }
+  ]
+}

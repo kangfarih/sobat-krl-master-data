@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Gembrong",
+  "stop_id": "B07046P",
+  "latitude": -6.22447,
+  "longitude": 106.877283,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:32:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

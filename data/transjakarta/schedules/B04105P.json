@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. MTsN 20 Jakarta",
+  "stop_id": "B04105P",
+  "latitude": -6.2052,
+  "longitude": 106.95985,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:33:23",
+        "05:34:46",
+        "07:02:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

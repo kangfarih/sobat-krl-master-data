@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. H Daimin Hs Meruya Selatan",
+  "stop_id": "B00447P",
+  "latitude": -6.199156,
+  "longitude": 106.74177,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:42:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:17:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

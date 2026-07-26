@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ruko BSD Sektor 7",
+  "stop_id": "B03229P",
+  "latitude": -6.281034,
+  "longitude": 106.66287,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:12:02",
+        "05:12:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

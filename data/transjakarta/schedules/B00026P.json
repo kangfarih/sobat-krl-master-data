@@ -1,0 +1,20 @@
+{
+  "stop_name": "Al Izhar Pondok Labu 1",
+  "stop_id": "B00026P",
+  "latitude": -6.311534,
+  "longitude": 106.79094,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:16:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Alfa Kayu Tinggi",
+  "stop_id": "B03499P",
+  "latitude": -6.182675,
+  "longitude": 106.8483,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:59:31",
+        "05:59:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

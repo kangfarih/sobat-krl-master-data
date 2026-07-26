@@ -1,0 +1,27 @@
+{
+  "stop_name": "Waterboom Jakarta 2",
+  "stop_id": "B05879P",
+  "latitude": -6.113197,
+  "longitude": 106.74901,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:37:07",
+        "06:49:30",
+        "07:05:36",
+        "08:13:08",
+        "08:18:25"
+      ],
+      "weekends": [
+        "07:17:56",
+        "07:27:57"
+      ]
+    }
+  ]
+}

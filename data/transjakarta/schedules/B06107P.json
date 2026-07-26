@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Benda Raya 1",
+  "stop_id": "B06107P",
+  "latitude": -6.107483,
+  "longitude": 106.700354,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:06:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

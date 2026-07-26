@@ -1,0 +1,76 @@
+{
+  "stop_name": "Tegalan",
+  "stop_id": "G00214",
+  "latitude": -6.203072,
+  "longitude": 106.857212,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Galunggung via Saharjo",
+      "weekdays": [
+        "05:38:42",
+        "05:40:56",
+        "06:05:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:44:35",
+        "05:58:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:37:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:27:16",
+        "05:28:43",
+        "06:21:52",
+        "06:41:24",
+        "06:46:02",
+        "07:00:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "05:12:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

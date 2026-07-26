@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lapangan Bola Meruya Ilir",
+  "stop_id": "B02116P",
+  "latitude": -6.197423,
+  "longitude": 106.76661,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:00:10",
+        "06:33:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

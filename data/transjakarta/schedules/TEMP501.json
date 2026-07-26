@@ -1,0 +1,20 @@
+{
+  "stop_name": "Term. Kampung Melayu 4",
+  "stop_id": "TEMP501",
+  "latitude": -6.224715,
+  "longitude": 106.86642,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "06:14:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stop_name": "Masjid Jami Bintaro Raya",
+  "stop_id": "B07318P",
+  "latitude": -6.2724436,
+  "longitude": 106.7514653,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:15:20",
+        "06:16:22"
+      ],
+      "weekends": [
+        "06:16:22"
+      ]
+    }
+  ]
+}

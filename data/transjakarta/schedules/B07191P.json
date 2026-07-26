@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Masjid IV A",
+  "stop_id": "B07191P",
+  "latitude": -6.32241,
+  "longitude": 106.8927,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:51:39",
+        "06:33:51",
+        "06:34:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

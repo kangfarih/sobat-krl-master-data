@@ -1,0 +1,35 @@
+{
+  "stop_name": "Simpang Panjang Kb. Jeruk 1",
+  "stop_id": "B05036P",
+  "latitude": -6.198159,
+  "longitude": 106.76922,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "06:25:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:49:31",
+        "06:26:03",
+        "07:09:56",
+        "07:49:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

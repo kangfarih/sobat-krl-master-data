@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Alfa Tanah Tinggi",
+  "stop_id": "B00399P",
+  "latitude": -6.18272,
+  "longitude": 106.84839,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:24:04",
+        "06:51:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

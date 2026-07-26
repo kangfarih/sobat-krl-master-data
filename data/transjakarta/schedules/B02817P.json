@@ -1,0 +1,21 @@
+{
+  "stop_name": "Perumahan Walikota Jakbar 2",
+  "stop_id": "B02817P",
+  "latitude": -6.213297,
+  "longitude": 106.72492,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:00:10",
+        "06:37:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

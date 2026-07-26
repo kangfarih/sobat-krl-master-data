@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Angin Mamiri",
+  "stop_id": "B06235P",
+  "latitude": -6.10912,
+  "longitude": 106.92259,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "05:33:30",
+        "05:33:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "05:33:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

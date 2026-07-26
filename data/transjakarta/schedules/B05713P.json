@@ -1,0 +1,21 @@
+{
+  "stop_name": "Term. Muara Angke 1",
+  "stop_id": "B05713P",
+  "latitude": -6.109045,
+  "longitude": 106.77353,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:05:26",
+        "05:05:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

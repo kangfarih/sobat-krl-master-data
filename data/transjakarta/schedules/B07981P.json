@@ -1,0 +1,21 @@
+{
+  "stop_name": "TOD",
+  "stop_id": "B07981P",
+  "latitude": -6.133724,
+  "longitude": 106.63553,
+  "routes": [
+    {
+      "route_id": "SOE",
+      "route_short_name": "SOE",
+      "route_long_name": "Shuttle Bandara Soekarno-Hatta",
+      "color": "184e9e",
+      "category": "Shuttle",
+      "direction": "Shuttle Bandara Soekarno-Hatta",
+      "weekdays": [
+        "05:00:10",
+        "06:14:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

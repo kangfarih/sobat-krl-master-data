@@ -1,0 +1,20 @@
+{
+  "stop_name": "BSD City 1",
+  "stop_id": "B00186P",
+  "latitude": -6.299429,
+  "longitude": 106.666678,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:01:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

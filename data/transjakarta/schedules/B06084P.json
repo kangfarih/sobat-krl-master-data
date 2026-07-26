@@ -1,0 +1,22 @@
+{
+  "stop_name": "Tebet Eco Park Selatan 1",
+  "stop_id": "B06084P",
+  "latitude": -6.239199,
+  "longitude": 106.85181,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:33:38",
+        "06:20:50",
+        "06:34:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMP Tarakanita 5",
+  "stop_id": "B06739P",
+  "latitude": -6.246421,
+  "longitude": 106.794721,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:10:47",
+        "06:19:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

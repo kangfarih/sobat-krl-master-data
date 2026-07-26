@@ -1,0 +1,61 @@
+{
+  "stop_name": "Pluit Selatan",
+  "stop_id": "G00072",
+  "latitude": -6.125236,
+  "longitude": 106.79971,
+  "routes": [
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Sunter Boulevard Barat",
+      "weekdays": [
+        "05:04:53",
+        "05:11:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:28:17",
+        "05:28:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:11:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:01:22",
+        "06:01:31"
+      ],
+      "weekends": [
+        "06:01:19"
+      ]
+    }
+  ]
+}

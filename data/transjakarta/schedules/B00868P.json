@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Aselih",
+  "stop_id": "B00868P",
+  "latitude": -6.347277,
+  "longitude": 106.79695,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:00:10",
+        "06:27:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "STIE IBEK",
+  "stop_id": "B05524P",
+  "latitude": -6.173481,
+  "longitude": 106.7975,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:51:49",
+        "06:52:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

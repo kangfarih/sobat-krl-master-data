@@ -1,0 +1,36 @@
+{
+  "stop_name": "Sbr. Jln. Asshofa Raya",
+  "stop_id": "B03642P",
+  "latitude": -6.213384,
+  "longitude": 106.78163,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:41:13",
+        "05:47:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:41:04",
+        "05:41:33",
+        "06:12:37",
+        "06:47:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

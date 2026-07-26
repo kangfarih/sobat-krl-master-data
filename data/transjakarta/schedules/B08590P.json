@@ -1,0 +1,20 @@
+{
+  "stop_name": "Soho Manhattan",
+  "stop_id": "B08590P",
+  "latitude": -6.02937,
+  "longitude": 106.68429,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "06:01:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

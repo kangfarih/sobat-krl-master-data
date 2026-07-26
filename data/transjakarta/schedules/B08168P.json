@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Parung Bingung 1",
+  "stop_id": "B08168P",
+  "latitude": -6.394852,
+  "longitude": 106.773347,
+  "routes": [
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:05:14",
+        "05:05:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

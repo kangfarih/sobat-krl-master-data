@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Kel. Pondok Labu",
+  "stop_id": "B03928P",
+  "latitude": -6.30655,
+  "longitude": 106.79871,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "06:03:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:31:34",
+        "06:42:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

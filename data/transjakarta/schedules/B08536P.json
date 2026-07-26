@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Rw. Panjang Ahmad Yani",
+  "stop_id": "B08536P",
+  "latitude": -6.258797,
+  "longitude": 106.994226,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:54:31",
+        "08:25:58",
+        "09:22:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

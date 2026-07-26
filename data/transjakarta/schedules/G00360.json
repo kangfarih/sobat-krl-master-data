@@ -1,0 +1,51 @@
+{
+  "stop_name": "Pondok Pinang",
+  "stop_id": "G00360",
+  "latitude": -6.282128,
+  "longitude": 106.772028,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:05:38",
+        "05:05:39",
+        "14:05:39"
+      ],
+      "weekends": [
+        "05:05:39"
+      ]
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:05:48",
+        "07:23:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:05:47",
+        "05:06:17",
+        "06:30:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

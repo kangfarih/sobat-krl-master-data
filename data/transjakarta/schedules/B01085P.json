@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Grafika",
+  "stop_id": "B01085P",
+  "latitude": -6.290158,
+  "longitude": 106.77095,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:01:58",
+        "05:45:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:01:58",
+        "06:12:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

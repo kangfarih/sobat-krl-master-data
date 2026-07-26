@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Pos Ayam",
+  "stop_id": "B04234P",
+  "latitude": -6.120909,
+  "longitude": 106.92693,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:12:18",
+        "06:41:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

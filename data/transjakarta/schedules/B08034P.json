@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Waru 1B",
+  "stop_id": "B08034P",
+  "latitude": -6.14806,
+  "longitude": 106.74803,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:25:57",
+        "06:06:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

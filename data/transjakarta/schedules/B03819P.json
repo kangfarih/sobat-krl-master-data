@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Pondok Labu 1A",
+  "stop_id": "B03819P",
+  "latitude": -6.301876,
+  "longitude": 106.79244,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:23:24",
+        "06:34:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

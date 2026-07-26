@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kampung Irian Gg. IV",
+  "stop_id": "B01802P",
+  "latitude": -6.155068,
+  "longitude": 106.86172,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:38:33",
+        "07:09:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

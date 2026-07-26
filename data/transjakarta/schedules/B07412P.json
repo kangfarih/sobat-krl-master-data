@@ -1,0 +1,25 @@
+{
+  "stop_name": "Gg. Pucuk Merah",
+  "stop_id": "B07412P",
+  "latitude": -6.247277,
+  "longitude": 106.784613,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:15:20",
+        "06:06:25",
+        "06:06:26",
+        "06:36:28"
+      ],
+      "weekends": [
+        "06:06:25"
+      ]
+    }
+  ]
+}

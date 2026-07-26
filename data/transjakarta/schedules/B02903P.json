@@ -1,0 +1,34 @@
+{
+  "stop_name": "Polsek Ciputat 1",
+  "stop_id": "B02903P",
+  "latitude": -6.310368,
+  "longitude": 106.75502,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:21:12",
+        "05:21:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:21:13",
+        "05:21:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

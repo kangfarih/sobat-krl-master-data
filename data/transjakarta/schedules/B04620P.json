@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Bhudaya Santo Agustinus Cipinang",
+  "stop_id": "B04620P",
+  "latitude": -6.209888,
+  "longitude": 106.88474,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:19:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

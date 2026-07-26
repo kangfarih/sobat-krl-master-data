@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kb. Nanas V Permata Hijau",
+  "stop_id": "B01241P",
+  "latitude": -6.220567,
+  "longitude": 106.78137,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:36:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

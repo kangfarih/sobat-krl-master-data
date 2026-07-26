@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. TPU Cipedak",
+  "stop_id": "B07505P",
+  "latitude": -6.357983,
+  "longitude": 106.808589,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:09:57",
+        "07:23:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "06:26:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

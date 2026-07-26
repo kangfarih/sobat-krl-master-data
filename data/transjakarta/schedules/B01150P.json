@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Untung Bojong Raya",
+  "stop_id": "B01150P",
+  "latitude": -6.170258,
+  "longitude": 106.73355,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:16:48",
+        "05:16:57",
+        "07:07:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

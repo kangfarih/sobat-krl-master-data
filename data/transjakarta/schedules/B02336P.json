@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami At Taqwa 3",
+  "stop_id": "B02336P",
+  "latitude": -6.229352,
+  "longitude": 106.89527,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:05:24",
+        "05:05:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

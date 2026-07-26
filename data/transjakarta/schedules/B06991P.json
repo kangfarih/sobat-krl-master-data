@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Politeknik Astra",
+  "stop_id": "B06991P",
+  "latitude": -6.13735,
+  "longitude": 106.887211,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:32:53",
+        "07:11:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

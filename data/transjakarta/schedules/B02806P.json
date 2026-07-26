@@ -1,0 +1,32 @@
+{
+  "stop_name": "Perumahan EKS Yon Angkub",
+  "stop_id": "B02806P",
+  "latitude": -6.264169,
+  "longitude": 106.87008,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:24:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:19:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Pluit Karang Cantik",
+  "stop_id": "B04213P",
+  "latitude": -6.111632,
+  "longitude": 106.77866,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:03:45",
+        "01:16:06",
+        "05:02:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

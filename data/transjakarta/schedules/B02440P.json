@@ -1,0 +1,20 @@
+{
+  "stop_name": "MI Attarbiyatuddiniyah",
+  "stop_id": "B02440P",
+  "latitude": -6.358236,
+  "longitude": 106.87413,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:03:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

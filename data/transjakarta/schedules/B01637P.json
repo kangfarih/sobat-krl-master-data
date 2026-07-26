@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Taman Enau",
+  "stop_id": "B01637P",
+  "latitude": -6.232643,
+  "longitude": 106.93435,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:12:18",
+        "05:13:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

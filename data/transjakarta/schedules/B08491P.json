@@ -1,0 +1,22 @@
+{
+  "stop_name": "Nuansa Cilangkap",
+  "stop_id": "B08491P",
+  "latitude": -6.343057,
+  "longitude": 106.903172,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:00:10",
+        "06:04:04",
+        "07:09:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

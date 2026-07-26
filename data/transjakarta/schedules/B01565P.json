@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Satria VI Grogol",
+  "stop_id": "B01565P",
+  "latitude": -6.165395,
+  "longitude": 106.78837,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:08:27",
+        "05:08:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

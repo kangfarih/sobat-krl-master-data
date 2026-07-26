@@ -1,0 +1,37 @@
+{
+  "stop_name": "Mandara Permai 5",
+  "stop_id": "B02207P",
+  "latitude": -6.116188,
+  "longitude": 106.76214,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:28:32",
+        "05:28:42"
+      ],
+      "weekends": [
+        "05:28:31"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:00:23",
+        "05:55:32",
+        "23:04:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

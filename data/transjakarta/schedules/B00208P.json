@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bulak Turi 2",
+  "stop_id": "B00208P",
+  "latitude": -6.105145,
+  "longitude": 106.97009,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "06:12:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

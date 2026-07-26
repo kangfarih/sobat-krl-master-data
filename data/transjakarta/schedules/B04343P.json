@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. SDN Joglo 03",
+  "stop_id": "B04343P",
+  "latitude": -6.221973,
+  "longitude": 106.73169,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:11:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:20:16",
+        "05:56:22",
+        "07:40:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

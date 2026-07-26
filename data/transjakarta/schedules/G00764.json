@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasar Cakung",
+  "stop_id": "G00764",
+  "latitude": -6.182474,
+  "longitude": 106.935491,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:15:22",
+        "06:20:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

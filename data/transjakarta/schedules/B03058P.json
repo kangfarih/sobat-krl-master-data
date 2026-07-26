@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Malaka Sari",
+  "stop_id": "B03058P",
+  "latitude": -6.2306,
+  "longitude": 106.92955,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:22:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

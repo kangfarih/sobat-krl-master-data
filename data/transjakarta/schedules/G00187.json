@@ -1,0 +1,37 @@
+{
+  "stop_name": "Rawamangun",
+  "stop_id": "G00187",
+  "latitude": -6.192977,
+  "longitude": 106.880327,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:19:54",
+        "05:20:03",
+        "05:20:45",
+        "05:25:54"
+      ],
+      "weekends": [
+        "05:25:54"
+      ]
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:19:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

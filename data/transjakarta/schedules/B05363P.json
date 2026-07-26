@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMPN 199",
+  "stop_id": "B05363P",
+  "latitude": -6.230971,
+  "longitude": 106.94309,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:19:23",
+        "06:20:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

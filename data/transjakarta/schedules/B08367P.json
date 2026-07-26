@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Malaka Raya Gg. 1",
+  "stop_id": "B08367P",
+  "latitude": -6.225259,
+  "longitude": 106.926797,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "06:05:54",
+        "07:23:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

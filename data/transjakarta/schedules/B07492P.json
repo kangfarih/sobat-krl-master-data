@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Batas Dua",
+  "stop_id": "B07492P",
+  "latitude": -6.321522,
+  "longitude": 106.831958,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:43:56",
+        "06:57:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

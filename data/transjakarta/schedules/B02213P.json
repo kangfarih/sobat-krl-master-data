@@ -1,0 +1,33 @@
+{
+  "stop_name": "Mangga Dua Square",
+  "stop_id": "B02213P",
+  "latitude": -6.135311,
+  "longitude": 106.83102,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "06:02:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:22:28",
+        "06:23:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Tawakal VI Tomang Tinggi",
+  "stop_id": "B05182P",
+  "latitude": -6.169966,
+  "longitude": 106.79674,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:18:39",
+        "05:31:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

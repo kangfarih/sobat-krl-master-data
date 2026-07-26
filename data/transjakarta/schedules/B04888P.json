@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Kali Caglak",
+  "stop_id": "B04888P",
+  "latitude": -6.351441,
+  "longitude": 106.87844,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:31:00",
+        "06:09:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

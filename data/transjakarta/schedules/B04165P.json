@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Palad",
+  "stop_id": "B04165P",
+  "latitude": -6.186795,
+  "longitude": 106.90322,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:07:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

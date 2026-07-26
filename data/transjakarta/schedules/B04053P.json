@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Jami Al Amin Gading",
+  "stop_id": "B04053P",
+  "latitude": -6.178538,
+  "longitude": 106.90397,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:16:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

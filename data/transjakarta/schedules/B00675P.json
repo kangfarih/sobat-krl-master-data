@@ -1,0 +1,20 @@
+{
+  "stop_name": "Graha Mandiri",
+  "stop_id": "B00675P",
+  "latitude": -6.197443,
+  "longitude": 106.82533,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:03:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

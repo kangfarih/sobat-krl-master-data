@@ -1,0 +1,32 @@
+{
+  "stop_name": "Musholla Nurul Falah Kemanggisan",
+  "stop_id": "B02523P",
+  "latitude": -6.189466,
+  "longitude": 106.786394,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:09:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:49:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

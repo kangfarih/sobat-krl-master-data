@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ps. Kebayoran Lama 1",
+  "stop_id": "B02625P",
+  "latitude": -6.239184,
+  "longitude": 106.783043,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:00:10",
+        "06:24:37",
+        "06:38:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

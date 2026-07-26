@@ -1,0 +1,36 @@
+{
+  "stop_name": "Transjakarta Tanah Abang 2",
+  "stop_id": "G00632",
+  "latitude": -6.183918,
+  "longitude": 106.811601,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Tanah Abang",
+      "weekdays": [
+        "05:00:10",
+        "05:55:08",
+        "06:25:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:55:38",
+        "06:03:40",
+        "06:11:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "stop_name": "Karang Asri",
+  "stop_id": "B01829P",
+  "latitude": -6.112414,
+  "longitude": 106.77306,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:26:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:37:59",
+        "05:38:00",
+        "05:38:09"
+      ],
+      "weekends": [
+        "05:37:58"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:09:50",
+        "06:05:00",
+        "23:13:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

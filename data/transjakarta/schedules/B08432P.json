@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek DPR/MPR",
+  "stop_id": "B08432P",
+  "latitude": -6.218987,
+  "longitude": 106.73738,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "06:02:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

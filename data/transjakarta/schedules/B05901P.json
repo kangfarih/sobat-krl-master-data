@@ -1,0 +1,34 @@
+{
+  "stop_name": "WTC Mangga Dua",
+  "stop_id": "B05901P",
+  "latitude": -6.134694,
+  "longitude": 106.8314,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:17:29",
+        "06:38:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:32:44",
+        "07:16:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

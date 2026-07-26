@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Anyar Bahari",
+  "stop_id": "B02578P",
+  "latitude": -6.114292,
+  "longitude": 106.8794,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:56:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

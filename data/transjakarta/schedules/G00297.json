@@ -1,0 +1,46 @@
+{
+  "stop_name": "Kuningan Madya",
+  "stop_id": "G00297",
+  "latitude": -6.213471,
+  "longitude": 106.830497,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:09:11",
+        "06:13:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "05:21:00",
+        "06:40:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Kuningan",
+      "weekdays": [
+        "06:21:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

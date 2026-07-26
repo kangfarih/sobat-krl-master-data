@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cipendawa 1",
+  "stop_id": "B08118P",
+  "latitude": -6.298414,
+  "longitude": 106.9841836,
+  "routes": [
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sentral via Jatiasih dan Vida Bekasi",
+      "weekdays": [
+        "05:14:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

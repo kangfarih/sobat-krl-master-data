@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Rawasari Ahmad Yani",
+  "stop_id": "B05108P",
+  "latitude": -6.187726,
+  "longitude": 106.87473,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:50:22",
+        "07:17:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

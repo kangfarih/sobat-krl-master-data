@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kel. Penggilingan",
+  "stop_id": "B01934P",
+  "latitude": -6.202675,
+  "longitude": 106.93106,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:48:58",
+        "05:50:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

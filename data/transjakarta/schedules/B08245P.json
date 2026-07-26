@@ -1,0 +1,20 @@
+{
+  "stop_name": "Cluster Cleveland - Virginia",
+  "stop_id": "B08245P",
+  "latitude": -6.063781,
+  "longitude": 106.687437,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:18:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

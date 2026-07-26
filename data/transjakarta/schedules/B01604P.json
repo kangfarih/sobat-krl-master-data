@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Summagung II Barat",
+  "stop_id": "B01604P",
+  "latitude": -6.172386,
+  "longitude": 106.90189,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:26:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

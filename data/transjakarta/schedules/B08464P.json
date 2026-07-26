@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. TKIT Puzzle",
+  "stop_id": "B08464P",
+  "latitude": -6.331556,
+  "longitude": 106.820549,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:24:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

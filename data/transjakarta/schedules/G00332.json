@@ -1,0 +1,33 @@
+{
+  "stop_name": "Cawang Cililitan",
+  "stop_id": "G00332",
+  "latitude": -6.257672,
+  "longitude": 106.86999,
+  "routes": [
+    {
+      "route_id": "7C",
+      "route_short_name": "7C",
+      "route_long_name": "Cibubur - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Cibubur",
+      "weekdays": [
+        "06:04:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:00:10",
+        "06:01:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

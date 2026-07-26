@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. H. Amsir",
+  "stop_id": "B07238P",
+  "latitude": -6.154997,
+  "longitude": 106.867753,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:31:11",
+        "06:29:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

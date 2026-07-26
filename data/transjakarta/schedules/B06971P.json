@@ -1,0 +1,34 @@
+{
+  "stop_name": "ITC Roxy Mas 1",
+  "stop_id": "B06971P",
+  "latitude": -6.16616,
+  "longitude": 106.80491,
+  "routes": [
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "05:26:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:15:57",
+        "05:27:59",
+        "06:14:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

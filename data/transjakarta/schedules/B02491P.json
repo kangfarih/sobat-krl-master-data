@@ -1,0 +1,21 @@
+{
+  "stop_name": "Muara Jaya Cipinang Muara III",
+  "stop_id": "B02491P",
+  "latitude": -6.218829,
+  "longitude": 106.89241,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:35:01",
+        "06:44:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kelok 9 Kalimalang",
+  "stop_id": "B06755P",
+  "latitude": -6.246918,
+  "longitude": 106.909598,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:42:31",
+        "05:42:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

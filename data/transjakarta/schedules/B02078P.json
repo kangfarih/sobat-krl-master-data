@@ -1,0 +1,20 @@
+{
+  "stop_name": "Koramil 03 Aselih",
+  "stop_id": "B02078P",
+  "latitude": -6.350976,
+  "longitude": 106.79599,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:24:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

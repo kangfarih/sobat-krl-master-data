@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Rawa Gurih",
+  "stop_id": "B03556P",
+  "latitude": -6.284347,
+  "longitude": 106.85365,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:16:09",
+        "05:16:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

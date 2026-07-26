@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bundaran Stainless Harapan Indah",
+  "stop_id": "B00223P",
+  "latitude": -6.178666,
+  "longitude": 106.98132,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:46:44",
+        "06:44:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

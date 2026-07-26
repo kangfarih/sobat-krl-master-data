@@ -1,0 +1,74 @@
+{
+  "stop_name": "Kanisius",
+  "stop_id": "B01813P",
+  "latitude": -6.185327,
+  "longitude": 106.83551,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:50:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Balai Kota dan Gondangdia",
+      "weekdays": [
+        "05:03:09",
+        "05:03:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:36:21",
+        "05:36:22",
+        "05:36:24",
+        "05:36:31",
+        "05:36:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:40:04",
+        "08:58:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:05:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

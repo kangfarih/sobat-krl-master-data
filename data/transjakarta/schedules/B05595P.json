@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Intirub 1",
+  "stop_id": "B05595P",
+  "latitude": -6.265957,
+  "longitude": 106.87819,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:23:38",
+        "06:15:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

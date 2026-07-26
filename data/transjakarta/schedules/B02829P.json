@@ -1,0 +1,21 @@
+{
+  "stop_name": "PGP",
+  "stop_id": "B02829P",
+  "latitude": -6.203394,
+  "longitude": 106.93446,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:51:21",
+        "05:53:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

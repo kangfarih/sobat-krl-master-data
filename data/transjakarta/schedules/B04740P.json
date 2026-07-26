@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Bundaran Ikan Harapan Indah Raya 1",
+  "stop_id": "B04740P",
+  "latitude": -6.181458,
+  "longitude": 106.98134,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:13:00",
+        "07:10:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

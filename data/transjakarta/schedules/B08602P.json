@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tzu Chi School 1",
+  "stop_id": "B08602P",
+  "latitude": -6.03356,
+  "longitude": 106.64113,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Pasadena",
+      "weekdays": [
+        "06:13:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

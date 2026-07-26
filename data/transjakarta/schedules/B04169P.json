@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Ps. Puri",
+  "stop_id": "B04169P",
+  "latitude": -6.183939,
+  "longitude": 106.753432,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:15:43",
+        "06:48:11",
+        "07:24:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

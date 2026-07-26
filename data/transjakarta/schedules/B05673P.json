@@ -1,0 +1,81 @@
+{
+  "stop_name": "Tanah Merdeka 1",
+  "stop_id": "B05673P",
+  "latitude": -6.308129,
+  "longitude": 106.874542,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:05:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7V",
+      "route_short_name": "7V",
+      "route_long_name": "Cibubur - Kampung Rambutan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan dan Cibubur",
+      "weekdays": [
+        "05:37:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:05:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:05:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:05:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:05:19",
+        "06:59:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Hollywood Junction",
+  "stop_id": "B08521P",
+  "latitude": -6.292992,
+  "longitude": 107.170464,
+  "routes": [
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "05:00:10",
+        "08:15:40",
+        "11:52:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

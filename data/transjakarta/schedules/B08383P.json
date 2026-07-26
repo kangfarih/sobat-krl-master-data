@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Subur",
+  "stop_id": "B08383P",
+  "latitude": -6.165898,
+  "longitude": 106.80277,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:33:05",
+        "05:33:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Mantang",
+  "stop_id": "B03779P",
+  "latitude": -6.112096,
+  "longitude": 106.90844,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:28:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

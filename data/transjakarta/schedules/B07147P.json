@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Senggol",
+  "stop_id": "B07147P",
+  "latitude": -6.323216,
+  "longitude": 106.87692,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:34:18",
+        "05:34:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

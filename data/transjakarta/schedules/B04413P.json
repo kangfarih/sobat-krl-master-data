@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Slb Angkasa",
+  "stop_id": "B04413P",
+  "latitude": -6.255191,
+  "longitude": 106.89134,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:22:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

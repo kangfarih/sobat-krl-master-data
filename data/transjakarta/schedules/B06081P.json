@@ -1,0 +1,46 @@
+{
+  "stop_name": "Sbr. BNN Jakarta Utara",
+  "stop_id": "B06081P",
+  "latitude": -6.132604,
+  "longitude": 106.86425,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:08:06",
+        "05:08:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:07:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:22:03",
+        "05:24:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. M Sarbini Munggang",
+  "stop_id": "B01329P",
+  "latitude": -6.276747,
+  "longitude": 106.85169,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:08:41",
+        "05:08:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:07:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

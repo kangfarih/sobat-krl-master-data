@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Ruko Interkota",
+  "stop_id": "B02066P",
+  "latitude": -6.166979,
+  "longitude": 106.72717,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:21:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

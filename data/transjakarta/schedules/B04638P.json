@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Malahayati",
+  "stop_id": "B04638P",
+  "latitude": -6.325873,
+  "longitude": 106.86006,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:48:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

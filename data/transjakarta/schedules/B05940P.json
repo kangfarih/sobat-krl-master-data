@@ -1,0 +1,21 @@
+{
+  "stop_name": "PKP",
+  "stop_id": "B05940P",
+  "latitude": -6.340253,
+  "longitude": 106.88548,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:09:13",
+        "05:09:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

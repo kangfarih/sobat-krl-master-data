@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. KH Hasim",
+  "stop_id": "B03753P",
+  "latitude": -6.185551,
+  "longitude": 106.73182,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:10:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:05:35",
+        "06:56:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

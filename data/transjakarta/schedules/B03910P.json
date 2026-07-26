@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Kel. Cibubur",
+  "stop_id": "B03910P",
+  "latitude": -6.349555,
+  "longitude": 106.87674,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:29:16",
+        "06:07:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:59:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

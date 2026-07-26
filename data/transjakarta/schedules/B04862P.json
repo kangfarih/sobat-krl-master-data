@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Kiwi Raya Bogor",
+  "stop_id": "B04862P",
+  "latitude": -6.337797,
+  "longitude": 106.86921,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:19:27",
+        "06:04:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

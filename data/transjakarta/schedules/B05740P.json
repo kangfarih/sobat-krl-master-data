@@ -1,0 +1,33 @@
+{
+  "stop_name": "Theresia",
+  "stop_id": "B05740P",
+  "latitude": -6.191324,
+  "longitude": 106.82931,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:43:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:33:31",
+        "08:51:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Tenggiri Tongkol Raya",
+  "stop_id": "B05194P",
+  "latitude": -6.112055,
+  "longitude": 106.882804,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:03:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

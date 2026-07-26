@@ -1,0 +1,20 @@
+{
+  "stop_name": "Perumahan BDN Cilandak",
+  "stop_id": "B02803P",
+  "latitude": -6.284482,
+  "longitude": 106.79946,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:42:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

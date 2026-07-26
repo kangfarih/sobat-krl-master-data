@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Nusa Indah II",
+  "stop_id": "B03803P",
+  "latitude": -6.2198,
+  "longitude": 106.93143,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:01:25",
+        "05:01:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Nirin I Petukangan",
+  "stop_id": "B01132P",
+  "latitude": -6.247926,
+  "longitude": 106.75195,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:34:07",
+        "05:34:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Nusa I Cililitan",
+  "stop_id": "B08423P",
+  "latitude": -6.26447,
+  "longitude": 106.871292,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:23:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

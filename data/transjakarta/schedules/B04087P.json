@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Mess Perwira Cendrawasih",
+  "stop_id": "B04087P",
+  "latitude": -6.252205,
+  "longitude": 106.88416,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:51:50",
+        "05:51:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. SMAN 85",
+  "stop_id": "B04435P",
+  "latitude": -6.215296,
+  "longitude": 106.75997,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:30:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:39:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

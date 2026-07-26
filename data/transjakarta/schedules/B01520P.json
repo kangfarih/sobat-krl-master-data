@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pule Ciracas",
+  "stop_id": "B01520P",
+  "latitude": -6.314331,
+  "longitude": 106.8759,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:00:10",
+        "06:38:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

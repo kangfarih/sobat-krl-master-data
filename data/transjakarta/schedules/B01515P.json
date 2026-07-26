@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pratama I Rorotan",
+  "stop_id": "B01515P",
+  "latitude": -6.141574,
+  "longitude": 106.95616,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:38:12",
+        "05:39:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

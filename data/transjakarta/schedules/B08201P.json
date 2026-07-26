@@ -1,0 +1,21 @@
+{
+  "stop_name": "Unisma",
+  "stop_id": "B08201P",
+  "latitude": -6.256671,
+  "longitude": 107.005371,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:08:15",
+        "05:08:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

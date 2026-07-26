@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. SPG 7",
+  "stop_id": "B01594P",
+  "latitude": -6.286157,
+  "longitude": 106.9049,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:09:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

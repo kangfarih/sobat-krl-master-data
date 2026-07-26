@@ -1,0 +1,21 @@
+{
+  "stop_name": "PKPRI DKI Jakarta",
+  "stop_id": "B02858P",
+  "latitude": -6.143493,
+  "longitude": 106.83395,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:38:26",
+        "07:21:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

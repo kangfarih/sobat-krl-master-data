@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Borobudur Malabar",
+  "stop_id": "B08194P",
+  "latitude": -6.249793,
+  "longitude": 106.967513,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:41:52",
+        "05:42:07",
+        "05:42:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

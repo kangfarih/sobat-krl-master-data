@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Barito II",
+  "stop_id": "B06740P",
+  "latitude": -6.248808,
+  "longitude": 106.795903,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:12:22",
+        "06:20:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

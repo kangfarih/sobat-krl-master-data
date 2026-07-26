@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pulo Ayang 3",
+  "stop_id": "B07637P",
+  "latitude": -6.206227,
+  "longitude": 106.913575,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:12:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

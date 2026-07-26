@@ -1,0 +1,38 @@
+{
+  "stop_name": "Jln. Pancoran Indah 1",
+  "stop_id": "B01449P",
+  "latitude": -6.2515,
+  "longitude": 106.842747,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:29:47",
+        "05:30:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:56:54",
+        "06:02:48",
+        "07:18:37",
+        "16:48:21"
+      ],
+      "weekends": [
+        "06:02:48"
+      ]
+    }
+  ]
+}

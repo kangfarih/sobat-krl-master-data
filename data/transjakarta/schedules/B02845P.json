@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pintu II TMII",
+  "stop_id": "B02845P",
+  "latitude": -6.297125,
+  "longitude": 106.89246,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:04:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

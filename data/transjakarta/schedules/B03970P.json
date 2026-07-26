@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Komplek Graha Indah Green Ville",
+  "stop_id": "B03970P",
+  "latitude": -6.171488,
+  "longitude": 106.7761,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:49:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

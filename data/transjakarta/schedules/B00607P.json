@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gelanggang Remaja Grogol Petamburan",
+  "stop_id": "B00607P",
+  "latitude": -6.178373,
+  "longitude": 106.78094,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:34:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "RS Aulia",
+  "stop_id": "B03124P",
+  "latitude": -6.334599,
+  "longitude": 106.82753,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:40:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

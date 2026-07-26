@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Beringin Sunter",
+  "stop_id": "B07236P",
+  "latitude": -6.154139,
+  "longitude": 106.863449,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:28:22",
+        "06:26:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

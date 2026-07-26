@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pertamina Bina Medika",
+  "stop_id": "B02759P",
+  "latitude": -6.253111,
+  "longitude": 106.77389,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:21:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:26:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

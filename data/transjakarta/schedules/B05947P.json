@@ -1,0 +1,22 @@
+{
+  "stop_name": "Kantor PJU",
+  "stop_id": "B05947P",
+  "latitude": -6.196096,
+  "longitude": 106.72987,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:04:34",
+        "05:04:35",
+        "05:04:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

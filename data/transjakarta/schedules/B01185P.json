@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kaja II KDW",
+  "stop_id": "B01185P",
+  "latitude": -6.330882,
+  "longitude": 106.88203,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:26:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

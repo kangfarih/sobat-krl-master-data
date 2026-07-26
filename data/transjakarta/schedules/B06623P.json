@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekretariat Kelurahan Lagoa",
+  "stop_id": "B06623P",
+  "latitude": -6.11801,
+  "longitude": 106.9036,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:58:13",
+        "05:58:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

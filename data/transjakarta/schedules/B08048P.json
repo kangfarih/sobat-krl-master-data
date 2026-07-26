@@ -1,0 +1,35 @@
+{
+  "stop_name": "Simpang Pramuka 2",
+  "stop_id": "B08048P",
+  "latitude": -6.192457,
+  "longitude": 106.874554,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:23:02",
+        "05:23:11",
+        "05:23:53",
+        "05:46:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:23:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

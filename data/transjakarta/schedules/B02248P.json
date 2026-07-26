@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Jihad Ulujami",
+  "stop_id": "B02248P",
+  "latitude": -6.254771,
+  "longitude": 106.76348,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:02:28",
+        "06:03:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

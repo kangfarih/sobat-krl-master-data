@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMAN 57 Jakbar",
+  "stop_id": "B06159P",
+  "latitude": -6.175297,
+  "longitude": 106.758588,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "06:01:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Raya KH Hasyim Asyari",
+  "stop_id": "B02379P",
+  "latitude": -6.159272,
+  "longitude": 106.71708,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:02:11",
+        "05:02:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

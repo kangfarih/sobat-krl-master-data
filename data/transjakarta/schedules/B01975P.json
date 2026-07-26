@@ -1,0 +1,22 @@
+{
+  "stop_name": "Kesatriyaan",
+  "stop_id": "B01975P",
+  "latitude": -6.206703,
+  "longitude": 106.85835,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:11:44",
+        "05:11:45",
+        "05:11:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

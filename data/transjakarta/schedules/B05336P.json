@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMP PGRI 9",
+  "stop_id": "B05336P",
+  "latitude": -6.332922,
+  "longitude": 106.89179,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:53:21",
+        "06:58:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

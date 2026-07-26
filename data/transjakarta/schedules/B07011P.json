@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Danau Sunter Selatan 6",
+  "stop_id": "B07011P",
+  "latitude": -6.147329,
+  "longitude": 106.885169,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:57:15",
+        "05:57:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

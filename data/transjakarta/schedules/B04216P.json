@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Polsek Duren Sawit",
+  "stop_id": "B04216P",
+  "latitude": -6.248008,
+  "longitude": 106.916744,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:22:11",
+        "05:22:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:13:45",
+        "06:18:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Poltekkes Jakarta I Cilandak",
+  "stop_id": "B02917P",
+  "latitude": -6.30199,
+  "longitude": 106.79027,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:22:03",
+        "06:33:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

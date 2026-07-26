@@ -1,0 +1,21 @@
+{
+  "stop_name": "Hotel Olive 2",
+  "stop_id": "B00782P",
+  "latitude": -6.216591,
+  "longitude": 106.61888,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "07:02:44",
+        "09:39:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

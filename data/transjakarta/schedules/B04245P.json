@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Puri Margasatwa",
+  "stop_id": "B04245P",
+  "latitude": -6.311422,
+  "longitude": 106.80873,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:13:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:45:35",
+        "06:56:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

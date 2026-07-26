@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Duri Selatan III",
+  "stop_id": "B01050P",
+  "latitude": -6.160101,
+  "longitude": 106.80809,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:39:00",
+        "06:38:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

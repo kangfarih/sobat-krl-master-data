@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kampung Jembatan Ngurah Rai",
+  "stop_id": "B01803P",
+  "latitude": -6.216438,
+  "longitude": 106.92909,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Walikota Jakarta Timur",
+      "weekdays": [
+        "05:25:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:56:59",
+        "05:57:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

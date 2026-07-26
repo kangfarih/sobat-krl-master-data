@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pengendapan Jln. Elang",
+  "stop_id": "B07768P",
+  "latitude": -6.152972,
+  "longitude": 106.923294,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:00:10",
+        "06:12:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

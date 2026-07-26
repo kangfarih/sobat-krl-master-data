@@ -1,0 +1,20 @@
+{
+  "stop_name": "Darmawangsa Square",
+  "stop_id": "B00299P",
+  "latitude": -6.253048,
+  "longitude": 106.80116,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:12:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

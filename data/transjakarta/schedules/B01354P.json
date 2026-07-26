@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Mangga Dua I Utara",
+  "stop_id": "B01354P",
+  "latitude": -6.137564,
+  "longitude": 106.81894,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:29:50",
+        "06:30:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

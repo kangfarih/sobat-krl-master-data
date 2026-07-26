@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rumah Dinas BRI Cipete",
+  "stop_id": "B07367P",
+  "latitude": -6.278045,
+  "longitude": 106.806472,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:38:07",
+        "06:47:47",
+        "06:48:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Balai Nikah Kembangan Utara",
+  "stop_id": "B03454P",
+  "latitude": -6.181498,
+  "longitude": 106.73445,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:09:44",
+        "05:09:53",
+        "07:00:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

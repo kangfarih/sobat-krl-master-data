@@ -1,0 +1,30 @@
+{
+  "stop_name": "Kalideres",
+  "stop_id": "G00161",
+  "latitude": -6.154449,
+  "longitude": 106.7055,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:00:10",
+        "06:11:47",
+        "06:12:27",
+        "06:47:40",
+        "07:18:48",
+        "07:26:01",
+        "07:32:12"
+      ],
+      "weekends": [
+        "05:00:10",
+        "06:47:40",
+        "07:26:01"
+      ]
+    }
+  ]
+}

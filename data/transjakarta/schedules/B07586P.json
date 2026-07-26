@@ -1,0 +1,36 @@
+{
+  "stop_name": "Simpang Jln. RM Margono",
+  "stop_id": "B07586P",
+  "latitude": -6.202135,
+  "longitude": 106.816041,
+  "routes": [
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Karet via Underpass dan Stasiun Tebet",
+      "weekdays": [
+        "05:34:21"
+      ],
+      "weekends": [
+        "05:34:21"
+      ]
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:09:34",
+        "05:51:50",
+        "06:34:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

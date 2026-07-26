@@ -1,0 +1,20 @@
+{
+  "stop_name": "PMI DKI Jakarta",
+  "stop_id": "B06038P",
+  "latitude": -6.181486,
+  "longitude": 106.838009,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:21:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

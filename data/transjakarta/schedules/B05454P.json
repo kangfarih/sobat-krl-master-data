@@ -1,0 +1,32 @@
+{
+  "stop_name": "St. Kebayoran",
+  "stop_id": "B05454P",
+  "latitude": -6.239001,
+  "longitude": 106.78198,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:32:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:37:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

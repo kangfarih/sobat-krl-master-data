@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kebayoran",
+  "stop_id": "G00376",
+  "latitude": -6.238363,
+  "longitude": 106.78327,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:41:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "06:18:58",
+        "06:41:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Limo",
+  "stop_id": "B02139P",
+  "latitude": -6.225483,
+  "longitude": 106.78881,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:12:06",
+        "05:12:17",
+        "05:12:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:11:39",
+        "05:11:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

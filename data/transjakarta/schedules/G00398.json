@@ -1,0 +1,64 @@
+{
+  "stop_name": "Tomang Raya",
+  "stop_id": "G00398",
+  "latitude": -6.176897,
+  "longitude": 106.800386,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:39:27"
+      ],
+      "weekends": [
+        "05:39:27"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "05:22:16",
+        "05:22:18",
+        "06:59:54",
+        "09:22:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "06:12:35",
+        "06:12:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:22:18"
+      ],
+      "weekends": [
+        "05:22:18"
+      ]
+    }
+  ]
+}

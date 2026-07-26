@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Ibu Pertiwi",
+  "stop_id": "B08542P",
+  "latitude": -6.19427,
+  "longitude": 106.797634,
+  "routes": [
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "06:57:37",
+        "09:26:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

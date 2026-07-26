@@ -1,0 +1,51 @@
+{
+  "stop_name": "Jln. Nimun Raya",
+  "stop_id": "B01421P",
+  "latitude": -6.253204,
+  "longitude": 106.77344,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:46:56",
+        "05:47:59"
+      ],
+      "weekends": [
+        "05:47:59"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:47:42",
+        "05:48:44"
+      ],
+      "weekends": [
+        "05:48:44"
+      ]
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:34:19",
+        "05:34:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

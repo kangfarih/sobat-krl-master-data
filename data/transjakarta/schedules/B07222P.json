@@ -1,0 +1,21 @@
+{
+  "stop_name": "Perumahan Taman Mahkota",
+  "stop_id": "B07222P",
+  "latitude": -6.119168,
+  "longitude": 106.688577,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:40:47",
+        "06:45:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

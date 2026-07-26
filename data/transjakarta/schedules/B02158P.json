@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lotte Mart Serpong 2",
+  "stop_id": "B02158P",
+  "latitude": -6.248116,
+  "longitude": 106.64991,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "06:59:09",
+        "09:29:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

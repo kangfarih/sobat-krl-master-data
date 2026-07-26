@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klinik Kasih Medika",
+  "stop_id": "B01993P",
+  "latitude": -6.187158,
+  "longitude": 106.90063,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:08:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

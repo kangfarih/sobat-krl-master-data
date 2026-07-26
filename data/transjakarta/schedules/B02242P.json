@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Hidayah Kebantenan",
+  "stop_id": "B02242P",
+  "latitude": -6.112872,
+  "longitude": 106.92713,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:34:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

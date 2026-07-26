@@ -1,0 +1,25 @@
+{
+  "stop_name": "Kartika Candra",
+  "stop_id": "B01839P",
+  "latitude": -6.228333,
+  "longitude": 106.81878,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:34:58",
+        "05:40:52",
+        "06:56:28",
+        "16:26:19"
+      ],
+      "weekends": [
+        "05:40:52"
+      ]
+    }
+  ]
+}

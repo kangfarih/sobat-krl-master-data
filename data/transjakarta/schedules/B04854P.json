@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Bongo Raya",
+  "stop_id": "B04854P",
+  "latitude": -6.170743,
+  "longitude": 106.91001,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:25:13",
+        "06:32:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

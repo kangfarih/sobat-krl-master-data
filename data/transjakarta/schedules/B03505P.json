@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Barokah Lingkar Timur",
+  "stop_id": "B03505P",
+  "latitude": -6.196525,
+  "longitude": 106.94396,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:12:41",
+        "06:50:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:12:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

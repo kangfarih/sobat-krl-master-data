@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Taman Margasatwa Raya",
+  "stop_id": "B07363P",
+  "latitude": -6.282904,
+  "longitude": 106.827325,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:54:13",
+        "07:02:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

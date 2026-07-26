@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Serdang Baru XIII",
+  "stop_id": "B07248P",
+  "latitude": -6.157415,
+  "longitude": 106.866508,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:36:44",
+        "05:36:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

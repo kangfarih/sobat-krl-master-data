@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Robaya",
+  "stop_id": "B03558P",
+  "latitude": -6.333212,
+  "longitude": 106.82825,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:51:32",
+        "07:04:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:37:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

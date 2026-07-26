@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Deprok",
+  "stop_id": "B02601P",
+  "latitude": -6.218279,
+  "longitude": 106.89455,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:36:23",
+        "06:45:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

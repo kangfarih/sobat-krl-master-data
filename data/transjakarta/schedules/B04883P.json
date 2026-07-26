@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jembatan Lima",
+  "stop_id": "B04883P",
+  "latitude": -6.142897,
+  "longitude": 106.80668,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:49:47",
+        "06:48:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

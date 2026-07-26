@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kebantenan VIII",
+  "stop_id": "B04910P",
+  "latitude": -6.109712,
+  "longitude": 106.9303,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:31:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

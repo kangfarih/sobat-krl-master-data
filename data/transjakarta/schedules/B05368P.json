@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 214",
+  "stop_id": "B05368P",
+  "latitude": -6.25378,
+  "longitude": 106.89073,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:03:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

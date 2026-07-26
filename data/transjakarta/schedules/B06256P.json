@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Jaya Wijaya",
+  "stop_id": "B06256P",
+  "latitude": -6.107566,
+  "longitude": 106.92412,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:29:06",
+        "05:59:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Pasar Grogol",
+  "stop_id": "B08443P",
+  "latitude": -6.162982,
+  "longitude": 106.796643,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:03:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

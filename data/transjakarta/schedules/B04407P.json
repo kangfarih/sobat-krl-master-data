@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Sentral Bisnis Harapan Indah",
+  "stop_id": "B04407P",
+  "latitude": -6.191491,
+  "longitude": 106.97667,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:37:00",
+        "06:34:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

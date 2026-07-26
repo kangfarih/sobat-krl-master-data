@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. H Satiri Manshur",
+  "stop_id": "B00450P",
+  "latitude": -6.173907,
+  "longitude": 106.7485,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:08:18",
+        "06:40:45",
+        "07:16:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

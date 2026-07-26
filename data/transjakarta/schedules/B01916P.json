@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kel. Gandaria Utara",
+  "stop_id": "B01916P",
+  "latitude": -6.257036,
+  "longitude": 106.789811,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:37:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:07:22",
+        "06:07:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

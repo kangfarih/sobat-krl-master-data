@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Plumpang Semper",
+  "stop_id": "B08013P",
+  "latitude": -6.130663,
+  "longitude": 106.897099,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:35:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

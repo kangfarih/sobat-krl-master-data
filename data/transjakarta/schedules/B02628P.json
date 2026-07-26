@@ -1,0 +1,23 @@
+{
+  "stop_name": "Ps. Kembang Kb. Jeruk",
+  "stop_id": "B02628P",
+  "latitude": -6.206053,
+  "longitude": 106.78309,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:36:54",
+        "06:13:28",
+        "06:57:20",
+        "07:37:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

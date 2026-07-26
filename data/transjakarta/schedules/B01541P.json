@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Rejo",
+  "stop_id": "B01541P",
+  "latitude": -6.259506,
+  "longitude": 106.79685,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pondok Labu",
+      "weekdays": [
+        "05:18:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:23:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

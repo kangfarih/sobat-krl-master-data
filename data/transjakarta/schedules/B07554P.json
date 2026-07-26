@@ -1,0 +1,33 @@
+{
+  "stop_name": "RSUD Tarakan 2",
+  "stop_id": "B07554P",
+  "latitude": -6.170963,
+  "longitude": 106.810325,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol dan Tanah Abang",
+      "weekdays": [
+        "05:21:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "07:18:23",
+        "07:18:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

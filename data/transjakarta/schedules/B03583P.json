@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gelanggang Remaja Tj. Priok",
+  "stop_id": "B03583P",
+  "latitude": -6.138765,
+  "longitude": 106.87197,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:32:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

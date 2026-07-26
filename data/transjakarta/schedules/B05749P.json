@@ -1,0 +1,21 @@
+{
+  "stop_name": "TK Al Husna Petukangan Utara",
+  "stop_id": "B05749P",
+  "latitude": -6.231921,
+  "longitude": 106.74521,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:31:19",
+        "07:12:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

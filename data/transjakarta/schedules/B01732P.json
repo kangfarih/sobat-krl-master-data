@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jatinegara Timur",
+  "stop_id": "B01732P",
+  "latitude": -6.220486,
+  "longitude": 106.86825,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:51:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:05:08",
+        "06:13:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

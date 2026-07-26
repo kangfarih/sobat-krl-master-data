@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Pertanian III",
+  "stop_id": "B06649P",
+  "latitude": -6.287641,
+  "longitude": 106.84267,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:04:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:04:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

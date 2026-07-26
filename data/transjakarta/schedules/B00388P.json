@@ -1,0 +1,33 @@
+{
+  "stop_name": "Galur 2",
+  "stop_id": "B00388P",
+  "latitude": -6.174192,
+  "longitude": 106.855,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:30:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:09:43",
+        "07:52:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Puri Beta Raya",
+  "stop_id": "B07876P",
+  "latitude": -6.230616,
+  "longitude": 106.726062,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:02:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

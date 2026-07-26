@@ -1,0 +1,48 @@
+{
+  "stop_name": "Penas Kalimalang 2",
+  "stop_id": "B02723P",
+  "latitude": -6.239205,
+  "longitude": 106.878232,
+  "routes": [
+    {
+      "route_id": "10B",
+      "route_short_name": "10B",
+      "route_long_name": "Rusun Cipinang Besar Selatan - Halim",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Halim dan Rusun Cipinang Besar Selatan",
+      "weekdays": [
+        "05:00:10",
+        "05:08:05",
+        "05:08:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:48:53",
+        "05:49:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:36:57",
+        "06:35:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "SMKS 1 Citra Adhi Pratama",
+  "stop_id": "B07686P",
+  "latitude": -6.123564,
+  "longitude": 106.730882,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:11:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:39:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Perum Rorotan Mas",
+  "stop_id": "B04193P",
+  "latitude": -6.157349,
+  "longitude": 106.95938,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:17:30",
+        "06:27:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

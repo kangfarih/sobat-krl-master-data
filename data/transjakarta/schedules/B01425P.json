@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Nusa Indah V",
+  "stop_id": "B01425P",
+  "latitude": -6.218179,
+  "longitude": 106.93549,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Klender",
+      "weekdays": [
+        "05:58:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:16:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

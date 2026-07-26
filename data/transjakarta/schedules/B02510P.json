@@ -1,0 +1,33 @@
+{
+  "stop_name": "Mushola Al Jihad Perintis Kemerdekaan",
+  "stop_id": "B02510P",
+  "latitude": -6.173541,
+  "longitude": 106.89171,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:34:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:12:12",
+        "07:44:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

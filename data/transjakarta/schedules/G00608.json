@@ -1,0 +1,65 @@
+{
+  "stop_name": "Puri Beta 2",
+  "stop_id": "G00608",
+  "latitude": -6.23055,
+  "longitude": 106.723717,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Puri Beta",
+      "weekdays": [
+        "00:00:10",
+        "02:01:51",
+        "05:00:10",
+        "06:00:04",
+        "22:00:10",
+        "23:45:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "06:03:32",
+        "07:14:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "06:31:13",
+        "07:57:45"
+      ]
+    },
+    {
+      "route_id": "L13E",
+      "route_short_name": "L13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan (Express)",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta (Express)",
+      "weekdays": [
+        "06:24:46",
+        "06:29:56",
+        "07:53:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

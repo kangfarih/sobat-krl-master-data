@@ -1,0 +1,29 @@
+{
+  "stop_name": "Arteri",
+  "stop_id": "G00383",
+  "latitude": -6.218424,
+  "longitude": 106.777588,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:53:49",
+        "05:53:58",
+        "05:53:59",
+        "05:54:02",
+        "06:54:11",
+        "07:25:16",
+        "14:53:50"
+      ],
+      "weekends": [
+        "05:53:58",
+        "05:54:02"
+      ]
+    }
+  ]
+}

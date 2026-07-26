@@ -1,0 +1,65 @@
+{
+  "stop_name": "Pasar Cempaka Putih",
+  "stop_id": "G00100",
+  "latitude": -6.172284,
+  "longitude": 106.862437,
+  "routes": [
+    {
+      "route_id": "2",
+      "route_short_name": "2",
+      "route_long_name": "Pulo Gadung - Monumen Nasional",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Monas dan Pulo Gadung",
+      "weekdays": [
+        "05:27:17",
+        "06:31:47",
+        "06:32:47",
+        "06:52:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:30:12",
+        "08:31:05",
+        "08:32:55",
+        "08:41:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:30:12",
+        "07:39:25",
+        "07:47:51",
+        "07:58:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ3",
+      "route_short_name": "PRJ3",
+      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
+      "color": "54659C",
+      "category": "BRT",
+      "direction": "Pulo Gadung - JIEXPO Kemayoran - Pulo Gadung",
+      "weekdays": [
+        "13:47:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

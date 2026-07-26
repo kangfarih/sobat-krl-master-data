@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H Piran",
+  "stop_id": "B00449P",
+  "latitude": -6.297323,
+  "longitude": 106.89335,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:03:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Perjuangan Raya 4",
+  "stop_id": "B06458P",
+  "latitude": -6.136335,
+  "longitude": 106.90425,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:04:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

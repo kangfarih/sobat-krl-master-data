@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gereja Jemaat Kiwi",
+  "stop_id": "B00630P",
+  "latitude": -6.339179,
+  "longitude": 106.87221,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:21:15",
+        "06:06:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

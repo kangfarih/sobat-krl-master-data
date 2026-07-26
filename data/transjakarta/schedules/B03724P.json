@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. H. Selong Duri Kosambi",
+  "stop_id": "B03724P",
+  "latitude": -6.172036,
+  "longitude": 106.72213,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:34:45",
+        "05:48:32",
+        "07:42:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

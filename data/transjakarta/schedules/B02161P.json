@@ -1,0 +1,35 @@
+{
+  "stop_name": "LPP RRI 1",
+  "stop_id": "B02161P",
+  "latitude": -6.252131,
+  "longitude": 106.7913,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:58:20"
+      ],
+      "weekends": [
+        "05:58:20"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:10:29",
+        "06:10:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

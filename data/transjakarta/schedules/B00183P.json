@@ -1,0 +1,48 @@
+{
+  "stop_name": "BRI Jakarta Kota",
+  "stop_id": "B00183P",
+  "latitude": -6.135104,
+  "longitude": 106.80752,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:20:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:10:08",
+        "06:10:16"
+      ],
+      "weekends": [
+        "05:59:54",
+        "06:10:06"
+      ]
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:33:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

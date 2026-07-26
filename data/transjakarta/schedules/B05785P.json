@@ -1,0 +1,33 @@
+{
+  "stop_name": "TPU Kb. Nanas 2",
+  "stop_id": "B05785P",
+  "latitude": -6.232106,
+  "longitude": 106.88017,
+  "routes": [
+    {
+      "route_id": "10B",
+      "route_short_name": "10B",
+      "route_long_name": "Rusun Cipinang Besar Selatan - Halim",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Halim dan Rusun Cipinang Besar Selatan",
+      "weekdays": [
+        "05:02:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:31:14",
+        "06:29:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

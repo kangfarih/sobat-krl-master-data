@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. Condet Raya Prepedan",
+  "stop_id": "B00434P",
+  "latitude": -6.111906,
+  "longitude": 106.70561,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "06:08:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:54:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

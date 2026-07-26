@@ -1,0 +1,22 @@
+{
+  "stop_name": "TPU Basmol",
+  "stop_id": "B05779P",
+  "latitude": -6.160331,
+  "longitude": 106.75275,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:51:11",
+        "06:23:38",
+        "06:59:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Irigasi THB",
+  "stop_id": "B01163P",
+  "latitude": -6.18227,
+  "longitude": 106.99334,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:01:18",
+        "06:58:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

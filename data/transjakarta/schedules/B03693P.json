@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Durian I",
+  "stop_id": "B03693P",
+  "latitude": -6.236342,
+  "longitude": 106.75756,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:28:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

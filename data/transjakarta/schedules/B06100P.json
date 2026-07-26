@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pilar II",
+  "stop_id": "B06100P",
+  "latitude": -6.182442,
+  "longitude": 106.761656,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:18:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

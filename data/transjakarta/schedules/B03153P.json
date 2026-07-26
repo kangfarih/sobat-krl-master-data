@@ -1,0 +1,25 @@
+{
+  "stop_name": "RS Medistra",
+  "stop_id": "B03153P",
+  "latitude": -6.240411,
+  "longitude": 106.83412,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:46:09",
+        "05:52:03",
+        "07:07:45",
+        "16:37:28"
+      ],
+      "weekends": [
+        "05:52:03"
+      ]
+    }
+  ]
+}

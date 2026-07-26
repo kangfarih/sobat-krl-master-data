@@ -1,0 +1,35 @@
+{
+  "stop_name": "Tugu Proklamasi",
+  "stop_id": "B05812P",
+  "latitude": -6.202606,
+  "longitude": 106.847711,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:49:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:20:26",
+        "05:20:27",
+        "05:20:36",
+        "05:20:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

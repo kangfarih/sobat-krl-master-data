@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Pelabuhan Sunda Kelapa",
+  "stop_id": "B07051P",
+  "latitude": -6.125876,
+  "longitude": 106.810768,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:12:40",
+        "06:04:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

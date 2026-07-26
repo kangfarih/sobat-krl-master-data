@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pompa Viaduct Ancol",
+  "stop_id": "B02922P",
+  "latitude": -6.131663,
+  "longitude": 106.83107,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:42:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

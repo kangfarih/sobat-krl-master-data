@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kencana Tower Meruya Ilir",
+  "stop_id": "B01973P",
+  "latitude": -6.198383,
+  "longitude": 106.76266,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:35:43",
+        "05:35:45",
+        "05:35:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:22:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

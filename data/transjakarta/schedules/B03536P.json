@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. H. Satra Cipete",
+  "stop_id": "B03536P",
+  "latitude": -6.278013,
+  "longitude": 106.805082,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:40:02",
+        "05:40:59",
+        "05:41:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

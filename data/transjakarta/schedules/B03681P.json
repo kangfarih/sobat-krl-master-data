@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Damai",
+  "stop_id": "B03681P",
+  "latitude": -6.242744,
+  "longitude": 106.90195,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:36:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

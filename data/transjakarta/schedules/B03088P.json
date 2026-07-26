@@ -1,0 +1,20 @@
+{
+  "stop_name": "Raya Condet Munggang 2",
+  "stop_id": "B03088P",
+  "latitude": -6.274052,
+  "longitude": 106.85559,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:05:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Jami Imam Hanafi",
+  "stop_id": "B07646P",
+  "latitude": -6.3452744,
+  "longitude": 106.8610561,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:05:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

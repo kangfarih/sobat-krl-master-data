@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Jeruk Nipis",
+  "stop_id": "B01181P",
+  "latitude": -6.197556,
+  "longitude": 106.76575,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:24:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

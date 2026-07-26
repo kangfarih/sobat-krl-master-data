@@ -1,0 +1,33 @@
+{
+  "stop_name": "Taman Patimura",
+  "stop_id": "B05637P",
+  "latitude": -6.232872,
+  "longitude": 106.80081,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:40:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:04:42",
+        "06:12:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. SDN Grogol Utara 03",
+  "stop_id": "B04340P",
+  "latitude": -6.21504,
+  "longitude": 106.77758,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:15:34",
+        "05:15:37",
+        "06:14:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Simprug dan Tanah Abang",
+      "weekdays": [
+        "05:51:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

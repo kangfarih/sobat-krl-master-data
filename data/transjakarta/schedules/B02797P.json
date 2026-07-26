@@ -1,0 +1,22 @@
+{
+  "stop_name": "Perum Taman Kota 1",
+  "stop_id": "B02797P",
+  "latitude": -6.160629,
+  "longitude": 106.75631,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:57:21",
+        "06:29:48",
+        "07:05:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

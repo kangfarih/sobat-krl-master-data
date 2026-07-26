@@ -1,0 +1,34 @@
+{
+  "stop_name": "Tanjung Priok",
+  "stop_id": "G00755",
+  "latitude": -6.10957465,
+  "longitude": 106.88203909,
+  "routes": [
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:00:10",
+        "07:04:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:00:10",
+        "07:11:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

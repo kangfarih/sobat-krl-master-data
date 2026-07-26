@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Tohir",
+  "stop_id": "B01148P",
+  "latitude": -6.224866,
+  "longitude": 106.77157,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:13:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Gg. Gotong Royong",
+  "stop_id": "B00446P",
+  "latitude": -6.124932,
+  "longitude": 106.89376,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:02:38",
+        "05:41:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:17:06",
+        "06:56:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

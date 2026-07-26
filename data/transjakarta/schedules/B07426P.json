@@ -1,0 +1,38 @@
+{
+  "stop_name": "SDN Gandaria Utara 11",
+  "stop_id": "B07426P",
+  "latitude": -6.258272,
+  "longitude": 106.791022,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:39:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:24:47",
+        "05:30:21",
+        "06:45:51",
+        "06:51:28"
+      ],
+      "weekends": [
+        "05:24:47",
+        "06:45:51"
+      ]
+    }
+  ]
+}

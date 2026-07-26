@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gramedia Harapan Indah",
+  "stop_id": "B00685P",
+  "latitude": -6.17631,
+  "longitude": 106.97427,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:47:41",
+        "06:52:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

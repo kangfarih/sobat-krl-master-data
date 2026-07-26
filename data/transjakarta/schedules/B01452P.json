@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pancoran Timur VII",
+  "stop_id": "B01452P",
+  "latitude": -6.249444,
+  "longitude": 106.84822,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:20:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

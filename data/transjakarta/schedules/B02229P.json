@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Bakrie",
+  "stop_id": "B02229P",
+  "latitude": -6.219141,
+  "longitude": 106.83784,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:03:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

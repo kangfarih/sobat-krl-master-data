@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Al Wahyu Cibubur",
+  "stop_id": "B04612P",
+  "latitude": -6.365855,
+  "longitude": 106.88733,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "06:04:18",
+        "06:42:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

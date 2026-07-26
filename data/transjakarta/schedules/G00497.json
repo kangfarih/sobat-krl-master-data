@@ -1,0 +1,45 @@
+{
+  "stop_name": "Plumpang Arah Selatan",
+  "stop_id": "G00497",
+  "latitude": -6.128473,
+  "longitude": 106.893784,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "05:15:55",
+        "06:30:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:16:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:16:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kelapa Puyuh II",
+  "stop_id": "B01254P",
+  "latitude": -6.174869,
+  "longitude": 106.9023,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "06:39:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

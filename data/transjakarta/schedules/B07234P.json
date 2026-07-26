@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pos Polisi Podomoro",
+  "stop_id": "B07234P",
+  "latitude": -6.148788,
+  "longitude": 106.859408,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:21:29",
+        "06:19:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

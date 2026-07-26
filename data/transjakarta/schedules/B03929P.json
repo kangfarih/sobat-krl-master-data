@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kel. Rawa Bunga",
+  "stop_id": "B03929P",
+  "latitude": -6.221718,
+  "longitude": 106.86948,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:07:11",
+        "06:16:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. H. Salam",
+  "stop_id": "B07493P",
+  "latitude": -6.324364,
+  "longitude": 106.830117,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:46:01",
+        "05:46:56",
+        "06:59:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

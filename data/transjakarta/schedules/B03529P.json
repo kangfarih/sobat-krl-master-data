@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. H. Amsar",
+  "stop_id": "B03529P",
+  "latitude": -6.218664,
+  "longitude": 106.77088,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:51:46",
+        "06:23:31",
+        "06:58:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

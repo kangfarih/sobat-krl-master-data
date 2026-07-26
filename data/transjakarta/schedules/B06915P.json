@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSIA Resti Mulya",
+  "stop_id": "B06915P",
+  "latitude": -6.208816,
+  "longitude": 106.941931,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:27:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

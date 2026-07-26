@@ -1,0 +1,33 @@
+{
+  "stop_name": "Community Park",
+  "stop_id": "B08274P",
+  "latitude": -6.059138,
+  "longitude": 106.708365,
+  "routes": [
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:44:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "17:19:21",
+        "18:59:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "Warga",
+  "stop_id": "B05874P",
+  "latitude": -6.273295,
+  "longitude": 106.84656,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:42:37",
+        "05:43:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:09:45",
+        "06:15:38",
+        "07:31:27",
+        "17:01:11"
+      ],
+      "weekends": [
+        "06:15:38"
+      ]
+    }
+  ]
+}

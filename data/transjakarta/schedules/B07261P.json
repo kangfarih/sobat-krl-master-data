@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pramuka LIA 2",
+  "stop_id": "B07261P",
+  "latitude": -6.19246,
+  "longitude": 106.868312,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:36:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen via TL Pramuka",
+      "weekdays": [
+        "05:54:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

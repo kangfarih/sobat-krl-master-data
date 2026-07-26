@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. M. Nalim",
+  "stop_id": "B07498P",
+  "latitude": -6.348776,
+  "longitude": 106.813316,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:04:19",
+        "07:17:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

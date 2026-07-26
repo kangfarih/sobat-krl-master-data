@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Ciujung Cideng Barat",
+  "stop_id": "B01014P",
+  "latitude": -6.176623,
+  "longitude": 106.812023,
+  "routes": [
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "05:05:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:06:11",
+        "05:06:12",
+        "06:04:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

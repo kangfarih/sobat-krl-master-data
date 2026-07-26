@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN 04 Malaka Jaya",
+  "stop_id": "B06758P",
+  "latitude": -6.221398,
+  "longitude": 106.935402,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:02:32",
+        "05:02:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

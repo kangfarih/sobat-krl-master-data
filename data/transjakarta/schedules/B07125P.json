@@ -1,0 +1,21 @@
+{
+  "stop_name": "TK Hang Tuah I",
+  "stop_id": "B07125P",
+  "latitude": -6.114586,
+  "longitude": 106.883646,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:04:56",
+        "06:43:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

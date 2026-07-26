@@ -1,0 +1,38 @@
+{
+  "stop_name": "Carrefour Pejaten Barat",
+  "stop_id": "B00231P",
+  "latitude": -6.267834,
+  "longitude": 106.84529,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:49:26",
+        "06:14:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:09:34",
+        "05:09:42",
+        "05:39:42",
+        "15:39:42"
+      ],
+      "weekends": [
+        "05:09:34"
+      ]
+    }
+  ]
+}

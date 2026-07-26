@@ -1,0 +1,45 @@
+{
+  "stop_name": "Perintis Kemerdekaan",
+  "stop_id": "G00626",
+  "latitude": -6.171755,
+  "longitude": 106.88869,
+  "routes": [
+    {
+      "route_id": "2",
+      "route_short_name": "2",
+      "route_long_name": "Pulo Gadung - Monumen Nasional",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Monas dan Pulo Gadung",
+      "weekdays": [
+        "05:12:51",
+        "05:13:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "05:13:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ3",
+      "route_short_name": "PRJ3",
+      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
+      "color": "54659C",
+      "category": "BRT",
+      "direction": "Pulo Gadung - JIEXPO Kemayoran - Pulo Gadung",
+      "weekdays": [
+        "12:13:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

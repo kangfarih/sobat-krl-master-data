@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Pangeran Antasari",
+  "stop_id": "B06728P",
+  "latitude": -6.27516,
+  "longitude": 106.808476,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:37:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:40:39",
+        "06:50:20",
+        "06:51:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

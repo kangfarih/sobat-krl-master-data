@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMAN 61",
+  "stop_id": "B05275P",
+  "latitude": -6.236929,
+  "longitude": 106.89823,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:53:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Polsek Cinere",
+  "stop_id": "B07779P",
+  "latitude": -6.341315,
+  "longitude": 106.779586,
+  "routes": [
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

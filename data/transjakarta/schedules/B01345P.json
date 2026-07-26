@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Mandala Selatan II",
+  "stop_id": "B01345P",
+  "latitude": -6.173856,
+  "longitude": 106.80019,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:26:21",
+        "05:39:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:16:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

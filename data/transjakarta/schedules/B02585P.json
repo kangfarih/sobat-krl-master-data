@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Benda",
+  "stop_id": "B02585P",
+  "latitude": -6.228043,
+  "longitude": 106.91575,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:37:49",
+        "06:49:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

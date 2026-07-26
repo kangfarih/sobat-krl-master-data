@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Cempaka Srengseng Sawah",
+  "stop_id": "B00986P",
+  "latitude": -6.34463,
+  "longitude": 106.82821,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:22:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:40:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

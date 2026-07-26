@@ -1,0 +1,35 @@
+{
+  "stop_name": "Spring Ville",
+  "stop_id": "B08134P",
+  "latitude": -6.066049,
+  "longitude": 106.692734,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:07:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:27:40",
+        "10:07:09"
+      ],
+      "weekends": [
+        "10:07:09"
+      ]
+    }
+  ]
+}

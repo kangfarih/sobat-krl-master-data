@@ -1,0 +1,21 @@
+{
+  "stop_name": "Galur 1",
+  "stop_id": "B00387P",
+  "latitude": -6.174567,
+  "longitude": 106.85493,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:47:30",
+        "05:47:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

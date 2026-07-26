@@ -1,0 +1,41 @@
+{
+  "stop_name": "Glodok",
+  "stop_id": "G00058",
+  "latitude": -6.144438,
+  "longitude": 106.815498,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Kali Besar Barat",
+      "weekdays": [
+        "05:09:41",
+        "05:09:43",
+        "05:09:45",
+        "05:15:44",
+        "05:15:45",
+        "08:09:44"
+      ],
+      "weekends": [
+        "05:09:41"
+      ]
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:16:01",
+        "06:24:09",
+        "06:24:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

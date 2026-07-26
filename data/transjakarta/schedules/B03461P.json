@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Bona Plaza Indah",
+  "stop_id": "B03461P",
+  "latitude": -6.30108,
+  "longitude": 106.78042,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:58:12",
+        "05:58:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

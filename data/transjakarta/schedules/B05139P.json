@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Sawo Raya Rawa Kuning",
+  "stop_id": "B05139P",
+  "latitude": -6.211064,
+  "longitude": 106.95786,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:37:10",
+        "05:38:33",
+        "07:06:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Waru Gedong",
+  "stop_id": "B05216P",
+  "latitude": -6.29329,
+  "longitude": 106.85793,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:31:05",
+        "06:25:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

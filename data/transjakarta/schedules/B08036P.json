@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tanamas",
+  "stop_id": "B08036P",
+  "latitude": -6.14585,
+  "longitude": 106.74511,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:28:35",
+        "06:09:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

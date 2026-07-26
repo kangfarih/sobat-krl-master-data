@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Nanas Lap Bola",
+  "stop_id": "B03801P",
+  "latitude": -6.200877,
+  "longitude": 106.76047,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:18:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

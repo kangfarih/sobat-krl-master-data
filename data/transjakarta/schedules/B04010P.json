@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Malaka Country Estate",
+  "stop_id": "B04010P",
+  "latitude": -6.223712,
+  "longitude": 106.94235,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:14:42",
+        "06:15:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

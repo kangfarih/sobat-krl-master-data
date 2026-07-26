@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Marketing Office Vida",
+  "stop_id": "B08122P",
+  "latitude": -6.323381,
+  "longitude": 106.985064,
+  "routes": [
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sentral via Jatiasih dan Vida Bekasi",
+      "weekdays": [
+        "05:00:10",
+        "06:52:52",
+        "08:34:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

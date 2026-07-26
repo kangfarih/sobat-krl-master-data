@@ -1,0 +1,23 @@
+{
+  "stop_name": "Perlintasan Bintaro Puspita 1",
+  "stop_id": "B02743P",
+  "latitude": -6.264875,
+  "longitude": 106.7569,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:07:43",
+        "06:08:45"
+      ],
+      "weekends": [
+        "06:08:45"
+      ]
+    }
+  ]
+}

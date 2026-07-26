@@ -1,0 +1,34 @@
+{
+  "stop_name": "Ibnu Chaldun",
+  "stop_id": "B08000P",
+  "latitude": -6.192503,
+  "longitude": 106.877698,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:59:54",
+        "07:29:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "06:14:02",
+        "07:50:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

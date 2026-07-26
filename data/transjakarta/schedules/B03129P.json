@@ -1,0 +1,20 @@
+{
+  "stop_name": "RS Citra Harapan",
+  "stop_id": "B03129P",
+  "latitude": -6.185004,
+  "longitude": 106.97723,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:20:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

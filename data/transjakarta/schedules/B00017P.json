@@ -1,0 +1,32 @@
+{
+  "stop_name": "Akper Fatmawati Pondok Labu",
+  "stop_id": "B00017P",
+  "latitude": -6.313187,
+  "longitude": 106.79931,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:10:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:10:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

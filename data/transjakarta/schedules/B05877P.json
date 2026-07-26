@@ -1,0 +1,21 @@
+{
+  "stop_name": "Warung Mangga 2",
+  "stop_id": "B05877P",
+  "latitude": -6.225732,
+  "longitude": 106.63785,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "06:44:47",
+        "09:15:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

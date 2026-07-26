@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jakarta Islamic Hospital",
+  "stop_id": "B00830P",
+  "latitude": -6.299909,
+  "longitude": 106.86966,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:15:56",
+        "05:15:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:13:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

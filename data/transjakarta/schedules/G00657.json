@@ -1,0 +1,20 @@
+{
+  "stop_name": "Raya Bekasi Pulo Gebang",
+  "stop_id": "G00657",
+  "latitude": -6.187616,
+  "longitude": 106.959914,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:36:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Datuk",
+  "stop_id": "B07496P",
+  "latitude": -6.341592,
+  "longitude": 106.819427,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:58:56",
+        "07:12:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

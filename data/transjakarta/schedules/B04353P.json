@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SDN Kembangan Selatan 03",
+  "stop_id": "B04353P",
+  "latitude": -6.177936,
+  "longitude": 106.74776,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:40:07",
+        "06:12:34",
+        "06:48:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

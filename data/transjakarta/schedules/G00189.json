@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Pramuka",
+  "stop_id": "G00189",
+  "latitude": -6.192241,
+  "longitude": 106.874002,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Galunggung via Bermis",
+      "weekdays": [
+        "05:29:19"
+      ],
+      "weekends": [
+        "05:29:19"
+      ]
+    }
+  ]
+}

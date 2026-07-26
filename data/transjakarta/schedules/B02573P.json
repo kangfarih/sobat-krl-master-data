@@ -1,0 +1,21 @@
+{
+  "stop_name": "Panti Asuhan Anak Putra Utama 1",
+  "stop_id": "B02573P",
+  "latitude": -6.219328,
+  "longitude": 106.90499,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:26:55",
+        "06:39:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

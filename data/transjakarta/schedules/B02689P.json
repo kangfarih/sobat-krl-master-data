@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Tebet Barat",
+  "stop_id": "B02689P",
+  "latitude": -6.239925,
+  "longitude": 106.84775,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:08:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

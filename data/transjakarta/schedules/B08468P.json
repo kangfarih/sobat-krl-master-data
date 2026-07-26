@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Tirta Sari",
+  "stop_id": "B08468P",
+  "latitude": -6.199644,
+  "longitude": 106.873374,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "07:44:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:36:45",
+        "06:39:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

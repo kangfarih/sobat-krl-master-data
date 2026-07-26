@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Rawa Bebek",
+  "stop_id": "B03291P",
+  "latitude": -6.196241,
+  "longitude": 106.9658,
+  "routes": [
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "05:00:10",
+        "07:44:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

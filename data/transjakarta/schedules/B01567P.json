@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Sawo III",
+  "stop_id": "B01567P",
+  "latitude": -6.216352,
+  "longitude": 106.844169,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:07:30",
+        "05:07:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:39:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

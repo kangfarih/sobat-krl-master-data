@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Berlian II Pondok Labu",
+  "stop_id": "B00933P",
+  "latitude": -6.298412,
+  "longitude": 106.79927,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:57:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

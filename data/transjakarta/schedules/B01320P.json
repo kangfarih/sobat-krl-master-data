@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Lembah Palem Pondok Kelapa",
+  "stop_id": "B01320P",
+  "latitude": -6.236358,
+  "longitude": 106.93438,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:09:51",
+        "05:11:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

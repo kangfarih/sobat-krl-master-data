@@ -1,0 +1,20 @@
+{
+  "stop_name": "Chevalier School",
+  "stop_id": "B08596P",
+  "latitude": -6.02591,
+  "longitude": 106.63682,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Pasadena",
+      "weekdays": [
+        "06:06:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

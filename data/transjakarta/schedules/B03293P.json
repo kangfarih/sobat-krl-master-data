@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Rorotan",
+  "stop_id": "B03293P",
+  "latitude": -6.151766,
+  "longitude": 106.95512,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:52:55",
+        "07:30:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

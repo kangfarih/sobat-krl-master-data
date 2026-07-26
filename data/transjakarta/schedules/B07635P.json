@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Kp. Sumur",
+  "stop_id": "B07635P",
+  "latitude": -6.210588,
+  "longitude": 106.917779,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:08:29",
+        "05:08:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

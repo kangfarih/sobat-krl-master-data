@@ -1,0 +1,20 @@
+{
+  "stop_name": "Badan Restorasi Gambut RI",
+  "stop_id": "B00097P",
+  "latitude": -6.191286,
+  "longitude": 106.833203,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:30:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

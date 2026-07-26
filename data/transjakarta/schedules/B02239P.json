@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Hawi Cililitan",
+  "stop_id": "B02239P",
+  "latitude": -6.263505,
+  "longitude": 106.86419,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:03:35",
+        "05:57:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

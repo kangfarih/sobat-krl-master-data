@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Cempaka Putih Timur 03",
+  "stop_id": "B03340P",
+  "latitude": -6.18514,
+  "longitude": 106.86992,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:36:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

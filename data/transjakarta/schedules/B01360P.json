@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Manunggal II Ceger",
+  "stop_id": "B01360P",
+  "latitude": -6.311199,
+  "longitude": 106.88876,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:26:32",
+        "05:26:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Haris Hotel Kelapa Gading",
+  "stop_id": "B00764P",
+  "latitude": -6.157718,
+  "longitude": 106.91053,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:45:20",
+        "05:46:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:18:16",
+        "05:18:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

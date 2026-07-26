@@ -1,0 +1,38 @@
+{
+  "stop_name": "Ps. Jabon Meruya",
+  "stop_id": "B05946P",
+  "latitude": -6.200732,
+  "longitude": 106.72901,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:00:10",
+        "06:32:13",
+        "07:09:08",
+        "07:52:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:00:10",
+        "07:17:33",
+        "07:53:43",
+        "07:56:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

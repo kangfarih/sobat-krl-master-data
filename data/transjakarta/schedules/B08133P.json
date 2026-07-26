@@ -1,0 +1,67 @@
+{
+  "stop_name": "Thamrin CBD",
+  "stop_id": "B08133P",
+  "latitude": -6.068146,
+  "longitude": 106.707039,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:00:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "08:26:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "18:51:35",
+        "20:31:35"
+      ],
+      "weekends": [
+        "13:18:13",
+        "14:48:13",
+        "16:48:13",
+        "18:18:13",
+        "19:48:13",
+        "21:18:13"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:19:57",
+        "09:59:26"
+      ],
+      "weekends": [
+        "09:59:26"
+      ]
+    }
+  ]
+}

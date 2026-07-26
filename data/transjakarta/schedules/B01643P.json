@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Taman Sari I",
+  "stop_id": "B01643P",
+  "latitude": -6.161249,
+  "longitude": 106.82678,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:24:38",
+        "05:24:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

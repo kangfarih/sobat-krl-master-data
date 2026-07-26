@@ -1,0 +1,45 @@
+{
+  "stop_name": "Center Point",
+  "stop_id": "B08267P",
+  "latitude": -6.046422,
+  "longitude": 106.695074,
+  "routes": [
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "08:56:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:55:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shelter PIK 2",
+      "weekdays": [
+        "05:06:42",
+        "06:16:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

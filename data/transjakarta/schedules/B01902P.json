@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kel. Balekambang",
+  "stop_id": "B01902P",
+  "latitude": -6.28163,
+  "longitude": 106.84996,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:12:04",
+        "05:12:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:11:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

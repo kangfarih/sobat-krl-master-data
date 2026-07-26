@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gambir 3",
+  "stop_id": "B00390P",
+  "latitude": -6.178796,
+  "longitude": 106.83095,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:48:09",
+        "05:54:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:10:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Taman Ut Aheme",
+  "stop_id": "B05660P",
+  "latitude": -6.227704,
+  "longitude": 106.92256,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:28:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:35:40",
+        "05:35:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

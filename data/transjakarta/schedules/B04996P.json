@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Margasatwa Bango",
+  "stop_id": "B04996P",
+  "latitude": -6.310201,
+  "longitude": 106.80346,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:29:00",
+        "05:29:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

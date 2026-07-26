@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMP El Syifa Ciganjur",
+  "stop_id": "B04459P",
+  "latitude": -6.334529,
+  "longitude": 106.80675,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:23:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

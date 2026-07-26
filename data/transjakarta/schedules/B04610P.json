@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sekolah Al Huda 1",
+  "stop_id": "B04610P",
+  "latitude": -6.149731,
+  "longitude": 106.72736,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:03:23",
+        "05:32:04",
+        "05:32:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:41:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Komplek Dittopad",
+  "stop_id": "B02030P",
+  "latitude": -6.176224,
+  "longitude": 106.86324,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:43:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:40:20",
+        "05:40:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

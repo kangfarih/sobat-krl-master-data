@@ -1,0 +1,25 @@
+{
+  "stop_name": "Menara Mulia",
+  "stop_id": "B02416P",
+  "latitude": -6.225452,
+  "longitude": 106.81678,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:32:51",
+        "05:38:45",
+        "06:54:21",
+        "16:24:13"
+      ],
+      "weekends": [
+        "05:38:45"
+      ]
+    }
+  ]
+}

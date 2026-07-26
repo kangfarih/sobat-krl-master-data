@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pondok Indah 3",
+  "stop_id": "B02925P",
+  "latitude": -6.267399,
+  "longitude": 106.783749,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:21:48",
+        "06:48:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Mediterania Garden Residences",
+  "stop_id": "B02395P",
+  "latitude": -6.173818,
+  "longitude": 106.7882,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:57:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:26:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

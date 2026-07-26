@@ -1,0 +1,33 @@
+{
+  "stop_name": "Utan Panjang",
+  "stop_id": "B05849P",
+  "latitude": -6.169541,
+  "longitude": 106.85209,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:20:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:52:28",
+        "05:52:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

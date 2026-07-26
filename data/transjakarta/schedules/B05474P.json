@@ -1,0 +1,34 @@
+{
+  "stop_name": "St. LRT Pulo Mas 1",
+  "stop_id": "B05474P",
+  "latitude": -6.177067,
+  "longitude": 106.8937,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:09:38",
+        "05:09:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:15:07",
+        "07:47:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

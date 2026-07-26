@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Tampak Siring Fatmawati",
+  "stop_id": "B07365P",
+  "latitude": -6.275068,
+  "longitude": 106.797834,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:31:40",
+        "06:41:26",
+        "06:42:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

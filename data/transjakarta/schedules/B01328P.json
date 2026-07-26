@@ -1,0 +1,41 @@
+{
+  "stop_name": "Jln. Lotus Indah",
+  "stop_id": "B01328P",
+  "latitude": -6.116215,
+  "longitude": 106.76534,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:26:27",
+        "06:38:48",
+        "06:54:53",
+        "08:02:25",
+        "08:07:41"
+      ],
+      "weekends": [
+        "07:07:13",
+        "07:17:13"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:22:08",
+        "01:34:29",
+        "05:12:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

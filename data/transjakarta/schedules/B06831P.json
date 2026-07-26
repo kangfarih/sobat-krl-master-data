@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Tohir",
+  "stop_id": "B06831P",
+  "latitude": -6.328911,
+  "longitude": 106.833574,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:47:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

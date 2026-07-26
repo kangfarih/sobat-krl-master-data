@@ -1,0 +1,29 @@
+{
+  "stop_name": "Kebayoran",
+  "stop_id": "G00378",
+  "latitude": -6.238436,
+  "longitude": 106.783263,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "06:09:35",
+        "06:34:18",
+        "06:37:29",
+        "06:37:31",
+        "08:02:18",
+        "08:15:07",
+        "14:57:01"
+      ],
+      "weekends": [
+        "06:09:35",
+        "06:34:18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Scientia Square Park",
+  "stop_id": "B07339P",
+  "latitude": -6.257678,
+  "longitude": 106.616805,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Lebak Bulus",
+      "weekdays": [
+        "06:00:10",
+        "19:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Ps. Tekstil Mangga Dua",
+  "stop_id": "B02690P",
+  "latitude": -6.135953,
+  "longitude": 106.82635,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:14:17",
+        "06:35:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:29:36",
+        "07:12:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

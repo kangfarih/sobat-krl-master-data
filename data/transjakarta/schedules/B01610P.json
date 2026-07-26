@@ -1,0 +1,48 @@
+{
+  "stop_name": "Jln. Sungai Sambas VI",
+  "stop_id": "B01610P",
+  "latitude": -6.246441,
+  "longitude": 106.7978,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:38:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:09:57"
+      ],
+      "weekends": [
+        "05:09:57"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:11:26"
+      ],
+      "weekends": [
+        "05:11:26"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "stop_name": "Tanah Kusir",
+  "stop_id": "G00370",
+  "latitude": -6.256997,
+  "longitude": 106.781727,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "06:19:33",
+        "06:44:16",
+        "06:47:27",
+        "06:47:30",
+        "08:12:17",
+        "08:25:06"
+      ],
+      "weekends": [
+        "06:19:33",
+        "06:44:16"
+      ]
+    },
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:32:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:32:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

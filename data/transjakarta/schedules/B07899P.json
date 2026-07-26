@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. RS Pondok Indah Puri Indah",
+  "stop_id": "B07899P",
+  "latitude": -6.186795,
+  "longitude": 106.735612,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Puri Kembangan",
+      "weekdays": [
+        "05:59:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:47:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

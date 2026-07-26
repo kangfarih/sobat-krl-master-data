@@ -1,0 +1,24 @@
+{
+  "stop_name": "Polda Metro Jaya",
+  "stop_id": "G00017",
+  "latitude": -6.221044,
+  "longitude": 106.810241,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:17:32",
+        "05:17:38",
+        "05:17:40",
+        "06:17:56",
+        "08:17:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

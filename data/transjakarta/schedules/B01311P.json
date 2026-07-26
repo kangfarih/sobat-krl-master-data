@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Kwitang Timur",
+  "stop_id": "B01311P",
+  "latitude": -6.173788,
+  "longitude": 106.85185,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:17:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:49:48",
+        "05:50:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

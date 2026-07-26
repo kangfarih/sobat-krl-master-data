@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Bunga Flamboyan Melati",
+  "stop_id": "B04743P",
+  "latitude": -6.269686,
+  "longitude": 106.80352,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:53:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

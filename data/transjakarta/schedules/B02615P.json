@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Inpres Cipinang Besar",
+  "stop_id": "B02615P",
+  "latitude": -6.22645,
+  "longitude": 106.88078,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:24:32",
+        "06:36:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

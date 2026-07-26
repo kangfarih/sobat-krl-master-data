@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Hawi Cililitan",
+  "stop_id": "B04022P",
+  "latitude": -6.263383,
+  "longitude": 106.86437,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:51:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

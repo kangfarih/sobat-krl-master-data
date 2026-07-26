@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kemanggisan Utama VII",
+  "stop_id": "B01270P",
+  "latitude": -6.191264,
+  "longitude": 106.785618,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:10:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:51:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

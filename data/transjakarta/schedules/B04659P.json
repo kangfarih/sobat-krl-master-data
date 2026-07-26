@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Tj. Priok",
+  "stop_id": "B04659P",
+  "latitude": -6.114743,
+  "longitude": 106.91098,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:42:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

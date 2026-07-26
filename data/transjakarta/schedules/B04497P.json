@@ -1,0 +1,23 @@
+{
+  "stop_name": "Sbr. SMPN 75",
+  "stop_id": "B04497P",
+  "latitude": -6.198665,
+  "longitude": 106.76593,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:57:00",
+        "06:33:42",
+        "07:17:25",
+        "07:57:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

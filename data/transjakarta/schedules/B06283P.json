@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tribuana",
+  "stop_id": "B06283P",
+  "latitude": -6.323315,
+  "longitude": 106.84662,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:37:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

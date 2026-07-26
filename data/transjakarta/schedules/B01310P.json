@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kuning Tua",
+  "stop_id": "B01310P",
+  "latitude": -6.164733,
+  "longitude": 106.90996,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:30:39",
+        "05:31:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bamed Health Care",
+  "stop_id": "B00107P",
+  "latitude": -6.203485,
+  "longitude": 106.73102,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:02:43",
+        "06:44:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Swadaya I",
+  "stop_id": "B01619P",
+  "latitude": -6.297164,
+  "longitude": 106.89478,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:10:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

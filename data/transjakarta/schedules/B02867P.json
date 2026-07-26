@@ -1,0 +1,20 @@
+{
+  "stop_name": "Plaza Kemang 88",
+  "stop_id": "B02867P",
+  "latitude": -6.270202,
+  "longitude": 106.81539,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:26:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

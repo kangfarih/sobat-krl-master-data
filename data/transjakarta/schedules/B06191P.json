@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Gotong Royong",
+  "stop_id": "B06191P",
+  "latitude": -6.351182,
+  "longitude": 106.892011,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "06:04:27",
+        "06:56:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

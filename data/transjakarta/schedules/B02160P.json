@@ -1,0 +1,50 @@
+{
+  "stop_name": "LP3I",
+  "stop_id": "B02160P",
+  "latitude": -6.286793,
+  "longitude": 106.84369,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:38:19",
+        "06:03:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:30:16",
+        "06:36:08",
+        "07:52:19",
+        "17:22:03"
+      ],
+      "weekends": [
+        "06:36:08"
+      ]
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "06:10:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

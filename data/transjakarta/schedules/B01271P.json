@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kemenyan Ciganjur",
+  "stop_id": "B01271P",
+  "latitude": -6.339055,
+  "longitude": 106.80508,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:01:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

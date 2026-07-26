@@ -1,0 +1,32 @@
+{
+  "stop_name": "Polsek Teluk Intan",
+  "stop_id": "B07598P",
+  "latitude": -6.138351,
+  "longitude": 106.786122,
+  "routes": [
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:38:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:34:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

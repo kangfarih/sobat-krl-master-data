@@ -1,0 +1,21 @@
+{
+  "stop_name": "BS Puri Beta 2",
+  "stop_id": "B07884P",
+  "latitude": -6.230588,
+  "longitude": 106.723795,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:00:10",
+        "06:25:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Jami Saadatul Muslimin",
+  "stop_id": "B02358P",
+  "latitude": -6.26587,
+  "longitude": 106.88085,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:21:53",
+        "06:14:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:17:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

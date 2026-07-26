@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Emur Pondok Labu",
+  "stop_id": "B00466P",
+  "latitude": -6.301858,
+  "longitude": 106.79614,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:44:12",
+        "05:44:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

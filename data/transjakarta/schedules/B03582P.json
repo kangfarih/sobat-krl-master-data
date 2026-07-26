@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gelanggang Remaja Ciracas",
+  "stop_id": "B03582P",
+  "latitude": -6.339531,
+  "longitude": 106.88217,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:11:19",
+        "05:11:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

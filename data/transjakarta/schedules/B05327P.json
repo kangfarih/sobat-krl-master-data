@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMKN 7",
+  "stop_id": "B05327P",
+  "latitude": -6.197969,
+  "longitude": 106.89201,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:55:25",
+        "05:55:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

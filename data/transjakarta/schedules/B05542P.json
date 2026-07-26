@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sudin Pencatatan Sipil 2",
+  "stop_id": "B05542P",
+  "latitude": -6.203555,
+  "longitude": 106.89029,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:03:46",
+        "06:00:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

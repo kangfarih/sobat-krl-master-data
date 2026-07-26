@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Mandor Munding",
+  "stop_id": "B03775P",
+  "latitude": -6.306836,
+  "longitude": 106.91572,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:33:10",
+        "05:49:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

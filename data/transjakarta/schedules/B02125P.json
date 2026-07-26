@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lapangan VIra Cakti Sekkau",
+  "stop_id": "B02125P",
+  "latitude": -6.273208,
+  "longitude": 106.88509,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:19:48",
+        "05:20:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

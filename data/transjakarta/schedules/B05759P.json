@@ -1,0 +1,21 @@
+{
+  "stop_name": "TK Tarakanita 5",
+  "stop_id": "B05759P",
+  "latitude": -6.202111,
+  "longitude": 106.88295,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:55:08",
+        "06:57:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

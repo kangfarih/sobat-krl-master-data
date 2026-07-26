@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMP Pelita Tiga",
+  "stop_id": "B07702P",
+  "latitude": -6.204245,
+  "longitude": 106.873837,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:29:41",
+        "05:29:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

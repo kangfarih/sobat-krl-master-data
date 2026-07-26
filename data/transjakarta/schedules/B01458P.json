@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Ps. Enjo",
+  "stop_id": "B01458P",
+  "latitude": -6.211754,
+  "longitude": 106.87872,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:26:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Stasiun Kereta Bandara",
+  "stop_id": "B07984P",
+  "latitude": -6.126999,
+  "longitude": 106.653183,
+  "routes": [
+    {
+      "route_id": "SOE",
+      "route_short_name": "SOE",
+      "route_long_name": "Shuttle Bandara Soekarno-Hatta",
+      "color": "184e9e",
+      "category": "Shuttle",
+      "direction": "Shuttle Bandara Soekarno-Hatta",
+      "weekdays": [
+        "05:48:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

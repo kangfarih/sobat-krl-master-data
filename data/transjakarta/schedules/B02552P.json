@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pakubuwono",
+  "stop_id": "B02552P",
+  "latitude": -6.235831,
+  "longitude": 106.790005,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:05:06",
+        "05:05:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Yamaha Pintu II",
+  "stop_id": "B06712P",
+  "latitude": -6.192741,
+  "longitude": 106.922861,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:17:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

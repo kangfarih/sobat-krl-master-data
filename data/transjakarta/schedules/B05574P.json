@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Ayodya",
+  "stop_id": "B05574P",
+  "latitude": -6.245687,
+  "longitude": 106.79467,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:15:19",
+        "06:15:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

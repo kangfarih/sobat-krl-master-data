@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. Komplek Kodam Jaya",
+  "stop_id": "B03974P",
+  "latitude": -6.197871,
+  "longitude": 106.77108,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "06:24:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:48:24",
+        "06:24:56",
+        "07:08:49",
+        "07:48:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

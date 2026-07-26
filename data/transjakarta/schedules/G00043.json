@@ -1,0 +1,22 @@
+{
+  "stop_name": "Harmoni",
+  "stop_id": "G00043",
+  "latitude": -6.162769,
+  "longitude": 106.819924,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "05:13:32",
+        "06:47:25",
+        "06:51:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

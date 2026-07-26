@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Kayu Jati 2",
+  "stop_id": "B01749P",
+  "latitude": -6.18936,
+  "longitude": 106.88684,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:58:22",
+        "07:25:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

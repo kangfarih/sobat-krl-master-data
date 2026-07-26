@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Danau Sunter Barat 2",
+  "stop_id": "B06880P",
+  "latitude": -6.139546,
+  "longitude": 106.856814,
+  "routes": [
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "05:08:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:11:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

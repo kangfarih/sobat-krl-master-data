@@ -1,0 +1,51 @@
+{
+  "stop_name": "SPBG Jakpro",
+  "stop_id": "B05401P",
+  "latitude": -6.117747,
+  "longitude": 106.79188,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:28:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:14:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:11:03",
+        "06:23:25",
+        "06:39:26",
+        "07:46:43",
+        "07:47:00"
+      ],
+      "weekends": [
+        "06:51:49",
+        "07:01:48"
+      ]
+    }
+  ]
+}

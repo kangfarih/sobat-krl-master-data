@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gudang Minimarket 2",
+  "stop_id": "B05985P",
+  "latitude": -6.12596,
+  "longitude": 106.81406,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:06:06",
+        "06:09:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

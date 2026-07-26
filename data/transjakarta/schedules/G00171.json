@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pasar Pulo Gadung",
+  "stop_id": "G00171",
+  "latitude": -6.18743,
+  "longitude": 106.905953,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:03:12",
+        "05:03:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:03:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

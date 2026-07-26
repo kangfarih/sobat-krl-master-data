@@ -1,0 +1,24 @@
+{
+  "stop_name": "Balai Kota Depok 2",
+  "stop_id": "B00106P",
+  "latitude": -6.394973,
+  "longitude": 106.82277,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "07:01:14",
+        "08:51:51",
+        "09:03:23"
+      ],
+      "weekends": [
+        "08:51:51"
+      ]
+    }
+  ]
+}

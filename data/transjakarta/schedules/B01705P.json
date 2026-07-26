@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Warakas II",
+  "stop_id": "B01705P",
+  "latitude": -6.117016,
+  "longitude": 106.88045,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:29:35",
+        "06:08:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

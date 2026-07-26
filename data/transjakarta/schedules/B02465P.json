@@ -1,0 +1,33 @@
+{
+  "stop_name": "Minimarket Sunter Jaya 2",
+  "stop_id": "B02465P",
+  "latitude": -6.154491,
+  "longitude": 106.86168,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:37:44",
+        "07:08:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:40:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Transjakarta Tanah Abang 2",
+  "stop_id": "G00663",
+  "latitude": -6.183935,
+  "longitude": 106.811574,
+  "routes": [
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:45:42",
+        "05:57:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

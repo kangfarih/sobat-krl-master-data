@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jakarta Intercultural School",
+  "stop_id": "B07373P",
+  "latitude": -6.284435,
+  "longitude": 106.788734,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:20:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

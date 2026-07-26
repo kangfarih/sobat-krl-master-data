@@ -1,0 +1,21 @@
+{
+  "stop_name": "STAI Az Ziyadah 1",
+  "stop_id": "B05421P",
+  "latitude": -6.22292,
+  "longitude": 106.90467,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:22:58",
+        "06:27:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

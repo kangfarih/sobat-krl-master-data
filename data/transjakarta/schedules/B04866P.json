@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Menteng",
+  "stop_id": "B04866P",
+  "latitude": -6.113217,
+  "longitude": 106.917,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:15:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

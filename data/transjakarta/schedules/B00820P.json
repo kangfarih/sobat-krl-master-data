@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Masjid Al Ikhlas Petukangan",
+  "stop_id": "B00820P",
+  "latitude": -6.241838,
+  "longitude": 106.758427,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:35:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

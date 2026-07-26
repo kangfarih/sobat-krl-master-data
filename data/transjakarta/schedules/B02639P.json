@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Lenteng Agung",
+  "stop_id": "B02639P",
+  "latitude": -6.331072,
+  "longitude": 106.83286,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:11:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "St. Cawang",
+  "stop_id": "B05428P",
+  "latitude": -6.242883,
+  "longitude": 106.85928,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek via Cawang Kompor",
+      "weekdays": [
+        "05:33:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

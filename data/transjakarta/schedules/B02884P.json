@@ -1,0 +1,51 @@
+{
+  "stop_name": "PLTU",
+  "stop_id": "B02884P",
+  "latitude": -6.113368,
+  "longitude": 106.78533,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:19:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:36:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:02:36",
+        "06:14:58",
+        "06:30:58",
+        "07:38:33",
+        "07:39:46"
+      ],
+      "weekends": [
+        "06:43:22",
+        "06:53:21"
+      ]
+    }
+  ]
+}

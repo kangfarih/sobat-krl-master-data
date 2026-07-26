@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Bojong Raya Kembangan Utara",
+  "stop_id": "B04730P",
+  "latitude": -6.17092,
+  "longitude": 106.7333,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:13:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

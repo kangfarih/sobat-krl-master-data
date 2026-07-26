@@ -1,0 +1,21 @@
+{
+  "stop_name": "RPTRA Joglo",
+  "stop_id": "B08407P",
+  "latitude": -6.223039,
+  "longitude": 106.734561,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:18:22",
+        "06:59:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

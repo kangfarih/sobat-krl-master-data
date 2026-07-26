@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 88",
+  "stop_id": "B05395P",
+  "latitude": -6.192887,
+  "longitude": 106.79532,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:01:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

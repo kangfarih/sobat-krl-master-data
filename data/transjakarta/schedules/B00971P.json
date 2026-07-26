@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Cakrawala",
+  "stop_id": "B00971P",
+  "latitude": -6.264083,
+  "longitude": 106.88424,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:35:46",
+        "05:36:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:13:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Blimbing III",
+  "stop_id": "B06855P",
+  "latitude": -6.199933,
+  "longitude": 106.760607,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:18:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Waduk Sunter Selatan",
+  "stop_id": "B07065P",
+  "latitude": -6.14416,
+  "longitude": 106.8856,
+  "routes": [
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:46:06",
+        "05:48:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

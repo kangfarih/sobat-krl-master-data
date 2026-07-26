@@ -1,0 +1,33 @@
+{
+  "stop_name": "Ruko Mall Mangga Dua",
+  "stop_id": "B03245P",
+  "latitude": -6.136684,
+  "longitude": 106.82372,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "06:07:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:26:53",
+        "06:27:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

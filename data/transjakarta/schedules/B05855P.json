@@ -1,0 +1,21 @@
+{
+  "stop_name": "Victoria Park 2",
+  "stop_id": "B05855P",
+  "latitude": -6.197681,
+  "longitude": 106.62187,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "07:13:19",
+        "09:50:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Sawah Mede I",
+  "stop_id": "B03834P",
+  "latitude": -6.098023,
+  "longitude": 106.70824,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:16:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

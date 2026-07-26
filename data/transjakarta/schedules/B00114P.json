@@ -1,0 +1,73 @@
+{
+  "stop_name": "UPT. LLHD 1",
+  "stop_id": "B00114P",
+  "latitude": -6.22577,
+  "longitude": 106.83507,
+  "routes": [
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:22:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6C",
+      "route_short_name": "6C",
+      "route_long_name": "Stasiun Tebet - Kuningan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Stasiun Tebet",
+      "weekdays": [
+        "05:13:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:13:15",
+        "05:13:45"
+      ],
+      "weekends": [
+        "05:13:45"
+      ]
+    },
+    {
+      "route_id": "6Q",
+      "route_short_name": "6Q",
+      "route_long_name": "Galunggung - Casablanca via Epicentrum Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Casablanca dan Galunggung via Epicentrum Raya",
+      "weekdays": [
+        "05:34:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:13:13",
+        "05:13:16",
+        "06:13:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

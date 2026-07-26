@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Rawa Terate III",
+  "stop_id": "B07611P",
+  "latitude": -6.195285,
+  "longitude": 106.910875,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:56:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:19:44",
+        "07:49:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

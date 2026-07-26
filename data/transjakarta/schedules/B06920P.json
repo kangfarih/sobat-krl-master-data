@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Bang Pitung",
+  "stop_id": "B06920P",
+  "latitude": -6.212594,
+  "longitude": 106.783353,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Palmerah dan Kebayoran Lama",
+      "weekdays": [
+        "05:20:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:36:07",
+        "05:55:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

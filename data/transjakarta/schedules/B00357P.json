@@ -1,0 +1,20 @@
+{
+  "stop_name": "Flyover Jatinegara Bawah",
+  "stop_id": "B00357P",
+  "latitude": -6.214707,
+  "longitude": 106.87383,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:22:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "stop_name": "Sbr. Jln. Asem IX",
+  "stop_id": "B07435P",
+  "latitude": -6.271111,
+  "longitude": 106.800983,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:41:58",
+        "05:47:32",
+        "07:03:03",
+        "07:08:40"
+      ],
+      "weekends": [
+        "05:41:58",
+        "07:03:03"
+      ]
+    }
+  ]
+}

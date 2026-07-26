@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Pulosidik",
+  "stop_id": "B07614P",
+  "latitude": -6.201941,
+  "longitude": 106.910125,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "06:01:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:24:24",
+        "07:54:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

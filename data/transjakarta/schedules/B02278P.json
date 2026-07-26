@@ -1,0 +1,38 @@
+{
+  "stop_name": "Masjid At Taqwa 2",
+  "stop_id": "B02278P",
+  "latitude": -6.277593,
+  "longitude": 106.84563,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:43:37",
+        "06:08:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:03:45",
+        "05:03:51",
+        "05:33:51",
+        "15:33:51"
+      ],
+      "weekends": [
+        "05:03:45"
+      ]
+    }
+  ]
+}

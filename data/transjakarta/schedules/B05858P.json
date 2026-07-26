@@ -1,0 +1,33 @@
+{
+  "stop_name": "Villa Bukit Gading",
+  "stop_id": "B05858P",
+  "latitude": -6.157028,
+  "longitude": 106.89966,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:46:00",
+        "05:46:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "06:17:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

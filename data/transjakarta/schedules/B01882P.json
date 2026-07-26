@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kec. Pesanggrahan",
+  "stop_id": "B01882P",
+  "latitude": -6.256912,
+  "longitude": 106.7564,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:49:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

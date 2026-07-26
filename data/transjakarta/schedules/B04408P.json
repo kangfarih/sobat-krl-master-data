@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Simpang Hadiah",
+  "stop_id": "B04408P",
+  "latitude": -6.161643,
+  "longitude": 106.78415,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:54:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

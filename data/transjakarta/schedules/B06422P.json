@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Rawasari",
+  "stop_id": "B06422P",
+  "latitude": -6.193136,
+  "longitude": 106.858823,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:41:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

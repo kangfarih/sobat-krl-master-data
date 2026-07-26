@@ -1,0 +1,20 @@
+{
+  "stop_name": "RS Siloam Kb. Jeruk",
+  "stop_id": "B03178P",
+  "latitude": -6.190432,
+  "longitude": 106.76302,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:01:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Puskesmas Rawamangun",
+  "stop_id": "B03064P",
+  "latitude": -6.197034,
+  "longitude": 106.88839,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "06:00:55",
+        "06:03:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "06:01:05",
+        "07:03:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

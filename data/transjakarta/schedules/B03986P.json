@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. KPAI",
+  "stop_id": "B03986P",
+  "latitude": -6.189345,
+  "longitude": 106.833207,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:29:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 67",
+  "stop_id": "B05278P",
+  "latitude": -6.276266,
+  "longitude": 106.88657,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:35:28",
+        "06:27:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

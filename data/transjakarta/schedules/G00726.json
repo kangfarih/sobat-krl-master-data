@@ -1,0 +1,79 @@
+{
+  "stop_name": "Petamburan",
+  "stop_id": "G00726",
+  "latitude": -6.201963,
+  "longitude": 106.799812,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Kota",
+      "weekdays": [
+        "05:39:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "05:52:18",
+        "06:20:32",
+        "06:20:33",
+        "07:40:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Semanggi dan Ancol",
+      "weekdays": [
+        "05:29:29",
+        "07:29:09"
+      ],
+      "weekends": [
+        "07:29:09"
+      ]
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:34:12",
+        "06:12:52",
+        "06:48:01"
+      ],
+      "weekends": [
+        "05:34:12"
+      ]
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:59:46",
+        "05:59:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

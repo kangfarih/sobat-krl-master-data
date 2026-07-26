@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Jelambar Baru 01",
+  "stop_id": "B03375P",
+  "latitude": -6.147765,
+  "longitude": 106.78324,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:30:51",
+        "05:31:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

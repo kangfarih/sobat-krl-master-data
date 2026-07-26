@@ -1,0 +1,34 @@
+{
+  "stop_name": "Nice",
+  "stop_id": "B08125P",
+  "latitude": -6.05573,
+  "longitude": 106.68815,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "05:12:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:11:18"
+      ],
+      "weekends": [
+        "05:11:18"
+      ]
+    }
+  ]
+}

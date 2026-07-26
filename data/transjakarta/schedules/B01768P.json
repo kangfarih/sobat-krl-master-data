@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jembatan Sungai Landak 1",
+  "stop_id": "B01768P",
+  "latitude": -6.104445,
+  "longitude": 106.939674,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:18:10",
+        "05:48:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:36:30",
+        "05:36:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

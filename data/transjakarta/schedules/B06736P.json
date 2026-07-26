@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Pakubuwono VI",
+  "stop_id": "B06736P",
+  "latitude": -6.239586,
+  "longitude": 106.786544,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:00:10",
+        "06:08:25",
+        "06:10:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

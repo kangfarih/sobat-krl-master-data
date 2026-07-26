@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. RPTRA Taman Sawo",
+  "stop_id": "B07404P",
+  "latitude": -6.262352,
+  "longitude": 106.799774,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:35:02"
+      ],
+      "weekends": [
+        "05:35:02"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rawa Baru Cut Mutia",
+  "stop_id": "B08200P",
+  "latitude": -6.254882,
+  "longitude": 107.006722,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:06:55",
+        "05:06:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "stop_name": "Jembatan Tiga 2",
+  "stop_id": "B01773P",
+  "latitude": -6.133343,
+  "longitude": 106.79246,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:25:01",
+        "05:25:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:08:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "05:44:38",
+        "06:13:04",
+        "07:16:43",
+        "07:20:45"
+      ],
+      "weekends": [
+        "06:25:25",
+        "06:35:39"
+      ]
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:29:41",
+        "06:51:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

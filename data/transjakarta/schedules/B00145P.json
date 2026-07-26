@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bintaro Gg. Masjid",
+  "stop_id": "B00145P",
+  "latitude": -6.27026,
+  "longitude": 106.75217,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:01:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

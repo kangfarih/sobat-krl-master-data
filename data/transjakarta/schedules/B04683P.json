@@ -1,0 +1,22 @@
+{
+  "stop_name": "Serpong BSD",
+  "stop_id": "B04683P",
+  "latitude": -6.299109,
+  "longitude": 106.665659,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:00:10",
+        "07:31:18",
+        "10:02:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

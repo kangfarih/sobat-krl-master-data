@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Puri Ardhya Garini",
+  "stop_id": "B04243P",
+  "latitude": -6.256831,
+  "longitude": 106.88392,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:10:45",
+        "06:03:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:42:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

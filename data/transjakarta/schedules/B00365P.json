@@ -1,0 +1,32 @@
+{
+  "stop_name": "Akses Bawah Flyover Pondok Kopi",
+  "stop_id": "B00365P",
+  "latitude": -6.217758,
+  "longitude": 106.93843,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:14:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bintara",
+      "weekdays": [
+        "05:58:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

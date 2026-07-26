@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Indraloka Gg. VIII",
+  "stop_id": "B01155P",
+  "latitude": -6.154231,
+  "longitude": 106.77871,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:46:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "stop_name": "Masjid Attahiriyah",
+  "stop_id": "B02282P",
+  "latitude": -6.225242,
+  "longitude": 106.86019,
+  "routes": [
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "06:25:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:01:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:01:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:01:02",
+        "05:46:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

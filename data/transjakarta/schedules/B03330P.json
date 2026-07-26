@@ -1,0 +1,20 @@
+{
+  "stop_name": "SD Pelita Jati Padang",
+  "stop_id": "B03330P",
+  "latitude": -6.286616,
+  "longitude": 106.82926,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:18:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

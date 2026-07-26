@@ -1,0 +1,22 @@
+{
+  "stop_name": "Transjakarta Pintu 2",
+  "stop_id": "B05797P",
+  "latitude": -6.25497,
+  "longitude": 106.87651,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:04:26",
+        "05:56:53",
+        "07:04:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

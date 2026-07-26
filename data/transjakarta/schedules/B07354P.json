@@ -1,0 +1,20 @@
+{
+  "stop_name": "Cluster Catalina",
+  "stop_id": "B07354P",
+  "latitude": -6.270784,
+  "longitude": 106.631102,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Summarecon Serpong",
+      "weekdays": [
+        "18:41:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Panti Sosial TKI",
+  "stop_id": "B08298P",
+  "latitude": -6.30518,
+  "longitude": 106.90833,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:37:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

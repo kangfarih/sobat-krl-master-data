@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gereja HKBP Duren Sawit",
+  "stop_id": "B03586P",
+  "latitude": -6.223357,
+  "longitude": 106.91359,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:44:25",
+        "05:45:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

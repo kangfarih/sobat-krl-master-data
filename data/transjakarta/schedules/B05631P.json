@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Modern 2",
+  "stop_id": "B05631P",
+  "latitude": -6.185154,
+  "longitude": 106.94806,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:23:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

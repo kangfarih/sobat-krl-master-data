@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cakung Park",
+  "stop_id": "B08527P",
+  "latitude": -6.19061,
+  "longitude": 106.968591,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:34:03",
+        "06:39:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

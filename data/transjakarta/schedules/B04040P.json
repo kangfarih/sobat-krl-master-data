@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Ar Rohmah",
+  "stop_id": "B04040P",
+  "latitude": -6.118964,
+  "longitude": 106.89568,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:13:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Fadlurrahman",
+  "stop_id": "B04629P",
+  "latitude": -6.271179,
+  "longitude": 106.91207,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:01:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Lenteng Agung 09 Jagakarsa",
+  "stop_id": "B07491P",
+  "latitude": -6.319317,
+  "longitude": 106.83339,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:42:25",
+        "06:55:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stop_name": "Gas Alam",
+  "stop_id": "B00584P",
+  "latitude": -6.382128,
+  "longitude": 106.86633,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:29:53",
+        "08:20:28",
+        "08:32:02"
+      ],
+      "weekends": [
+        "08:20:28"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "stop_name": "Koja Arah Selatan",
+  "stop_id": "G00503",
+  "latitude": -6.114384,
+  "longitude": 106.893157,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "05:08:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:08:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:08:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Melati Senen",
+  "stop_id": "B01383P",
+  "latitude": -6.176615,
+  "longitude": 106.84444,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:06:24",
+        "06:06:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "07:00:30",
+        "07:10:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

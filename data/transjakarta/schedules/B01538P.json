@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Rawa Kepa IX",
+  "stop_id": "B01538P",
+  "latitude": -6.174091,
+  "longitude": 106.80308,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:19:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

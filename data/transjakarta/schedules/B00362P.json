@@ -1,0 +1,21 @@
+{
+  "stop_name": "Flyover Klender 2",
+  "stop_id": "B00362P",
+  "latitude": -6.213721,
+  "longitude": 106.90252,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:41:21",
+        "05:41:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

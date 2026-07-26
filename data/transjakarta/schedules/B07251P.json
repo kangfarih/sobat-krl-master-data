@@ -1,0 +1,22 @@
+{
+  "stop_name": "Residence 8 Munjul",
+  "stop_id": "B07251P",
+  "latitude": -6.355624,
+  "longitude": 106.893614,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:00:10",
+        "06:07:48",
+        "06:59:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

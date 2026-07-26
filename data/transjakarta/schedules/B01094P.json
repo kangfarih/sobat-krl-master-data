@@ -1,0 +1,49 @@
+{
+  "stop_name": "Jln. H. Ahmad",
+  "stop_id": "B01094P",
+  "latitude": -6.262573,
+  "longitude": 106.78857,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:33:27"
+      ],
+      "weekends": [
+        "05:33:27"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:34:13"
+      ],
+      "weekends": [
+        "05:34:13"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:16:28",
+        "06:43:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

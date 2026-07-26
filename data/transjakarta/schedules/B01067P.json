@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Gading Mas Barat IV",
+  "stop_id": "B01067P",
+  "latitude": -6.167384,
+  "longitude": 106.91019,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:22:26",
+        "06:30:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

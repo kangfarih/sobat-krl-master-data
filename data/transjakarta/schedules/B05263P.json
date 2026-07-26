@@ -1,0 +1,33 @@
+{
+  "stop_name": "SMAN 21",
+  "stop_id": "B05263P",
+  "latitude": -6.18462,
+  "longitude": 106.887504,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:21:53",
+        "05:22:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:10:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

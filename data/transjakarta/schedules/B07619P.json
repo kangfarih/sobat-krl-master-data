@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Komplek Pergudangan JIEP",
+  "stop_id": "B07619P",
+  "latitude": -6.203919,
+  "longitude": 106.917556,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:12:15",
+        "06:09:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

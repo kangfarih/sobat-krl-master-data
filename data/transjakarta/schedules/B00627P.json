@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gereja HKBP Cipete",
+  "stop_id": "B00627P",
+  "latitude": -6.272414,
+  "longitude": 106.800801,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:34:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

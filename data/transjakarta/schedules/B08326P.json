@@ -1,0 +1,20 @@
+{
+  "stop_name": "Terminal 1B",
+  "stop_id": "B08326P",
+  "latitude": -6.130107,
+  "longitude": 106.654756,
+  "routes": [
+    {
+      "route_id": "SOE",
+      "route_short_name": "SOE",
+      "route_long_name": "Shuttle Bandara Soekarno-Hatta",
+      "color": "184e9e",
+      "category": "Shuttle",
+      "direction": "Shuttle Bandara Soekarno-Hatta",
+      "weekdays": [
+        "06:00:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

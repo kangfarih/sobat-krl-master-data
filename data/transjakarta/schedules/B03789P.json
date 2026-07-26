@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Melur Tugu VI",
+  "stop_id": "B03789P",
+  "latitude": -6.124483,
+  "longitude": 106.90789,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:26:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

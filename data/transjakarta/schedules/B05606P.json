@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Kebersihan Pegadungan",
+  "stop_id": "B05606P",
+  "latitude": -6.140697,
+  "longitude": 106.71714,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:08:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

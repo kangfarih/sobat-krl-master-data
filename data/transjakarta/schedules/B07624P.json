@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rawa Bali I",
+  "stop_id": "B07624P",
+  "latitude": -6.186104,
+  "longitude": 106.916868,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:22:15",
+        "06:19:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

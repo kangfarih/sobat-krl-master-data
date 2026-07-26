@@ -1,0 +1,96 @@
+{
+  "stop_name": "Kota",
+  "stop_id": "G00061",
+  "latitude": -6.136827,
+  "longitude": 106.814876,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Kali Besar Barat",
+      "weekdays": [
+        "05:05:02",
+        "05:05:04",
+        "05:05:05",
+        "05:05:07",
+        "08:05:06"
+      ],
+      "weekends": [
+        "05:05:02"
+      ]
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Kota dan Sunter Boulevard Barat",
+      "weekdays": [
+        "05:22:40",
+        "05:29:30",
+        "06:17:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:46:28",
+        "05:46:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:30:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:11:22",
+        "06:19:31",
+        "06:19:41"
+      ],
+      "weekends": [
+        "06:09:19",
+        "06:19:36"
+      ]
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:00:10",
+        "05:51:19",
+        "05:51:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

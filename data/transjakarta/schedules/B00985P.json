@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cempaka Raya",
+  "stop_id": "B00985P",
+  "latitude": -6.175557,
+  "longitude": 106.85976,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:42:49",
+        "05:42:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Warung Jati Barat",
+  "stop_id": "B06726P",
+  "latitude": -6.281767,
+  "longitude": 106.827611,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:18:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:22:31",
+        "05:23:28",
+        "05:23:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

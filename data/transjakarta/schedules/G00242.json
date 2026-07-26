@@ -1,0 +1,50 @@
+{
+  "stop_name": "Simpang Ragunan Ar-Raudhah",
+  "stop_id": "G00242",
+  "latitude": -6.294606,
+  "longitude": 106.822164,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:43:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "06:18:30",
+        "06:32:52",
+        "06:55:09",
+        "15:56:10"
+      ],
+      "weekends": [
+        "06:18:30",
+        "06:32:52"
+      ]
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:38:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

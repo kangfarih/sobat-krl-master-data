@@ -1,0 +1,45 @@
+{
+  "stop_name": "Tipar Cakung 2",
+  "stop_id": "B07270P",
+  "latitude": -6.18363,
+  "longitude": 106.925189,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via PIK",
+      "weekdays": [
+        "06:10:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:55:32",
+        "05:55:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:36:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

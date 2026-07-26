@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Baronang Cibubur",
+  "stop_id": "B03507P",
+  "latitude": -6.362495,
+  "longitude": 106.88432,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "06:08:01",
+        "06:46:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

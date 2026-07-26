@@ -1,0 +1,32 @@
+{
+  "stop_name": "Monas 2",
+  "stop_id": "B02476P",
+  "latitude": -6.175999,
+  "longitude": 106.82311,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:46:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW2",
+      "route_short_name": "BW2",
+      "route_long_name": "Monas Explorer",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Monas Explorer",
+      "weekdays": [
+        "10:32:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

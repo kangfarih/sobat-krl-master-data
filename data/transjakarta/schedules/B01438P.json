@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Palatehan II",
+  "stop_id": "B01438P",
+  "latitude": -6.241135,
+  "longitude": 106.80129,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:01:35",
+        "05:57:32",
+        "07:07:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:02:27",
+        "06:24:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

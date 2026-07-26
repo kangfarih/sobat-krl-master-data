@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Bengkel Kalisari",
+  "stop_id": "B00419P",
+  "latitude": -6.33388,
+  "longitude": 106.85263,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:29:59",
+        "06:34:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

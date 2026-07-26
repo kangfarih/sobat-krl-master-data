@@ -1,0 +1,34 @@
+{
+  "stop_name": "Danau Agung 1",
+  "stop_id": "B00292P",
+  "latitude": -6.147281,
+  "longitude": 106.8582,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:31:37",
+        "07:02:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:16:22",
+        "05:46:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

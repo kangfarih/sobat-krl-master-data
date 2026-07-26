@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Mangga Danau Sunter",
+  "stop_id": "B06293P",
+  "latitude": -6.148146,
+  "longitude": 106.87379,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:29:17",
+        "05:29:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

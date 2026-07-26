@@ -1,0 +1,20 @@
+{
+  "stop_name": "Graha Sindu Bpk Penabur",
+  "stop_id": "B00682P",
+  "latitude": -6.159971,
+  "longitude": 106.83509,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:17:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

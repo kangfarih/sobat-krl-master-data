@@ -1,0 +1,32 @@
+{
+  "stop_name": "Asrama Haji Pondok Gede",
+  "stop_id": "B00072P",
+  "latitude": -6.290541,
+  "longitude": 106.88827,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:03:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:03:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

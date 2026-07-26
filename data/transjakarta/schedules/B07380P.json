@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. RPTRA Taman Gajah",
+  "stop_id": "B07380P",
+  "latitude": -6.277693,
+  "longitude": 106.799687,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:43:07",
+        "05:44:04",
+        "05:44:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

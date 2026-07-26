@@ -1,0 +1,23 @@
+{
+  "stop_name": "Simpang Empat 2",
+  "stop_id": "B08185P",
+  "latitude": -6.08768,
+  "longitude": 106.73211,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:02:09",
+        "09:41:40"
+      ],
+      "weekends": [
+        "09:41:40"
+      ]
+    }
+  ]
+}

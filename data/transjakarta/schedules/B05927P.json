@@ -1,0 +1,21 @@
+{
+  "stop_name": "Yayasan Panti Nugraha",
+  "stop_id": "B05927P",
+  "latitude": -6.304477,
+  "longitude": 106.80438,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:38:34",
+        "06:49:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

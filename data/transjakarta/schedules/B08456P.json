@@ -1,0 +1,21 @@
+{
+  "stop_name": "FEB Uhamka",
+  "stop_id": "B08456P",
+  "latitude": -6.304861,
+  "longitude": 106.866078,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:11:20",
+        "06:03:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

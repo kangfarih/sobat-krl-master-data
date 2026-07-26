@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Jln. Buaran III",
+  "stop_id": "B03660P",
+  "latitude": -6.220582,
+  "longitude": 106.91922,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:58:37",
+        "07:11:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:48:42",
+        "05:49:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

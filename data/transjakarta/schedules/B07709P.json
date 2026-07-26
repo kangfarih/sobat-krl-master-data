@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pemuda Rawamangun 1",
+  "stop_id": "B07709P",
+  "latitude": -6.193355,
+  "longitude": 106.891988,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "06:22:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:45:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

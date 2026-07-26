@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Mushola Al Achyar Cipete",
+  "stop_id": "B04110P",
+  "latitude": -6.262475,
+  "longitude": 106.80417,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:24:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

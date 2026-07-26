@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SPBU Puri Kembangan",
+  "stop_id": "B04503P",
+  "latitude": -6.179303,
+  "longitude": 106.74873,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:11:45",
+        "06:44:12",
+        "07:20:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "Jln. Tanah Kusir 2",
+  "stop_id": "B07954P",
+  "latitude": -6.258279,
+  "longitude": 106.781587,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:39:17",
+        "05:40:20"
+      ],
+      "weekends": [
+        "05:40:20"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:40:03",
+        "05:41:05"
+      ],
+      "weekends": [
+        "05:41:05"
+      ]
+    }
+  ]
+}

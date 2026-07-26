@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kec. Pondok Gede",
+  "stop_id": "B01884P",
+  "latitude": -6.280944,
+  "longitude": 106.91355,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:20:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kebantenan IX",
+  "stop_id": "B03893P",
+  "latitude": -6.108601,
+  "longitude": 106.93245,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:47:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

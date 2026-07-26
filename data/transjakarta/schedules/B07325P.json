@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 12",
+  "stop_id": "B07325P",
+  "latitude": -6.249761,
+  "longitude": 106.803295,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:10:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

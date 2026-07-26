@@ -1,0 +1,20 @@
+{
+  "stop_name": "Apartemen Kedoya Elok 2",
+  "stop_id": "B00056P",
+  "latitude": -6.188259,
+  "longitude": 106.76855,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:47:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

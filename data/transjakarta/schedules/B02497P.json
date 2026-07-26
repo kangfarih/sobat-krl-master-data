@@ -1,0 +1,33 @@
+{
+  "stop_name": "Museum Bahari 1",
+  "stop_id": "B02497P",
+  "latitude": -6.127791,
+  "longitude": 106.808406,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:03:20",
+        "05:03:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:49:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

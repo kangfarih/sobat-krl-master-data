@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Persahabatan",
+  "stop_id": "B05639P",
+  "latitude": -6.206699,
+  "longitude": 106.88653,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:14:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

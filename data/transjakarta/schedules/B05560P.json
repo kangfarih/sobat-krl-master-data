@@ -1,0 +1,21 @@
+{
+  "stop_name": "Superindo Bulak Kapal 2",
+  "stop_id": "B05560P",
+  "latitude": -6.249488,
+  "longitude": 107.02384,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:30:00",
+        "08:03:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

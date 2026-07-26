@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pangeran Jayakarta",
+  "stop_id": "B06570P",
+  "latitude": -6.142671,
+  "longitude": 106.82952,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:56:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

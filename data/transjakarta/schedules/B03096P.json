@@ -1,0 +1,67 @@
+{
+  "stop_name": "Rest Area Km 13 Merak Jakarta",
+  "stop_id": "B03096P",
+  "latitude": -6.214273,
+  "longitude": 106.67784,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "06:15:54",
+        "06:15:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:32:40",
+        "05:32:41",
+        "05:32:42"
+      ],
+      "weekends": [
+        "05:32:40",
+        "05:32:41"
+      ]
+    },
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:35:30",
+        "05:35:31",
+        "06:19:06",
+        "06:19:08",
+        "07:36:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "06:03:51",
+        "06:03:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

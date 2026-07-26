@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Swadaya 1 F",
+  "stop_id": "B06179P",
+  "latitude": -6.133471,
+  "longitude": 106.937602,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:00:10",
+        "05:30:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

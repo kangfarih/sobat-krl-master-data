@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Kaliabang Dukuh",
+  "stop_id": "B03737P",
+  "latitude": -6.183248,
+  "longitude": 106.9852,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:56:28",
+        "06:53:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

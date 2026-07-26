@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kedoya Raya",
+  "stop_id": "B06301P",
+  "latitude": -6.158333,
+  "longitude": 106.76795,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "06:19:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "06:04:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

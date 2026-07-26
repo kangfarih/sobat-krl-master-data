@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Langgar Kelapa Dua",
+  "stop_id": "B00504P",
+  "latitude": -6.213042,
+  "longitude": 106.76941,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "06:56:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

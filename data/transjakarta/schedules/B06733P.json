@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pangeran Antasari III",
+  "stop_id": "B06733P",
+  "latitude": -6.257481,
+  "longitude": 106.807869,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:47:38",
+        "05:48:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

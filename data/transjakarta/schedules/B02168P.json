@@ -1,0 +1,20 @@
+{
+  "stop_name": "Madrasah Aliyah Citra Cendekia",
+  "stop_id": "B02168P",
+  "latitude": -6.35789,
+  "longitude": 106.8006,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:08:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

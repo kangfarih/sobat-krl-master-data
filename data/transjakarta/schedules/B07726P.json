@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cakung Barat Tower",
+  "stop_id": "B07726P",
+  "latitude": -6.169922,
+  "longitude": 106.932786,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:17:47",
+        "06:10:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stop_name": "Flyover Kampung Melayu",
+  "stop_id": "B00358P",
+  "latitude": -6.22506,
+  "longitude": 106.86483,
+  "routes": [
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:34:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang Blok A dan Kampung Melayu",
+      "weekdays": [
+        "05:04:56",
+        "06:36:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:15:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

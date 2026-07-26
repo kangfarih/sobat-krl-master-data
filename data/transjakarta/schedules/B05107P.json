@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Rawa Kuning Raya Bekasi",
+  "stop_id": "B05107P",
+  "latitude": -6.19067,
+  "longitude": 106.9671,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:25:15",
+        "06:22:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

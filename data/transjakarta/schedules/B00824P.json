@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jaha",
+  "stop_id": "B00824P",
+  "latitude": -6.292428,
+  "longitude": 106.81245,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:42:59",
+        "05:43:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:45:17",
+        "05:45:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

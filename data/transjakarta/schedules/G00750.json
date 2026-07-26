@@ -1,0 +1,35 @@
+{
+  "stop_name": "Monumen Nasional",
+  "stop_id": "G00750",
+  "latitude": -6.176139,
+  "longitude": 106.822929,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Monas dan Kalideres",
+      "weekdays": [
+        "06:15:36",
+        "06:15:37",
+        "06:34:37",
+        "07:08:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Monumen Nasional dan JIS",
+      "weekdays": [
+        "05:48:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Malaka Country Estate",
+  "stop_id": "B02181P",
+  "latitude": -6.223571,
+  "longitude": 106.94223,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:09:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

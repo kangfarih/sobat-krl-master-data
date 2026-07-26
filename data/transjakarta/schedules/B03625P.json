@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Istora Senayan",
+  "stop_id": "B03625P",
+  "latitude": -6.218067,
+  "longitude": 106.798071,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:17:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

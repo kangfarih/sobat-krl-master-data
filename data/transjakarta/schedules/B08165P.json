@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Abdul Kodir",
+  "stop_id": "B08165P",
+  "latitude": -6.268463,
+  "longitude": 106.80873,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:30:13",
+        "06:38:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

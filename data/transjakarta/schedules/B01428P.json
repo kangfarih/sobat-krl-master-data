@@ -1,0 +1,47 @@
+{
+  "stop_name": "Jln. Olahraga 1 Raya Bogor",
+  "stop_id": "B01428P",
+  "latitude": -6.267006,
+  "longitude": 106.865951,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:35:55",
+        "05:35:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:35:33",
+        "05:35:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "06:00:15",
+        "06:00:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

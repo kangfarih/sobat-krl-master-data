@@ -1,0 +1,62 @@
+{
+  "stop_name": "Pasar Baru",
+  "stop_id": "G00115",
+  "latitude": -6.166129,
+  "longitude": 106.83483,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "05:00:10",
+        "07:10:45",
+        "07:13:48",
+        "08:13:58",
+        "08:45:03",
+        "09:00:10",
+        "11:16:48"
+      ],
+      "weekends": [
+        "05:00:10",
+        "07:10:45"
+      ]
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:02:37",
+        "07:11:51",
+        "07:20:17",
+        "07:31:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:00:10",
+        "05:32:17",
+        "06:10:27"
+      ],
+      "weekends": [
+        "05:00:10",
+        "05:32:17",
+        "06:10:27"
+      ]
+    }
+  ]
+}

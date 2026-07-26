@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Masjid Al Munir",
+  "stop_id": "B03786P",
+  "latitude": -6.271471,
+  "longitude": 106.87734,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:36:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Transmart MH Thamrin 1",
+  "stop_id": "B05800P",
+  "latitude": -6.207554,
+  "longitude": 106.628311,
+  "routes": [
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:32:40",
+        "05:32:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

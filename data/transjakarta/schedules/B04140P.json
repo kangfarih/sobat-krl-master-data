@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ps. Deprok 1",
+  "stop_id": "B04140P",
+  "latitude": -6.217656,
+  "longitude": 106.89506,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:31:43",
+        "06:28:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "stop_name": "Matraman Baru",
+  "stop_id": "G00210",
+  "latitude": -6.212847,
+  "longitude": 106.861176,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:50:19",
+        "06:03:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:33:00",
+        "05:34:27",
+        "06:27:36",
+        "06:47:08",
+        "06:51:46",
+        "07:06:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "06:45:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

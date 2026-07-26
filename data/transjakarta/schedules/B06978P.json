@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Saint John",
+  "stop_id": "B06978P",
+  "latitude": -6.159808,
+  "longitude": 106.973798,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:57:01",
+        "07:02:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

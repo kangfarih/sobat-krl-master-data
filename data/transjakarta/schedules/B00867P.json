@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. As Syafiiyah Raya Cilangkap",
+  "stop_id": "B00867P",
+  "latitude": -6.338197,
+  "longitude": 106.89899,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:59:18",
+        "07:04:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

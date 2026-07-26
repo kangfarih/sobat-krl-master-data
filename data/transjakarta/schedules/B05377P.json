@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMPN 245",
+  "stop_id": "B05377P",
+  "latitude": -6.225869,
+  "longitude": 106.73983,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:22:48",
+        "07:04:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

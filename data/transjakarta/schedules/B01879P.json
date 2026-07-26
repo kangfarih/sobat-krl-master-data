@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kec. Makasar",
+  "stop_id": "B01879P",
+  "latitude": -6.279139,
+  "longitude": 106.87881,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:04:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

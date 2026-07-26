@@ -1,0 +1,63 @@
+{
+  "stop_name": "Halimun",
+  "stop_id": "G00733",
+  "latitude": -6.20516789,
+  "longitude": 106.83337212,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Manggarai dan Galunggung",
+      "weekdays": [
+        "05:32:12",
+        "06:02:20",
+        "06:06:31",
+        "06:17:49",
+        "06:42:45"
+      ],
+      "weekends": [
+        "06:02:20"
+      ]
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "06:05:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Patra Kuningan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:17:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Galunggung dan Bekasi",
+      "weekdays": [
+        "07:22:19",
+        "07:22:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

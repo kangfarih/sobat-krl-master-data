@@ -1,0 +1,28 @@
+{
+  "stop_name": "Kebon Jeruk",
+  "stop_id": "G00390",
+  "latitude": -6.19431,
+  "longitude": 106.768926,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:39:39",
+        "06:04:22",
+        "06:07:33",
+        "07:32:20",
+        "07:45:09",
+        "14:27:05"
+      ],
+      "weekends": [
+        "05:39:39",
+        "06:04:22"
+      ]
+    }
+  ]
+}

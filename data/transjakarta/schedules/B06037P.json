@@ -1,0 +1,20 @@
+{
+  "stop_name": "Museum Kebangkitan",
+  "stop_id": "B06037P",
+  "latitude": -6.178915,
+  "longitude": 106.83877,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:19:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

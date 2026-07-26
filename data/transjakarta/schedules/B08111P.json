@@ -1,0 +1,25 @@
+{
+  "stop_name": "Escala 1",
+  "stop_id": "B08111P",
+  "latitude": -6.221311,
+  "longitude": 106.658532,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "07:00:27",
+        "09:09:15",
+        "09:22:46"
+      ],
+      "weekends": [
+        "09:09:15",
+        "09:22:46"
+      ]
+    }
+  ]
+}

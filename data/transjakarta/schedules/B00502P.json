@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Langga",
+  "stop_id": "B00502P",
+  "latitude": -6.266543,
+  "longitude": 106.881652,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:32:19",
+        "05:32:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:10:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

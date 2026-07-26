@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSUD Ciracas",
+  "stop_id": "B03209P",
+  "latitude": -6.345642,
+  "longitude": 106.87358,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:55:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

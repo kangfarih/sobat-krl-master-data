@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Djamar Joglo",
+  "stop_id": "B07881P",
+  "latitude": -6.21891,
+  "longitude": 106.73199,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:15:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

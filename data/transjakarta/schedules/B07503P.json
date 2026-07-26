@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Klp. 3 Jagakarsa",
+  "stop_id": "B07503P",
+  "latitude": -6.330521,
+  "longitude": 106.828858,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:49:29",
+        "07:02:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

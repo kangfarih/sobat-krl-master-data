@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kolam Renang Halim",
+  "stop_id": "B05939P",
+  "latitude": -6.258146,
+  "longitude": 106.88412,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:00:10",
+        "05:50:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

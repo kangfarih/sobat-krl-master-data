@@ -1,0 +1,21 @@
+{
+  "stop_name": "Puskesmas Ancol",
+  "stop_id": "B05990P",
+  "latitude": -6.12458,
+  "longitude": 106.81744,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:01:41",
+        "06:05:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

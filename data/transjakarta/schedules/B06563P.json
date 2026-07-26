@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Baywalk 2",
+  "stop_id": "B06563P",
+  "latitude": -6.110582,
+  "longitude": 106.77963,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:56:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Jaid Petukangan",
+  "stop_id": "B00469P",
+  "latitude": -6.246071,
+  "longitude": 106.75194,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:33:00",
+        "05:33:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

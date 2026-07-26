@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Sulaiman",
+  "stop_id": "B04516P",
+  "latitude": -6.236486,
+  "longitude": 106.74545,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:01:25",
+        "05:37:34",
+        "07:19:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

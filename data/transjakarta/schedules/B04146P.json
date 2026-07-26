@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Ps. Inpres Cipinang Besar",
+  "stop_id": "B04146P",
+  "latitude": -6.226687,
+  "longitude": 106.88059,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:59:40",
+        "05:59:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:48:44",
+        "06:53:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

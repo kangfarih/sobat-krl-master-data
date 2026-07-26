@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. H Briti B",
+  "stop_id": "B01089P",
+  "latitude": -6.186247,
+  "longitude": 106.75508,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:24:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:17:06",
+        "06:49:34",
+        "07:25:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

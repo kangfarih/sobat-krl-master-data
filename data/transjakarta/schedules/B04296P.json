@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Sukmul Sisma Medika",
+  "stop_id": "B04296P",
+  "latitude": -6.112369,
+  "longitude": 106.88238,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:03:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

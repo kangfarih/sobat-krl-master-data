@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Jembatan I Balekambang",
+  "stop_id": "B01175P",
+  "latitude": -6.285812,
+  "longitude": 106.8504,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:40:25",
+        "06:34:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

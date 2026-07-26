@@ -1,0 +1,21 @@
+{
+  "stop_name": "Menteng 1",
+  "stop_id": "B02422P",
+  "latitude": -6.19851,
+  "longitude": 106.82835,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:29:24",
+        "08:47:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

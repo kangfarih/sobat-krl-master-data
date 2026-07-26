@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Tj. Duren Raya",
+  "stop_id": "B05176P",
+  "latitude": -6.173776,
+  "longitude": 106.78377,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:36:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

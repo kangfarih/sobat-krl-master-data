@@ -1,0 +1,20 @@
+{
+  "stop_name": "Yayasan As-Salam Joglo",
+  "stop_id": "B07871P",
+  "latitude": -6.223482,
+  "longitude": 106.731846,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "06:14:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

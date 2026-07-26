@@ -1,0 +1,137 @@
+{
+  "stop_name": "Juanda",
+  "stop_id": "G00117",
+  "latitude": -6.168012,
+  "longitude": 106.83091,
+  "routes": [
+    {
+      "route_id": "2",
+      "route_short_name": "2",
+      "route_long_name": "Pulo Gadung - Monumen Nasional",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Monas dan Pulo Gadung",
+      "weekdays": [
+        "06:01:59",
+        "06:22:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Juanda dan Kalideres",
+      "weekdays": [
+        "06:12:48"
+      ],
+      "weekends": [
+        "06:12:48"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Kebayoran dan Pasar Baru",
+      "weekdays": [
+        "07:08:21",
+        "07:11:24",
+        "08:11:33",
+        "08:42:38",
+        "11:04:34"
+      ],
+      "weekends": [
+        "07:08:21"
+      ]
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:51:25",
+        "07:05:22",
+        "07:41:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "06:42:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung via Juanda",
+      "weekdays": [
+        "08:03:05",
+        "08:11:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2C",
+      "route_short_name": "2C",
+      "route_long_name": "Balai Kota - JIEXPO",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "JIEXPO dan Balai Kota",
+      "weekdays": [
+        "05:15:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "07:09:27",
+        "07:17:53",
+        "07:18:09",
+        "07:28:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:29:53",
+        "05:31:04",
+        "06:08:02"
+      ],
+      "weekends": [
+        "05:29:53",
+        "05:31:04",
+        "06:08:02"
+      ]
+    }
+  ]
+}

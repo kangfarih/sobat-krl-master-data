@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Dewi Sinta",
+  "stop_id": "B01041P",
+  "latitude": -6.167442,
+  "longitude": 106.91,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:28:28",
+        "05:28:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stop_name": "Polisi Militer Pluit",
+  "stop_id": "B07693P",
+  "latitude": -6.10917,
+  "longitude": 106.77635,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:41:07",
+        "05:41:08",
+        "05:41:17"
+      ],
+      "weekends": [
+        "05:41:06"
+      ]
+    }
+  ]
+}

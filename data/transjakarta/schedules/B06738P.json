@@ -1,0 +1,21 @@
+{
+  "stop_name": "Barito Park",
+  "stop_id": "B06738P",
+  "latitude": -6.244906,
+  "longitude": 106.793828,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:09:43",
+        "06:17:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kapuk Utara I",
+  "stop_id": "B07697P",
+  "latitude": -6.1404129,
+  "longitude": 106.767273,
+  "routes": [
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:50:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

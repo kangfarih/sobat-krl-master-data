@@ -1,0 +1,40 @@
+{
+  "stop_name": "Euro Asia",
+  "stop_id": "B08248P",
+  "latitude": -6.05315,
+  "longitude": 106.68351,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:37:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Wisata PIK 2",
+      "weekdays": [
+        "19:18:55",
+        "20:58:55"
+      ],
+      "weekends": [
+        "13:45:33",
+        "15:15:33",
+        "17:15:33",
+        "18:45:33",
+        "20:15:33",
+        "21:45:33"
+      ]
+    }
+  ]
+}

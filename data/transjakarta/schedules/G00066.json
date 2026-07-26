@@ -1,0 +1,98 @@
+{
+  "stop_name": "Balai Kota",
+  "stop_id": "G00066",
+  "latitude": -6.180524,
+  "longitude": 106.826441,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Balai Kota via Tol Ir. Sedyatmo",
+      "weekdays": [
+        "05:01:22",
+        "06:37:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "05:51:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2C",
+      "route_short_name": "2C",
+      "route_long_name": "Balai Kota - JIEXPO",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "JIEXPO dan Balai Kota",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Juanda dan Cililitan",
+      "weekdays": [
+        "05:38:14",
+        "06:02:23",
+        "06:02:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "05:00:10",
+        "06:19:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Semanggi",
+      "weekdays": [
+        "05:00:10",
+        "06:22:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "07:02:46",
+        "07:03:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

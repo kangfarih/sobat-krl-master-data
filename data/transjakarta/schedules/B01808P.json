@@ -1,0 +1,35 @@
+{
+  "stop_name": "Kampus 2 Uin",
+  "stop_id": "B01808P",
+  "latitude": -6.305634,
+  "longitude": 106.757674,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:50:27",
+        "07:17:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "06:03:26",
+        "06:14:20",
+        "08:08:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

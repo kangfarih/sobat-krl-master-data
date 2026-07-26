@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN 02 Pagi Rambutan",
+  "stop_id": "B07155P",
+  "latitude": -6.309252,
+  "longitude": 106.87664,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:23:20",
+        "06:15:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

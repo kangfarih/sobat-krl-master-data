@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Cikoko Timur I",
+  "stop_id": "B03675P",
+  "latitude": -6.244364,
+  "longitude": 106.85867,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:29:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

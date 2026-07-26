@@ -1,0 +1,20 @@
+{
+  "stop_name": "ACD",
+  "stop_id": "B07988P",
+  "latitude": -6.129905,
+  "longitude": 106.645687,
+  "routes": [
+    {
+      "route_id": "SOE",
+      "route_short_name": "SOE",
+      "route_long_name": "Shuttle Bandara Soekarno-Hatta",
+      "color": "184e9e",
+      "category": "Shuttle",
+      "direction": "Shuttle Bandara Soekarno-Hatta",
+      "weekdays": [
+        "06:08:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

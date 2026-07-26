@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Jongkok",
+  "stop_id": "B04150P",
+  "latitude": -6.108859,
+  "longitude": 106.93453,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:27:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

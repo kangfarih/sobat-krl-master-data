@@ -1,0 +1,34 @@
+{
+  "stop_name": "SPBU Raden Intan II",
+  "stop_id": "B06718P",
+  "latitude": -6.241814,
+  "longitude": 106.920742,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:51:57",
+        "05:52:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:14:59",
+        "06:17:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

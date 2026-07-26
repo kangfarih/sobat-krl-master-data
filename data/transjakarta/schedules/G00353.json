@@ -1,0 +1,70 @@
+{
+  "stop_name": "Bidara Cina",
+  "stop_id": "G00353",
+  "latitude": -6.229726,
+  "longitude": 106.867204,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Melayu via Tol Hek",
+      "weekdays": [
+        "05:53:17",
+        "05:57:25",
+        "06:00:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang via BKT",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:30:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:21:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "06:17:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

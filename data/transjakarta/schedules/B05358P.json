@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 177",
+  "stop_id": "B05358P",
+  "latitude": -6.261215,
+  "longitude": 106.75713,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:07:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kepu Kesadaran",
+  "stop_id": "B04937P",
+  "latitude": -6.181065,
+  "longitude": 106.914372,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:04:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

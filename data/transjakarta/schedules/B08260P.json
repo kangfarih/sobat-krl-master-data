@@ -1,0 +1,34 @@
+{
+  "stop_name": "BNI",
+  "stop_id": "B08260P",
+  "latitude": -6.06457,
+  "longitude": 106.70019,
+  "routes": [
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "06:58:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Juanda",
+      "weekdays": [
+        "06:15:51"
+      ],
+      "weekends": [
+        "13:15:51"
+      ]
+    }
+  ]
+}

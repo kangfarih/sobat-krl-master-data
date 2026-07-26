@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Peternakan III",
+  "stop_id": "B06330P",
+  "latitude": -6.141472,
+  "longitude": 106.759301,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:13:45",
+        "05:54:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stop_name": "SDN Cengkareng Timur 05",
+  "stop_id": "B03343P",
+  "latitude": -6.149212,
+  "longitude": 106.72804,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:26:36",
+        "05:27:08",
+        "05:27:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:23:30",
+        "02:30:04",
+        "05:46:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

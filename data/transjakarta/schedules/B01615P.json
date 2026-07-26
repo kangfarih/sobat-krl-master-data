@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Swadarma III",
+  "stop_id": "B01615P",
+  "latitude": -6.232719,
+  "longitude": 106.76064,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:30:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

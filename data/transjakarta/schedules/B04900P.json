@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Kampung Kandang 2",
+  "stop_id": "B04900P",
+  "latitude": -6.310675,
+  "longitude": 106.812998,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:16:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:48:24",
+        "06:59:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

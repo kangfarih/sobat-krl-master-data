@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Damai Kalisari",
+  "stop_id": "B01023P",
+  "latitude": -6.338531,
+  "longitude": 106.86,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:36:26",
+        "06:41:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

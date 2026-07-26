@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMP Islam Al Azhar 19",
+  "stop_id": "B05331P",
+  "latitude": -6.36591,
+  "longitude": 106.88823,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "06:03:41",
+        "06:41:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "06:12:30",
+        "06:57:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

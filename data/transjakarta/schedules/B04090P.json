@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. MI Al Ihsan Batu Ampar",
+  "stop_id": "B04090P",
+  "latitude": -6.272435,
+  "longitude": 106.86497,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:10:04",
+        "05:49:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

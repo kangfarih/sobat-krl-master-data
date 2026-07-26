@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Meranti Elok 2",
+  "stop_id": "B07284P",
+  "latitude": -6.197598,
+  "longitude": 106.939112,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:08:02",
+        "05:46:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gedung Wanita",
+  "stop_id": "B00604P",
+  "latitude": -6.200921,
+  "longitude": 106.83624,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:57:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

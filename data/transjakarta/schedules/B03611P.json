@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Griya Galaxy 126",
+  "stop_id": "B03611P",
+  "latitude": -6.283359,
+  "longitude": 106.86429,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:18:13",
+        "06:12:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

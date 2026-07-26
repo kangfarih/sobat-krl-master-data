@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Jatinegara Kaum",
+  "stop_id": "B03275P",
+  "latitude": -6.211814,
+  "longitude": 106.899422,
+  "routes": [
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:00:10",
+        "05:45:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

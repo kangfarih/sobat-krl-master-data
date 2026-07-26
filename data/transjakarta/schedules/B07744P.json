@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Komodor Halim",
+  "stop_id": "B07744P",
+  "latitude": -6.265709,
+  "longitude": 106.878667,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:07:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Kunir II",
+  "stop_id": "B00499P",
+  "latitude": -6.133976,
+  "longitude": 106.812432,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:01:58",
+        "06:22:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:39:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

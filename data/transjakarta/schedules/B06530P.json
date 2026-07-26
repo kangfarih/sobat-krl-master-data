@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kawi Guntur",
+  "stop_id": "B06530P",
+  "latitude": -6.20973,
+  "longitude": 106.8333,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:22:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Perum Mutiara Indah Rorotan",
+  "stop_id": "B02789P",
+  "latitude": -6.156135,
+  "longitude": 106.96231,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:55:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

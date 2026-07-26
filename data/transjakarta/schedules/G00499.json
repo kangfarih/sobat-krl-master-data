@@ -1,0 +1,60 @@
+{
+  "stop_name": "Walikota Jakarta Utara Arah Utara",
+  "stop_id": "G00499",
+  "latitude": -6.118845,
+  "longitude": 106.893125,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "01:22:40",
+        "06:22:36",
+        "07:24:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:51:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:58:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "07:16:14"
+      ],
+      "weekends": [
+        "07:16:14"
+      ]
+    }
+  ]
+}

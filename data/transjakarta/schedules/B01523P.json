@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pulo Mas Barat VI",
+  "stop_id": "B01523P",
+  "latitude": -6.177823,
+  "longitude": 106.88231,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:27:43",
+        "05:28:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:16:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

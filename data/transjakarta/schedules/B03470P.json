@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Cek & Ricek",
+  "stop_id": "B03470P",
+  "latitude": -6.215396,
+  "longitude": 106.72955,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:33:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:11:22",
+        "06:52:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

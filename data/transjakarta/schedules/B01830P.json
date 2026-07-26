@@ -1,0 +1,38 @@
+{
+  "stop_name": "Karang Asri 2",
+  "stop_id": "B01830P",
+  "latitude": -6.116073,
+  "longitude": 106.77399,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:35:32",
+        "05:35:33",
+        "05:35:42"
+      ],
+      "weekends": [
+        "05:35:31"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:07:23",
+        "06:02:32",
+        "23:11:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

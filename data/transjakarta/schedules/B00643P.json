@@ -1,0 +1,20 @@
+{
+  "stop_name": "Giant Ekspres Pondok Kopi",
+  "stop_id": "B00643P",
+  "latitude": -6.226153,
+  "longitude": 106.94363,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:07:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

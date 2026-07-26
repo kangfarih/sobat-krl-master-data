@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Muhi Pulo Gebang",
+  "stop_id": "B00518P",
+  "latitude": -6.210145,
+  "longitude": 106.95833,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:36:23",
+        "05:37:46",
+        "07:05:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

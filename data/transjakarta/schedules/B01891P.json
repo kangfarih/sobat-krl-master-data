@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kedondong",
+  "stop_id": "B01891P",
+  "latitude": -6.383095,
+  "longitude": 106.82952,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:07:19",
+        "05:07:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

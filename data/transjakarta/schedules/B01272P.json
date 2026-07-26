@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kenanga",
+  "stop_id": "B01272P",
+  "latitude": -6.287468,
+  "longitude": 106.81848,
+  "routes": [
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "05:36:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:13:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

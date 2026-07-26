@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Karet Pasar Baru Timur 5",
+  "stop_id": "B06651P",
+  "latitude": -6.208563,
+  "longitude": 106.82011,
+  "routes": [
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "05:19:58",
+        "05:56:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

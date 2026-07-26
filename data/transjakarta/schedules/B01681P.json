@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Timah Harapan Mulya",
+  "stop_id": "B01681P",
+  "latitude": -6.171595,
+  "longitude": 106.852347,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:06:33",
+        "07:49:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Komplek DKI Joglo",
+  "stop_id": "B02031P",
+  "latitude": -6.223129,
+  "longitude": 106.73732,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:16:21",
+        "05:52:30",
+        "07:33:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

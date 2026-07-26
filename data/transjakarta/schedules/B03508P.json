@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Baru",
+  "stop_id": "B03508P",
+  "latitude": -6.302783,
+  "longitude": 106.91193,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:43:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

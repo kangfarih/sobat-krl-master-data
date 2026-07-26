@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Rusun Tipar Cakung",
+  "stop_id": "B07719P",
+  "latitude": -6.17159,
+  "longitude": 106.937391,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:09:37",
+        "06:23:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

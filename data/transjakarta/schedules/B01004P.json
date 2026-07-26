@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Cilincing Baru Raya",
+  "stop_id": "B01004P",
+  "latitude": -6.106927,
+  "longitude": 106.92672,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:03:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:26:50",
+        "06:45:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusun Cinta Kasih Tzu Chi",
+  "stop_id": "B03269P",
+  "latitude": -6.132625,
+  "longitude": 106.73559,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:05:47",
+        "02:12:21",
+        "05:35:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

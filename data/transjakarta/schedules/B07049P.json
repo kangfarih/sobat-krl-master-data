@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Tongkol",
+  "stop_id": "B07049P",
+  "latitude": -6.12778,
+  "longitude": 106.81019,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:48:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:10:54",
+        "06:02:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

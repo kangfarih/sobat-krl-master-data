@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Panjang Cidodol Raya",
+  "stop_id": "B06385P",
+  "latitude": -6.230035,
+  "longitude": 106.771836,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:07:14",
+        "06:26:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

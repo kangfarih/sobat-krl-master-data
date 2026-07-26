@@ -1,0 +1,36 @@
+{
+  "stop_name": "Taman Puring 2",
+  "stop_id": "B05642P",
+  "latitude": -6.242596,
+  "longitude": 106.78793,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:20:33"
+      ],
+      "weekends": [
+        "05:20:33"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:21:19"
+      ],
+      "weekends": [
+        "05:21:19"
+      ]
+    }
+  ]
+}

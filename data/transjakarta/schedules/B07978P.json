@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gerbang Timur",
+  "stop_id": "B07978P",
+  "latitude": -6.122832,
+  "longitude": 106.84413,
+  "routes": [
+    {
+      "route_id": "SAT",
+      "route_short_name": "SAT",
+      "route_long_name": "Shuttle Ancol Timur",
+      "color": "b7342d",
+      "category": "Shuttle",
+      "direction": "Shuttle Ancol Timur",
+      "weekdays": [
+        "05:26:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

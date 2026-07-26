@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Simpang Pejaten Barat Ampera",
+  "stop_id": "B07369P",
+  "latitude": -6.276281,
+  "longitude": 106.820527,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:51:48",
+        "07:01:29",
+        "07:02:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Yahya Balekambang",
+  "stop_id": "B00484P",
+  "latitude": -6.287078,
+  "longitude": 106.85064,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:14:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

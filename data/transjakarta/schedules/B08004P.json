@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Persatuan 1",
+  "stop_id": "B08004P",
+  "latitude": -6.226329,
+  "longitude": 106.771478,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:09:42",
+        "06:28:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

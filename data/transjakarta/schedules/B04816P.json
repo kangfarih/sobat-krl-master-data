@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Gongseng Raya Pondok Baru",
+  "stop_id": "B04816P",
+  "latitude": -6.326483,
+  "longitude": 106.85919,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:16:46",
+        "06:21:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Anyar Utara",
+  "stop_id": "B07669P",
+  "latitude": -6.1575515,
+  "longitude": 106.778156,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:49:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

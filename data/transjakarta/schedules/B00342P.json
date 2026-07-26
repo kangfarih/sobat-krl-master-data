@@ -1,0 +1,33 @@
+{
+  "stop_name": "Essence Dharmawangsa",
+  "stop_id": "B00342P",
+  "latitude": -6.257365,
+  "longitude": 106.80495,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:49:27",
+        "05:51:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:06:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Cempaka Putih Tengah XIII",
+  "stop_id": "B04761P",
+  "latitude": -6.176319,
+  "longitude": 106.87085,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:35:49",
+        "05:36:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

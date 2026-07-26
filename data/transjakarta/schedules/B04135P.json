@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Bulog",
+  "stop_id": "B04135P",
+  "latitude": -6.189358,
+  "longitude": 106.87839,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:30:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

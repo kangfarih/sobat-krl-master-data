@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Bulog",
+  "stop_id": "B02593P",
+  "latitude": -6.189316,
+  "longitude": 106.87831,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:52:43",
+        "07:20:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

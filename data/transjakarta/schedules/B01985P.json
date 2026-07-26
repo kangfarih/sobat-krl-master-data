@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klinik Annisa Ciracas",
+  "stop_id": "B01985P",
+  "latitude": -6.329815,
+  "longitude": 106.87439,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:15:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "Pom Ad 1",
+  "stop_id": "B02918P",
+  "latitude": -6.261949,
+  "longitude": 106.84328,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:35:36",
+        "05:36:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:02:43",
+        "06:08:37",
+        "07:24:26",
+        "16:54:10"
+      ],
+      "weekends": [
+        "06:08:37"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Yodya Tower",
+  "stop_id": "B05932P",
+  "latitude": -6.243066,
+  "longitude": 106.87651,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:44:12",
+        "07:20:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:33:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

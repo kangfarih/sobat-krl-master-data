@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. MAN 2",
+  "stop_id": "B01344P",
+  "latitude": -6.300627,
+  "longitude": 106.88067,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:15:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

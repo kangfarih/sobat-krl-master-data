@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pelni",
+  "stop_id": "B08478P",
+  "latitude": -6.106975,
+  "longitude": 106.880753,
+  "routes": [
+    {
+      "route_id": "10C",
+      "route_short_name": "10C",
+      "route_long_name": "Pelabuhan Tanjung Priok - Tanjung Priok",
+      "color": "9B474A",
+      "category": "Non-BRT",
+      "direction": "Pelabuhan Tanjung Priok dan Tanjung Priok",
+      "weekdays": [
+        "05:02:17",
+        "05:16:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

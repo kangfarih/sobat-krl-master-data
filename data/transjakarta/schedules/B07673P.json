@@ -1,0 +1,22 @@
+{
+  "stop_name": "Tanah Merah 2",
+  "stop_id": "B07673P",
+  "latitude": -6.141422,
+  "longitude": 106.907363,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:00:10",
+        "06:08:08",
+        "06:08:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

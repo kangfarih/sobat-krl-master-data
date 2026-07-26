@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Daud I Sukabumi Utara",
+  "stop_id": "B03688P",
+  "latitude": -6.206339,
+  "longitude": 106.77822,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "06:11:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

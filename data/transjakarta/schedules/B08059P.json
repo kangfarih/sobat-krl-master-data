@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bande",
+  "stop_id": "B08059P",
+  "latitude": -6.119273,
+  "longitude": 106.854699,
+  "routes": [
+    {
+      "route_id": "SAT",
+      "route_short_name": "SAT",
+      "route_long_name": "Shuttle Ancol Timur",
+      "color": "b7342d",
+      "category": "Shuttle",
+      "direction": "Shuttle Ancol Timur",
+      "weekdays": [
+        "05:14:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

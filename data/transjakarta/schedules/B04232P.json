@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Portal Taman Ratu 1",
+  "stop_id": "B04232P",
+  "latitude": -6.165523,
+  "longitude": 106.769856,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:15:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

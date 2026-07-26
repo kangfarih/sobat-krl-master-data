@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Betet Camar 2",
+  "stop_id": "B04724P",
+  "latitude": -6.115382,
+  "longitude": 106.92322,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:39:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

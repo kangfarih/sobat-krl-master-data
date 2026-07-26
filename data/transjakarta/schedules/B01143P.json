@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Sholeh I",
+  "stop_id": "B01143P",
+  "latitude": -6.220068,
+  "longitude": 106.77181,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:53:14",
+        "06:25:00",
+        "07:00:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

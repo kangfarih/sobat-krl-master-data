@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Ahmad Nado",
+  "stop_id": "B00456P",
+  "latitude": -6.304413,
+  "longitude": 106.80243,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:35:23",
+        "05:35:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

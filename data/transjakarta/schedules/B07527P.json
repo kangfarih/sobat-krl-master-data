@@ -1,0 +1,20 @@
+{
+  "stop_name": "TPU Srengseng Sawah",
+  "stop_id": "B07527P",
+  "latitude": -6.35009,
+  "longitude": 106.819807,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:14:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

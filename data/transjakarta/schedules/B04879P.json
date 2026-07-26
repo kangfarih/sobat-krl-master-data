@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jambore Lapangan Tembak",
+  "stop_id": "B04879P",
+  "latitude": -6.352488,
+  "longitude": 106.88789,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "06:21:13",
+        "07:06:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

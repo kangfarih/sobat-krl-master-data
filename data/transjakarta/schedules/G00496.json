@@ -1,0 +1,60 @@
+{
+  "stop_name": "Plumpang Arah Utara",
+  "stop_id": "G00496",
+  "latitude": -6.128475,
+  "longitude": 106.89373,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "01:17:32",
+        "06:17:29",
+        "07:19:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:46:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:53:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "07:11:07"
+      ],
+      "weekends": [
+        "07:11:07"
+      ]
+    }
+  ]
+}

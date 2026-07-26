@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Daarus Saada Duri Kosambi",
+  "stop_id": "B03480P",
+  "latitude": -6.176867,
+  "longitude": 106.70744,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:22:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

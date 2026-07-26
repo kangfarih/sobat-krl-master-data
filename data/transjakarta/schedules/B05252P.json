@@ -1,0 +1,50 @@
+{
+  "stop_name": "SMAK Penabur Enam 1",
+  "stop_id": "B05252P",
+  "latitude": -6.114247,
+  "longitude": 106.77389,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:25:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:36:48",
+        "05:36:49",
+        "05:36:58"
+      ],
+      "weekends": [
+        "05:36:47"
+      ]
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:08:39",
+        "06:03:49",
+        "23:12:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

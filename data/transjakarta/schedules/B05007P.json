@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Melur Tugu",
+  "stop_id": "B05007P",
+  "latitude": -6.122641,
+  "longitude": 106.90796,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:25:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

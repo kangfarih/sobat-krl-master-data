@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Cikajang",
+  "stop_id": "B07476P",
+  "latitude": -6.243002,
+  "longitude": 106.809275,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:09:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

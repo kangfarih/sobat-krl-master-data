@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Matraman 2",
+  "stop_id": "B05003P",
+  "latitude": -6.201601,
+  "longitude": 106.85144,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:47:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

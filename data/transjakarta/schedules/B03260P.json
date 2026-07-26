@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ruko Taman Duta Mas",
+  "stop_id": "B03260P",
+  "latitude": -6.148626,
+  "longitude": 106.78088,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:37:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

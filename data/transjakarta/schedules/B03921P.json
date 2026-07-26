@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kel. Kamal Muara",
+  "stop_id": "B03921P",
+  "latitude": -6.098646,
+  "longitude": 106.71433,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:28:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

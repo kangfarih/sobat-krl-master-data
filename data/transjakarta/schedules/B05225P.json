@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sinabung",
+  "stop_id": "B05225P",
+  "latitude": -6.233817,
+  "longitude": 106.793184,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:07:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

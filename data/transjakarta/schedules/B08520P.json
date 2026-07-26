@@ -1,0 +1,21 @@
+{
+  "stop_name": "Living Plaza Cikarang",
+  "stop_id": "B08520P",
+  "latitude": -6.298812,
+  "longitude": 107.148946,
+  "routes": [
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "08:00:15",
+        "11:37:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

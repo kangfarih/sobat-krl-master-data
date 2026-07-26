@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Suropati",
+  "stop_id": "B05656P",
+  "latitude": -6.200037,
+  "longitude": 106.83234,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:31:43",
+        "07:01:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

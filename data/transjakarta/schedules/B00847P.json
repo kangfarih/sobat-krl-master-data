@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Aladin",
+  "stop_id": "B00847P",
+  "latitude": -6.143605,
+  "longitude": 106.784672,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:46:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

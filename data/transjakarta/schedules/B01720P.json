@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jamsostek",
+  "stop_id": "B01720P",
+  "latitude": -6.233804,
+  "longitude": 106.82229,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "06:06:52",
+        "16:06:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

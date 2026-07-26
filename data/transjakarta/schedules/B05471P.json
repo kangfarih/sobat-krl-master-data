@@ -1,0 +1,34 @@
+{
+  "stop_name": "St. LRT Equestrian 1",
+  "stop_id": "B05471P",
+  "latitude": -6.1846,
+  "longitude": 106.89111,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:47:29",
+        "08:30:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:26:39",
+        "05:26:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

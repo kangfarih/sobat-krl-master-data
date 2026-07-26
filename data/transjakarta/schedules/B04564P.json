@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. TPU Grogol Selatan",
+  "stop_id": "B04564P",
+  "latitude": -6.231588,
+  "longitude": 106.78016,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:04:51",
+        "05:04:52",
+        "06:03:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:04:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

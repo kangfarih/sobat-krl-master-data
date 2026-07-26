@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Reformasi Damai Raya",
+  "stop_id": "B00539P",
+  "latitude": -6.259917,
+  "longitude": 106.80327,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:20:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

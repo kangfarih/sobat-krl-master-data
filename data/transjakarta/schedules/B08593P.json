@@ -1,0 +1,21 @@
+{
+  "stop_name": "Marketing Office Millenials",
+  "stop_id": "B08593P",
+  "latitude": -6.0249,
+  "longitude": 106.63918,
+  "routes": [
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Pasadena",
+      "weekdays": [
+        "05:49:07",
+        "06:03:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

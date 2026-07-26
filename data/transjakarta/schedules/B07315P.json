@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ps. Palmerah 1",
+  "stop_id": "B07315P",
+  "latitude": -6.207144,
+  "longitude": 106.797271,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "05:23:49",
+        "05:24:00",
+        "05:24:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

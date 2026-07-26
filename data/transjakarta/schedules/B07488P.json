@@ -1,0 +1,22 @@
+{
+  "stop_name": "Graha Pejaten 2",
+  "stop_id": "B07488P",
+  "latitude": -6.277266,
+  "longitude": 106.840407,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:05:42",
+        "05:06:39",
+        "05:06:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

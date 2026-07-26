@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Parkit Bulak Ringin",
+  "stop_id": "B01457P",
+  "latitude": -6.349665,
+  "longitude": 106.87296,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:08:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

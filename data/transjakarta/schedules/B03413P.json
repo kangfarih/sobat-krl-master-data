@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Pondok Jagung 1",
+  "stop_id": "B03413P",
+  "latitude": -6.256261,
+  "longitude": 106.65132,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:27:34",
+        "05:27:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

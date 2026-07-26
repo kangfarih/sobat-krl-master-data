@@ -1,0 +1,20 @@
+{
+  "stop_name": "Exit Tol UKI",
+  "stop_id": "B00344P",
+  "latitude": -6.257445,
+  "longitude": 106.87049,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:21:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

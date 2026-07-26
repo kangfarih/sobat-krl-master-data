@@ -1,0 +1,33 @@
+{
+  "stop_name": "Baileys Lagoon City",
+  "stop_id": "B00098P",
+  "latitude": -6.315461,
+  "longitude": 106.74677,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:14:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:14:32",
+        "05:14:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stop_name": "Stella Maris 2",
+  "stop_id": "B05519P",
+  "latitude": -6.112308,
+  "longitude": 106.79234,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:15:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:58:08",
+        "06:10:30",
+        "06:26:30",
+        "07:34:14",
+        "07:35:47"
+      ],
+      "weekends": [
+        "06:38:54",
+        "06:49:02"
+      ]
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:48:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

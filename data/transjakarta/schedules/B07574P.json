@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Sekolah PGRI Penggilingan",
+  "stop_id": "B07574P",
+  "latitude": -6.217208,
+  "longitude": 106.934008,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:15:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

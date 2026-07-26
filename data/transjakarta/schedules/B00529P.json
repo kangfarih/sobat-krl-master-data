@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Pelangi Damai Raya",
+  "stop_id": "B00529P",
+  "latitude": -6.248529,
+  "longitude": 106.75345,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:42:12",
+        "07:03:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

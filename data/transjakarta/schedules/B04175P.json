@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ps. Ujung Menteng",
+  "stop_id": "B04175P",
+  "latitude": -6.189773,
+  "longitude": 106.96653,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:29:39",
+        "06:26:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

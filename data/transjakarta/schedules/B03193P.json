@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSIA Bunda Aliyah 1",
+  "stop_id": "B03193P",
+  "latitude": -6.233285,
+  "longitude": 106.8966,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:30:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

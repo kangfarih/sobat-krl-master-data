@@ -1,0 +1,20 @@
+{
+  "stop_name": "Apartemen Capitol Kwitang",
+  "stop_id": "B06962P",
+  "latitude": -6.180529,
+  "longitude": 106.839168,
+  "routes": [
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:16:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

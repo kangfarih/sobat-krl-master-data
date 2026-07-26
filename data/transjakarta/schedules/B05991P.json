@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pademangan 1",
+  "stop_id": "B05991P",
+  "latitude": -6.1337,
+  "longitude": 106.83177,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:18:50",
+        "06:22:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

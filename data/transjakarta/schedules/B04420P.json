@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMAN 115",
+  "stop_id": "B04420P",
+  "latitude": -6.1502,
+  "longitude": 106.95594,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:56:22",
+        "07:32:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

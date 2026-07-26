@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ponpes Musyarrofah",
+  "stop_id": "B02935P",
+  "latitude": -6.22587,
+  "longitude": 106.74483,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:25:41",
+        "07:07:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

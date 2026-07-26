@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. RS Mitra Keluarga Kemayoran",
+  "stop_id": "B07250P",
+  "latitude": -6.152715,
+  "longitude": 106.85773,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:38:05",
+        "05:38:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:51:00",
+        "05:51:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

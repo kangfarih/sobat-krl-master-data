@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Balai Pustaka Barat Waru",
+  "stop_id": "B06998P",
+  "latitude": -6.196587,
+  "longitude": 106.885644,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:40:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:36:54",
+        "08:10:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

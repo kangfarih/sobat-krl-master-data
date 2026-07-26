@@ -1,0 +1,32 @@
+{
+  "stop_name": "Dinas Lingkungan Hidup",
+  "stop_id": "B00307P",
+  "latitude": -6.264168,
+  "longitude": 106.87033,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:02:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:28:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

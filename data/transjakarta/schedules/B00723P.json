@@ -1,0 +1,22 @@
+{
+  "stop_name": "H Soleh I Sukabumi Selatan",
+  "stop_id": "B00723P",
+  "latitude": -6.219658,
+  "longitude": 106.77847,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:12:16",
+        "05:12:18",
+        "06:11:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

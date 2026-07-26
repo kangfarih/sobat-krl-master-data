@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Kelapa Dua 01",
+  "stop_id": "B03381P",
+  "latitude": -6.207288,
+  "longitude": 106.76927,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:04:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

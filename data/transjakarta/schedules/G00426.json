@@ -1,0 +1,35 @@
+{
+  "stop_name": "Denpasar Arah Barat",
+  "stop_id": "G00426",
+  "latitude": -6.233482,
+  "longitude": 106.822042,
+  "routes": [
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "05:43:21",
+        "05:43:24",
+        "05:43:26",
+        "05:44:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:48:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

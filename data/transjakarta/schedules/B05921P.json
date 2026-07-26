@@ -1,0 +1,21 @@
+{
+  "stop_name": "Yayasan Masjid Nurul Huda",
+  "stop_id": "B05921P",
+  "latitude": -6.178921,
+  "longitude": 106.79864,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:42:37",
+        "06:49:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

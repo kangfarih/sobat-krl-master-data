@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Kota Bambu Selatan",
+  "stop_id": "B03057P",
+  "latitude": -6.186436,
+  "longitude": 106.80737,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:31:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

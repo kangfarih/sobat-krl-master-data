@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pulo Lentut",
+  "stop_id": "B07623P",
+  "latitude": -6.189662,
+  "longitude": 106.916997,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:20:16",
+        "06:17:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:08:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

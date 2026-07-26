@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Sunter Kemayoran Jaya",
+  "stop_id": "B05165P",
+  "latitude": -6.153945,
+  "longitude": 106.86067,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:36:59",
+        "07:07:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pramuka 4",
+  "stop_id": "B06425P",
+  "latitude": -6.193536,
+  "longitude": 106.862829,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:39:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:47:17",
+        "05:57:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

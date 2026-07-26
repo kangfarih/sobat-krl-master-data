@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pangkal Jati 9",
+  "stop_id": "B06189P",
+  "latitude": -6.252644,
+  "longitude": 106.90605,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:11:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

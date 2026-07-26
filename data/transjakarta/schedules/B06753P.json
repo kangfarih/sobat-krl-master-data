@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Nian",
+  "stop_id": "B06753P",
+  "latitude": -6.245506,
+  "longitude": 106.757121,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:42:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bintaro Xchange",
+  "stop_id": "B00148P",
+  "latitude": -6.286813,
+  "longitude": 106.72865,
+  "routes": [
+    {
+      "route_id": "S31",
+      "route_short_name": "S31",
+      "route_long_name": "Bintaro - Fatmawati",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Fatmawati",
+      "weekdays": [
+        "05:00:10",
+        "06:05:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

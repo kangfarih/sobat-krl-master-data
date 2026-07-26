@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jembatan Kayu Putih Selatan",
+  "stop_id": "B01750P",
+  "latitude": -6.188486,
+  "longitude": 106.89125,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:16:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "06:21:51",
+        "07:55:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

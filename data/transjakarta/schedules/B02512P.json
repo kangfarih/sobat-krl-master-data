@@ -1,0 +1,20 @@
+{
+  "stop_name": "Mushola Al Muhajirin Cibubur",
+  "stop_id": "B02512P",
+  "latitude": -6.360526,
+  "longitude": 106.87535,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "06:10:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

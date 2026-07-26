@@ -1,0 +1,56 @@
+{
+  "stop_name": "Perpustakaan Umum Daerah",
+  "stop_id": "B02756P",
+  "latitude": -6.222302,
+  "longitude": 106.83261,
+  "routes": [
+    {
+      "route_id": "6C",
+      "route_short_name": "6C",
+      "route_long_name": "Stasiun Tebet - Kuningan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Stasiun Tebet",
+      "weekdays": [
+        "05:28:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Karet",
+      "weekdays": [
+        "05:29:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "16:36:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "16:36:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

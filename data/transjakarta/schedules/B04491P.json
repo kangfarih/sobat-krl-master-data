@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 263",
+  "stop_id": "B04491P",
+  "latitude": -6.29464,
+  "longitude": 106.87828,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:20:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

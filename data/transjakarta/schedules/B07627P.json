@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasifik Logistik Berikat",
+  "stop_id": "B07627P",
+  "latitude": -6.194044,
+  "longitude": 106.917401,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:41:28",
+        "06:38:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

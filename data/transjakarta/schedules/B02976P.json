@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pospol Pengumben",
+  "stop_id": "B02976P",
+  "latitude": -6.216956,
+  "longitude": 106.76965,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:49:54",
+        "06:21:39",
+        "06:56:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

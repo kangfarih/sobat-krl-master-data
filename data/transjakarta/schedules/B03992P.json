@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kuningan Place",
+  "stop_id": "B03992P",
+  "latitude": -6.213158,
+  "longitude": 106.83499,
+  "routes": [
+    {
+      "route_id": "6Q",
+      "route_short_name": "6Q",
+      "route_long_name": "Galunggung - Casablanca via Epicentrum Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Casablanca dan Galunggung via Epicentrum Raya",
+      "weekdays": [
+        "05:44:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

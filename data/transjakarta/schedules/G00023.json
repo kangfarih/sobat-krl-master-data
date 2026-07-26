@@ -1,0 +1,35 @@
+{
+  "stop_name": "Dukuh Atas",
+  "stop_id": "G00023",
+  "latitude": -6.205723,
+  "longitude": 106.822182,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:22:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "06:03:20",
+        "06:03:23",
+        "06:03:24",
+        "06:04:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

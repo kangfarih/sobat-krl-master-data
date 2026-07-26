@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SDIT Assalaamah",
+  "stop_id": "B04323P",
+  "latitude": -6.192351,
+  "longitude": 106.96612,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:25:03",
+        "05:26:26",
+        "06:54:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

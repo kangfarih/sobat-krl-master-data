@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Sahabat Pulo Gebang",
+  "stop_id": "B00550P",
+  "latitude": -6.212271,
+  "longitude": 106.95588,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:10:21",
+        "06:07:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

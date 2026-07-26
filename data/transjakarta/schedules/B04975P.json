@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Lingkar Duren Sawit",
+  "stop_id": "B04975P",
+  "latitude": -6.220922,
+  "longitude": 106.91561,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:56:16",
+        "07:09:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:46:21",
+        "05:47:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

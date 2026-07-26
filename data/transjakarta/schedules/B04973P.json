@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Lima Senen",
+  "stop_id": "B04973P",
+  "latitude": -6.179154,
+  "longitude": 106.84241,
+  "routes": [
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:18:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:08:21",
+        "06:08:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

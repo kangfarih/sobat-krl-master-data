@@ -1,0 +1,37 @@
+{
+  "stop_name": "Gg. Jaman Kebayoran Lama",
+  "stop_id": "B07419P",
+  "latitude": -6.24011,
+  "longitude": 106.783152,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "06:07:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:07:06",
+        "06:28:13",
+        "06:28:15"
+      ],
+      "weekends": [
+        "05:07:06",
+        "06:28:13"
+      ]
+    }
+  ]
+}

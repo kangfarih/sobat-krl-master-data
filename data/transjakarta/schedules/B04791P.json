@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Darmawangsa XI Prapanca",
+  "stop_id": "B04791P",
+  "latitude": -6.256381,
+  "longitude": 106.80051,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:09:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

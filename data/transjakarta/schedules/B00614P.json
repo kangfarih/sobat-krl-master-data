@@ -1,0 +1,34 @@
+{
+  "stop_name": "Gempol Baru 1",
+  "stop_id": "B00614P",
+  "latitude": -6.186429,
+  "longitude": 106.95439,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:39:29",
+        "05:39:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:45:50",
+        "06:55:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Flamboyan Indah II",
+  "stop_id": "B01060P",
+  "latitude": -6.175006,
+  "longitude": 106.98186,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:49:31",
+        "06:46:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

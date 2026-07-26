@@ -1,0 +1,29 @@
+{
+  "stop_name": "Simprug",
+  "stop_id": "G00379",
+  "latitude": -6.233916,
+  "longitude": 106.786458,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:41:19",
+        "05:41:29",
+        "05:41:30",
+        "05:41:33",
+        "06:41:41",
+        "07:12:46",
+        "14:41:20"
+      ],
+      "weekends": [
+        "05:41:30",
+        "05:41:33"
+      ]
+    }
+  ]
+}

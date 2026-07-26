@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Baiturrahman 2",
+  "stop_id": "B02288P",
+  "latitude": -6.209473,
+  "longitude": 106.61918,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "07:06:44",
+        "09:43:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

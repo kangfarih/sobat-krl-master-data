@@ -1,0 +1,24 @@
+{
+  "stop_name": "Underpass Lebak Bulus",
+  "stop_id": "G00363",
+  "latitude": -6.286762,
+  "longitude": 106.779952,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:12:00",
+        "05:12:08",
+        "14:12:01"
+      ],
+      "weekends": [
+        "05:12:08"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Masjid Baitul Mukhlish Serdang",
+  "stop_id": "B02286P",
+  "latitude": -6.155614,
+  "longitude": 106.85854,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:40:32",
+        "07:11:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:41:39",
+        "05:41:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

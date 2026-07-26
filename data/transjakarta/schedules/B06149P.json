@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. H. Sayuti I",
+  "stop_id": "B06149P",
+  "latitude": -6.212774,
+  "longitude": 106.92351,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:31:56",
+        "06:33:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

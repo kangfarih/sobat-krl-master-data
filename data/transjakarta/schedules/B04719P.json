@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Bekasi Timur II",
+  "stop_id": "B04719P",
+  "latitude": -6.219554,
+  "longitude": 106.87386,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:10:25",
+        "06:19:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

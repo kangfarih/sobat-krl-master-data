@@ -1,0 +1,76 @@
+{
+  "stop_name": "Cawang Sentral",
+  "stop_id": "G00717",
+  "latitude": -6.250198,
+  "longitude": 106.873696,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Rambutan via Tol Hek",
+      "weekdays": [
+        "05:16:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "06:25:35",
+        "06:43:12",
+        "06:43:38",
+        "06:43:43",
+        "06:53:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:25:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:50:31",
+        "06:06:35",
+        "07:08:37"
+      ],
+      "weekends": [
+        "06:06:35"
+      ]
+    },
+    {
+      "route_id": "9N",
+      "route_short_name": "9N",
+      "route_long_name": "Pinang Ranti - Simpang Cawang",
+      "color": "66a4a0",
+      "category": "BRT",
+      "direction": "Simpang Cawang dan Pinang Ranti",
+      "weekdays": [],
+      "weekends": [
+        "05:39:49"
+      ]
+    }
+  ]
+}

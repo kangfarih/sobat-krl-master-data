@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. TPU Utan Jati",
+  "stop_id": "B04572P",
+  "latitude": -6.148096,
+  "longitude": 106.71531,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:37:09",
+        "02:43:43",
+        "05:53:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:14:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

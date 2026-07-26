@@ -1,0 +1,21 @@
+{
+  "stop_name": "Term. Tanah Merdeka",
+  "stop_id": "B05727P",
+  "latitude": -6.106652,
+  "longitude": 106.92171,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:00:10",
+        "05:49:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

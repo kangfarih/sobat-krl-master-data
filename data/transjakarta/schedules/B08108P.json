@@ -1,0 +1,25 @@
+{
+  "stop_name": "Mall",
+  "stop_id": "B08108P",
+  "latitude": -6.22232,
+  "longitude": 106.65501,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:16:42",
+        "05:16:43",
+        "05:16:44"
+      ],
+      "weekends": [
+        "05:16:42",
+        "05:16:43"
+      ]
+    }
+  ]
+}

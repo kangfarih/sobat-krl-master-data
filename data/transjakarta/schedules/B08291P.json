@@ -1,0 +1,38 @@
+{
+  "stop_name": "Jln. Cendrawasih 2",
+  "stop_id": "B08291P",
+  "latitude": -6.25642,
+  "longitude": 106.780297,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:41:25",
+        "05:42:28"
+      ],
+      "weekends": [
+        "05:42:28"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:42:11",
+        "05:43:13"
+      ],
+      "weekends": [
+        "05:43:13"
+      ]
+    }
+  ]
+}

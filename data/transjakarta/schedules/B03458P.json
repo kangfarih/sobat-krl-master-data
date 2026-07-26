@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Bercabuana Sakti",
+  "stop_id": "B03458P",
+  "latitude": -6.269784,
+  "longitude": 106.76547,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:04:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:17:49",
+        "06:38:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

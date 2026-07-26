@@ -1,0 +1,38 @@
+{
+  "stop_name": "Menara Bidakara",
+  "stop_id": "B02409P",
+  "latitude": -6.242012,
+  "longitude": 106.84064,
+  "routes": [
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "06:17:53",
+        "06:20:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:49:55",
+        "05:55:49",
+        "07:11:29",
+        "16:41:13"
+      ],
+      "weekends": [
+        "05:55:49"
+      ]
+    }
+  ]
+}

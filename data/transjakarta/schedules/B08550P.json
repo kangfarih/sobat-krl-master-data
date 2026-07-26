@@ -1,0 +1,21 @@
+{
+  "stop_name": "Universitas Tarakanita",
+  "stop_id": "B08550P",
+  "latitude": -6.23585,
+  "longitude": 106.93051,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:00:10",
+        "05:29:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

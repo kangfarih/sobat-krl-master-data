@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ps. Kemiri 1",
+  "stop_id": "B02629P",
+  "latitude": -6.164976,
+  "longitude": 106.74928,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:03:06",
+        "06:35:33",
+        "07:11:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

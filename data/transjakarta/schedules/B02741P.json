@@ -1,0 +1,33 @@
+{
+  "stop_name": "Perguruan Advent VII Rawamangun",
+  "stop_id": "B02741P",
+  "latitude": -6.198145,
+  "longitude": 106.88812,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:01:59",
+        "06:21:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:03:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

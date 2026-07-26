@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Film Jagakarsa",
+  "stop_id": "B00442P",
+  "latitude": -6.322356,
+  "longitude": 106.81118,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:50:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN Rorotan 07",
+  "stop_id": "B04369P",
+  "latitude": -6.146513,
+  "longitude": 106.95644,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:41:32",
+        "05:42:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

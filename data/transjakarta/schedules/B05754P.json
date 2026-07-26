@@ -1,0 +1,21 @@
+{
+  "stop_name": "TK Hangtuah 2",
+  "stop_id": "B05754P",
+  "latitude": -6.10975,
+  "longitude": 106.926,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:24:16",
+        "06:42:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

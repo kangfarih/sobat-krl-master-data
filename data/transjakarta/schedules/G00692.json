@@ -1,0 +1,38 @@
+{
+  "stop_name": "Karet",
+  "stop_id": "G00692",
+  "latitude": -6.212511,
+  "longitude": 106.820052,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:44:55",
+        "05:47:49",
+        "05:55:45",
+        "05:59:43",
+        "06:06:45",
+        "06:37:55",
+        "14:20:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:46:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

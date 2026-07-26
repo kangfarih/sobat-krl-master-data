@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pengadegan Barat XIII",
+  "stop_id": "B02729P",
+  "latitude": -6.250622,
+  "longitude": 106.854464,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:04:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

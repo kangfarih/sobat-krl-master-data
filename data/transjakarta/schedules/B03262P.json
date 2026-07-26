@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ruko Taman Sari 56",
+  "stop_id": "B03262P",
+  "latitude": -6.155317,
+  "longitude": 106.82712,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:28:03",
+        "05:28:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

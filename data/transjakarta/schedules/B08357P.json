@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Cipinang Elok",
+  "stop_id": "B08357P",
+  "latitude": -6.223568,
+  "longitude": 106.88889,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:36:47",
+        "06:47:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

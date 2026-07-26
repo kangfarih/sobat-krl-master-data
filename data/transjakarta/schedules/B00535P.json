@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Pos Komodor Halim",
+  "stop_id": "B00535P",
+  "latitude": -6.265611,
+  "longitude": 106.88321,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:34:40",
+        "05:34:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:12:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

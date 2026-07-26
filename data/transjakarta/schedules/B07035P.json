@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Guru",
+  "stop_id": "B07035P",
+  "latitude": -6.224854,
+  "longitude": 106.893676,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:35:45",
+        "06:21:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

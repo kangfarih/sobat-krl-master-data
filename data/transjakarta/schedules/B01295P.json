@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. KPBD",
+  "stop_id": "B01295P",
+  "latitude": -6.223548,
+  "longitude": 106.77843,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:10:07",
+        "05:10:09",
+        "06:09:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

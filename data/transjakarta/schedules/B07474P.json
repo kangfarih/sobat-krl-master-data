@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Adityawarman",
+  "stop_id": "B07474P",
+  "latitude": -6.244835,
+  "longitude": 106.80489,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:06:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

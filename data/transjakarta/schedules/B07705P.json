@@ -1,0 +1,20 @@
+{
+  "stop_name": "Samsat Jakarta Timur",
+  "stop_id": "B07705P",
+  "latitude": -6.229495,
+  "longitude": 106.876182,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:43:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

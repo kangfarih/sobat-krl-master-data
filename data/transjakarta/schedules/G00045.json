@@ -1,0 +1,27 @@
+{
+  "stop_name": "Harmoni",
+  "stop_id": "G00045",
+  "latitude": -6.162598,
+  "longitude": 106.819886,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Taman Sari dan Blok M",
+      "weekdays": [
+        "05:40:36",
+        "05:52:15",
+        "05:52:24",
+        "06:01:31",
+        "06:04:50",
+        "06:09:38",
+        "06:52:40",
+        "14:08:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

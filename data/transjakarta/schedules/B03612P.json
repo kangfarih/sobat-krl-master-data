@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Griya Harapan Permai",
+  "stop_id": "B03612P",
+  "latitude": -6.183238,
+  "longitude": 106.98168,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:54:21",
+        "06:51:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

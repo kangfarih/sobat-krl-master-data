@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Asem II",
+  "stop_id": "B07398P",
+  "latitude": -6.272519,
+  "longitude": 106.803979,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:23:48"
+      ],
+      "weekends": [
+        "05:23:48"
+      ]
+    }
+  ]
+}

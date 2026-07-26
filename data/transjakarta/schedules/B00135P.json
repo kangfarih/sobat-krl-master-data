@@ -1,0 +1,22 @@
+{
+  "stop_name": "Bidan Ningsih Joglo",
+  "stop_id": "B00135P",
+  "latitude": -6.216023,
+  "longitude": 106.72909,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:24:22",
+        "06:00:28",
+        "07:44:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stop_name": "Sbr. Jln. Ee Sukabumi Selatan",
+  "stop_id": "B03694P",
+  "latitude": -6.213511,
+  "longitude": 106.77886,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:42:47",
+        "05:49:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:42:38",
+        "05:43:08",
+        "06:14:12",
+        "06:49:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

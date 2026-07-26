@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Aselih Cipedak",
+  "stop_id": "B00869P",
+  "latitude": -6.352111,
+  "longitude": 106.80147,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:11:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

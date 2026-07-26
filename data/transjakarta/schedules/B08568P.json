@@ -1,0 +1,20 @@
+{
+  "stop_name": "TK Pertiwi Tanjung Pura",
+  "stop_id": "B08568P",
+  "latitude": -6.12984,
+  "longitude": 106.69799,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:36:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

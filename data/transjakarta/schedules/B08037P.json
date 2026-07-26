@@ -1,0 +1,21 @@
+{
+  "stop_name": "Komplek Strada Cengkareng",
+  "stop_id": "B08037P",
+  "latitude": -6.14674,
+  "longitude": 106.735719,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:35:50",
+        "06:16:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

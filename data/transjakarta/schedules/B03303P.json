@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sadar Raya Ciganjur 2",
+  "stop_id": "B03303P",
+  "latitude": -6.342711,
+  "longitude": 106.8126,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:10:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

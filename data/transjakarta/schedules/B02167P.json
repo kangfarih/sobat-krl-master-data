@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mabes Au Dinas Psikologi",
+  "stop_id": "B02167P",
+  "latitude": -6.251267,
+  "longitude": 106.88826,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:54:09",
+        "05:54:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

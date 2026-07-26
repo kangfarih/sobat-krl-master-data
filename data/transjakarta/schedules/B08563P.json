@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pemadam 2",
+  "stop_id": "B08563P",
+  "latitude": -6.23937,
+  "longitude": 106.9343,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:25:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tiang Dua Sawangan",
+  "stop_id": "B08170P",
+  "latitude": -6.396032,
+  "longitude": 106.778268,
+  "routes": [
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "06:26:24",
+        "07:50:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

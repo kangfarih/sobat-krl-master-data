@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. H Kebantenan III",
+  "stop_id": "B03527P",
+  "latitude": -6.108371,
+  "longitude": 106.9334,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:29:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

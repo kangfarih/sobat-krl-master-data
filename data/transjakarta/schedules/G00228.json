@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jaga Jakarta",
+  "stop_id": "G00228",
+  "latitude": -6.178237,
+  "longitude": 106.842021,
+  "routes": [
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "06:48:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

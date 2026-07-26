@@ -1,0 +1,46 @@
+{
+  "stop_name": "Cipinang Kb. Nanas 1",
+  "stop_id": "B00264P",
+  "latitude": -6.231595,
+  "longitude": 106.87615,
+  "routes": [
+    {
+      "route_id": "10B",
+      "route_short_name": "10B",
+      "route_long_name": "Rusun Cipinang Besar Selatan - Halim",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Halim dan Rusun Cipinang Besar Selatan",
+      "weekdays": [
+        "05:05:28",
+        "05:13:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:50:50",
+        "07:26:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:09:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

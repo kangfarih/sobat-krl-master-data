@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Makmur II",
+  "stop_id": "B00507P",
+  "latitude": -6.293741,
+  "longitude": 106.90056,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:16:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

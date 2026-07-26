@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Damai Lapangan Tembak",
+  "stop_id": "B00436P",
+  "latitude": -6.347401,
+  "longitude": 106.87448,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:27:01",
+        "06:05:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:56:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Polsek Ciracas",
+  "stop_id": "B08484P",
+  "latitude": -6.290099,
+  "longitude": 106.871429,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "06:11:06",
+        "07:11:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

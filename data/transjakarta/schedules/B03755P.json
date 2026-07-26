@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kopi Selatan II",
+  "stop_id": "B03755P",
+  "latitude": -6.231718,
+  "longitude": 106.94295,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:04:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "stop_name": "Kebon Sirih Arah Utara",
+  "stop_id": "G00039",
+  "latitude": -6.182776,
+  "longitude": 106.8228,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Monas dan Blok M",
+      "weekdays": [
+        "05:40:58",
+        "05:41:04",
+        "05:41:06",
+        "05:53:33",
+        "06:41:23",
+        "08:41:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "weekdays": [
+        "06:12:51",
+        "06:12:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "06:15:58",
+        "06:15:59",
+        "06:17:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

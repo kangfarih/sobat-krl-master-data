@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Nurul Amal",
+  "stop_id": "B08041P",
+  "latitude": -6.148984,
+  "longitude": 106.73213,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:39:16",
+        "06:19:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

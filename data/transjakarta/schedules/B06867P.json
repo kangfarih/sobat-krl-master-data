@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. SDIT At Tahiriyah",
+  "stop_id": "B06867P",
+  "latitude": -6.329288,
+  "longitude": 106.876315,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:34:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:30:07",
+        "05:30:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

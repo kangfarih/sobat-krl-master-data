@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ditjenkes",
+  "stop_id": "B06450P",
+  "latitude": -6.188895,
+  "longitude": 106.861183,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:32:12",
+        "06:39:30",
+        "06:49:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

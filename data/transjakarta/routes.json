@@ -1,0 +1,2310 @@
+{
+  "lastUpdated": "2026-07-26T22:48:59.103Z",
+  "count": 256,
+  "routes": [
+    {
+      "route_id": "BW2",
+      "route_short_name": "BW2",
+      "route_long_name": "Monas Explorer",
+      "color": "FFB6DB",
+      "text_color": "000000",
+      "category": "Wisata",
+      "route_desc": "Bus Wisata"
+    },
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "SAB",
+      "route_short_name": "SAB",
+      "route_long_name": "Shuttle Ancol Barat",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "ASG2",
+      "route_short_name": "ASG2",
+      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "SAT",
+      "route_short_name": "SAT",
+      "route_long_name": "Shuttle Ancol Timur",
+      "color": "b7342d",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "ASG3",
+      "route_short_name": "ASG3",
+      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "ASG5",
+      "route_short_name": "ASG5",
+      "route_long_name": "Wisata PIK2",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "SOE",
+      "route_short_name": "SOE",
+      "route_long_name": "Shuttle Bandara Soekarno-Hatta",
+      "color": "184e9e",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    },
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "2",
+      "route_short_name": "2",
+      "route_long_name": "Pulo Gadung - Monumen Nasional",
+      "color": "2F489C",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "10B",
+      "route_short_name": "10B",
+      "route_long_name": "Rusun Cipinang Besar Selatan - Halim",
+      "color": "9B7172",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "10C",
+      "route_short_name": "10C",
+      "route_long_name": "Pelabuhan Tanjung Priok - Tanjung Priok",
+      "color": "9B474A",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "10D",
+      "route_short_name": "10D",
+      "route_long_name": "Kampung Rambutan - Tanjung Priok",
+      "color": "9B1F21",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "2C",
+      "route_short_name": "2C",
+      "route_long_name": "Balai Kota - JIEXPO",
+      "color": "2F489C",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "text_color": "FFFFFF",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "5F",
+      "route_short_name": "5F",
+      "route_long_name": "Kampung Melayu - Tanah Abang",
+      "color": "D48961",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "6C",
+      "route_short_name": "6C",
+      "route_long_name": "Stasiun Tebet - Kuningan",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "6Q",
+      "route_short_name": "6Q",
+      "route_long_name": "Galunggung - Casablanca via Epicentrum Raya",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7C",
+      "route_short_name": "7C",
+      "route_long_name": "Cibubur - Cawang Cililitan",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7V",
+      "route_short_name": "7V",
+      "route_long_name": "Cibubur - Kampung Rambutan",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "9F",
+      "route_short_name": "9F",
+      "route_long_name": "Rusun Tambora - Pluit",
+      "color": "85A4A2",
+      "text_color": "000000",
+      "category": "Rusun",
+      "route_desc": "Rusun"
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "BW1",
+      "route_short_name": "BW1",
+      "route_long_name": "Sejarah Jakarta",
+      "color": "FFB6DB",
+      "text_color": "000000",
+      "category": "Wisata",
+      "route_desc": "Bus Wisata"
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "text_color": "000000",
+      "category": "Wisata",
+      "route_desc": "Bus Wisata"
+    },
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "text_color": "000000",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "9N",
+      "route_short_name": "9N",
+      "route_long_name": "Pinang Ranti - Simpang Cawang",
+      "color": "66a4a0",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "text_color": "FFFFFF",
+      "category": "Non-BRT",
+      "route_desc": "Angkutan Umum Integrasi"
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "D32",
+      "route_short_name": "D32",
+      "route_long_name": "Cinere - Bundaran Senayan",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.43C",
+      "route_short_name": "JAK.43C",
+      "route_long_name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "L13E",
+      "route_short_name": "L13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan (Express)",
+      "color": "7A357B",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "S12",
+      "route_short_name": "S12",
+      "route_long_name": "Term. BSD - Fatmawati",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "S31",
+      "route_short_name": "S31",
+      "route_long_name": "Bintaro - Fatmawati",
+      "color": "9C4782",
+      "text_color": "FFFFFF",
+      "category": "Royaltrans",
+      "route_desc": "Royaltrans"
+    },
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "text_color": "000000",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "PRJ3",
+      "route_short_name": "PRJ3",
+      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
+      "color": "54659C",
+      "text_color": "FFFFFF",
+      "category": "BRT",
+      "route_desc": "BRT"
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "text_color": "000000",
+      "category": "Transjabodetabek",
+      "route_desc": "Transjabodetabek"
+    },
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "text_color": "FFFFFF",
+      "category": "Mikrotrans",
+      "route_desc": "Mikrotrans"
+    },
+    {
+      "route_id": "ASG6",
+      "route_short_name": "ASG6",
+      "route_long_name": "Pasadena - Shelter PIK 2",
+      "color": "0754d2",
+      "text_color": "FFFFFF",
+      "category": "Shuttle",
+      "route_desc": "Shuttle"
+    }
+  ]
+}

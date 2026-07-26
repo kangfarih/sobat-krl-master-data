@@ -1,0 +1,33 @@
+{
+  "stop_name": "Puskesmas Halim 2",
+  "stop_id": "B03047P",
+  "latitude": -6.267443,
+  "longitude": 106.87732,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:28:28",
+        "05:28:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:13:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

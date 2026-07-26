@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Ps. Bambu Kuning",
+  "stop_id": "B06684P",
+  "latitude": -6.131895,
+  "longitude": 106.85525,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:19:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "06:03:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

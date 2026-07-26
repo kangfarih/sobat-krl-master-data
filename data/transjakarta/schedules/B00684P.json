@@ -1,0 +1,45 @@
+{
+  "stop_name": "Graha Werdatama Pondok Labu",
+  "stop_id": "B00684P",
+  "latitude": -6.309163,
+  "longitude": 106.79461,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pondok Labu",
+      "weekdays": [
+        "05:47:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:27:39",
+        "06:10:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:16:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

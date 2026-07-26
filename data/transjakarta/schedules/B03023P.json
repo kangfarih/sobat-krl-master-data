@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pusat Pelayanan Warga Summarecon",
+  "stop_id": "B03023P",
+  "latitude": -6.14844,
+  "longitude": 106.91495,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:31:58",
+        "05:32:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:31:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

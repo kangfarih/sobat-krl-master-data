@@ -1,0 +1,36 @@
+{
+  "stop_name": "Term. Grogol 2",
+  "stop_id": "B05705P",
+  "latitude": -6.16618,
+  "longitude": 106.79329,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:00:10",
+        "06:08:48",
+        "07:13:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:24:43",
+        "05:36:45",
+        "06:23:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

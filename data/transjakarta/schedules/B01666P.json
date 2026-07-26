@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tawakal VIA",
+  "stop_id": "B01666P",
+  "latitude": -6.169154,
+  "longitude": 106.79411,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:16:49",
+        "05:30:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

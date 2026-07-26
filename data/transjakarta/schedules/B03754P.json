@@ -1,0 +1,24 @@
+{
+  "stop_name": "Sbr. Jln. KH Syahdan",
+  "stop_id": "B03754P",
+  "latitude": -6.200674,
+  "longitude": 106.78256,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:40:18",
+        "05:49:52",
+        "05:49:53",
+        "05:49:55",
+        "08:13:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

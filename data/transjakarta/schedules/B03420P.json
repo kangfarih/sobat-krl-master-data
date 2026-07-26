@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Ragunan 14",
+  "stop_id": "B03420P",
+  "latitude": -6.298262,
+  "longitude": 106.82634,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:47:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "stop_name": "Petojo 1",
+  "stop_id": "B02824P",
+  "latitude": -6.170105,
+  "longitude": 106.81698,
+  "routes": [
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "PIK2",
+      "weekdays": [
+        "07:38:03"
+      ],
+      "weekends": [
+        "10:08:03"
+      ]
+    },
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:28:57",
+        "06:03:55",
+        "06:58:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:08:23",
+        "07:39:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

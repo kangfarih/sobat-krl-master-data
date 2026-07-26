@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Bambu Batu Ampar",
+  "stop_id": "B00414P",
+  "latitude": -6.281099,
+  "longitude": 106.86023,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:22:32",
+        "05:22:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

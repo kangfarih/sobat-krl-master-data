@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Banjarsari II",
+  "stop_id": "B00897P",
+  "latitude": -6.291119,
+  "longitude": 106.79511,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:13:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Perumahan Perwira Mabad",
+  "stop_id": "B02812P",
+  "latitude": -6.20261,
+  "longitude": 106.78274,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:38:59",
+        "06:15:33",
+        "06:59:25",
+        "07:39:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:39:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

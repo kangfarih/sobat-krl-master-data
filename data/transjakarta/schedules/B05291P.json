@@ -1,0 +1,33 @@
+{
+  "stop_name": "SMK Darussalam",
+  "stop_id": "B05291P",
+  "latitude": -6.319946,
+  "longitude": 106.74598,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:12:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:12:02",
+        "05:12:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

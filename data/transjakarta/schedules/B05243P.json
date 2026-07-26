@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMA Angkasa 1",
+  "stop_id": "B05243P",
+  "latitude": -6.24975,
+  "longitude": 106.88267,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:14:55",
+        "05:15:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

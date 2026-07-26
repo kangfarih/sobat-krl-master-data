@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Madrasah Al Husna",
+  "stop_id": "B04001P",
+  "latitude": -6.300031,
+  "longitude": 106.775563,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:08:19",
+        "05:51:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

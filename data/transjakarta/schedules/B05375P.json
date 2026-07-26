@@ -1,0 +1,49 @@
+{
+  "stop_name": "SMPN 240",
+  "stop_id": "B05375P",
+  "latitude": -6.26076,
+  "longitude": 106.78895,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Rempoa",
+      "weekdays": [
+        "05:32:20"
+      ],
+      "weekends": [
+        "05:32:20"
+      ]
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "05:33:06"
+      ],
+      "weekends": [
+        "05:33:06"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:15:21",
+        "06:42:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

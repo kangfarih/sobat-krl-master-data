@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Jeruk Garut",
+  "stop_id": "B01178P",
+  "latitude": -6.183912,
+  "longitude": 106.7777,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "06:04:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

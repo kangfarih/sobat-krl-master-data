@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gang Reva",
+  "stop_id": "B08467P",
+  "latitude": -6.125872,
+  "longitude": 106.877139,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:44:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

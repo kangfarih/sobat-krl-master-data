@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Waqof",
+  "stop_id": "B02259P",
+  "latitude": -6.110646,
+  "longitude": 106.91733,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:13:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

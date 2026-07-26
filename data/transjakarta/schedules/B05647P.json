@@ -1,0 +1,22 @@
+{
+  "stop_name": "Taman Resort Mediterania",
+  "stop_id": "B05647P",
+  "latitude": -6.117276,
+  "longitude": 106.77326,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:17:29",
+        "01:29:50",
+        "05:09:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

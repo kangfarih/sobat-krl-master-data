@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 13",
+  "stop_id": "B05262P",
+  "latitude": -6.117484,
+  "longitude": 106.89346,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:12:48",
+        "06:51:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

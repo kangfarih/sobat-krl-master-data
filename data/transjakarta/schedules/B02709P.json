@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pelabuhan Kali Adem",
+  "stop_id": "B02709P",
+  "latitude": -6.104615,
+  "longitude": 106.77094,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:00:10",
+        "06:47:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

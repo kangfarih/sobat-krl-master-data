@@ -1,0 +1,50 @@
+{
+  "stop_name": "Jakarta International Stadium",
+  "stop_id": "P00095",
+  "latitude": -6.126689,
+  "longitude": 106.85587,
+  "routes": [
+    {
+      "route_id": "14",
+      "route_short_name": "14",
+      "route_long_name": "Jakarta International Stadium - Senen",
+      "color": "F5AB6E",
+      "category": "BRT",
+      "direction": "Senen dan JIS",
+      "weekdays": [
+        "05:00:10",
+        "06:06:15",
+        "06:41:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:00:10",
+        "06:01:00",
+        "07:03:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "05:00:10",
+        "06:18:06",
+        "06:37:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

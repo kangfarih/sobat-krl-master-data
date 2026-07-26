@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMK Angkasa 2",
+  "stop_id": "B05288P",
+  "latitude": -6.252043,
+  "longitude": 106.88984,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:02:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

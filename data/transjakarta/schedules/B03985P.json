@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Koramil Pondok Gede",
+  "stop_id": "B03985P",
+  "latitude": -6.282825,
+  "longitude": 106.91394,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:08:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:03:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

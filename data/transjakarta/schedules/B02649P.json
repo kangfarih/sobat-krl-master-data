@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Mitra",
+  "stop_id": "B02649P",
+  "latitude": -6.145437,
+  "longitude": 106.80695,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:48:19",
+        "06:47:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

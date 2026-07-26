@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Sodong Raya Persahabatan",
+  "stop_id": "B01593P",
+  "latitude": -6.202647,
+  "longitude": 106.89628,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:53:22",
+        "05:55:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "06:06:06",
+        "06:08:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

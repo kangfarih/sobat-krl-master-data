@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Penggilingan",
+  "stop_id": "B03405P",
+  "latitude": -6.205255,
+  "longitude": 106.93004,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:32:08",
+        "05:33:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

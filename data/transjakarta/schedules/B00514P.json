@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Masjid Al Khaerot Condet",
+  "stop_id": "B00514P",
+  "latitude": -6.278232,
+  "longitude": 106.85501,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:38:22",
+        "06:17:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

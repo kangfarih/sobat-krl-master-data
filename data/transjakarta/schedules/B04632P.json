@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Islam Gugusan Bintang",
+  "stop_id": "B04632P",
+  "latitude": -6.333055,
+  "longitude": 106.8817,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:24:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

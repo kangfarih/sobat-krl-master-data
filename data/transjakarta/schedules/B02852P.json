@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pintu SMK 57",
+  "stop_id": "B02852P",
+  "latitude": -6.291397,
+  "longitude": 106.82357,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:23:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

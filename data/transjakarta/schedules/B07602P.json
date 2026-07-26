@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gusti Permata",
+  "stop_id": "B07602P",
+  "latitude": -6.139596,
+  "longitude": 106.777712,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:18:13",
+        "06:39:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

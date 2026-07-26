@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. H. Untung Rawa Buaya",
+  "stop_id": "B03537P",
+  "latitude": -6.163125,
+  "longitude": 106.73351,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:07:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

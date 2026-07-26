@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Penggilingan Baru I",
+  "stop_id": "B05059P",
+  "latitude": -6.302681,
+  "longitude": 106.88123,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:14:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

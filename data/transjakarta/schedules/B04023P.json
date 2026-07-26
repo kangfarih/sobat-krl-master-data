@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Hidayah Kebantenan",
+  "stop_id": "B04023P",
+  "latitude": -6.112708,
+  "longitude": 106.92728,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:42:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Cluster Tampa",
+  "stop_id": "B08239P",
+  "latitude": -6.065548,
+  "longitude": 106.689905,
+  "routes": [
+    {
+      "route_id": "ASG1",
+      "route_short_name": "ASG1",
+      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Pantai Indah Kapuk",
+      "weekdays": [
+        "07:10:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

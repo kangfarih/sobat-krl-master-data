@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Anggrek Rosliana Garuda",
+  "stop_id": "B04702P",
+  "latitude": -6.194662,
+  "longitude": 106.794881,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "08:00:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

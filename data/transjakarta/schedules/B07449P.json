@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Komplek Pelindo II",
+  "stop_id": "B07449P",
+  "latitude": -6.11072,
+  "longitude": 106.937034,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "05:22:38",
+        "05:22:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "05:22:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

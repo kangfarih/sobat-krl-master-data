@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Jami Al Akhyar",
+  "stop_id": "B04052P",
+  "latitude": -6.318206,
+  "longitude": 106.81119,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:48:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

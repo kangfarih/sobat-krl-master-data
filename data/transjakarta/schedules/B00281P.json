@@ -1,0 +1,22 @@
+{
+  "stop_name": "Condet Raya",
+  "stop_id": "B00281P",
+  "latitude": -6.280969,
+  "longitude": 106.85517,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:00:10",
+        "05:40:16",
+        "06:18:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

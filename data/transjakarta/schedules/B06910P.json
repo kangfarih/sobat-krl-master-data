@@ -1,0 +1,33 @@
+{
+  "stop_name": "Perpustakaan Riset BPK",
+  "stop_id": "B06910P",
+  "latitude": -6.206333,
+  "longitude": 106.8027,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:34:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "07:04:55",
+        "09:33:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

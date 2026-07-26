@@ -1,0 +1,21 @@
+{
+  "stop_name": "Nabawi Islamic School",
+  "stop_id": "B02527P",
+  "latitude": -6.205542,
+  "longitude": 106.89008,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:32:36",
+        "05:32:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

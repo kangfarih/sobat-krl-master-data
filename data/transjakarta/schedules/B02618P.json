@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Jembatan Dua",
+  "stop_id": "B02618P",
+  "latitude": -6.143061,
+  "longitude": 106.793008,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:40:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

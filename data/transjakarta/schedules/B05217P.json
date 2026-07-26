@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Waru Kramat Jaya",
+  "stop_id": "B05217P",
+  "latitude": -6.118678,
+  "longitude": 106.91659,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:50:44",
+        "05:51:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:33:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

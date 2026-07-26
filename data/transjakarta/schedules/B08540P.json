@@ -1,0 +1,61 @@
+{
+  "stop_name": "Blok M Jalur 6",
+  "stop_id": "B08540P",
+  "latitude": -6.243573,
+  "longitude": 106.801877,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:01:31",
+        "07:11:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "05:00:10",
+        "07:32:35",
+        "10:01:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "07:40:10",
+        "17:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "07:25:10",
+        "17:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

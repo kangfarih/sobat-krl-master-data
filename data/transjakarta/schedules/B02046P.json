@@ -1,0 +1,33 @@
+{
+  "stop_name": "Komplek Keuangan Saaba",
+  "stop_id": "B02046P",
+  "latitude": -6.215101,
+  "longitude": 106.73151,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:32:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:10:12",
+        "06:51:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

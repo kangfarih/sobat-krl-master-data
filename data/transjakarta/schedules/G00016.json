@@ -1,0 +1,39 @@
+{
+  "stop_name": "Senayan Bank Jakarta",
+  "stop_id": "G00016",
+  "latitude": -6.224137,
+  "longitude": 106.805837,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:14:37",
+        "05:14:43",
+        "05:14:45",
+        "06:15:01",
+        "08:14:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:19:24",
+        "06:33:12"
+      ],
+      "weekends": [
+        "05:19:24"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "SLB Pangudi Luhur",
+  "stop_id": "B05238P",
+  "latitude": -6.187212,
+  "longitude": 106.75526,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:52:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:33:13",
+        "06:05:40",
+        "06:41:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

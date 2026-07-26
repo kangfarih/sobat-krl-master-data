@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cawang Sentral",
+  "stop_id": "G00722",
+  "latitude": -6.250171,
+  "longitude": 106.873627,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Sunter Kelapa Gading dan PGC",
+      "weekdays": [
+        "00:09:48",
+        "05:09:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

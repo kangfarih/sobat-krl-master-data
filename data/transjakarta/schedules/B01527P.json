@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pura Agung Taman Sari",
+  "stop_id": "B01527P",
+  "latitude": -6.248963,
+  "longitude": 106.89336,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "06:01:42",
+        "06:01:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

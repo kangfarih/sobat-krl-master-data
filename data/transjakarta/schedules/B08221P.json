@@ -1,0 +1,20 @@
+{
+  "stop_name": "Swasembada Barat XXII",
+  "stop_id": "B08221P",
+  "latitude": -6.117123,
+  "longitude": 106.885078,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:18:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

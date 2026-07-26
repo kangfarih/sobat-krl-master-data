@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Kb. Bawang XIII",
+  "stop_id": "B01230P",
+  "latitude": -6.11557,
+  "longitude": 106.88687,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:20:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:07:28",
+        "06:46:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

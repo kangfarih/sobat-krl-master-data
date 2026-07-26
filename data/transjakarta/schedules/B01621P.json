@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Swadaya Pos Rawa Kuning",
+  "stop_id": "B01621P",
+  "latitude": -6.198443,
+  "longitude": 106.96157,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:19:52",
+        "06:17:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

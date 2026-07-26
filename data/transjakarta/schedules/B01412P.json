@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Mutiara Benhil",
+  "stop_id": "B01412P",
+  "latitude": -6.209709,
+  "longitude": 106.81236,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:36:39",
+        "05:56:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

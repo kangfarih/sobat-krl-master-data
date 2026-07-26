@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Tanjakan AURI",
+  "stop_id": "B05171P",
+  "latitude": -6.185306,
+  "longitude": 106.95831,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:39:27",
+        "06:49:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

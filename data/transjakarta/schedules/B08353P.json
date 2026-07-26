@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Swadaya V",
+  "stop_id": "B08353P",
+  "latitude": -6.21724,
+  "longitude": 106.88701,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:50:37",
+        "05:51:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

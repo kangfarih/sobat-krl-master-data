@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Bunen 2",
+  "stop_id": "B00462P",
+  "latitude": -6.232848,
+  "longitude": 106.88526,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:27:39",
+        "06:25:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

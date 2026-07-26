@@ -1,0 +1,50 @@
+{
+  "stop_name": "Kampung Melayu",
+  "stop_id": "G00671",
+  "latitude": -6.224641,
+  "longitude": 106.867178,
+  "routes": [
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:19:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "05:41:28",
+        "05:42:54",
+        "06:36:03",
+        "06:55:35",
+        "07:00:13",
+        "07:15:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "06:53:19",
+        "06:55:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

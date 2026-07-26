@@ -1,0 +1,44 @@
+{
+  "stop_name": "Grogol Reformasi",
+  "stop_id": "G00741",
+  "latitude": -6.16729698,
+  "longitude": 106.78779602,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:43:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "05:52:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Grogol",
+      "weekdays": [
+        "06:20:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

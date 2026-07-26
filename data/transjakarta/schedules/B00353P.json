@@ -1,0 +1,21 @@
+{
+  "stop_name": "Flyover Jatibaru",
+  "stop_id": "B00353P",
+  "latitude": -6.184188,
+  "longitude": 106.811752,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:04:11",
+        "06:10:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Beringin V RS Soekanto",
+  "stop_id": "B00421P",
+  "latitude": -6.22752,
+  "longitude": 106.93304,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:48:35",
+        "07:00:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

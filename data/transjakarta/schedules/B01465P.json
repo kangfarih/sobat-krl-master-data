@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Pelita",
+  "stop_id": "B01465P",
+  "latitude": -6.25116,
+  "longitude": 106.77818,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:24:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:30:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

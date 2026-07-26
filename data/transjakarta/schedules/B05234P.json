@@ -1,0 +1,34 @@
+{
+  "stop_name": "Skywalk ITC Mangga Dua",
+  "stop_id": "B05234P",
+  "latitude": -6.136363,
+  "longitude": 106.8237,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:12:36",
+        "06:33:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:27:55",
+        "07:11:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN 09 Pagi",
+  "stop_id": "B06918P",
+  "latitude": -6.200781,
+  "longitude": 106.940765,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:00:10",
+        "05:36:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

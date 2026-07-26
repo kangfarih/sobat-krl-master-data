@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pendidikan Jatinegara Kaum",
+  "stop_id": "B01470P",
+  "latitude": -6.212717,
+  "longitude": 106.8977,
+  "routes": [
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:42:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:46:14",
+        "06:50:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

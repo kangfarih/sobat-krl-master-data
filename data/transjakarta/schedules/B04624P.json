@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sekolah Charitas Pondok Labu",
+  "stop_id": "B04624P",
+  "latitude": -6.304608,
+  "longitude": 106.798844,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:21:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:40:49",
+        "05:40:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Pal Meriam",
+  "stop_id": "B08401P",
+  "latitude": -6.205144,
+  "longitude": 106.860393,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:48:16",
+        "05:48:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

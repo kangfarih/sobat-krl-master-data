@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Rajawali Cipinang Indah",
+  "stop_id": "B05097P",
+  "latitude": -6.233049,
+  "longitude": 106.89328,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:27:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

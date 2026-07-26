@@ -1,0 +1,37 @@
+{
+  "stop_name": "Jln. Kemandoran VIII Grogol Utara",
+  "stop_id": "B01260P",
+  "latitude": -6.211025,
+  "longitude": 106.78358,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:38:58",
+        "05:45:44",
+        "07:39:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:38:49",
+        "05:39:19",
+        "06:10:23",
+        "06:45:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

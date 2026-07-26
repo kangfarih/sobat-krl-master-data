@@ -1,0 +1,20 @@
+{
+  "stop_name": "Shelter Seaworld",
+  "stop_id": "B07972P",
+  "latitude": -6.126699,
+  "longitude": 106.84277,
+  "routes": [
+    {
+      "route_id": "SAB",
+      "route_short_name": "SAB",
+      "route_long_name": "Shuttle Ancol Barat",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Shuttle Ancol Barat",
+      "weekdays": [
+        "05:30:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

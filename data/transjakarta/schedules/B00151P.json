@@ -1,0 +1,35 @@
+{
+  "stop_name": "Binus University",
+  "stop_id": "B00151P",
+  "latitude": -6.201811,
+  "longitude": 106.78265,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:39:33",
+        "06:16:06",
+        "06:59:59",
+        "07:39:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:40:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

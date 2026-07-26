@@ -1,0 +1,21 @@
+{
+  "stop_name": "Polsek Kemayoran",
+  "stop_id": "B02907P",
+  "latitude": -6.159927,
+  "longitude": 106.852,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:59:10",
+        "07:42:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

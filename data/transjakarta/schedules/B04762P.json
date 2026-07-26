@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cendrawasih Hybrida Terusan",
+  "stop_id": "B04762P",
+  "latitude": -6.14975,
+  "longitude": 106.92309,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:06:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

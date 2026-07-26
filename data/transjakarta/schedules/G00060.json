@@ -1,0 +1,100 @@
+{
+  "stop_name": "Kali Besar",
+  "stop_id": "G00060",
+  "latitude": -6.135355,
+  "longitude": 106.81143,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Kali Besar Barat",
+      "weekdays": [
+        "05:00:10",
+        "05:56:50",
+        "06:08:28",
+        "06:17:43",
+        "06:21:04",
+        "06:25:47",
+        "07:08:54",
+        "08:00:10",
+        "14:25:31"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    },
+    {
+      "route_id": "12",
+      "route_short_name": "12",
+      "route_long_name": "Tanjung Priok - Pluit",
+      "color": "7ABF7C",
+      "category": "BRT",
+      "direction": "Kota dan Sunter Boulevard Barat",
+      "weekdays": [
+        "06:12:30",
+        "06:12:35",
+        "06:14:37",
+        "06:40:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:49:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:47:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "05:30:05",
+        "06:00:10",
+        "07:07:46",
+        "07:09:26"
+      ],
+      "weekends": [
+        "06:12:26",
+        "06:22:45"
+      ]
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:46:23",
+        "05:46:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

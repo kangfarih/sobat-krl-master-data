@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bek Murad",
+  "stop_id": "B00919P",
+  "latitude": -6.216717,
+  "longitude": 106.81909,
+  "routes": [
+    {
+      "route_id": "6D",
+      "route_short_name": "6D",
+      "route_long_name": "Stasiun Tebet - Bundaran Senayan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Tebet",
+      "weekdays": [
+        "06:02:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

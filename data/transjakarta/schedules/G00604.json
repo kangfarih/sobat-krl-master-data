@@ -1,0 +1,38 @@
+{
+  "stop_name": "Petukangan D'MASIV",
+  "stop_id": "G00604",
+  "latitude": -6.236393,
+  "longitude": 106.7476,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "00:14:23",
+        "05:12:12",
+        "05:14:23",
+        "05:22:23",
+        "05:22:24",
+        "05:26:16",
+        "22:14:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:14:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Akhbar PWI 2",
+  "stop_id": "B02227P",
+  "latitude": -6.233343,
+  "longitude": 106.88858,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:24:51",
+        "06:22:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

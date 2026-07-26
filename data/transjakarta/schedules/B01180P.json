@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Jeruk Manis",
+  "stop_id": "B01180P",
+  "latitude": -6.197369,
+  "longitude": 106.765629,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:37:39",
+        "05:37:41",
+        "05:37:43",
+        "08:01:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:24:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

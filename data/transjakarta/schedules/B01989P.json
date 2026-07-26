@@ -1,0 +1,22 @@
+{
+  "stop_name": "Klinik Firdausy",
+  "stop_id": "B01989P",
+  "latitude": -6.217111,
+  "longitude": 106.85528,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "06:01:44",
+        "06:49:00",
+        "07:02:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

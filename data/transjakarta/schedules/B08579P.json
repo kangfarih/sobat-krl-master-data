@@ -1,0 +1,20 @@
+{
+  "stop_name": "Raya Bekasi I",
+  "stop_id": "B08579P",
+  "latitude": -6.19175,
+  "longitude": 106.97067,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:04:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

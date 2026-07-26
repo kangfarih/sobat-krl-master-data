@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Lingkungan III",
+  "stop_id": "B06115P",
+  "latitude": -6.114734,
+  "longitude": 106.712008,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:18:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

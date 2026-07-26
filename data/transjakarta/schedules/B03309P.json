@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sangrila Indah 2",
+  "stop_id": "B03309P",
+  "latitude": -6.237493,
+  "longitude": 106.75906,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:27:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

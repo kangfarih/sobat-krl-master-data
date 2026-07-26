@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Batu Pandan 2",
+  "stop_id": "B04718P",
+  "latitude": -6.284097,
+  "longitude": 106.85679,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:18:12",
+        "05:18:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

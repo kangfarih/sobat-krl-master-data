@@ -1,0 +1,23 @@
+{
+  "stop_name": "Jln. Bintaro Utama I",
+  "stop_id": "B07319P",
+  "latitude": -6.2723619,
+  "longitude": 106.7541979,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:13:47",
+        "06:14:49"
+      ],
+      "weekends": [
+        "06:14:49"
+      ]
+    }
+  ]
+}

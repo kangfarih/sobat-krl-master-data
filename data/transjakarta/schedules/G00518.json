@@ -1,0 +1,68 @@
+{
+  "stop_name": "Penggilingan",
+  "stop_id": "G00518",
+  "latitude": -6.214133,
+  "longitude": 106.939575,
+  "routes": [
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "category": "BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:50:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via PIK",
+      "weekdays": [
+        "05:22:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "07:19:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang via BKT",
+      "weekdays": [
+        "06:05:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:47:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

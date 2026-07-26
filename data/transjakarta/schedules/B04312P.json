@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ruko PIS 1",
+  "stop_id": "B04312P",
+  "latitude": -6.123985,
+  "longitude": 106.73789,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:42:20",
+        "05:37:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

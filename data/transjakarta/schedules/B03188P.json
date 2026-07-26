@@ -1,0 +1,21 @@
+{
+  "stop_name": "RSIA Aries",
+  "stop_id": "B03188P",
+  "latitude": -6.157776,
+  "longitude": 106.80822,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:24:02",
+        "05:24:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

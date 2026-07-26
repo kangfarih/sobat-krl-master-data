@@ -1,0 +1,36 @@
+{
+  "stop_name": "Jln. Panca Warga IV",
+  "stop_id": "B01448P",
+  "latitude": -6.239508,
+  "longitude": 106.88341,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:13:43",
+        "06:15:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:26:42",
+        "05:26:46",
+        "05:37:50",
+        "06:42:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

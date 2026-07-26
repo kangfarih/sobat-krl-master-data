@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mesindo Tekninesia",
+  "stop_id": "B02428P",
+  "latitude": -6.153416,
+  "longitude": 106.95539,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:53:56",
+        "07:29:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

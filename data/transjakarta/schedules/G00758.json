@@ -1,0 +1,64 @@
+{
+  "stop_name": "Rawa Barat",
+  "stop_id": "G00758",
+  "latitude": -6.23894596,
+  "longitude": 106.81621671,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:40:17"
+      ],
+      "weekends": [
+        "06:40:17"
+      ]
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kalideres",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    }
+  ]
+}

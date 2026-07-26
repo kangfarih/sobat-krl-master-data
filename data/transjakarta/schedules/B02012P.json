@@ -1,0 +1,61 @@
+{
+  "stop_name": "Komdak 1",
+  "stop_id": "B02012P",
+  "latitude": -6.222333,
+  "longitude": 106.81407,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:44:38",
+        "05:44:54",
+        "06:14:54",
+        "16:14:54"
+      ],
+      "weekends": [
+        "05:44:38"
+      ]
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "07:15:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "06:45:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "07:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

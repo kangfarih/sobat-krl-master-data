@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tebet Timur Dalam III",
+  "stop_id": "B06821P",
+  "latitude": -6.230881,
+  "longitude": 106.858358,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:21:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

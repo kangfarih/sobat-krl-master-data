@@ -1,0 +1,20 @@
+{
+  "stop_name": "Asshomadiyah Medicare Centre 1",
+  "stop_id": "B00076P",
+  "latitude": -6.295486,
+  "longitude": 106.89804,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:13:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

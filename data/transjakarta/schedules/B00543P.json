@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Rorotan 8",
+  "stop_id": "B00543P",
+  "latitude": -6.16276,
+  "longitude": 106.9618,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:25:20",
+        "06:35:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

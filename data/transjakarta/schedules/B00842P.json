@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Al Falah Duri Kosambi",
+  "stop_id": "B00842P",
+  "latitude": -6.178709,
+  "longitude": 106.71726,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:41:52",
+        "05:55:39",
+        "07:49:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

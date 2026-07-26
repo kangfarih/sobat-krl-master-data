@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Flamboyan Srengseng",
+  "stop_id": "B03697P",
+  "latitude": -6.201447,
+  "longitude": 106.75576,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:21:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

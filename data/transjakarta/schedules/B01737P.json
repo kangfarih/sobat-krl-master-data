@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Biru",
+  "stop_id": "B01737P",
+  "latitude": -6.142184,
+  "longitude": 106.83342,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:18:00",
+        "06:18:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

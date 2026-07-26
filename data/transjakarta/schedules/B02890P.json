@@ -1,0 +1,33 @@
+{
+  "stop_name": "Plumpang Ps. Ular",
+  "stop_id": "B02890P",
+  "latitude": -6.129105,
+  "longitude": 106.89405,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:49:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:19:35",
+        "06:58:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

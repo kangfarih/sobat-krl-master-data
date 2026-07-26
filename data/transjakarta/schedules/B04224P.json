@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. Pondok Indah Plaza",
+  "stop_id": "B04224P",
+  "latitude": -6.284056,
+  "longitude": 106.780121,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:12:29",
+        "06:22:33",
+        "06:23:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:49:21",
+        "05:49:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

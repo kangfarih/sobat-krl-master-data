@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Komplek Bina Marga I",
+  "stop_id": "B03960P",
+  "latitude": -6.233147,
+  "longitude": 106.93473,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:11:40",
+        "05:12:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

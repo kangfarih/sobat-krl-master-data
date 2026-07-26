@@ -1,0 +1,34 @@
+{
+  "stop_name": "Pusat Promosi Industri Kayu Mebel",
+  "stop_id": "B03028P",
+  "latitude": -6.202854,
+  "longitude": 106.90366,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:49:14",
+        "05:51:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "06:01:58",
+        "06:04:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

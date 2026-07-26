@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. H. Mahi",
+  "stop_id": "B03615P",
+  "latitude": -6.169359,
+  "longitude": 106.96241,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:41:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

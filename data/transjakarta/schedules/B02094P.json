@@ -1,0 +1,49 @@
+{
+  "stop_name": "KPPU",
+  "stop_id": "B02094P",
+  "latitude": -6.167212,
+  "longitude": 106.8226,
+  "routes": [
+    {
+      "route_id": "ASG4",
+      "route_short_name": "ASG4",
+      "route_long_name": "PIK 2 - Juanda",
+      "color": "0754d2",
+      "category": "Shuttle",
+      "direction": "Juanda",
+      "weekdays": [
+        "08:32:36"
+      ],
+      "weekends": [
+        "15:32:36"
+      ]
+    },
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:14:49",
+        "05:14:55",
+        "05:14:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "07:25:32",
+        "07:25:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

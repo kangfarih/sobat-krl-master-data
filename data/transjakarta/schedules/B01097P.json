@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Aom Kramat Pela",
+  "stop_id": "B01097P",
+  "latitude": -6.248632,
+  "longitude": 106.79038,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:00:56"
+      ],
+      "weekends": [
+        "06:00:56"
+      ]
+    }
+  ]
+}

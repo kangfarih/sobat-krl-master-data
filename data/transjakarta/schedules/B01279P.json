@@ -1,0 +1,37 @@
+{
+  "stop_name": "Jln. Kesatuan Cengkareng Barat",
+  "stop_id": "B01279P",
+  "latitude": -6.149981,
+  "longitude": 106.718308,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:10:14",
+        "01:34:28",
+        "02:41:02",
+        "05:10:15",
+        "05:51:57",
+        "22:10:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:12:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tari Klasik",
+  "stop_id": "B01664P",
+  "latitude": -6.169164,
+  "longitude": 106.91063,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:26:49",
+        "05:27:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

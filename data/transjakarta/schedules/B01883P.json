@@ -1,0 +1,36 @@
+{
+  "stop_name": "Kec. Pesanggrahan 1",
+  "stop_id": "B01883P",
+  "latitude": -6.257396,
+  "longitude": 106.75633,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:42:47",
+        "05:42:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:48:39",
+        "05:53:43",
+        "05:54:16",
+        "07:08:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

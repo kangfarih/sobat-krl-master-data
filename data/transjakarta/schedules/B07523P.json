@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Duren Bangka Timur 2",
+  "stop_id": "B07523P",
+  "latitude": -6.259274,
+  "longitude": 106.827766,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:53:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

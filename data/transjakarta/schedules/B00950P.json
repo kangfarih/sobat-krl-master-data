@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bulak Barat V Klender",
+  "stop_id": "B00950P",
+  "latitude": -6.217018,
+  "longitude": 106.90373,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:38:27",
+        "05:38:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

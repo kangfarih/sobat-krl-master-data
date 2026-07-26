@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang KH Abdulloh Karang Tengah 2",
+  "stop_id": "B04943P",
+  "latitude": -6.146607,
+  "longitude": 106.97188,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:04:57",
+        "06:14:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

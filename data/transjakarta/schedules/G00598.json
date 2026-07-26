@@ -1,0 +1,52 @@
+{
+  "stop_name": "Cipulir",
+  "stop_id": "G00598",
+  "latitude": -6.237854,
+  "longitude": 106.76541,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "01:38:25",
+        "05:36:34",
+        "05:36:38",
+        "05:36:40",
+        "06:11:16",
+        "06:50:11",
+        "23:22:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:40:13",
+        "06:50:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "06:07:46",
+        "07:34:18"
+      ]
+    }
+  ]
+}

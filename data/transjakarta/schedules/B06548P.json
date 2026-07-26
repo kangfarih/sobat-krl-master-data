@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Manggarai Utara",
+  "stop_id": "B06548P",
+  "latitude": -6.212697,
+  "longitude": 106.85724,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:17:11",
+        "06:19:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

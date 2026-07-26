@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Kasih Bagi Bangsa",
+  "stop_id": "B08018P",
+  "latitude": -6.150334,
+  "longitude": 106.731993,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:40:08",
+        "06:20:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

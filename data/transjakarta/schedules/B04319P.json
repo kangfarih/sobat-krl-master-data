@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SD Islam Al Izzah",
+  "stop_id": "B04319P",
+  "latitude": -6.182733,
+  "longitude": 106.97719,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:41:52",
+        "06:39:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "stop_name": "Taman Sari",
+  "stop_id": "G00055",
+  "latitude": -6.149307,
+  "longitude": 106.816641,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Taman Sari dan Blok M",
+      "weekdays": [
+        "05:48:08",
+        "05:59:47",
+        "05:59:55",
+        "06:09:03",
+        "06:12:22",
+        "06:17:09",
+        "07:00:12",
+        "14:16:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Pantai Maju",
+      "weekdays": [
+        "05:21:10",
+        "06:58:51",
+        "07:00:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:37:42",
+        "05:37:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

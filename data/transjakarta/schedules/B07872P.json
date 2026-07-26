@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Arcadia Larangan Indah",
+  "stop_id": "B07872P",
+  "latitude": -6.225742,
+  "longitude": 106.730571,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "06:16:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

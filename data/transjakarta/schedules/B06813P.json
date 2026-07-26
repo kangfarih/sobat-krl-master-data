@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Lorong 26",
+  "stop_id": "B06813P",
+  "latitude": -6.110317,
+  "longitude": 106.899335,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:48:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

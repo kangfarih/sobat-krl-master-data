@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gedung Baja",
+  "stop_id": "B00595P",
+  "latitude": -6.143784,
+  "longitude": 106.83084,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:55:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

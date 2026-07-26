@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Andong Halim",
+  "stop_id": "B06797P",
+  "latitude": -6.286138,
+  "longitude": 106.899315,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:03:20",
+        "05:03:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. AA Sukabumi Selatan",
+  "stop_id": "B00832P",
+  "latitude": -6.222492,
+  "longitude": 106.77165,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:14:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

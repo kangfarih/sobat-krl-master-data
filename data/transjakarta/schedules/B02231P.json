@@ -1,0 +1,34 @@
+{
+  "stop_name": "Masjid Al Barkah 1",
+  "stop_id": "B02231P",
+  "latitude": -6.184871,
+  "longitude": 106.9456,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:44:37",
+        "05:44:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:50:42",
+        "07:00:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

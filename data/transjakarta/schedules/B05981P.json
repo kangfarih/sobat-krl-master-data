@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Musala Al Ishlah",
+  "stop_id": "B05981P",
+  "latitude": -6.12769,
+  "longitude": 106.81764,
+  "routes": [
+    {
+      "route_id": "JAK.88",
+      "route_short_name": "JAK.88",
+      "route_long_name": "Terminal Tanjung Priok - Ancol Barat",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ancol Barat dan Tanjung Priok",
+      "weekdays": [
+        "05:08:29",
+        "06:12:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

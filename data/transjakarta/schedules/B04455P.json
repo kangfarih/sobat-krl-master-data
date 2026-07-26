@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMKN 52",
+  "stop_id": "B04455P",
+  "latitude": -6.365166,
+  "longitude": 106.88592,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:42:17",
+        "06:20:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

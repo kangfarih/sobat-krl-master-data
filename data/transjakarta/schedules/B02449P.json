@@ -1,0 +1,22 @@
+{
+  "stop_name": "Midi Utama H. Lebar 2",
+  "stop_id": "B02449P",
+  "latitude": -6.200321,
+  "longitude": 106.73181,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:03:38",
+        "05:36:09",
+        "06:12:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

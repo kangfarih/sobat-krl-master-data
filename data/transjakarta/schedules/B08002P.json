@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pos Pemadam Cipulir",
+  "stop_id": "B08002P",
+  "latitude": -6.235493313,
+  "longitude": 106.7719384,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:04:06",
+        "06:23:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

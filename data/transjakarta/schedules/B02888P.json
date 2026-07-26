@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pluit Karang Karya Timur",
+  "stop_id": "B02888P",
+  "latitude": -6.13055,
+  "longitude": 106.792273,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:26:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:09:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

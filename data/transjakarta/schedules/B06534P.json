@@ -1,0 +1,33 @@
+{
+  "stop_name": "Ahmad Yani Bea Cukai 1",
+  "stop_id": "B06534P",
+  "latitude": -6.205555,
+  "longitude": 106.87398,
+  "routes": [
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:30:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:24:37",
+        "05:24:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

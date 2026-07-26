@@ -1,0 +1,67 @@
+{
+  "stop_name": "Petamburan",
+  "stop_id": "G00725",
+  "latitude": -6.202101,
+  "longitude": 106.799893,
+  "routes": [
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:18:15",
+        "06:32:21",
+        "07:08:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:30:09",
+        "05:31:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:29:28",
+        "07:38:27",
+        "07:51:56"
+      ],
+      "weekends": [
+        "07:38:27",
+        "07:51:56"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:29:15",
+        "08:08:47"
+      ],
+      "weekends": [
+        "08:08:47"
+      ]
+    }
+  ]
+}

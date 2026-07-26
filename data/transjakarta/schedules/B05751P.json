@@ -1,0 +1,33 @@
+{
+  "stop_name": "TK Angkasa 8",
+  "stop_id": "B05751P",
+  "latitude": -6.285191,
+  "longitude": 106.90125,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:11:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:52:46",
+        "06:45:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Istiqomah Tomang",
+  "stop_id": "B04025P",
+  "latitude": -6.171221,
+  "longitude": 106.79878,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:11:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

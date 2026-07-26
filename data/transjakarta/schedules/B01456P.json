@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Papandayan Muria Setiabudi",
+  "stop_id": "B01456P",
+  "latitude": -6.209879,
+  "longitude": 106.83677,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:08:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

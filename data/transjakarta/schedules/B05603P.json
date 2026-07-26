@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Juang 1",
+  "stop_id": "B05603P",
+  "latitude": -6.179515,
+  "longitude": 106.80546,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:37:35",
+        "05:50:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

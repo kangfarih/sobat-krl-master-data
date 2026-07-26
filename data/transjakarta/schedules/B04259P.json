@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Puskesmas Pegangsaan Dua",
+  "stop_id": "B04259P",
+  "latitude": -6.181057,
+  "longitude": 106.9142,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:41:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stop_name": "Gatot Subroto LIPI 2",
+  "stop_id": "B00587P",
+  "latitude": -6.226792,
+  "longitude": 106.81771,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:33:51",
+        "05:39:45",
+        "06:55:21",
+        "16:25:12"
+      ],
+      "weekends": [
+        "05:39:45"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Lapangan Kp. Tipar",
+  "stop_id": "B08555P",
+  "latitude": -6.23971,
+  "longitude": 106.9265,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:05:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Minan Kamal",
+  "stop_id": "B03719P",
+  "latitude": -6.103727,
+  "longitude": 106.7106,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:31:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

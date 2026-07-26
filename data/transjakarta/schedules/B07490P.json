@@ -1,0 +1,34 @@
+{
+  "stop_name": "Makam Pahlawan",
+  "stop_id": "B07490P",
+  "latitude": -6.255675,
+  "longitude": 106.844019,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:05:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:05:47",
+        "06:00:44",
+        "06:27:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

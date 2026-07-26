@@ -1,0 +1,20 @@
+{
+  "stop_name": "TPU Malaka",
+  "stop_id": "B05788P",
+  "latitude": -6.229347,
+  "longitude": 106.93522,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:18:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

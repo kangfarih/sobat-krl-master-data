@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasar Modern 1",
+  "stop_id": "B06977P",
+  "latitude": -6.168464,
+  "longitude": 106.974478,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:51:55",
+        "06:57:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

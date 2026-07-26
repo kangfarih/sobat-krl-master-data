@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Keluarga",
+  "stop_id": "B06992P",
+  "latitude": -6.200811,
+  "longitude": 106.783612,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:41:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Sawo III Pegambiran",
+  "stop_id": "B01568P",
+  "latitude": -6.201116,
+  "longitude": 106.89042,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:57:26",
+        "05:59:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

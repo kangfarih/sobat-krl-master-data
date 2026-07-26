@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pos RW 16 Tj. Gedong",
+  "stop_id": "B02968P",
+  "latitude": -6.167462,
+  "longitude": 106.79333,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "weekdays": [
+        "05:15:41",
+        "05:28:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

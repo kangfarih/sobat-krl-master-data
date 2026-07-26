@@ -1,0 +1,20 @@
+{
+  "stop_name": "St. Palmerah",
+  "stop_id": "P00230",
+  "latitude": -6.208908,
+  "longitude": 106.79706,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Kebayoran Lama",
+      "weekdays": [
+        "05:31:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

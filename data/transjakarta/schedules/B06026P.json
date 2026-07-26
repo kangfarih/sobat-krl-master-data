@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Pejaten Barat I",
+  "stop_id": "B06026P",
+  "latitude": -6.276432,
+  "longitude": 106.82287,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:48:00",
+        "06:56:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:53:26",
+        "07:03:04",
+        "07:04:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

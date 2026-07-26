@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pondok Labu 1A",
+  "stop_id": "B01512P",
+  "latitude": -6.301927,
+  "longitude": 106.79248,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:49:26",
+        "05:49:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

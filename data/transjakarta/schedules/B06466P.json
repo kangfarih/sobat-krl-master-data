@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Damai Tanah Merah",
+  "stop_id": "B06466P",
+  "latitude": -6.139737,
+  "longitude": 106.90924,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "06:01:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

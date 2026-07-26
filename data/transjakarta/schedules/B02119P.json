@@ -1,0 +1,20 @@
+{
+  "stop_name": "Lapangan Panahan",
+  "stop_id": "B02119P",
+  "latitude": -6.21373,
+  "longitude": 106.801949,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:42:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

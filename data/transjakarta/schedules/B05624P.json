@@ -1,0 +1,32 @@
+{
+  "stop_name": "Taman Mataram",
+  "stop_id": "B05624P",
+  "latitude": -6.232899,
+  "longitude": 106.80053,
+  "routes": [
+    {
+      "route_id": "1N",
+      "route_short_name": "1N",
+      "route_long_name": "Tanah Abang - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang",
+      "weekdays": [
+        "05:06:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:06:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

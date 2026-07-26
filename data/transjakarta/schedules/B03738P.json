@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kamboja Ujung",
+  "stop_id": "B03738P",
+  "latitude": -6.183411,
+  "longitude": 106.80311,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:28:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

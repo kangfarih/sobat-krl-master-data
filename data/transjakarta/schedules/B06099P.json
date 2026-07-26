@@ -1,0 +1,20 @@
+{
+  "stop_name": "Salwa Islamic School",
+  "stop_id": "B06099P",
+  "latitude": -6.178502,
+  "longitude": 106.757309,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:58:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

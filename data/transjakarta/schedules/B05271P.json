@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMAN 51",
+  "stop_id": "B05271P",
+  "latitude": -6.276921,
+  "longitude": 106.86075,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:15:10",
+        "05:54:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:12:54",
+        "06:07:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

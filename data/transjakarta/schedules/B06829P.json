@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Bontong",
+  "stop_id": "B06829P",
+  "latitude": -6.328009,
+  "longitude": 106.824253,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:32:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

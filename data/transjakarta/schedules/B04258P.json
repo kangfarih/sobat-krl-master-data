@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Puskesmas Pasar Rebo",
+  "stop_id": "B04258P",
+  "latitude": -6.33914,
+  "longitude": 106.86168,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:37:31",
+        "06:42:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

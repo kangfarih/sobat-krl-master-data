@@ -1,0 +1,32 @@
+{
+  "stop_name": "SDN Meruya Utara 02 Pagi",
+  "stop_id": "B03398P",
+  "latitude": -6.199267,
+  "longitude": 106.74166,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Garden",
+      "weekdays": [
+        "05:33:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:21:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Jaeran Cinere",
+  "stop_id": "B07777P",
+  "latitude": -6.338835,
+  "longitude": 106.780685,
+  "routes": [
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:14:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

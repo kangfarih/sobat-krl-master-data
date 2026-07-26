@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Sekolah Kristen Tirtamarta",
+  "stop_id": "B07385P",
+  "latitude": -6.284374,
+  "longitude": 106.787303,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:56:13",
+        "05:57:10",
+        "05:57:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

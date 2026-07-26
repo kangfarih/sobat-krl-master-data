@@ -1,0 +1,22 @@
+{
+  "stop_name": "Slamet Riyadi 1",
+  "stop_id": "B05235P",
+  "latitude": -6.208434,
+  "longitude": 106.85904,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:10:37",
+        "05:10:38",
+        "05:10:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

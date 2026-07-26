@@ -1,0 +1,22 @@
+{
+  "stop_name": "Tegalan 1",
+  "stop_id": "B05689P",
+  "latitude": -6.202401,
+  "longitude": 106.85652,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:14:18",
+        "05:14:19",
+        "05:14:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

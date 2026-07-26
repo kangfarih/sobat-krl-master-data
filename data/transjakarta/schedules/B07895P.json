@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah IPEKA Puri",
+  "stop_id": "B07895P",
+  "latitude": -6.186503,
+  "longitude": 106.749724,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:39:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

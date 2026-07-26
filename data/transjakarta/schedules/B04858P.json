@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Kaliabang Gatet",
+  "stop_id": "B04858P",
+  "latitude": -6.182737,
+  "longitude": 106.99133,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:06:00",
+        "07:03:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "stop_name": "Pinang Ranti",
+  "stop_id": "G00401",
+  "latitude": -6.291045,
+  "longitude": 106.886311,
+  "routes": [
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:00:10",
+        "06:16:18",
+        "06:32:22",
+        "07:34:24"
+      ],
+      "weekends": [
+        "06:32:22"
+      ]
+    },
+    {
+      "route_id": "9N",
+      "route_short_name": "9N",
+      "route_long_name": "Pinang Ranti - Simpang Cawang",
+      "color": "66a4a0",
+      "category": "BRT",
+      "direction": "Simpang Cawang dan Pinang Ranti",
+      "weekdays": [],
+      "weekends": [
+        "05:00:10",
+        "06:05:35"
+      ]
+    }
+  ]
+}

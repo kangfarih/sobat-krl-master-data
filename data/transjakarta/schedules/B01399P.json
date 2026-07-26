@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mini",
+  "stop_id": "B01399P",
+  "latitude": -6.311142,
+  "longitude": 106.90423,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:37:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

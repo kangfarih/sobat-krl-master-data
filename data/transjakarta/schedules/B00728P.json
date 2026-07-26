@@ -1,0 +1,34 @@
+{
+  "stop_name": "H. Naman Noer Ali",
+  "stop_id": "B00728P",
+  "latitude": -6.248932,
+  "longitude": 106.94208,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:58:20",
+        "07:00:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:31:01",
+        "06:32:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

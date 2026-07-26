@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bakti II Baru",
+  "stop_id": "B00885P",
+  "latitude": -6.329144,
+  "longitude": 106.852027,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:26:35",
+        "06:31:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

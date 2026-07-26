@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Pelita II Kb. Jeruk 2",
+  "stop_id": "B04646P",
+  "latitude": -6.164944,
+  "longitude": 106.77149,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:14:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

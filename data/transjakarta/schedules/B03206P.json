@@ -1,0 +1,22 @@
+{
+  "stop_name": "RSUD Boulevard Raya",
+  "stop_id": "B03206P",
+  "latitude": -6.13781,
+  "longitude": 106.7304,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:19:40",
+        "05:20:12",
+        "05:20:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

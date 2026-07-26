@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Man 6 Jakarta",
+  "stop_id": "B04015P",
+  "latitude": -6.359896,
+  "longitude": 106.88303,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "06:10:10",
+        "06:48:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

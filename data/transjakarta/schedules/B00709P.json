@@ -1,0 +1,20 @@
+{
+  "stop_name": "Griya Ardhya Garini 2",
+  "stop_id": "B00709P",
+  "latitude": -6.259544,
+  "longitude": 106.88942,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:19:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

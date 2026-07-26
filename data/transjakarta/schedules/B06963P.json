@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kramat Kwitang",
+  "stop_id": "B06963P",
+  "latitude": -6.179892,
+  "longitude": 106.840711,
+  "routes": [
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:15:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

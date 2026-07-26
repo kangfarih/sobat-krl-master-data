@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kuningan Timur 2",
+  "stop_id": "B02105P",
+  "latitude": -6.235912,
+  "longitude": 106.82765,
+  "routes": [
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:34:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:10:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

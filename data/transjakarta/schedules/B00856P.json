@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Anggrek Srengseng",
+  "stop_id": "B00856P",
+  "latitude": -6.19818,
+  "longitude": 106.75616,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "05:50:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

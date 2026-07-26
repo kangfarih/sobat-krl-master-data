@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusunawa Ujung Menteng",
+  "stop_id": "B08578P",
+  "latitude": -6.18608,
+  "longitude": 106.97038,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "weekdays": [
+        "05:00:10",
+        "05:39:26",
+        "06:25:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

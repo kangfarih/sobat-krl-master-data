@@ -1,0 +1,34 @@
+{
+  "stop_name": "St. Tebet 1",
+  "stop_id": "B05510P",
+  "latitude": -6.225576,
+  "longitude": 106.85862,
+  "routes": [
+    {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:00:10",
+        "05:37:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:00:10",
+        "05:45:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

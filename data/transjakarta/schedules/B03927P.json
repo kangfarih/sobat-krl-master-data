@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kel. Pondok Kopi",
+  "stop_id": "B03927P",
+  "latitude": -6.229293,
+  "longitude": 106.94377,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:05:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

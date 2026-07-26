@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kelapa Cengkir Raya",
+  "stop_id": "B04916P",
+  "latitude": -6.167577,
+  "longitude": 106.90478,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:24:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Masjid Jami Darussalam Kebayoran Lama",
+  "stop_id": "B07414P",
+  "latitude": -6.240536,
+  "longitude": 106.782725,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "06:13:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:13:46",
+        "06:13:48"
+      ],
+      "weekends": [
+        "06:13:46"
+      ]
+    }
+  ]
+}

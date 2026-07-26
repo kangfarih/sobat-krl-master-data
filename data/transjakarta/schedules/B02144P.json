@@ -1,0 +1,47 @@
+{
+  "stop_name": "Lippo Mall Kramat Jati",
+  "stop_id": "B02144P",
+  "latitude": -6.270835,
+  "longitude": 106.86741,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:59:26",
+        "06:59:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:06:25",
+        "05:45:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:06:26",
+        "06:11:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

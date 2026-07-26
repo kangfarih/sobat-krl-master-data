@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Petojo Barat Raya",
+  "stop_id": "B01487P",
+  "latitude": -6.164893,
+  "longitude": 106.81067,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:39:15",
+        "05:39:23",
+        "05:48:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Museum Maritim Indonesia",
+  "stop_id": "B08479P",
+  "latitude": -6.107066,
+  "longitude": 106.883687,
+  "routes": [
+    {
+      "route_id": "10C",
+      "route_short_name": "10C",
+      "route_long_name": "Pelabuhan Tanjung Priok - Tanjung Priok",
+      "color": "9B474A",
+      "category": "Non-BRT",
+      "direction": "Pelabuhan Tanjung Priok dan Tanjung Priok",
+      "weekdays": [
+        "05:03:56",
+        "05:18:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

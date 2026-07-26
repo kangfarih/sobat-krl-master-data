@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Kel. Ciracas",
+  "stop_id": "B03913P",
+  "latitude": -6.32881,
+  "longitude": 106.87779,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:33:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:29:10",
+        "05:29:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pendidikan",
+  "stop_id": "B07278P",
+  "latitude": -6.20449,
+  "longitude": 106.942665,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:30:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

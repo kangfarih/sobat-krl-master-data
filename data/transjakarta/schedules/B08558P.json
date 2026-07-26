@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klp. Kuning Raya 1",
+  "stop_id": "B08558P",
+  "latitude": -6.24403,
+  "longitude": 106.92244,
+  "routes": [
+    {
+      "route_id": "JAK.42A",
+      "route_short_name": "JAK.42A",
+      "route_long_name": "Pondok Kelapa - Kalimalang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalimalang dan Pondok Kelapa",
+      "weekdays": [
+        "05:10:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

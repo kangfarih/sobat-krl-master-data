@@ -1,0 +1,45 @@
+{
+  "stop_name": "Kampung Melayu",
+  "stop_id": "G00670",
+  "latitude": -6.224589,
+  "longitude": 106.867061,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Senen dan Kampung Melayu",
+      "weekdays": [
+        "05:58:51",
+        "06:12:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "category": "BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "01:05:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "PRJ2",
+      "route_short_name": "PRJ2",
+      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
+      "color": "D48961",
+      "category": "BRT",
+      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
+      "weekdays": [
+        "06:53:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

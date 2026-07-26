@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Kemang Selatan 2",
+  "stop_id": "B04925P",
+  "latitude": -6.274106,
+  "longitude": 106.82045,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:29:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:45:24",
+        "06:53:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

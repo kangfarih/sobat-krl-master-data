@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kec. Cipayung",
+  "stop_id": "B03897P",
+  "latitude": -6.328673,
+  "longitude": 106.88785,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:15:01",
+        "05:15:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

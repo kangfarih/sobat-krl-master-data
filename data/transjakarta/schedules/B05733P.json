@@ -1,0 +1,21 @@
+{
+  "stop_name": "THB Cluster Nirwana",
+  "stop_id": "B05733P",
+  "latitude": -6.182299,
+  "longitude": 106.99536,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "06:03:07",
+        "07:00:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

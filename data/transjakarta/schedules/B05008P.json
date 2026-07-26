@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Merak Cipinang Indah",
+  "stop_id": "B05008P",
+  "latitude": -6.234815,
+  "longitude": 106.894,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:20:09",
+        "06:17:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "06:01:12",
+        "06:08:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Swadaya Pagelarang",
+  "stop_id": "B03568P",
+  "latitude": -6.302718,
+  "longitude": 106.91662,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:52:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

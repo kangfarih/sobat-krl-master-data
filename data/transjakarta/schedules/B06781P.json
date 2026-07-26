@@ -1,0 +1,61 @@
+{
+  "stop_name": "Cawang Sentral 2",
+  "stop_id": "B06781P",
+  "latitude": -6.249647,
+  "longitude": 106.873659,
+  "routes": [
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:25:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "05:00:10",
+        "08:36:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:47:29",
+        "06:58:57",
+        "06:59:05"
+      ],
+      "weekends": [
+        "06:47:29"
+      ]
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:33:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan Cedang 3",
+  "stop_id": "B02769P",
+  "latitude": -6.301885,
+  "longitude": 106.91237,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:28:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

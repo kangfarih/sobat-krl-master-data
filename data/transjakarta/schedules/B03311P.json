@@ -1,0 +1,50 @@
+{
+  "stop_name": "Santo Lukas",
+  "stop_id": "B03311P",
+  "latitude": -6.244763,
+  "longitude": 106.84319,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:25:34",
+        "05:26:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:52:41",
+        "05:58:35",
+        "07:14:24",
+        "16:44:08"
+      ],
+      "weekends": [
+        "05:58:35"
+      ]
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:13:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

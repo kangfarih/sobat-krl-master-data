@@ -1,0 +1,25 @@
+{
+  "stop_name": "MH Thamrin",
+  "stop_id": "G00038",
+  "latitude": -6.188038,
+  "longitude": 106.82296,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Monas dan Blok M",
+      "weekdays": [
+        "05:38:06",
+        "05:38:12",
+        "05:38:14",
+        "05:50:41",
+        "06:38:31",
+        "08:38:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. H Satiri Manshur",
+  "stop_id": "B03614P",
+  "latitude": -6.173971,
+  "longitude": 106.74845,
+  "routes": [
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "05:42:31",
+        "06:14:58",
+        "06:51:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

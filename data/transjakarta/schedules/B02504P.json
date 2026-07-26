@@ -1,0 +1,25 @@
+{
+  "stop_name": "Museum Satria Mandala",
+  "stop_id": "B02504P",
+  "latitude": -6.230525,
+  "longitude": 106.81963,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:38:55",
+        "05:39:12",
+        "06:09:12",
+        "16:09:12"
+      ],
+      "weekends": [
+        "05:38:55"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Sunter Permai 1",
+  "stop_id": "B06079P",
+  "latitude": -6.131277,
+  "longitude": 106.8625,
+  "routes": [
+    {
+      "route_id": "12P",
+      "route_short_name": "12P",
+      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "St. LRT Pegangsaan Dua dan JIS",
+      "weekdays": [
+        "05:06:49",
+        "05:06:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:05:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

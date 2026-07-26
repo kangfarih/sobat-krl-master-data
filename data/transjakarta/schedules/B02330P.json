@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Ar Roghibin",
+  "stop_id": "B02330P",
+  "latitude": -6.156361,
+  "longitude": 106.9597,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:16:42",
+        "06:26:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

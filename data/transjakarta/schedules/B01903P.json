@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kel. Batu Ampar",
+  "stop_id": "B01903P",
+  "latitude": -6.283309,
+  "longitude": 106.85943,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:20:39",
+        "05:20:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

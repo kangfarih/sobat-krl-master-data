@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Raya Tengah H. Ali",
+  "stop_id": "B05122P",
+  "latitude": -6.292515,
+  "longitude": 106.85951,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:25:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

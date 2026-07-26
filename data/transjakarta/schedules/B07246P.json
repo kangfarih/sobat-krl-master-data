@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Danau Sunter",
+  "stop_id": "B07246P",
+  "latitude": -6.146146,
+  "longitude": 106.876282,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:26:54",
+        "05:26:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

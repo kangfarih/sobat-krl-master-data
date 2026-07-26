@@ -1,0 +1,38 @@
+{
+  "stop_name": "Graha Sucofindo",
+  "stop_id": "B00683P",
+  "latitude": -6.251886,
+  "longitude": 106.84248,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:58:54",
+        "06:24:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:19:02",
+        "05:19:10",
+        "05:49:11",
+        "15:49:10"
+      ],
+      "weekends": [
+        "05:19:02"
+      ]
+    }
+  ]
+}

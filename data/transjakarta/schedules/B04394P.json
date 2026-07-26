@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Sekolah Pelita II Kb. Jeruk",
+  "stop_id": "B04394P",
+  "latitude": -6.16481,
+  "longitude": 106.77141,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:58:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

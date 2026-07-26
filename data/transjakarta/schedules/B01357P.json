@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mangga KDW",
+  "stop_id": "B01357P",
+  "latitude": -6.332033,
+  "longitude": 106.88186,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:43:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

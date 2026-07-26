@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kebayoran",
+  "stop_id": "P00155",
+  "latitude": -6.238413,
+  "longitude": 106.78323,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Kebayoran Lama",
+      "weekdays": [
+        "06:00:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

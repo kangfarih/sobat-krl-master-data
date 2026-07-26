@@ -1,0 +1,21 @@
+{
+  "stop_name": "Yayasan Alfitriyah Marunda",
+  "stop_id": "B06859P",
+  "latitude": -6.130149,
+  "longitude": 106.955535,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "06:01:40",
+        "07:19:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

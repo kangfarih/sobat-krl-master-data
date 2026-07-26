@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. TK Angkasa 4",
+  "stop_id": "B07225P",
+  "latitude": -6.242905,
+  "longitude": 106.884472,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:21:52",
+        "05:22:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

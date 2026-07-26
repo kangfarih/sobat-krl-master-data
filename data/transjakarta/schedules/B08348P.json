@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Cipinang Muara 2",
+  "stop_id": "B08348P",
+  "latitude": -6.22324,
+  "longitude": 106.89868,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:03:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:38:47",
+        "05:39:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

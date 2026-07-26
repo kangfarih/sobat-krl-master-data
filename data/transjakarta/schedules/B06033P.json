@@ -1,0 +1,20 @@
+{
+  "stop_name": "St. Gondangdia 1",
+  "stop_id": "B06033P",
+  "latitude": -6.1869,
+  "longitude": 106.8327,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Godangdia dan Tanah Abang",
+      "weekdays": [
+        "05:14:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

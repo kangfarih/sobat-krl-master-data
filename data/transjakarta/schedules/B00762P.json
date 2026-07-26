@@ -1,0 +1,21 @@
+{
+  "stop_name": "Harapan Indah Boulevard",
+  "stop_id": "B00762P",
+  "latitude": -6.186073,
+  "longitude": 106.97502,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:41:41",
+        "06:46:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

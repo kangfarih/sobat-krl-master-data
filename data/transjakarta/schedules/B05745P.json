@@ -1,0 +1,20 @@
+{
+  "stop_name": "TIS Square",
+  "stop_id": "B05745P",
+  "latitude": -6.243169,
+  "longitude": 106.84798,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:08:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

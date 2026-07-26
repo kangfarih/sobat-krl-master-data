@@ -1,0 +1,20 @@
+{
+  "stop_name": "GBI Sungai Yordan",
+  "stop_id": "B00588P",
+  "latitude": -6.166828,
+  "longitude": 106.7698,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:56:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

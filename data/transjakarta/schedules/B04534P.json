@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Taman Permata Indah 1",
+  "stop_id": "B04534P",
+  "latitude": -6.144081,
+  "longitude": 106.78154,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "weekdays": [
+        "05:50:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:33:59",
+        "05:34:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

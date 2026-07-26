@@ -1,0 +1,21 @@
+{
+  "stop_name": "Botani Square",
+  "stop_id": "B08181P",
+  "latitude": -6.601931,
+  "longitude": 106.806343,
+  "routes": [
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "09:19:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

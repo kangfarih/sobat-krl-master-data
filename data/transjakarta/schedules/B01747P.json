@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Kapuk Kamal PIS1",
+  "stop_id": "B01747P",
+  "latitude": -6.124383,
+  "longitude": 106.75175,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:50:21",
+        "05:45:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

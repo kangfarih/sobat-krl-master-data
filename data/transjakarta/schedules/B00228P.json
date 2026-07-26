@@ -1,0 +1,21 @@
+{
+  "stop_name": "Carrefour Harapan Indah",
+  "stop_id": "B00228P",
+  "latitude": -6.187189,
+  "longitude": 106.97684,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "weekdays": [
+        "05:39:22",
+        "06:36:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

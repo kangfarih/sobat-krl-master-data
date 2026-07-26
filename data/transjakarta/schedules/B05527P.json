@@ -1,0 +1,21 @@
+{
+  "stop_name": "STIE YAI Senen",
+  "stop_id": "B05527P",
+  "latitude": -6.183885,
+  "longitude": 106.84333,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:13:40",
+        "06:13:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Pengayoman",
+  "stop_id": "B02735P",
+  "latitude": -6.175358,
+  "longitude": 106.64801,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:09:26",
+        "05:09:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:09:26",
+        "05:09:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

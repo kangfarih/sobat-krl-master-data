@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Kebembem",
+  "stop_id": "B07495P",
+  "latitude": -6.338441,
+  "longitude": 106.822702,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:56:19",
+        "07:09:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

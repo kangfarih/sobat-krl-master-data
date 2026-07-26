@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Maisin Petukangan",
+  "stop_id": "B01120P",
+  "latitude": -6.236635,
+  "longitude": 106.75249,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:25:57",
+        "05:26:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

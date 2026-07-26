@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Manunggal Meruya Selatan",
+  "stop_id": "B01362P",
+  "latitude": -6.203307,
+  "longitude": 106.73894,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:45:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:21:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

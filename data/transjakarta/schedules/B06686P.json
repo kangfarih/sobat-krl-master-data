@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMAN 41",
+  "stop_id": "B06686P",
+  "latitude": -6.130773,
+  "longitude": 106.85304,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:21:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

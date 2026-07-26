@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Nusa I Cililitan",
+  "stop_id": "B06870P",
+  "latitude": -6.264402,
+  "longitude": 106.871284,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:03:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:29:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

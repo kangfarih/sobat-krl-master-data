@@ -1,0 +1,39 @@
+{
+  "stop_name": "Monumen Nasional",
+  "stop_id": "G00753",
+  "latitude": -6.176135,
+  "longitude": 106.822809,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Monas dan Blok M",
+      "weekdays": [
+        "05:32:56",
+        "05:44:35",
+        "05:44:41",
+        "05:44:43",
+        "05:57:10",
+        "06:45:00",
+        "08:44:44",
+        "14:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pantai Maju",
+      "weekdays": [
+        "05:05:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

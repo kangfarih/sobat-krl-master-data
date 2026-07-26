@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lapangan Segitiga 2",
+  "stop_id": "B02124P",
+  "latitude": -6.277336,
+  "longitude": 106.88811,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:16:34",
+        "05:16:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

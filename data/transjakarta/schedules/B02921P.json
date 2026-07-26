@@ -1,0 +1,38 @@
+{
+  "stop_name": "Pomad 2",
+  "stop_id": "B02921P",
+  "latitude": -6.261758,
+  "longitude": 106.84311,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:53:17",
+        "06:18:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Tosari dan Pasar Minggu",
+      "weekdays": [
+        "05:13:25",
+        "05:13:34",
+        "05:43:34",
+        "15:43:34"
+      ],
+      "weekends": [
+        "05:13:25"
+      ]
+    }
+  ]
+}

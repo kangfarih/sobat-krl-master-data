@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. SMAN 64",
+  "stop_id": "B03848P",
+  "latitude": -6.332276,
+  "longitude": 106.8898,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:12:14",
+        "05:12:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

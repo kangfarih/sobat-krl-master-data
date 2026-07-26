@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. St. Gambir",
+  "stop_id": "B04506P",
+  "latitude": -6.177188,
+  "longitude": 106.83139,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:30:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

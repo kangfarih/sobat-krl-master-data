@@ -1,0 +1,21 @@
+{
+  "stop_name": "Petukangan D'MASIV",
+  "stop_id": "G00606",
+  "latitude": -6.236503,
+  "longitude": 106.747903,
+  "routes": [
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:50:03",
+        "07:00:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

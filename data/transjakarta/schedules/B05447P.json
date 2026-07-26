@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kota 1",
+  "stop_id": "B05447P",
+  "latitude": -6.137079,
+  "longitude": 106.81431,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:43:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Tol Bekasi Timur 2",
+  "stop_id": "B05769P",
+  "latitude": -6.261696,
+  "longitude": 107.01832,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:21:40",
+        "07:55:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

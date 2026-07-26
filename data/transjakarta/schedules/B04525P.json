@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Kayu Jati V",
+  "stop_id": "B04525P",
+  "latitude": -6.190375,
+  "longitude": 106.88677,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:59:22",
+        "07:26:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

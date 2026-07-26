@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. RS Dr Mintohardjo",
+  "stop_id": "B04278P",
+  "latitude": -6.211163,
+  "longitude": 106.81237,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:37:33",
+        "05:57:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:57:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

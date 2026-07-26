@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Zakarian I Sulaiman",
+  "stop_id": "B03881P",
+  "latitude": -6.206219,
+  "longitude": 106.78035,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "06:10:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

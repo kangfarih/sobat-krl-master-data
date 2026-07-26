@@ -1,0 +1,21 @@
+{
+  "stop_name": "GOR Pondok Bambu",
+  "stop_id": "B00661P",
+  "latitude": -6.223465,
+  "longitude": 106.904,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:23:41",
+        "06:27:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

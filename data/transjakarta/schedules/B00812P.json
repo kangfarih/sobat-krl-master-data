@@ -1,0 +1,20 @@
+{
+  "stop_name": "Istora Senayan",
+  "stop_id": "B00812P",
+  "latitude": -6.219468,
+  "longitude": 106.798379,
+  "routes": [
+    {
+      "route_id": "8N",
+      "route_short_name": "8N",
+      "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
+      "color": "dd6aab",
+      "category": "Non-BRT",
+      "direction": "Petamburan dan Kebayoran",
+      "weekdays": [
+        "05:47:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

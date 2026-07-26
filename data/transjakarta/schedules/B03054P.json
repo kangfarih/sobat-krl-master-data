@@ -1,0 +1,33 @@
+{
+  "stop_name": "Puskesmas Kel. Papanggo",
+  "stop_id": "B03054P",
+  "latitude": -6.129791,
+  "longitude": 106.87234,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:53:13",
+        "07:14:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:39:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

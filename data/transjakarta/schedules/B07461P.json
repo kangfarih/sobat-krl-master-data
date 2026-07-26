@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kemang Utara V",
+  "stop_id": "B07461P",
+  "latitude": -6.257929,
+  "longitude": 106.822076,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:49:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

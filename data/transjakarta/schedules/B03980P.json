@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Komplek Pusbinal",
+  "stop_id": "B03980P",
+  "latitude": -6.245186,
+  "longitude": 106.90276,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:52:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

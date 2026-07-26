@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kel. Tambora",
+  "stop_id": "B03936P",
+  "latitude": -6.146476,
+  "longitude": 106.80706,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:47:37",
+        "06:46:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

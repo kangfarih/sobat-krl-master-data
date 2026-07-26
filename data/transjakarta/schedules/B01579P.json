@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Seroja Cengkareng Barat",
+  "stop_id": "B01579P",
+  "latitude": -6.147868,
+  "longitude": 106.71954,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:12:07",
+        "05:12:08",
+        "22:12:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

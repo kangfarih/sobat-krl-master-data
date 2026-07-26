@@ -1,0 +1,25 @@
+{
+  "stop_name": "Kalideres",
+  "stop_id": "G00160",
+  "latitude": -6.154374,
+  "longitude": 106.70549,
+  "routes": [
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:00:10",
+        "06:41:09",
+        "07:19:47",
+        "07:54:55"
+      ],
+      "weekends": [
+        "06:41:09"
+      ]
+    }
+  ]
+}

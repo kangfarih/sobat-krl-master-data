@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ujung Menteng",
+  "stop_id": "G00614",
+  "latitude": -6.18924,
+  "longitude": 106.964831,
+  "routes": [
+    {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:33:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

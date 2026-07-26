@@ -1,0 +1,35 @@
+{
+  "stop_name": "Patal Senayan",
+  "stop_id": "B02696P",
+  "latitude": -6.218636,
+  "longitude": 106.79227,
+  "routes": [
+    {
+      "route_id": "8C",
+      "route_short_name": "8C",
+      "route_long_name": "Kebayoran - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kebayoran",
+      "weekdays": [
+        "06:10:14",
+        "06:23:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Jelambar dan Kebayoran Lama",
+      "weekdays": [
+        "05:38:34",
+        "06:04:59",
+        "06:27:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

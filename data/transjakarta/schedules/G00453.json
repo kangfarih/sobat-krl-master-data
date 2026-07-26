@@ -1,0 +1,23 @@
+{
+  "stop_name": "Halim",
+  "stop_id": "G00453",
+  "latitude": -6.239069,
+  "longitude": 106.878031,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "06:17:08",
+        "06:17:09",
+        "07:04:37",
+        "07:47:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

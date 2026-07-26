@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Bina Marga Raya Ceger",
+  "stop_id": "B04725P",
+  "latitude": -6.314652,
+  "longitude": 106.89243,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:23:33",
+        "05:23:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

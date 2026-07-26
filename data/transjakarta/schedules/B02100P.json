@@ -1,0 +1,20 @@
+{
+  "stop_name": "KUA Palmerah",
+  "stop_id": "B02100P",
+  "latitude": -6.194208,
+  "longitude": 106.79191,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "07:50:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

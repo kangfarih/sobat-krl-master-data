@@ -1,0 +1,20 @@
+{
+  "stop_name": "GOR Cipayung 2",
+  "stop_id": "B00658P",
+  "latitude": -6.30798,
+  "longitude": 106.91932,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:38:27"
+      ],
+      "weekends": []
+    }
+  ]
+}
