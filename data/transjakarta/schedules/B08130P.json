@@ -5,64 +5,6 @@
   "longitude": 106.715967,
   "routes": [
     {
-      "route_id": "ASG1",
-      "route_short_name": "ASG1",
-      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Shuttle Pantai Indah Kapuk",
-      "weekdays": [
-        "05:44:40"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "ASG2",
-      "route_short_name": "ASG2",
-      "route_long_name": "PIK 2 Millennials  - PIK Avenue via CBD PIK 2",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Shuttle Pantai Indah Kapuk",
-      "weekdays": [
-        "07:12:55"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "ASG3",
-      "route_short_name": "ASG3",
-      "route_long_name": "Tokyo Riverside Apt. - PIK Avenue via IDD",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Shuttle Pantai Indah Kapuk",
-      "weekdays": [
-        "05:27:50"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "ASG5",
-      "route_short_name": "ASG5",
-      "route_long_name": "Wisata PIK2",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Wisata PIK 2",
-      "weekdays": [
-        "07:10:05",
-        "08:45:05",
-        "17:31:30",
-        "19:11:30"
-      ],
-      "weekends": [
-        "11:58:08",
-        "13:28:08",
-        "15:28:08",
-        "16:58:08",
-        "18:28:08",
-        "19:58:08"
-      ]
-    },
-    {
       "route_id": "T31",
       "route_short_name": "T31",
       "route_long_name": "PIK 2 - Blok M",

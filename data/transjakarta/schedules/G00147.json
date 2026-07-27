@@ -26,6 +26,19 @@
       ]
     },
     {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
+      "weekdays": [
+        "06:07:03",
+        "06:07:04"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "3H",
       "route_short_name": "3H",
       "route_long_name": "Damai - Kota",

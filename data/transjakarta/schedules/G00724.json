@@ -12,7 +12,8 @@
       "category": "BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:54:08"
+        "05:54:08",
+        "06:55:39"
       ],
       "weekends": [
         "05:54:08"
@@ -54,8 +55,8 @@
       "direction": "Jelambar dan Kebayoran Lama",
       "weekdays": [
         "05:26:02",
-        "05:52:17",
-        "06:14:24"
+        "05:52:19",
+        "06:14:26"
       ],
       "weekends": []
     }

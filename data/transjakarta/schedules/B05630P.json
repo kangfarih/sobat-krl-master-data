@@ -5,6 +5,19 @@
   "longitude": 106.94843,
   "routes": [
     {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:43:03",
+        "05:43:59"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "JAK.27",
       "route_short_name": "JAK.27",
       "route_long_name": "Pulo Gebang - Rorotan",

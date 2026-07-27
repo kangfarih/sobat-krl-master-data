@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang Blok A dan Kampung Melayu",
       "weekdays": [
-        "06:03:03"
+        "06:02:33"
       ],
       "weekends": []
     },
@@ -24,9 +24,9 @@
       "category": "Non-BRT",
       "direction": "Bundaran Senayan dan Stasiun Tebet",
       "weekdays": [
-        "05:21:52",
+        "05:21:48",
         "05:38:44",
-        "05:58:31"
+        "05:58:17"
       ],
       "weekends": [
         "05:38:44"

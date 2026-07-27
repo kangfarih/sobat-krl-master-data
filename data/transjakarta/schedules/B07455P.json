@@ -10,10 +10,9 @@
       "route_long_name": "Rusun Rawa Bebek - Penggilingan",
       "color": "717092",
       "category": "Rusun",
-      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "direction": "Rusun Rawa Bebek",
       "weekdays": [
-        "05:03:26",
-        "05:49:13"
+        "05:03:28"
       ],
       "weekends": []
     },

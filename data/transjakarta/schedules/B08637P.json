@@ -1,0 +1,20 @@
+{
+  "stop_name": "Rusun Ujung Menteng",
+  "stop_id": "B08637P",
+  "latitude": -6.18648,
+  "longitude": 106.9702,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:34:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -5,19 +5,6 @@
   "longitude": 106.87374,
   "routes": [
     {
-      "route_id": "4K",
-      "route_short_name": "4K",
-      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
-      "color": "512C62",
-      "category": "Non-BRT",
-      "direction": "Kejaksaan Agung dan Pulo Gadung",
-      "weekdays": [
-        "06:01:54",
-        "07:37:56"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "JAK.41",
       "route_short_name": "JAK.41",
       "route_long_name": "Kampung Melayu - Pulo Gadung",

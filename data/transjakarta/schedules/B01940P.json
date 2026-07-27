@@ -10,10 +10,9 @@
       "route_long_name": "Rusun Rawa Bebek - Penggilingan",
       "color": "717092",
       "category": "Rusun",
-      "direction": "Penggilingan dan Rusun Ujung Menteng",
+      "direction": "Rusun Rawa Bebek",
       "weekdays": [
-        "05:14:03",
-        "05:59:51"
+        "05:14:06"
       ],
       "weekends": []
     },
@@ -23,10 +22,9 @@
       "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
       "color": "00609C",
       "category": "Mikrotrans",
-      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "direction": "Harapan Baru dan Pulo Gebang",
       "weekdays": [
-        "05:07:52",
-        "06:05:09"
+        "05:07:52"
       ],
       "weekends": []
     }

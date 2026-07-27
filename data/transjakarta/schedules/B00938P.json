@@ -25,7 +25,7 @@
       "category": "Non-BRT",
       "direction": "Tendean dan Kampung Rambutan",
       "weekdays": [
-        "05:38:33",
+        "05:38:31",
         "06:38:17"
       ],
       "weekends": []
@@ -52,10 +52,10 @@
       "category": "Non-BRT",
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
-        "05:58:14",
+        "05:58:11",
         "06:04:08",
-        "07:19:57",
-        "16:49:41"
+        "06:19:31",
+        "06:49:49"
       ],
       "weekends": [
         "06:04:08"

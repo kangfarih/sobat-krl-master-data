@@ -12,7 +12,8 @@
       "category": "BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:33:28"
+        "05:33:28",
+        "06:15:44"
       ],
       "weekends": [
         "05:33:28"

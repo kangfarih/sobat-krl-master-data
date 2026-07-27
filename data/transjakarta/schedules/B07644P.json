@@ -1,8 +1,8 @@
 {
   "stop_name": "SDN Pekayon 09 Pagi",
   "stop_id": "B07644P",
-  "latitude": -6.3419698,
-  "longitude": 106.8608039,
+  "latitude": -6.34197,
+  "longitude": 106.860804,
   "routes": [
     {
       "route_id": "JAK.25",

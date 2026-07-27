@@ -5,6 +5,18 @@
   "longitude": 106.820874,
   "routes": [
     {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:30:11"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "6T",
       "route_short_name": "6T",
       "route_long_name": "Pasar Minggu - Velbak",
@@ -13,7 +25,7 @@
       "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
       "weekdays": [
         "05:46:24",
-        "06:54:39"
+        "06:54:49"
       ],
       "weekends": []
     }

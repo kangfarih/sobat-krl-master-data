@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Tanjung Priok dan Senen",
       "weekdays": [
-        "06:00:32",
+        "06:00:33",
         "06:00:41"
       ],
       "weekends": []
@@ -25,7 +25,7 @@
       "category": "Mikrotrans",
       "direction": "Ancol Barat dan Tanjung Priok",
       "weekdays": [
-        "05:18:24"
+        "05:18:30"
       ],
       "weekends": []
     },

@@ -1,22 +1,9 @@
 {
-  "stop_name": "Sarinah",
+  "stop_name": "MH Thamrin 1",
   "stop_id": "B03313P",
   "latitude": -6.188081,
   "longitude": 106.82317,
   "routes": [
-    {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:10:06",
-        "05:10:11"
-      ],
-      "weekends": []
-    },
     {
       "route_id": "1P",
       "route_short_name": "1P",
@@ -25,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:34:44",
-        "05:42:30"
+        "05:34:56",
+        "05:42:42"
       ],
       "weekends": []
     },

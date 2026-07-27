@@ -23,8 +23,9 @@
       "route_long_name": "Ragunan - Balai Kota via Kuningan",
       "color": "1BAC47",
       "category": "BRT",
-      "direction": "Tosari dan Ragunan via Semanggi",
+      "direction": "Kebon Sirih - Ragunan",
       "weekdays": [
+        "05:09:38",
         "05:09:40",
         "05:09:41",
         "05:09:42"
@@ -39,10 +40,10 @@
       "category": "BRT",
       "direction": "Kebon Sirih dan Ragunan",
       "weekdays": [
+        "05:09:17",
         "05:09:43",
         "05:09:45",
-        "05:09:47",
-        "05:11:10"
+        "05:09:47"
       ],
       "weekends": []
     },

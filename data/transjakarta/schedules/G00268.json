@@ -25,10 +25,10 @@
       "category": "BRT",
       "direction": "Kebon Sirih dan Ragunan",
       "weekdays": [
+        "05:31:20",
         "05:31:45",
         "05:31:48",
-        "05:31:50",
-        "05:33:13"
+        "05:31:50"
       ],
       "weekends": []
     },
@@ -38,9 +38,10 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Blok M",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
-        "05:34:32"
+        "05:34:31",
+        "06:49:11"
       ],
       "weekends": []
     },

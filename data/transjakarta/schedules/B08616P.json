@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Jami Al-Ikhlas",
+  "stop_id": "B08616P",
+  "latitude": -6.15903,
+  "longitude": 106.78964,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:13:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

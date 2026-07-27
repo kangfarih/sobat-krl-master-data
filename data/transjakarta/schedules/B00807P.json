@@ -22,9 +22,9 @@
       "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
       "color": "dd6aab",
       "category": "Non-BRT",
-      "direction": "Petamburan dan Kebayoran",
+      "direction": "Petamburan dan Kebayoran via Asia Afrika",
       "weekdays": [
-        "06:09:50"
+        "06:10:01"
       ],
       "weekends": []
     },

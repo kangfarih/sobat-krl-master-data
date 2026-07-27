@@ -13,7 +13,7 @@
       "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
       "weekdays": [
         "06:07:51",
-        "07:15:56"
+        "07:16:06"
       ],
       "weekends": []
     },
@@ -23,8 +23,9 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Pasar Minggu",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
+        "06:06:20",
         "06:06:49"
       ],
       "weekends": []

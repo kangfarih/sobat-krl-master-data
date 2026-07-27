@@ -12,8 +12,10 @@
       "category": "Transjabodetabek",
       "direction": "Cawang dan Cikarang",
       "weekdays": [
+        "05:00:10",
         "06:39:00",
         "06:53:24",
+        "08:51:24",
         "10:30:10"
       ],
       "weekends": []

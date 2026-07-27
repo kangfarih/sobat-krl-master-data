@@ -5,21 +5,6 @@
   "longitude": 106.83112,
   "routes": [
     {
-      "route_id": "ASG4",
-      "route_short_name": "ASG4",
-      "route_long_name": "PIK 2 - Juanda",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Juanda",
-      "weekdays": [
-        "07:30:10",
-        "08:38:18"
-      ],
-      "weekends": [
-        "10:00:10"
-      ]
-    },
-    {
       "route_id": "BW1",
       "route_short_name": "BW1",
       "route_long_name": "Sejarah Jakarta",

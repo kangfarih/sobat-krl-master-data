@@ -28,18 +28,6 @@
         "05:16:01"
       ],
       "weekends": []
-    },
-    {
-      "route_id": "10D",
-      "route_short_name": "10D",
-      "route_long_name": "Kampung Rambutan - Tanjung Priok",
-      "color": "9B1F21",
-      "category": "BRT",
-      "direction": "Kampung Rambutan",
-      "weekdays": [
-        "05:16:02"
-      ],
-      "weekends": []
     }
   ]
 }

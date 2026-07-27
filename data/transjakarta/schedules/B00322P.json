@@ -13,7 +13,7 @@
       "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
       "weekdays": [
         "05:25:45",
-        "06:02:58"
+        "06:03:08"
       ],
       "weekends": []
     },
@@ -36,10 +36,9 @@
       "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
       "color": "dd6aab",
       "category": "Non-BRT",
-      "direction": "Petamburan dan Kebayoran",
+      "direction": "Petamburan dan Kebayoran via Asia Afrika",
       "weekdays": [
-        "05:27:35",
-        "05:28:36"
+        "05:28:47"
       ],
       "weekends": []
     }

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Nurul Huda",
+  "stop_id": "B08621P",
+  "latitude": -6.182102,
+  "longitude": 106.805556,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol",
+      "weekdays": [
+        "05:52:01",
+        "05:52:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

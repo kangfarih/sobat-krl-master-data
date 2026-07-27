@@ -37,7 +37,7 @@
       "category": "Non-BRT",
       "direction": "Bidara Cina dan Stasiun Tebet",
       "weekdays": [
-        "05:14:16"
+        "05:14:25"
       ],
       "weekends": []
     },
@@ -55,18 +55,6 @@
         "06:50:24",
         "06:55:02",
         "07:09:57"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "PRJ2",
-      "route_short_name": "PRJ2",
-      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
-      "color": "D48961",
-      "category": "BRT",
-      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
-      "weekdays": [
-        "06:48:46"
       ],
       "weekends": []
     }

@@ -12,10 +12,10 @@
       "category": "Non-BRT",
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
+        "05:44:36",
         "05:44:38",
-        "05:44:54",
-        "06:14:54",
-        "16:14:54"
+        "05:44:44",
+        "05:44:46"
       ],
       "weekends": [
         "05:44:38"

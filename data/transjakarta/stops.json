@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T22:48:59.103Z",
-  "count": 8243,
+  "lastUpdated": "2026-07-27T22:47:34.142Z",
+  "count": 8091,
   "stops": [
     {
       "stop_id": "B00001P",
@@ -55,12 +55,6 @@
       "stop_name": "Ahmad Yani Pisangan Baru",
       "latitude": -6.211477,
       "longitude": 106.87374
-    },
-    {
-      "stop_id": "B00014P",
-      "stop_name": "Airy Eco Binus",
-      "latitude": -6.195282,
-      "longitude": 106.78881
     },
     {
       "stop_id": "B00015P",
@@ -487,6 +481,12 @@
       "stop_name": "Baladewa Residence",
       "latitude": -6.229648,
       "longitude": 106.91038
+    },
+    {
+      "stop_id": "B00014P",
+      "stop_name": "Airy Eco Binus",
+      "latitude": -6.195119,
+      "longitude": 106.788433
     },
     {
       "stop_id": "B00101P",
@@ -985,12 +985,6 @@
       "stop_name": "Benhil PAM Jaya",
       "latitude": -6.216775,
       "longitude": 106.8154
-    },
-    {
-      "stop_id": "B00199P",
-      "stop_name": "Budhi Medika Meruya Utara",
-      "latitude": -6.196934,
-      "longitude": 106.73231
     },
     {
       "stop_id": "B00200P",
@@ -1533,12 +1527,6 @@
       "longitude": 106.8393
     },
     {
-      "stop_id": "B00313P",
-      "stop_name": "Direktorat Jenderal Pajak",
-      "latitude": -6.224628,
-      "longitude": 106.81558
-    },
-    {
       "stop_id": "B00697P",
       "stop_name": "Green Lake City",
       "latitude": -6.177644,
@@ -1741,12 +1729,6 @@
       "stop_name": "Klinik Persada Sari",
       "latitude": -6.17728,
       "longitude": 106.72226
-    },
-    {
-      "stop_id": "B00359P",
-      "stop_name": "Flyover Karet",
-      "latitude": -6.215434,
-      "longitude": 106.81867
     },
     {
       "stop_id": "B00360P",
@@ -1963,6 +1945,12 @@
       "stop_name": "Gg. Aim 1",
       "latitude": -6.200344,
       "longitude": 106.9351
+    },
+    {
+      "stop_id": "B00313P",
+      "stop_name": "Wisma Danantara",
+      "latitude": -6.223916,
+      "longitude": 106.815096
     },
     {
       "stop_id": "B00396P",
@@ -2829,12 +2817,6 @@
       "longitude": 106.93513
     },
     {
-      "stop_id": "B05948P",
-      "stop_name": "Klinik Budhi Medika",
-      "latitude": -6.19695,
-      "longitude": 106.73235
-    },
-    {
       "stop_id": "B00556P",
       "stop_name": "Gg. Sawo Joglo",
       "latitude": -6.217751,
@@ -3525,12 +3507,6 @@
       "longitude": 106.75968
     },
     {
-      "stop_id": "B00692P",
-      "stop_name": "Grand Palm",
-      "latitude": -6.178166,
-      "longitude": 106.71541
-    },
-    {
       "stop_id": "B00693P",
       "stop_name": "Grand Pasar Minggu",
       "latitude": -6.290648,
@@ -3889,6 +3865,12 @@
       "stop_name": "Imigrasi Kelas I Jaksel",
       "latitude": -6.273244,
       "longitude": 106.77478
+    },
+    {
+      "stop_id": "B00692P",
+      "stop_name": "Grand Palm",
+      "latitude": -6.178119,
+      "longitude": 106.714854
     },
     {
       "stop_id": "B00796P",
@@ -4477,12 +4459,6 @@
       "stop_name": "Jln. BB Utara",
       "latitude": -6.120279,
       "longitude": 106.79409
-    },
-    {
-      "stop_id": "B00919P",
-      "stop_name": "Jln. Bek Murad",
-      "latitude": -6.216717,
-      "longitude": 106.81909
     },
     {
       "stop_id": "B00923P",
@@ -8649,12 +8625,6 @@
       "longitude": 106.82229
     },
     {
-      "stop_id": "B01721P",
-      "stop_name": "Jamsostek Gatot Subroto",
-      "latitude": -6.232925,
-      "longitude": 106.82187
-    },
-    {
       "stop_id": "B01722P",
       "stop_name": "Janur Kuning Residence",
       "latitude": -6.163191,
@@ -8683,12 +8653,6 @@
       "stop_name": "Jasamarga Toll Road Maintenance",
       "latitude": -6.291584,
       "longitude": 106.8807
-    },
-    {
-      "stop_id": "B01728P",
-      "stop_name": "Jatibening 1",
-      "latitude": -6.257161,
-      "longitude": 106.94651
     },
     {
       "stop_id": "B01729P",
@@ -9099,6 +9063,12 @@
       "longitude": 106.76353
     },
     {
+      "stop_id": "B01728P",
+      "stop_name": "Jatibening 1",
+      "latitude": -6.257621,
+      "longitude": 106.941622
+    },
+    {
       "stop_id": "B01824P",
       "stop_name": "Kantor Pos Lapangan Banteng",
       "latitude": -6.16877,
@@ -9139,12 +9109,6 @@
       "stop_name": "Karet Pedurenan 1",
       "latitude": -6.221933,
       "longitude": 106.82093
-    },
-    {
-      "stop_id": "B01838P",
-      "stop_name": "Karet Tengsin",
-      "latitude": -6.20698,
-      "longitude": 106.81696
     },
     {
       "stop_id": "B01839P",
@@ -10923,12 +10887,6 @@
       "longitude": 106.90056
     },
     {
-      "stop_id": "B02173P",
-      "stop_name": "Makam Serang 1",
-      "latitude": -6.197579,
-      "longitude": 106.7351
-    },
-    {
       "stop_id": "B02174P",
       "stop_name": "Makam Serang 2",
       "latitude": -6.197506,
@@ -11041,6 +10999,12 @@
       "stop_name": "Mall Thamrin City",
       "latitude": -6.194341,
       "longitude": 106.81453
+    },
+    {
+      "stop_id": "B02173P",
+      "stop_name": "Makam Serang 1",
+      "latitude": -6.197619,
+      "longitude": 106.734422
     },
     {
       "stop_id": "B02197P",
@@ -12315,12 +12279,6 @@
       "longitude": 106.77685
     },
     {
-      "stop_id": "B02448P",
-      "stop_name": "Midi Utama H. Lebar 1",
-      "latitude": -6.2002,
-      "longitude": 106.73196
-    },
-    {
       "stop_id": "B02449P",
       "stop_name": "Midi Utama H. Lebar 2",
       "latitude": -6.200321,
@@ -12469,6 +12427,12 @@
       "stop_name": "MOI Kelapa Gading",
       "latitude": -6.15082,
       "longitude": 106.88904
+    },
+    {
+      "stop_id": "B02448P",
+      "stop_name": "Midi Utama H. Lebar 1",
+      "latitude": -6.199489,
+      "longitude": 106.732468
     },
     {
       "stop_id": "B02475P",
@@ -13725,12 +13689,6 @@
       "longitude": 106.81949
     },
     {
-      "stop_id": "B02733P",
-      "stop_name": "Pengadilan Negeri Jaksel 2",
-      "latitude": -6.280584,
-      "longitude": 106.81982
-    },
-    {
       "stop_id": "B02734P",
       "stop_name": "Pengadilan Negeri Jakut",
       "latitude": -6.126807,
@@ -13845,12 +13803,6 @@
       "longitude": 106.77931
     },
     {
-      "stop_id": "B02756P",
-      "stop_name": "Perpustakaan Umum Daerah",
-      "latitude": -6.222302,
-      "longitude": 106.83261
-    },
-    {
       "stop_id": "B02757P",
       "stop_name": "Persada Purnawira Halim",
       "latitude": -6.259498,
@@ -13921,6 +13873,12 @@
       "stop_name": "Pertigaan Dewi Sartika",
       "latitude": -6.258864,
       "longitude": 106.864131
+    },
+    {
+      "stop_id": "B02756P",
+      "stop_name": "Perpustakaan Jakarta | Nyi Ageng Serang",
+      "latitude": -6.222302,
+      "longitude": 106.83261
     },
     {
       "stop_id": "B02773P",
@@ -16539,12 +16497,6 @@
       "longitude": 106.80022
     },
     {
-      "stop_id": "P00230",
-      "stop_name": "St. Palmerah",
-      "latitude": -6.208908,
-      "longitude": 106.79706
-    },
-    {
       "stop_id": "B03301P",
       "stop_name": "Sabar Raya",
       "latitude": -6.241485,
@@ -17073,12 +17025,6 @@
       "longitude": 106.79709
     },
     {
-      "stop_id": "B03313P",
-      "stop_name": "Sarinah",
-      "latitude": -6.188081,
-      "longitude": 106.82317
-    },
-    {
       "stop_id": "B03402P",
       "stop_name": "SDN Pegangsaan Dua 06",
       "latitude": -6.17679,
@@ -17359,12 +17305,6 @@
       "stop_name": "Sbr. Binus Syahdan",
       "latitude": -6.200762,
       "longitude": 106.785
-    },
-    {
-      "stop_id": "B03461P",
-      "stop_name": "Sbr. Bona Plaza Indah",
-      "latitude": -6.30108,
-      "longitude": 106.78042
     },
     {
       "stop_id": "B03462P",
@@ -19237,12 +19177,6 @@
       "stop_name": "Sbr. Jln. Sawo I Pulo Gebang",
       "latitude": -6.210869,
       "longitude": 106.9569
-    },
-    {
-      "stop_id": "B03836P",
-      "stop_name": "Sbr. Jln. Sawo II Tomang",
-      "latitude": -6.181519,
-      "longitude": 106.80743
     },
     {
       "stop_id": "B03837P",
@@ -22359,12 +22293,6 @@
       "longitude": 106.75997
     },
     {
-      "stop_id": "B04436P",
-      "stop_name": "Sbr. SMAN 94",
-      "latitude": -6.167405,
-      "longitude": 106.70503
-    },
-    {
       "stop_id": "B04437P",
       "stop_name": "Sbr. SMAN 95",
       "latitude": -6.126402,
@@ -22375,6 +22303,12 @@
       "stop_name": "Sbr. SMK 57",
       "latitude": -6.291191,
       "longitude": 106.82342
+    },
+    {
+      "stop_id": "B04436P",
+      "stop_name": "Sbr. SMAN 94",
+      "latitude": -6.167728,
+      "longitude": 106.705008
     },
     {
       "stop_id": "B04439P",
@@ -25179,6 +25113,12 @@
       "longitude": 106.7513
     },
     {
+      "stop_id": "B05002P",
+      "stop_name": "Simpang Matraman",
+      "latitude": -6.200005,
+      "longitude": 106.85347
+    },
+    {
       "stop_id": "B05003P",
       "stop_name": "Simpang Matraman 2",
       "latitude": -6.201601,
@@ -25773,12 +25713,6 @@
       "longitude": 106.93808
     },
     {
-      "stop_id": "H00277P",
-      "stop_name": "Harmoni Arah Utara",
-      "latitude": -6.162678,
-      "longitude": 106.819663
-    },
-    {
       "stop_id": "B05116P",
       "stop_name": "Simpang Raya Condet Batu Ampar",
       "latitude": -6.28409,
@@ -25917,22 +25851,10 @@
       "longitude": 106.91493
     },
     {
-      "stop_id": "B05142P",
-      "stop_name": "Simpang Semangka I",
-      "latitude": -6.179887,
-      "longitude": 106.8059
-    },
-    {
       "stop_id": "B05143P",
       "stop_name": "Simpang Semangka II",
       "latitude": -6.179984,
       "longitude": 106.80591
-    },
-    {
-      "stop_id": "B05144P",
-      "stop_name": "Simpang Semangka III",
-      "latitude": -6.180659,
-      "longitude": 106.80608
     },
     {
       "stop_id": "B05145P",
@@ -26781,12 +26703,6 @@
       "longitude": 106.90662
     },
     {
-      "stop_id": "B05315P",
-      "stop_name": "SMKN 38",
-      "latitude": -6.181971,
-      "longitude": 106.8174
-    },
-    {
       "stop_id": "B05316P",
       "stop_name": "SMKN 4",
       "latitude": -6.141156,
@@ -27199,12 +27115,6 @@
       "stop_name": "SMPN 89",
       "latitude": -6.178359,
       "longitude": 106.78195
-    },
-    {
-      "stop_id": "B05397P",
-      "stop_name": "SMU 79",
-      "latitude": -6.225412,
-      "longitude": 106.83865
     },
     {
       "stop_id": "B05399P",
@@ -30303,12 +30213,6 @@
       "longitude": 106.85898
     },
     {
-      "stop_id": "B06076P",
-      "stop_name": "Sbr. SDN Sunter Agung 09",
-      "latitude": -6.127635,
-      "longitude": 106.85913
-    },
-    {
       "stop_id": "B06077P",
       "stop_name": "RS Dr. Sulianti Saroso",
       "latitude": -6.130291,
@@ -30781,12 +30685,6 @@
       "stop_name": "Gg. Palem II",
       "latitude": -6.324522,
       "longitude": 106.85631
-    },
-    {
-      "stop_id": "B06288P",
-      "stop_name": "Pejaten 1",
-      "latitude": -6.278228,
-      "longitude": 106.82969
     },
     {
       "stop_id": "B06289P",
@@ -31395,12 +31293,6 @@
       "longitude": 106.86721
     },
     {
-      "stop_id": "H00015C",
-      "stop_name": "BNN",
-      "latitude": -6.24651,
-      "longitude": 106.87318
-    },
-    {
       "stop_id": "H00017P",
       "stop_name": "Buaran",
       "latitude": -6.215132,
@@ -31587,12 +31479,6 @@
       "longitude": 106.823
     },
     {
-      "stop_id": "H00074P",
-      "stop_name": "Harmoni Lama",
-      "latitude": -6.165928,
-      "longitude": 106.82044
-    },
-    {
       "stop_id": "H00030P",
       "stop_name": "Cawang Sentral",
       "latitude": -6.250309,
@@ -31657,12 +31543,6 @@
       "stop_name": "Grogol",
       "latitude": -6.166824,
       "longitude": 106.78971
-    },
-    {
-      "stop_id": "H00048P",
-      "stop_name": "Dukuh Atas 2 (Archived)",
-      "latitude": -6.2033,
-      "longitude": 106.82378
     },
     {
       "stop_id": "H00082P",
@@ -31759,12 +31639,6 @@
       "stop_name": "Pancoran Arah Barat",
       "latitude": -6.241672,
       "longitude": 106.8372
-    },
-    {
-      "stop_id": "H00053P",
-      "stop_name": "Flyover Jatinegara (Archive)",
-      "latitude": -6.215175,
-      "longitude": 106.87356
     },
     {
       "stop_id": "H00100P",
@@ -32085,12 +31959,6 @@
       "longitude": 106.830472
     },
     {
-      "stop_id": "H00124P",
-      "stop_name": "Mangga Besar Lama",
-      "latitude": -6.15217,
-      "longitude": 106.81736
-    },
-    {
       "stop_id": "H00099P",
       "stop_name": "Karet",
       "latitude": -6.212457,
@@ -32235,12 +32103,6 @@
       "longitude": 106.90885
     },
     {
-      "stop_id": "H00185P",
-      "stop_name": "Pulo Gadung (Archive)",
-      "latitude": -6.183098,
-      "longitude": 106.90872
-    },
-    {
       "stop_id": "H00193P",
       "stop_name": "Rawa Buaya",
       "latitude": -6.153916,
@@ -32367,18 +32229,6 @@
       "longitude": 106.85067
     },
     {
-      "stop_id": "H00248P",
-      "stop_name": "Tipar Cakung",
-      "latitude": -6.183387,
-      "longitude": 106.92463
-    },
-    {
-      "stop_id": "H00274P",
-      "stop_name": "Tosari Lama",
-      "latitude": -6.198397,
-      "longitude": 106.82313
-    },
-    {
       "stop_id": "H00253P",
       "stop_name": "Ujung Menteng",
       "latitude": -6.189222,
@@ -32425,12 +32275,6 @@
       "stop_name": "Warung Jati",
       "latitude": -6.262364,
       "longitude": 106.82977
-    },
-    {
-      "stop_id": "H00208P",
-      "stop_name": "Sawah Besar Lama",
-      "latitude": -6.16041,
-      "longitude": 106.81922
     },
     {
       "stop_id": "B04956P",
@@ -33291,12 +33135,6 @@
       "longitude": 106.86115
     },
     {
-      "stop_id": "H00126P",
-      "stop_name": "Manggarai",
-      "latitude": -6.20888,
-      "longitude": 106.84739
-    },
-    {
       "stop_id": "H00207P",
       "stop_name": "MH Thamrin",
       "latitude": -6.188149,
@@ -33801,10 +33639,40 @@
       "longitude": 106.84675
     },
     {
-      "stop_id": "B06689P",
-      "stop_name": "Wisma Atlet Pademangan",
-      "latitude": -6.134442,
-      "longitude": 106.84675
+      "stop_id": "B06690P",
+      "stop_name": "Sbr. SDN Pademangan 03",
+      "latitude": -6.131746,
+      "longitude": 106.84567
+    },
+    {
+      "stop_id": "B06691P",
+      "stop_name": "Sbr. SDN Pademangan Timur 05 07",
+      "latitude": -6.132995,
+      "longitude": 106.84423
+    },
+    {
+      "stop_id": "B06692P",
+      "stop_name": "Ps. Pademangan Timur 1",
+      "latitude": -6.135628,
+      "longitude": 106.84374
+    },
+    {
+      "stop_id": "B06693P",
+      "stop_name": "Sbr. SMKN 23",
+      "latitude": -6.137518,
+      "longitude": 106.84278
+    },
+    {
+      "stop_id": "B06694P",
+      "stop_name": "Puskesmas Kelurahan Pademangan Timur",
+      "latitude": -6.139824,
+      "longitude": 106.84163
+    },
+    {
+      "stop_id": "B06695P",
+      "stop_name": "Gereja Rajawali",
+      "latitude": -6.142071,
+      "longitude": 106.84037
     },
     {
       "stop_id": "B06172P",
@@ -33997,12 +33865,6 @@
       "stop_name": "JPO Benyamin Sueb",
       "latitude": -6.131046135840449,
       "longitude": 106.84656635595532
-    },
-    {
-      "stop_id": "B06725P",
-      "stop_name": "Gg. Jenan",
-      "latitude": -6.286078,
-      "longitude": 106.827709
     },
     {
       "stop_id": "B06018P",
@@ -34455,12 +34317,6 @@
       "longitude": 106.808348
     },
     {
-      "stop_id": "B06749P",
-      "stop_name": "Sbr. Gg. Jenan",
-      "latitude": -6.286172,
-      "longitude": 106.827707
-    },
-    {
       "stop_id": "B00402P",
       "stop_name": "Gg. Ampera BMW Astra",
       "latitude": -6.292546,
@@ -34729,12 +34585,6 @@
       "stop_name": "Jln. Tiong",
       "latitude": -6.219243,
       "longitude": 106.81991
-    },
-    {
-      "stop_id": "H00159P",
-      "stop_name": "Pelabuhan Tanjung Priok",
-      "latitude": -6.104003,
-      "longitude": 106.880535
     },
     {
       "stop_id": "B06033P",
@@ -35133,12 +34983,6 @@
       "longitude": 106.835449
     },
     {
-      "stop_id": "H00026C",
-      "stop_name": "Kota",
-      "latitude": -6.13782,
-      "longitude": 106.81387
-    },
-    {
       "stop_id": "B06782P",
       "stop_name": "Mampang 10",
       "latitude": -6.249742,
@@ -35185,18 +35029,6 @@
       "stop_name": "Jln. Raya Inpres",
       "latitude": -6.286217,
       "longitude": 106.862878
-    },
-    {
-      "stop_id": "H00279P",
-      "stop_name": "Sawah Besar Arah Utara",
-      "latitude": -6.157418,
-      "longitude": 106.81846
-    },
-    {
-      "stop_id": "H00282P",
-      "stop_name": "Mangga Besar Arah Selatan",
-      "latitude": -6.153943,
-      "longitude": 106.817952
     },
     {
       "stop_id": "B06842P",
@@ -36057,12 +35889,6 @@
       "longitude": 106.793732
     },
     {
-      "stop_id": "B06907P",
-      "stop_name": "PIK2 Pantjoran",
-      "latitude": -6.089429,
-      "longitude": 106.741383
-    },
-    {
       "stop_id": "B01669P",
       "stop_name": "Jln. Tebet Dalam If",
       "latitude": -6.223877,
@@ -36121,12 +35947,6 @@
       "stop_name": "YP IPPI Jakarta",
       "latitude": -6.199997,
       "longitude": 106.9403
-    },
-    {
-      "stop_id": "B06918P",
-      "stop_name": "SDN 09 Pagi",
-      "latitude": -6.200781,
-      "longitude": 106.940765
     },
     {
       "stop_id": "B06919P",
@@ -37065,12 +36885,6 @@
       "longitude": 106.94787
     },
     {
-      "stop_id": "H00223P",
-      "stop_name": "Stasiun Cakung",
-      "latitude": -6.218994,
-      "longitude": 106.95269
-    },
-    {
       "stop_id": "B01515P",
       "stop_name": "Jln. Pratama I Rorotan",
       "latitude": -6.141574,
@@ -37791,12 +37605,6 @@
       "longitude": 106.87651
     },
     {
-      "stop_id": "B07147P",
-      "stop_name": "Sbr. Gg. Senggol",
-      "latitude": -6.323216,
-      "longitude": 106.87692
-    },
-    {
       "stop_id": "B07148P",
       "stop_name": "Jln. Pule",
       "latitude": -6.316598,
@@ -38359,12 +38167,6 @@
       "stop_name": "Jln. Kecapi 2",
       "latitude": -6.199739,
       "longitude": 106.937584
-    },
-    {
-      "stop_id": "P00157",
-      "stop_name": "Pasar Modern Harapan Indah",
-      "latitude": -6.168544,
-      "longitude": 106.97431
     },
     {
       "stop_id": "B07284P",
@@ -39237,12 +39039,6 @@
       "longitude": 106.814254
     },
     {
-      "stop_id": "B07459P",
-      "stop_name": "Jamsostek 2",
-      "latitude": -6.233593,
-      "longitude": 106.822976
-    },
-    {
       "stop_id": "B05792P",
       "stop_name": "TPU Rawabunga",
       "latitude": -6.224475,
@@ -39289,12 +39085,6 @@
       "stop_name": "Gedung Manggala",
       "latitude": -6.204508,
       "longitude": 106.800242
-    },
-    {
-      "stop_id": "B07460P",
-      "stop_name": "Jamsostek 3",
-      "latitude": -6.232321,
-      "longitude": 106.820842
     },
     {
       "stop_id": "B07461P",
@@ -39397,12 +39187,6 @@
       "stop_name": "Sbr. Gg. Amal IV",
       "latitude": -6.246669,
       "longitude": 106.815371
-    },
-    {
-      "stop_id": "B07484P",
-      "stop_name": "Jln. Bangka X",
-      "latitude": -6.25216,
-      "longitude": 106.814411
     },
     {
       "stop_id": "B07485P",
@@ -39531,18 +39315,6 @@
       "longitude": 106.8643
     },
     {
-      "stop_id": "H00016P",
-      "stop_name": "BTC",
-      "latitude": -6.258292,
-      "longitude": 107.02069
-    },
-    {
-      "stop_id": "H00020P",
-      "stop_name": "Bulak Kapal 2",
-      "latitude": -6.251121,
-      "longitude": 107.02366
-    },
-    {
       "stop_id": "B07512P",
       "stop_name": "Pinangsia",
       "latitude": -6.221526,
@@ -39559,12 +39331,6 @@
       "stop_name": "Simpang Klp. 3 Jagakarsa",
       "latitude": -6.330521,
       "longitude": 106.828858
-    },
-    {
-      "stop_id": "H00019P",
-      "stop_name": "Bulak Kapal 1",
-      "latitude": -6.250708,
-      "longitude": 107.02395
     },
     {
       "stop_id": "B07523P",
@@ -40053,12 +39819,6 @@
       "longitude": 106.789928
     },
     {
-      "stop_id": "B02343P",
-      "stop_name": "Masjid Jami Baiturrahman Tomang",
-      "latitude": -6.17224,
-      "longitude": 106.80335
-    },
-    {
       "stop_id": "B02355P",
       "stop_name": "Masjid Jami Nurul Islam 1",
       "latitude": -6.146381,
@@ -40173,18 +39933,6 @@
       "longitude": 106.793296
     },
     {
-      "stop_id": "B04987P",
-      "stop_name": "Simpang Mandala Timur Selatan",
-      "latitude": -6.172059,
-      "longitude": 106.801116
-    },
-    {
-      "stop_id": "B04988P",
-      "stop_name": "Simpang Mandala Utara",
-      "latitude": -6.169751,
-      "longitude": 106.801326
-    },
-    {
       "stop_id": "B05225P",
       "stop_name": "Sinabung",
       "latitude": -6.233817,
@@ -40219,12 +39967,6 @@
       "stop_name": "Tanah Pasir",
       "latitude": -6.130454,
       "longitude": 106.792621
-    },
-    {
-      "stop_id": "P00289",
-      "stop_name": "Pelabuhan Tanjung Priok",
-      "latitude": -6.104003,
-      "longitude": 106.880535
     },
     {
       "stop_id": "B06012P",
@@ -42417,12 +42159,6 @@
       "longitude": 106.774076
     },
     {
-      "stop_id": "G00308",
-      "stop_name": "Kampung Rambutan",
-      "latitude": -6.30994,
-      "longitude": 106.882186
-    },
-    {
       "stop_id": "G00329",
       "stop_name": "Cawang Cililitan",
       "latitude": -6.257743,
@@ -43329,12 +43065,6 @@
       "longitude": 106.898581
     },
     {
-      "stop_id": "G00625",
-      "stop_name": "Bermis",
-      "latitude": -6.178151,
-      "longitude": 106.89847
-    },
-    {
       "stop_id": "G00630",
       "stop_name": "Transjakarta Tanah Abang 2",
       "latitude": -6.183864,
@@ -43623,18 +43353,6 @@
       "longitude": 106.857098
     },
     {
-      "stop_id": "G00710",
-      "stop_name": "Tanah Tinggi",
-      "latitude": -6.171363,
-      "longitude": 106.852096
-    },
-    {
-      "stop_id": "G00709",
-      "stop_name": "Tanah Tinggi",
-      "latitude": -6.171371,
-      "longitude": 106.852275
-    },
-    {
       "stop_id": "G00713",
       "stop_name": "Jembatan Item",
       "latitude": -6.130964,
@@ -43717,6 +43435,18 @@
       "stop_name": "Cawang Sentral",
       "latitude": -6.250352,
       "longitude": 106.873536
+    },
+    {
+      "stop_id": "G00709",
+      "stop_name": "Tanah Tinggi",
+      "latitude": -6.171371,
+      "longitude": 106.852275
+    },
+    {
+      "stop_id": "G00625",
+      "stop_name": "Bermis",
+      "latitude": -6.178151,
+      "longitude": 106.89847
     },
     {
       "stop_id": "G00722",
@@ -44565,12 +44295,6 @@
       "longitude": 106.90048
     },
     {
-      "stop_id": "B07644P",
-      "stop_name": "SDN Pekayon 09 Pagi",
-      "latitude": -6.3419698,
-      "longitude": 106.8608039
-    },
-    {
       "stop_id": "B07646P",
       "stop_name": "Masjid Jami Imam Hanafi",
       "latitude": -6.3452744,
@@ -44673,12 +44397,6 @@
       "longitude": 106.858602
     },
     {
-      "stop_id": "B06384P",
-      "stop_name": "SDN 09 Pagi dan Petang",
-      "latitude": -6.231112,
-      "longitude": 106.771847
-    },
-    {
       "stop_id": "B07663P",
       "stop_name": "Transport Hub Dukuh Atas",
       "latitude": -6.201888,
@@ -44713,12 +44431,6 @@
       "stop_name": "Jln. Sultan Agung",
       "latitude": -6.209154,
       "longitude": 106.847721
-    },
-    {
-      "stop_id": "B07681P",
-      "stop_name": "SDN 09 Pagi dan Petang",
-      "latitude": -6.231122,
-      "longitude": 106.771981
     },
     {
       "stop_id": "B06985P",
@@ -44875,6 +44587,18 @@
       "stop_name": "Jln. Swadaya 4 Kapuk",
       "latitude": -6.14101,
       "longitude": 106.770916
+    },
+    {
+      "stop_id": "B06384P",
+      "stop_name": "SDN Grogol Selatan 09",
+      "latitude": -6.231112,
+      "longitude": 106.771847
+    },
+    {
+      "stop_id": "B07681P",
+      "stop_name": "Sbr. SDN Grogol Selatan 09",
+      "latitude": -6.231122,
+      "longitude": 106.771981
     },
     {
       "stop_id": "B07692P",
@@ -45241,12 +44965,6 @@
       "stop_name": "Sbr. Pengendapan Moch. Kahfi II",
       "latitude": -6.359476,
       "longitude": 106.8077
-    },
-    {
-      "stop_id": "B07741P",
-      "stop_name": "Pancoran 3",
-      "latitude": -6.241448,
-      "longitude": 106.835877
     },
     {
       "stop_id": "G00426",
@@ -46005,12 +45723,6 @@
       "longitude": 107.018435
     },
     {
-      "stop_id": "B07973P",
-      "stop_name": "Symphony of The Sea",
-      "latitude": -6.1223,
-      "longitude": 106.843935
-    },
-    {
       "stop_id": "B07957P",
       "stop_name": "Sbr. Kementerian PUPR",
       "latitude": -6.236633,
@@ -46047,94 +45759,10 @@
       "longitude": 106.9255233
     },
     {
-      "stop_id": "B07963P",
-      "stop_name": "Shelter Pasar Seni",
-      "latitude": -6.12554,
-      "longitude": 106.839646
-    },
-    {
-      "stop_id": "B07964P",
-      "stop_name": "Gerbang Barat",
-      "latitude": -6.128862,
-      "longitude": 106.833471
-    },
-    {
-      "stop_id": "B07965P",
-      "stop_name": "Dufan Selatan",
-      "latitude": -6.127339,
-      "longitude": 106.834006
-    },
-    {
-      "stop_id": "B07967P",
-      "stop_name": "Ecovention",
-      "latitude": -6.128268,
-      "longitude": 106.836727
-    },
-    {
-      "stop_id": "B07968P",
-      "stop_name": "Halilintar",
-      "latitude": -6.12284,
-      "longitude": 106.834262
-    },
-    {
-      "stop_id": "B07969P",
-      "stop_name": "Pantai Indah",
-      "latitude": -6.121714,
-      "longitude": 106.834394
-    },
-    {
-      "stop_id": "B07970P",
-      "stop_name": "Danau Monumen",
-      "latitude": -6.12397,
-      "longitude": 106.84024
-    },
-    {
-      "stop_id": "B07971P",
-      "stop_name": "Shelter Ocean Dream Samudra",
-      "latitude": -6.12482,
-      "longitude": 106.84176
-    },
-    {
-      "stop_id": "B07972P",
-      "stop_name": "Shelter Seaworld",
-      "latitude": -6.126699,
-      "longitude": 106.84277
-    },
-    {
-      "stop_id": "B07962P",
-      "stop_name": "Shelter Gondola",
-      "latitude": -6.125294,
-      "longitude": 106.841571
-    },
-    {
-      "stop_id": "B07966P",
-      "stop_name": "Transjakarta Ancol",
-      "latitude": -6.12723856,
-      "longitude": 106.83082978
-    },
-    {
-      "stop_id": "B07981P",
-      "stop_name": "TOD",
-      "latitude": -6.133724,
-      "longitude": 106.63553
-    },
-    {
-      "stop_id": "B07978P",
-      "stop_name": "Gerbang Timur",
-      "latitude": -6.122832,
-      "longitude": 106.84413
-    },
-    {
       "stop_id": "B01639P",
       "stop_name": "Jln. Taman Kb. Sirih",
       "latitude": -6.182679,
       "longitude": 106.816386
-    },
-    {
-      "stop_id": "B07976P",
-      "stop_name": "Mall Beach City",
-      "latitude": -6.117376,
-      "longitude": 106.858241
     },
     {
       "stop_id": "B08012P",
@@ -46147,36 +45775,6 @@
       "stop_name": "Jln. Plumpang Semper",
       "latitude": -6.130663,
       "longitude": 106.897099
-    },
-    {
-      "stop_id": "B07975P",
-      "stop_name": "Shelter Ombak Laut",
-      "latitude": -6.117245,
-      "longitude": 106.856226
-    },
-    {
-      "stop_id": "B07979P",
-      "stop_name": "Beach Pool Selatan",
-      "latitude": -6.120813,
-      "longitude": 106.847911
-    },
-    {
-      "stop_id": "B07980P",
-      "stop_name": "TransBende",
-      "latitude": -6.119298,
-      "longitude": 106.852672
-    },
-    {
-      "stop_id": "B07974P",
-      "stop_name": "Beach Pool Utara",
-      "latitude": -6.12065,
-      "longitude": 106.847853
-    },
-    {
-      "stop_id": "B07977P",
-      "stop_name": "Lagoon",
-      "latitude": -6.119833,
-      "longitude": 106.85064
     },
     {
       "stop_id": "B07989P",
@@ -46365,46 +45963,10 @@
       "longitude": 106.755321
     },
     {
-      "stop_id": "B07982P",
-      "stop_name": "ACS",
-      "latitude": -6.129259,
-      "longitude": 106.647884
-    },
-    {
       "stop_id": "B03588P",
       "stop_name": "Gereja Jemaat Kiwi",
       "latitude": -6.339041,
       "longitude": 106.87215
-    },
-    {
-      "stop_id": "B07987P",
-      "stop_name": "Terminal 1A",
-      "latitude": -6.129437,
-      "longitude": 106.656463
-    },
-    {
-      "stop_id": "B07985P",
-      "stop_name": "Kargo",
-      "latitude": -6.122869,
-      "longitude": 106.662157
-    },
-    {
-      "stop_id": "B07984P",
-      "stop_name": "Stasiun Kereta Bandara",
-      "latitude": -6.126999,
-      "longitude": 106.653183
-    },
-    {
-      "stop_id": "B07988P",
-      "stop_name": "ACD",
-      "latitude": -6.129905,
-      "longitude": 106.645687
-    },
-    {
-      "stop_id": "B07983P",
-      "stop_name": "Terminal 2",
-      "latitude": -6.12259,
-      "longitude": 106.65267
     },
     {
       "stop_id": "B08032P",
@@ -46537,48 +46099,6 @@
       "stop_name": "TIP TOP Ciputat",
       "latitude": -6.331969,
       "longitude": 106.748759
-    },
-    {
-      "stop_id": "B08054P",
-      "stop_name": "Ecomarket",
-      "latitude": -6.126352,
-      "longitude": 106.837941
-    },
-    {
-      "stop_id": "B08055P",
-      "stop_name": "Ecopark",
-      "latitude": -6.123226,
-      "longitude": 106.835371
-    },
-    {
-      "stop_id": "B08056P",
-      "stop_name": "Marina",
-      "latitude": -6.12219,
-      "longitude": 106.830067
-    },
-    {
-      "stop_id": "B08058P",
-      "stop_name": "MCD",
-      "latitude": -6.120205,
-      "longitude": 106.849975
-    },
-    {
-      "stop_id": "B08059P",
-      "stop_name": "Bande",
-      "latitude": -6.119273,
-      "longitude": 106.854699
-    },
-    {
-      "stop_id": "B08062P",
-      "stop_name": "Lagoon Selatan",
-      "latitude": -6.119851,
-      "longitude": 106.851091
-    },
-    {
-      "stop_id": "B08057P",
-      "stop_name": "Putri Duyung",
-      "latitude": -6.122595,
-      "longitude": 106.839192
     },
     {
       "stop_id": "B08063P",
@@ -46843,12 +46363,6 @@
       "stop_name": "IKEA",
       "latitude": -6.220566,
       "longitude": 106.662876
-    },
-    {
-      "stop_id": "B07986P",
-      "stop_name": "Terminal 3",
-      "latitude": -6.11963,
-      "longitude": 106.66687
     },
     {
       "stop_id": "B00789P",
@@ -47503,12 +47017,6 @@
       "stop_name": "Simpang Cipinang Muara 2",
       "latitude": -6.22324,
       "longitude": 106.89868
-    },
-    {
-      "stop_id": "B08326P",
-      "stop_name": "Terminal 1B",
-      "latitude": -6.130107,
-      "longitude": 106.654756
     },
     {
       "stop_id": "B08192P",
@@ -48219,54 +47727,6 @@
       "longitude": 106.912574
     },
     {
-      "stop_id": "B08476P",
-      "stop_name": "Kantor Kesehatan Pelabuhan 1",
-      "latitude": -6.111447,
-      "longitude": 106.875273
-    },
-    {
-      "stop_id": "B08477P",
-      "stop_name": "Satuan Angkutan Perairan",
-      "latitude": -6.110271,
-      "longitude": 106.878882
-    },
-    {
-      "stop_id": "B08478P",
-      "stop_name": "Pelni",
-      "latitude": -6.106975,
-      "longitude": 106.880753
-    },
-    {
-      "stop_id": "B08479P",
-      "stop_name": "Museum Maritim Indonesia",
-      "latitude": -6.107066,
-      "longitude": 106.883687
-    },
-    {
-      "stop_id": "B08480P",
-      "stop_name": "Simpang 8",
-      "latitude": -6.107361,
-      "longitude": 106.890358
-    },
-    {
-      "stop_id": "B08481P",
-      "stop_name": "Pelindo",
-      "latitude": -6.108735,
-      "longitude": 106.882959
-    },
-    {
-      "stop_id": "B08482P",
-      "stop_name": "KSOP Utama Tanjung Priok",
-      "latitude": -6.109693,
-      "longitude": 106.880363
-    },
-    {
-      "stop_id": "B08483P",
-      "stop_name": "Kesehatan Pelabuhan 2",
-      "latitude": -6.111592,
-      "longitude": 106.875311
-    },
-    {
       "stop_id": "B08484P",
       "stop_name": "Polsek Ciracas",
       "latitude": -6.290099,
@@ -48513,18 +47973,6 @@
       "longitude": 107.15268
     },
     {
-      "stop_id": "B08235P",
-      "stop_name": "Rukan Golf Island Blok L",
-      "latitude": -6.092104,
-      "longitude": 106.746271
-    },
-    {
-      "stop_id": "B08236P",
-      "stop_name": "Ebony 1",
-      "latitude": -6.08613,
-      "longitude": 106.73712
-    },
-    {
       "stop_id": "B08519P",
       "stop_name": "Cafe Walk",
       "latitude": -6.278034,
@@ -48543,352 +47991,10 @@
       "longitude": 107.170464
     },
     {
-      "stop_id": "B08237P",
-      "stop_name": "Ebony 2",
-      "latitude": -6.08694,
-      "longitude": 106.73285
-    },
-    {
       "stop_id": "B08548P",
       "stop_name": "Jln. Industri Raya 2",
       "latitude": -6.313811,
       "longitude": 107.141298
-    },
-    {
-      "stop_id": "B08225P",
-      "stop_name": "Shibuya",
-      "latitude": -6.038719,
-      "longitude": 106.695139
-    },
-    {
-      "stop_id": "B08227P",
-      "stop_name": "North Point",
-      "latitude": -6.050311,
-      "longitude": 106.694243
-    },
-    {
-      "stop_id": "B08228P",
-      "stop_name": "Verde",
-      "latitude": -6.05771,
-      "longitude": 106.68565
-    },
-    {
-      "stop_id": "B08229P",
-      "stop_name": "Osaka",
-      "latitude": -6.05739,
-      "longitude": 106.68057
-    },
-    {
-      "stop_id": "B08230P",
-      "stop_name": "Riverside",
-      "latitude": -6.062179,
-      "longitude": 106.689062
-    },
-    {
-      "stop_id": "B08234P",
-      "stop_name": "Central Market",
-      "latitude": -6.091779,
-      "longitude": 106.746561
-    },
-    {
-      "stop_id": "B08239P",
-      "stop_name": "Cluster Tampa",
-      "latitude": -6.065548,
-      "longitude": 106.689905
-    },
-    {
-      "stop_id": "B08240P",
-      "stop_name": "Cluster Nashville",
-      "latitude": -6.066763,
-      "longitude": 106.68993
-    },
-    {
-      "stop_id": "B08241P",
-      "stop_name": "Cluster Springville",
-      "latitude": -6.066848,
-      "longitude": 106.690039
-    },
-    {
-      "stop_id": "B08242P",
-      "stop_name": "Cluster Atlanta",
-      "latitude": -6.062965,
-      "longitude": 106.685399
-    },
-    {
-      "stop_id": "B08243P",
-      "stop_name": "Cluster Scarlet",
-      "latitude": -6.061853,
-      "longitude": 106.685256
-    },
-    {
-      "stop_id": "B08244P",
-      "stop_name": "Cluster Magenta",
-      "latitude": -6.062119,
-      "longitude": 106.685382
-    },
-    {
-      "stop_id": "B08245P",
-      "stop_name": "Cluster Cleveland - Virginia",
-      "latitude": -6.063781,
-      "longitude": 106.687437
-    },
-    {
-      "stop_id": "B08246P",
-      "stop_name": "Magenta",
-      "latitude": -6.065431,
-      "longitude": 106.689903
-    },
-    {
-      "stop_id": "B08247P",
-      "stop_name": "Osaka Residence",
-      "latitude": -6.057379,
-      "longitude": 106.68035
-    },
-    {
-      "stop_id": "B08248P",
-      "stop_name": "Euro Asia",
-      "latitude": -6.05315,
-      "longitude": 106.68351
-    },
-    {
-      "stop_id": "B08249P",
-      "stop_name": "Simprug Residences",
-      "latitude": -6.05267,
-      "longitude": 106.68675
-    },
-    {
-      "stop_id": "B08250P",
-      "stop_name": "Cluster Hawai / Longbeach / Miami",
-      "latitude": -6.047808,
-      "longitude": 106.691967
-    },
-    {
-      "stop_id": "B08251P",
-      "stop_name": "Cluster Denver / Arcadia",
-      "latitude": -6.048354,
-      "longitude": 106.690432
-    },
-    {
-      "stop_id": "B08252P",
-      "stop_name": "Cluster Florida",
-      "latitude": -6.030535,
-      "longitude": 106.637421
-    },
-    {
-      "stop_id": "B08253P",
-      "stop_name": "Cluster Alabama",
-      "latitude": -6.030451,
-      "longitude": 106.63648
-    },
-    {
-      "stop_id": "B08254P",
-      "stop_name": "Cluster Baltimore",
-      "latitude": -6.02977,
-      "longitude": 106.63612
-    },
-    {
-      "stop_id": "B08255P",
-      "stop_name": "Cluster California",
-      "latitude": -6.027984,
-      "longitude": 106.636179
-    },
-    {
-      "stop_id": "B08256P",
-      "stop_name": "Cluster Dallas",
-      "latitude": -6.024034,
-      "longitude": 106.63687
-    },
-    {
-      "stop_id": "B08257P",
-      "stop_name": "Cluster Georgia",
-      "latitude": -6.020843,
-      "longitude": 106.637498
-    },
-    {
-      "stop_id": "B08258P",
-      "stop_name": "Rukan Millennials",
-      "latitude": -6.02357,
-      "longitude": 106.63818
-    },
-    {
-      "stop_id": "B08259P",
-      "stop_name": "District Otomotif",
-      "latitude": -6.05392,
-      "longitude": 106.69838
-    },
-    {
-      "stop_id": "B08260P",
-      "stop_name": "BNI",
-      "latitude": -6.06457,
-      "longitude": 106.70019
-    },
-    {
-      "stop_id": "B08261P",
-      "stop_name": "Menara Syariah 1",
-      "latitude": -6.0657,
-      "longitude": 106.70753
-    },
-    {
-      "stop_id": "B08262P",
-      "stop_name": "Spike Airdome",
-      "latitude": -6.06484,
-      "longitude": 106.69969
-    },
-    {
-      "stop_id": "B08263P",
-      "stop_name": "Cluster Palm Spring",
-      "latitude": -6.0620561,
-      "longitude": 106.6947325
-    },
-    {
-      "stop_id": "B08264P",
-      "stop_name": "Cluster Riverside & Oranges Grove",
-      "latitude": -6.0602991,
-      "longitude": 106.6917629
-    },
-    {
-      "stop_id": "B08265P",
-      "stop_name": "Cluster San Antonio",
-      "latitude": -6.064806,
-      "longitude": 106.695294
-    },
-    {
-      "stop_id": "B08266P",
-      "stop_name": "NICE East Gate",
-      "latitude": -6.05622,
-      "longitude": 106.69413
-    },
-    {
-      "stop_id": "B08267P",
-      "stop_name": "Center Point",
-      "latitude": -6.046422,
-      "longitude": 106.695074
-    },
-    {
-      "stop_id": "B08270P",
-      "stop_name": "Galaxy",
-      "latitude": -6.049351,
-      "longitude": 106.69926
-    },
-    {
-      "stop_id": "B08271P",
-      "stop_name": "Indonesia Design District",
-      "latitude": -6.050652,
-      "longitude": 106.703511
-    },
-    {
-      "stop_id": "B08272P",
-      "stop_name": "Community Park 1",
-      "latitude": -6.05856,
-      "longitude": 106.70861
-    },
-    {
-      "stop_id": "B08273P",
-      "stop_name": "The Bund",
-      "latitude": -6.064474,
-      "longitude": 106.709286
-    },
-    {
-      "stop_id": "B08274P",
-      "stop_name": "Community Park",
-      "latitude": -6.059138,
-      "longitude": 106.708365
-    },
-    {
-      "stop_id": "B08275P",
-      "stop_name": "Senopati Villas",
-      "latitude": -6.052014,
-      "longitude": 106.704977
-    },
-    {
-      "stop_id": "B08550P",
-      "stop_name": "Universitas Tarakanita",
-      "latitude": -6.23585,
-      "longitude": 106.93051
-    },
-    {
-      "stop_id": "B08551P",
-      "stop_name": "Arista 1",
-      "latitude": -6.23799,
-      "longitude": 106.93088
-    },
-    {
-      "stop_id": "B08552P",
-      "stop_name": "Arista 2",
-      "latitude": -6.23803,
-      "longitude": 106.93102
-    },
-    {
-      "stop_id": "B08553P",
-      "stop_name": "Simpang Janur",
-      "latitude": -6.23971,
-      "longitude": 106.9307
-    },
-    {
-      "stop_id": "B08554P",
-      "stop_name": "Jln. Kelapa Muda 1",
-      "latitude": -6.23981,
-      "longitude": 106.92852
-    },
-    {
-      "stop_id": "B08555P",
-      "stop_name": "Lapangan Kp. Tipar",
-      "latitude": -6.23971,
-      "longitude": 106.9265
-    },
-    {
-      "stop_id": "B08556P",
-      "stop_name": "Jln. Mayang",
-      "latitude": -6.2395,
-      "longitude": 106.92335
-    },
-    {
-      "stop_id": "B08557P",
-      "stop_name": "TK Islam Al Muhajirin",
-      "latitude": -6.2414,
-      "longitude": 106.92276
-    },
-    {
-      "stop_id": "B08558P",
-      "stop_name": "Klp. Kuning Raya 1",
-      "latitude": -6.24403,
-      "longitude": 106.92244
-    },
-    {
-      "stop_id": "B08559P",
-      "stop_name": "Klp. Kuning Raya 2",
-      "latitude": -6.24604,
-      "longitude": 106.92357
-    },
-    {
-      "stop_id": "B08560P",
-      "stop_name": "RPTRA Ikapola",
-      "latitude": -6.24706,
-      "longitude": 106.93519
-    },
-    {
-      "stop_id": "B08561P",
-      "stop_name": "Pd. Kelapa Raya 1",
-      "latitude": -6.24434,
-      "longitude": 106.93454
-    },
-    {
-      "stop_id": "B08562P",
-      "stop_name": "Pd. Kelapa Raya 2",
-      "latitude": -6.24166,
-      "longitude": 106.93426
-    },
-    {
-      "stop_id": "B08563P",
-      "stop_name": "Pemadam 2",
-      "latitude": -6.23937,
-      "longitude": 106.9343
-    },
-    {
-      "stop_id": "B08564P",
-      "stop_name": "SMAN 91 Jakarta",
-      "latitude": -6.23944,
-      "longitude": 106.93251
     },
     {
       "stop_id": "B08565P",
@@ -48945,64 +48051,10 @@
       "longitude": 106.84584
     },
     {
-      "stop_id": "B08575P",
-      "stop_name": "Jln. Rajawali Selatan Raya",
-      "latitude": -6.14315,
-      "longitude": 106.84496
-    },
-    {
       "stop_id": "B08577P",
       "stop_name": "JIEXPO Kemayoran Pintu 2",
       "latitude": -6.14504,
       "longitude": 106.84866
-    },
-    {
-      "stop_id": "B08578P",
-      "stop_name": "Rusunawa Ujung Menteng",
-      "latitude": -6.18608,
-      "longitude": 106.97038
-    },
-    {
-      "stop_id": "B08579P",
-      "stop_name": "Raya Bekasi I",
-      "latitude": -6.19175,
-      "longitude": 106.97067
-    },
-    {
-      "stop_id": "B08580P",
-      "stop_name": "Raya Bekasi II",
-      "latitude": -6.19197,
-      "longitude": 106.97055
-    },
-    {
-      "stop_id": "B08276P",
-      "stop_name": "Rusun Rawa Bebek II",
-      "latitude": -6.20007,
-      "longitude": 106.96579
-    },
-    {
-      "stop_id": "B08277P",
-      "stop_name": "Rusun Rawa Bebek 1",
-      "latitude": -6.20009,
-      "longitude": 106.96574
-    },
-    {
-      "stop_id": "B08278P",
-      "stop_name": "Halte Metland Menteng",
-      "latitude": -6.18885,
-      "longitude": 106.96413
-    },
-    {
-      "stop_id": "B08283P",
-      "stop_name": "Taman Terpadu Pademangan",
-      "latitude": -6.14344,
-      "longitude": 106.84161
-    },
-    {
-      "stop_id": "B08284P",
-      "stop_name": "Kav. Marinir Kalimalang",
-      "latitude": -6.247975,
-      "longitude": 106.92659
     },
     {
       "stop_id": "B08569P",
@@ -49033,12 +48085,6 @@
       "stop_name": "Ps. Palmerah 1",
       "latitude": -6.207144,
       "longitude": 106.797271
-    },
-    {
-      "stop_id": "B08268P",
-      "stop_name": "Tokyo Chikusei",
-      "latitude": -6.040245,
-      "longitude": 106.692507
     },
     {
       "stop_id": "B08547P",
@@ -49185,138 +48231,6 @@
       "longitude": 106.873748
     },
     {
-      "stop_id": "B08583P",
-      "stop_name": "Pasadena",
-      "latitude": -6.06226,
-      "longitude": 106.6382
-    },
-    {
-      "stop_id": "B08584P",
-      "stop_name": "Marketing Gallery Pasadena",
-      "latitude": -6.05677,
-      "longitude": 106.64093
-    },
-    {
-      "stop_id": "B08585P",
-      "stop_name": "Tzu Chi School",
-      "latitude": -6.03399,
-      "longitude": 106.64083
-    },
-    {
-      "stop_id": "B08586P",
-      "stop_name": "District 36",
-      "latitude": -6.03055,
-      "longitude": 106.63868
-    },
-    {
-      "stop_id": "B08587P",
-      "stop_name": "Permata Hijau Residence",
-      "latitude": -6.02192,
-      "longitude": 106.6377
-    },
-    {
-      "stop_id": "B08588P",
-      "stop_name": "Bizpark",
-      "latitude": -6.01917,
-      "longitude": 106.63659
-    },
-    {
-      "stop_id": "B08589P",
-      "stop_name": "Pasir Putih Residences",
-      "latitude": -6.02786,
-      "longitude": 106.67983
-    },
-    {
-      "stop_id": "B08590P",
-      "stop_name": "Soho Manhattan",
-      "latitude": -6.02937,
-      "longitude": 106.68429
-    },
-    {
-      "stop_id": "B08591P",
-      "stop_name": "Marina Bay Loft",
-      "latitude": -6.03178,
-      "longitude": 106.68873
-    },
-    {
-      "stop_id": "B08592P",
-      "stop_name": "Pasir Putih Residences 1",
-      "latitude": -6.02837,
-      "longitude": 106.67961
-    },
-    {
-      "stop_id": "B08593P",
-      "stop_name": "Marketing Office Millenials",
-      "latitude": -6.0249,
-      "longitude": 106.63918
-    },
-    {
-      "stop_id": "B08594P",
-      "stop_name": "Rukan Millennials 1",
-      "latitude": -6.02369,
-      "longitude": 106.63836
-    },
-    {
-      "stop_id": "B08595P",
-      "stop_name": "Cluster Dallas 1",
-      "latitude": -6.02406,
-      "longitude": 106.63702
-    },
-    {
-      "stop_id": "B08596P",
-      "stop_name": "Chevalier School",
-      "latitude": -6.02591,
-      "longitude": 106.63682
-    },
-    {
-      "stop_id": "B08597P",
-      "stop_name": "Cluster California 1",
-      "latitude": -6.02772,
-      "longitude": 106.63634
-    },
-    {
-      "stop_id": "B08598P",
-      "stop_name": "Cluster Baltimore 1",
-      "latitude": -6.02967,
-      "longitude": 106.63625
-    },
-    {
-      "stop_id": "B08599P",
-      "stop_name": "Cluster Alabama 1",
-      "latitude": -6.03033,
-      "longitude": 106.63657
-    },
-    {
-      "stop_id": "B08600P",
-      "stop_name": "Cluster Florida 1",
-      "latitude": -6.0304,
-      "longitude": 106.63751
-    },
-    {
-      "stop_id": "B08601P",
-      "stop_name": "Sbr. District 36",
-      "latitude": -6.03042,
-      "longitude": 106.63864
-    },
-    {
-      "stop_id": "B08602P",
-      "stop_name": "Tzu Chi School 1",
-      "latitude": -6.03356,
-      "longitude": 106.64113
-    },
-    {
-      "stop_id": "B08603P",
-      "stop_name": "Marketing Gallery Pasadena 1",
-      "latitude": -6.05674,
-      "longitude": 106.64126
-    },
-    {
-      "stop_id": "B08604P",
-      "stop_name": "Pasadena 1",
-      "latitude": -6.06226,
-      "longitude": 106.63862
-    },
-    {
       "stop_id": "B02772P",
       "stop_name": "Pertigaan Duren Tiga Raya",
       "latitude": -6.254231,
@@ -49459,6 +48373,180 @@
       "stop_name": "Halimun 1",
       "latitude": -6.205097,
       "longitude": 106.832551
+    },
+    {
+      "stop_id": "G00710",
+      "stop_name": "Tanah Tinggi",
+      "latitude": -6.171363,
+      "longitude": 106.852096
+    },
+    {
+      "stop_id": "B06725P",
+      "stop_name": "Gg. Jenan",
+      "latitude": -6.28619,
+      "longitude": 106.827613
+    },
+    {
+      "stop_id": "B06749P",
+      "stop_name": "Sbr. Gg. Jenan",
+      "latitude": -6.286078,
+      "longitude": 106.827709
+    },
+    {
+      "stop_id": "B06076P",
+      "stop_name": "Sbr. SDN Sunter Agung 09",
+      "latitude": -6.127635,
+      "longitude": 106.85913
+    },
+    {
+      "stop_id": "B01838P",
+      "stop_name": "Karet Tengsin",
+      "latitude": -6.20698,
+      "longitude": 106.81696
+    },
+    {
+      "stop_id": "B07644P",
+      "stop_name": "SDN Pekayon 09 Pagi",
+      "latitude": -6.34197,
+      "longitude": 106.860804
+    },
+    {
+      "stop_id": "B05397P",
+      "stop_name": "SMU 79",
+      "latitude": -6.225412,
+      "longitude": 106.83865
+    },
+    {
+      "stop_id": "B07147P",
+      "stop_name": "Gg. Sopan",
+      "latitude": -6.323216,
+      "longitude": 106.87692
+    },
+    {
+      "stop_id": "B01721P",
+      "stop_name": "Jamsostek Gatot Subroto",
+      "latitude": -6.232879,
+      "longitude": 106.822007
+    },
+    {
+      "stop_id": "B08611P",
+      "stop_name": "Jln. Anggrek Rosliana VII",
+      "latitude": -6.194247,
+      "longitude": 106.792765
+    },
+    {
+      "stop_id": "B08612P",
+      "stop_name": "Ranch Market Pesanggrahan",
+      "latitude": -6.188723,
+      "longitude": 106.755809
+    },
+    {
+      "stop_id": "B07484P",
+      "stop_name": "Sbr. Jln. Bangka X",
+      "latitude": -6.25216,
+      "longitude": 106.814411
+    },
+    {
+      "stop_id": "B03313P",
+      "stop_name": "MH Thamrin 1",
+      "latitude": -6.188081,
+      "longitude": 106.82317
+    },
+    {
+      "stop_id": "B08613P",
+      "stop_name": "Gereja Advent",
+      "latitude": -6.301077,
+      "longitude": 106.84032
+    },
+    {
+      "stop_id": "B03461P",
+      "stop_name": "Sbr. Bona Plaza Indah",
+      "latitude": -6.300442,
+      "longitude": 106.779531
+    },
+    {
+      "stop_id": "B05948P",
+      "stop_name": "Klinik Budhi Medika",
+      "latitude": -6.19695,
+      "longitude": 106.73235
+    },
+    {
+      "stop_id": "B08615P",
+      "stop_name": "Polres Metro Jakarta Barat",
+      "latitude": -6.159234,
+      "longitude": 106.768836
+    },
+    {
+      "stop_id": "B08616P",
+      "stop_name": "Masjid Jami Al-Ikhlas",
+      "latitude": -6.15903,
+      "longitude": 106.78964
+    },
+    {
+      "stop_id": "B08617P",
+      "stop_name": "Jln. Empang Bahagia 4",
+      "latitude": -6.1589,
+      "longitude": 106.78724
+    },
+    {
+      "stop_id": "B08618P",
+      "stop_name": "Jln. Wijaya 1",
+      "latitude": -6.15073038,
+      "longitude": 106.77905334
+    },
+    {
+      "stop_id": "B08619P",
+      "stop_name": "Jln. Wijaya 2",
+      "latitude": -6.15063663,
+      "longitude": 106.77895499
+    },
+    {
+      "stop_id": "B08620P",
+      "stop_name": "Gg. Masjid Kota Bambu",
+      "latitude": -6.182736,
+      "longitude": 106.808205
+    },
+    {
+      "stop_id": "B08621P",
+      "stop_name": "Jln. Nurul Huda",
+      "latitude": -6.182102,
+      "longitude": 106.805556
+    },
+    {
+      "stop_id": "B08622P",
+      "stop_name": "Jln. Kota Bambu Utara IV",
+      "latitude": -6.184279,
+      "longitude": 106.805592
+    },
+    {
+      "stop_id": "B08637P",
+      "stop_name": "Rusun Ujung Menteng",
+      "latitude": -6.18648,
+      "longitude": 106.9702
+    },
+    {
+      "stop_id": "B08638P",
+      "stop_name": "Jln. Inspeksi Kanal Tim.",
+      "latitude": -6.18875,
+      "longitude": 106.97105
+    },
+    {
+      "stop_id": "B06918P",
+      "stop_name": "SDN Penggilingan 09",
+      "latitude": -6.200781,
+      "longitude": 106.940765
+    },
+    {
+      "stop_id": "B08639P",
+      "stop_name": "Jln. Raya Narogong",
+      "latitude": -6.30985,
+      "longitude": 106.984458
+    },
+    {
+      "stop_id": "B08640P",
+      "stop_name": "Batu Tulis",
+      "latitude": -6.279995,
+      "longitude": 106.860947
     }
   ]
 }

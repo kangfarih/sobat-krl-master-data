@@ -50,14 +50,14 @@
       "category": "Non-BRT",
       "direction": "Juanda dan Pantai Maju",
       "weekdays": [
+        "05:05:26",
         "05:36:53",
-        "06:05:26",
         "07:13:01",
         "07:13:19"
       ],
       "weekends": [
-        "06:17:41",
-        "06:28:01"
+        "06:17:42",
+        "06:28:03"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
       "color": "FDDB6A",
       "category": "Non-BRT",
-      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
       "weekdays": [
         "05:25:15"
       ],

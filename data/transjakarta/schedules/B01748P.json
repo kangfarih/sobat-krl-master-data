@@ -12,6 +12,7 @@
       "category": "Mikrotrans",
       "direction": "Senen dan Pulo Gadung",
       "weekdays": [
+        "05:23:51",
         "05:24:43"
       ],
       "weekends": []
@@ -25,7 +26,7 @@
       "direction": "Term. Tanjung Priok dan Term. Rawamangun",
       "weekdays": [
         "06:29:31",
-        "08:02:52"
+        "08:02:27"
       ],
       "weekends": []
     }

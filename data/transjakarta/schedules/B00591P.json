@@ -24,7 +24,7 @@
       "category": "Non-BRT",
       "direction": "Ragunan",
       "weekdays": [
-        "05:20:18"
+        "05:20:19"
       ],
       "weekends": []
     },
@@ -48,6 +48,7 @@
       "category": "Non-BRT",
       "direction": "Bundaran Senayan dan Stasiun Tebet",
       "weekdays": [
+        "05:01:14",
         "05:01:27"
       ],
       "weekends": [

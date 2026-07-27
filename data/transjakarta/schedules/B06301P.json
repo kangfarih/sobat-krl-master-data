@@ -5,14 +5,27 @@
   "longitude": 106.76795,
   "routes": [
     {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
+      "weekdays": [
+        "06:14:51",
+        "06:14:52"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "JAK.107",
       "route_short_name": "JAK.107",
       "route_long_name": "Jembatan Garden - Puri Beta",
       "color": "00609c",
       "category": "Mikrotrans",
-      "direction": "Garden",
+      "direction": "Jembatan Garden",
       "weekdays": [
-        "06:19:37"
+        "06:19:18"
       ],
       "weekends": []
     },

@@ -17,6 +17,19 @@
       "weekends": []
     },
     {
+      "route_id": "2B",
+      "route_short_name": "2B",
+      "route_long_name": "Harapan Indah - Pulo Gadung",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung dan Harapan Indah",
+      "weekdays": [
+        "05:08:56",
+        "06:22:36"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "2F",
       "route_short_name": "2F",
       "route_long_name": "Rusun Cakung Barat - Pulo Gadung",

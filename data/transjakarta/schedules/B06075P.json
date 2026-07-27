@@ -12,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "St. LRT Pegangsaan Dua dan JIS",
       "weekdays": [
-        "05:57:39",
-        "06:59:54"
+        "05:59:45",
+        "06:58:28"
       ],
       "weekends": []
     },
@@ -25,7 +25,7 @@
       "category": "Mikrotrans",
       "direction": "Kota Tua dan Waduk Papanggo",
       "weekdays": [
-        "05:12:03"
+        "05:12:08"
       ],
       "weekends": []
     },

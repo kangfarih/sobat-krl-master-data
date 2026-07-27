@@ -10,10 +10,9 @@
       "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
       "color": "00609C",
       "category": "Mikrotrans",
-      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "direction": "Harapan Baru dan Pulo Gebang",
       "weekdays": [
-        "06:06:00",
-        "07:03:18"
+        "06:11:34"
       ],
       "weekends": []
     }

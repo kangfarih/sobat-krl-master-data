@@ -5,18 +5,6 @@
   "longitude": 106.97335,
   "routes": [
     {
-      "route_id": "11B",
-      "route_short_name": "11B",
-      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
-      "color": "717092",
-      "category": "Rusun",
-      "direction": "Penggilingan dan Rusun Ujung Menteng",
-      "weekdays": [
-        "05:06:14"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "2B",
       "route_short_name": "2B",
       "route_long_name": "Harapan Indah - Pulo Gadung",
@@ -24,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "Pulo Gadung dan Harapan Indah",
       "weekdays": [
-        "05:37:20",
-        "06:42:26"
+        "05:37:57",
+        "06:51:36"
       ],
       "weekends": []
     },
@@ -35,10 +23,9 @@
       "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
       "color": "00609C",
       "category": "Mikrotrans",
-      "direction": "Pulo Gebang dan Harapan Baru via Rawa Kuning",
+      "direction": "Harapan Baru dan Pulo Gebang",
       "weekdays": [
-        "05:34:18",
-        "06:31:35"
+        "05:39:52"
       ],
       "weekends": []
     }

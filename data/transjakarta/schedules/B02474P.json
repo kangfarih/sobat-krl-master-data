@@ -12,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "St. LRT Pegangsaan Dua dan JIS",
       "weekdays": [
-        "05:39:24",
-        "05:40:11"
+        "05:38:06",
+        "05:38:44"
       ],
       "weekends": []
     },
@@ -63,7 +63,7 @@
       "direction": "Term. Tanjung Priok dan Term. Rawamangun",
       "weekdays": [
         "05:43:00",
-        "07:22:10"
+        "07:21:45"
       ],
       "weekends": []
     }

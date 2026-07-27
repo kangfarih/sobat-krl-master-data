@@ -5,6 +5,18 @@
   "longitude": 106.861909,
   "routes": [
     {
+      "route_id": "5B",
+      "route_short_name": "5B",
+      "route_long_name": "Stasiun Tebet - Bidara Cina",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Bidara Cina dan Stasiun Tebet",
+      "weekdays": [
+        "05:10:54"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "5M",
       "route_short_name": "5M",
       "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
@@ -12,7 +24,6 @@
       "category": "Non-BRT",
       "direction": "Explorer Tanah Abang dan Kampung Melayu",
       "weekdays": [
-        "05:07:00",
         "05:07:01",
         "05:07:02",
         "05:07:09"

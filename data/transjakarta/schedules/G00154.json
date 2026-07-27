@@ -40,18 +40,6 @@
       "weekends": []
     },
     {
-      "route_id": "3E",
-      "route_short_name": "3E",
-      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
-      "color": "FDDB6A",
-      "category": "Non-BRT",
-      "direction": "Sentraland Cengkareng",
-      "weekdays": [
-        "05:29:07"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "3F",
       "route_short_name": "3F",
       "route_long_name": "Kalideres - Senayan Bank Jakarta",

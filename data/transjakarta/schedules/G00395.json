@@ -31,10 +31,9 @@
       "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
       "color": "FDDB6A",
       "category": "Non-BRT",
-      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
       "weekdays": [
-        "06:09:45",
-        "06:09:46"
+        "06:22:50"
       ],
       "weekends": []
     }

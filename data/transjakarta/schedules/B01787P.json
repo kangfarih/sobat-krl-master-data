@@ -13,20 +13,7 @@
       "direction": "Stasiun Gondangdia dan Tanah Abang",
       "weekdays": [
         "05:21:33",
-        "05:35:26"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:52:20",
-        "06:22:47"
+        "05:35:08"
       ],
       "weekends": []
     },
@@ -38,8 +25,8 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:42:54",
-        "05:54:40"
+        "05:43:19",
+        "05:54:52"
       ],
       "weekends": []
     },
@@ -51,8 +38,9 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Kampung Melayu via Cikini",
       "weekdays": [
-        "06:00:51",
-        "06:08:17"
+        "05:59:53",
+        "06:00:53",
+        "06:08:18"
       ],
       "weekends": []
     },
@@ -64,7 +52,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Kebayoran",
       "weekdays": [
-        "05:46:44"
+        "05:46:53"
       ],
       "weekends": []
     },
@@ -89,7 +77,7 @@
       "direction": "Tanah Abang",
       "weekdays": [
         "06:08:14",
-        "06:24:46"
+        "06:24:38"
       ],
       "weekends": [
         "06:08:14"
@@ -101,10 +89,10 @@
       "route_long_name": "Tanah Abang - Grogol via Tawakal",
       "color": "00609C",
       "category": "Mikrotrans",
-      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "direction": "Tanah Abang dan Grogol",
       "weekdays": [
-        "05:48:20",
-        "06:01:03"
+        "06:01:59",
+        "06:02:00"
       ],
       "weekends": []
     },

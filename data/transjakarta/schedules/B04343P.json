@@ -10,7 +10,7 @@
       "route_long_name": "Jembatan Garden - Puri Beta",
       "color": "00609c",
       "category": "Mikrotrans",
-      "direction": "Garden",
+      "direction": "Jembatan Garden",
       "weekdays": [
         "05:11:52"
       ],
@@ -24,9 +24,9 @@
       "category": "Mikrotrans",
       "direction": "Taman Kota dan Budi Luhur",
       "weekdays": [
-        "05:20:16",
-        "05:56:22",
-        "07:40:21"
+        "05:20:15",
+        "05:56:20",
+        "07:40:30"
       ],
       "weekends": []
     }

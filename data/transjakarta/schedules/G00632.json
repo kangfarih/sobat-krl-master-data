@@ -5,20 +5,6 @@
   "longitude": 106.811601,
   "routes": [
     {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:00:10",
-        "05:55:08",
-        "06:25:36"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "5M",
       "route_short_name": "5M",
       "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
@@ -26,9 +12,10 @@
       "category": "Non-BRT",
       "direction": "Explorer Tanah Abang dan Kampung Melayu",
       "weekdays": [
-        "05:55:38",
-        "06:03:40",
-        "06:11:06"
+        "05:56:00",
+        "06:02:42",
+        "06:03:42",
+        "06:11:07"
       ],
       "weekends": []
     }

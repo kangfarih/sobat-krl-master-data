@@ -12,7 +12,7 @@
       "category": "BRT",
       "direction": "Galunggung via Saharjo",
       "weekdays": [
-        "05:41:52",
+        "05:41:13",
         "05:44:05",
         "06:08:11"
       ],
@@ -57,18 +57,6 @@
         "06:44:34",
         "06:49:12",
         "07:04:07"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "PRJ2",
-      "route_short_name": "PRJ2",
-      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
-      "color": "D48961",
-      "category": "BRT",
-      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
-      "weekdays": [
-        "05:09:41"
       ],
       "weekends": []
     }

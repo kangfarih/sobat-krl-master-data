@@ -5,6 +5,19 @@
   "longitude": 106.9658,
   "routes": [
     {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan",
+      "weekdays": [
+        "05:00:10",
+        "05:27:25"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "11M",
       "route_short_name": "11M",
       "route_long_name": "Rusun Rawa Bebek - Bukit Duri",

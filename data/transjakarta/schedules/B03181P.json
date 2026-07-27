@@ -22,10 +22,9 @@
       "route_long_name": "Tanah Abang - Grogol via Tawakal",
       "color": "00609C",
       "category": "Mikrotrans",
-      "direction": "Tanah Abang dan Grogol via Tawakal",
+      "direction": "Tanah Abang dan Grogol",
       "weekdays": [
-        "05:08:47",
-        "05:21:59"
+        "05:21:57"
       ],
       "weekends": []
     },

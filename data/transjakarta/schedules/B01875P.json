@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Meruya",
       "weekdays": [
-        "06:05:38"
+        "06:06:22"
       ],
       "weekends": []
     },
@@ -22,7 +22,7 @@
       "route_long_name": "Jembatan Garden - Puri Beta",
       "color": "00609c",
       "category": "Mikrotrans",
-      "direction": "Garden",
+      "direction": "Jembatan Garden",
       "weekdays": [
         "05:36:08"
       ],
@@ -61,9 +61,9 @@
       "category": "Mikrotrans",
       "direction": "Taman Kota dan Budi Luhur",
       "weekdays": [
-        "05:16:56",
-        "05:49:27",
-        "06:25:32"
+        "05:16:55",
+        "05:49:23",
+        "06:25:28"
       ],
       "weekends": []
     }

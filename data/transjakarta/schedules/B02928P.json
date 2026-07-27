@@ -18,18 +18,6 @@
       "weekends": []
     },
     {
-      "route_id": "JAK.42A",
-      "route_short_name": "JAK.42A",
-      "route_long_name": "Pondok Kelapa - Kalimalang",
-      "color": "00609C",
-      "category": "Mikrotrans",
-      "direction": "Kalimalang dan Pondok Kelapa",
-      "weekdays": [
-        "05:19:15"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "JAK.99",
       "route_short_name": "JAK.99",
       "route_long_name": "Term. Pulo Gadung - Lampiri",

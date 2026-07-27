@@ -13,8 +13,8 @@
       "direction": "Stasiun Gondangdia dan Tanah Abang",
       "weekdays": [
         "05:05:07",
-        "05:18:56",
-        "05:19:01"
+        "05:18:41",
+        "05:18:43"
       ],
       "weekends": []
     },
@@ -26,7 +26,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen via Wahid Hasyim",
       "weekdays": [
-        "05:38:16"
+        "05:38:28"
       ],
       "weekends": []
     },

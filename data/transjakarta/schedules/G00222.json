@@ -33,18 +33,6 @@
         "06:50:34"
       ],
       "weekends": []
-    },
-    {
-      "route_id": "PRJ2",
-      "route_short_name": "PRJ2",
-      "route_long_name": "Kampung Melayu - JIEXPO Kemayoran",
-      "color": "D48961",
-      "category": "BRT",
-      "direction": "JIEXPO Kemayoran dan Kampung Melayu",
-      "weekdays": [
-        "05:23:16"
-      ],
-      "weekends": []
     }
   ]
 }

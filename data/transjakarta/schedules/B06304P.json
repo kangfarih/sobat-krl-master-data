@@ -10,10 +10,10 @@
       "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
       "color": "FDDB6A",
       "category": "Non-BRT",
-      "direction": "Taman Kota dan Penjaringan viaTubagus Angke",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
       "weekdays": [
         "05:05:34",
-        "06:27:13"
+        "06:40:16"
       ],
       "weekends": []
     },
@@ -23,9 +23,9 @@
       "route_long_name": "Jembatan Garden - Puri Beta",
       "color": "00609c",
       "category": "Mikrotrans",
-      "direction": "Garden",
+      "direction": "Jembatan Garden",
       "weekdays": [
-        "06:14:19"
+        "06:13:59"
       ],
       "weekends": []
     },

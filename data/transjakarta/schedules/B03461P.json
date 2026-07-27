@@ -1,8 +1,8 @@
 {
   "stop_name": "Sbr. Bona Plaza Indah",
   "stop_id": "B03461P",
-  "latitude": -6.30108,
-  "longitude": 106.78042,
+  "latitude": -6.300442,
+  "longitude": 106.779531,
   "routes": [
     {
       "route_id": "JAK.45",

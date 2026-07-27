@@ -10,9 +10,9 @@
       "route_long_name": "Tanah Abang - Stasiun Gondangdia",
       "color": "D65E62",
       "category": "Non-BRT",
-      "direction": "Godangdia dan Tanah Abang",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
       "weekdays": [
-        "05:14:58"
+        "05:14:43"
       ],
       "weekends": []
     }

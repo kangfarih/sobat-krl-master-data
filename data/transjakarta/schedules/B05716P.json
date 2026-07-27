@@ -26,9 +26,7 @@
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
         "05:01:01",
-        "05:01:07",
-        "05:31:07",
-        "15:31:07"
+        "05:01:07"
       ],
       "weekends": [
         "05:01:01"

@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Meruya",
       "weekdays": [
-        "05:53:05"
+        "05:53:06"
       ],
       "weekends": []
     },
@@ -24,7 +24,7 @@
       "category": "Mikrotrans",
       "direction": "Puri Beta",
       "weekdays": [
-        "05:34:38"
+        "05:32:09"
       ],
       "weekends": []
     },
@@ -62,9 +62,9 @@
       "category": "Mikrotrans",
       "direction": "Taman Kota dan Budi Luhur",
       "weekdays": [
-        "06:24:27",
-        "06:56:55",
-        "07:33:04"
+        "06:24:36",
+        "06:57:00",
+        "07:33:09"
       ],
       "weekends": []
     }

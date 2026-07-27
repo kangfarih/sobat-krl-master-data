@@ -5,20 +5,6 @@
   "longitude": 106.8226,
   "routes": [
     {
-      "route_id": "ASG4",
-      "route_short_name": "ASG4",
-      "route_long_name": "PIK 2 - Juanda",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Juanda",
-      "weekdays": [
-        "08:32:36"
-      ],
-      "weekends": [
-        "15:32:36"
-      ]
-    },
-    {
       "route_id": "JAK.10",
       "route_short_name": "JAK.10",
       "route_long_name": "Tanah Abang - Kota",

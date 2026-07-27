@@ -5,19 +5,6 @@
   "longitude": 106.80068,
   "routes": [
     {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:09:26",
-        "05:39:52"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "1P",
       "route_short_name": "1P",
       "route_long_name": "Senen - Blok M",
@@ -50,8 +37,8 @@
       "category": "Non-BRT",
       "direction": "Bundaran Senayan dan Stasiun Tebet",
       "weekdays": [
-        "05:03:25",
-        "05:40:00"
+        "05:03:16",
+        "05:39:45"
       ],
       "weekends": []
     },

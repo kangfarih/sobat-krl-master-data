@@ -5,18 +5,6 @@
   "longitude": 106.705381,
   "routes": [
     {
-      "route_id": "ASG1",
-      "route_short_name": "ASG1",
-      "route_long_name": "Shelter PIK 2 - PIK Avenue via NICE",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Shuttle Pantai Indah Kapuk",
-      "weekdays": [
-        "05:36:31"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "T31",
       "route_short_name": "T31",
       "route_long_name": "PIK 2 - Blok M",

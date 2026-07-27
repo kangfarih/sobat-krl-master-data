@@ -43,18 +43,6 @@
       "weekends": []
     },
     {
-      "route_id": "2C",
-      "route_short_name": "2C",
-      "route_long_name": "Balai Kota - JIEXPO",
-      "color": "2F489C",
-      "category": "BRT",
-      "direction": "JIEXPO dan Balai Kota",
-      "weekdays": [
-        "06:17:29"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "6A",
       "route_short_name": "6A",
       "route_long_name": "Ragunan - Balai Kota via Kuningan",
@@ -75,8 +63,8 @@
       "category": "BRT",
       "direction": "Balai Kota dan Ragunan via Semanggi",
       "weekdays": [
-        "06:19:22",
-        "06:20:45"
+        "06:18:52",
+        "06:19:22"
       ],
       "weekends": []
     }

@@ -29,18 +29,6 @@
       "weekends": []
     },
     {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Blok M",
-      "weekdays": [
-        "05:47:14"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "1P",
       "route_short_name": "1P",
       "route_long_name": "Senen - Blok M",
@@ -48,8 +36,8 @@
       "category": "Non-BRT",
       "direction": "Blok M",
       "weekdays": [
-        "06:11:46",
-        "06:19:32"
+        "06:11:58",
+        "06:19:44"
       ],
       "weekends": []
     },
@@ -71,9 +59,10 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Blok M",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
-        "05:57:54"
+        "05:57:53",
+        "07:12:19"
       ],
       "weekends": []
     },

@@ -12,6 +12,7 @@
       "category": "BRT",
       "direction": "Kota",
       "weekdays": [
+        "05:44:40",
         "05:54:44"
       ],
       "weekends": []

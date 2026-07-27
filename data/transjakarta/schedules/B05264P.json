@@ -12,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Kebayoran",
       "weekdays": [
-        "06:04:46",
-        "06:18:28"
+        "06:04:55",
+        "06:18:36"
       ],
       "weekends": []
     },
@@ -25,9 +25,9 @@
       "category": "Non-BRT",
       "direction": "Jelambar dan Kebayoran Lama",
       "weekdays": [
-        "05:33:06",
-        "05:59:31",
-        "06:21:38"
+        "05:33:10",
+        "05:59:27",
+        "06:21:34"
       ],
       "weekends": []
     }

@@ -5,19 +5,6 @@
   "longitude": 106.85843,
   "routes": [
     {
-      "route_id": "12P",
-      "route_short_name": "12P",
-      "route_long_name": "St. LRT Pegangsaan Dua - JIS",
-      "color": "91BF91",
-      "category": "Non-BRT",
-      "direction": "St. LRT Pegangsaan Dua dan JIS",
-      "weekdays": [
-        "05:02:49",
-        "05:02:54"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "14B",
       "route_short_name": "14B",
       "route_long_name": "Tanjung Priok - Senen via JIS",
@@ -26,7 +13,7 @@
       "direction": "Tanjung Priok dan Senen",
       "weekdays": [
         "05:18:20",
-        "06:48:54"
+        "06:48:55"
       ],
       "weekends": []
     },

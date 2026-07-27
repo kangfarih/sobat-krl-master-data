@@ -1,5 +1,5 @@
 {
-  "count": 8243,
+  "count": 8091,
   "stops": [
     {
       "stop_id": "B00001P",
@@ -44,11 +44,6 @@
     {
       "stop_id": "B00013P",
       "stop_name": "Ahmad Yani Pisangan Baru",
-      "available": true
-    },
-    {
-      "stop_id": "B00014P",
-      "stop_name": "Airy Eco Binus",
       "available": true
     },
     {
@@ -404,6 +399,11 @@
     {
       "stop_id": "B00100P",
       "stop_name": "Baladewa Residence",
+      "available": true
+    },
+    {
+      "stop_id": "B00014P",
+      "stop_name": "Airy Eco Binus",
       "available": true
     },
     {
@@ -819,11 +819,6 @@
     {
       "stop_id": "B00126P",
       "stop_name": "Benhil PAM Jaya",
-      "available": true
-    },
-    {
-      "stop_id": "B00199P",
-      "stop_name": "Budhi Medika Meruya Utara",
       "available": true
     },
     {
@@ -1277,11 +1272,6 @@
       "available": true
     },
     {
-      "stop_id": "B00313P",
-      "stop_name": "Direktorat Jenderal Pajak",
-      "available": true
-    },
-    {
       "stop_id": "B00697P",
       "stop_name": "Green Lake City",
       "available": true
@@ -1449,11 +1439,6 @@
     {
       "stop_id": "B01995P",
       "stop_name": "Klinik Persada Sari",
-      "available": true
-    },
-    {
-      "stop_id": "B00359P",
-      "stop_name": "Flyover Karet",
       "available": true
     },
     {
@@ -1634,6 +1619,11 @@
     {
       "stop_id": "B00395P",
       "stop_name": "Gg. Aim 1",
+      "available": true
+    },
+    {
+      "stop_id": "B00313P",
+      "stop_name": "Wisma Danantara",
       "available": true
     },
     {
@@ -2357,11 +2347,6 @@
       "available": true
     },
     {
-      "stop_id": "B05948P",
-      "stop_name": "Klinik Budhi Medika",
-      "available": true
-    },
-    {
       "stop_id": "B00556P",
       "stop_name": "Gg. Sawo Joglo",
       "available": true
@@ -2937,11 +2922,6 @@
       "available": true
     },
     {
-      "stop_id": "B00692P",
-      "stop_name": "Grand Palm",
-      "available": true
-    },
-    {
       "stop_id": "B00693P",
       "stop_name": "Grand Pasar Minggu",
       "available": true
@@ -3239,6 +3219,11 @@
     {
       "stop_id": "B00794P",
       "stop_name": "Imigrasi Kelas I Jaksel",
+      "available": true
+    },
+    {
+      "stop_id": "B00692P",
+      "stop_name": "Grand Palm",
       "available": true
     },
     {
@@ -3729,11 +3714,6 @@
     {
       "stop_id": "B00917P",
       "stop_name": "Jln. BB Utara",
-      "available": true
-    },
-    {
-      "stop_id": "B00919P",
-      "stop_name": "Jln. Bek Murad",
       "available": true
     },
     {
@@ -7207,11 +7187,6 @@
       "available": true
     },
     {
-      "stop_id": "B01721P",
-      "stop_name": "Jamsostek Gatot Subroto",
-      "available": true
-    },
-    {
       "stop_id": "B01722P",
       "stop_name": "Janur Kuning Residence",
       "available": true
@@ -7234,11 +7209,6 @@
     {
       "stop_id": "B01726P",
       "stop_name": "Jasamarga Toll Road Maintenance",
-      "available": true
-    },
-    {
-      "stop_id": "B01728P",
-      "stop_name": "Jatibening 1",
       "available": true
     },
     {
@@ -7582,6 +7552,11 @@
       "available": true
     },
     {
+      "stop_id": "B01728P",
+      "stop_name": "Jatibening 1",
+      "available": true
+    },
+    {
       "stop_id": "B01824P",
       "stop_name": "Kantor Pos Lapangan Banteng",
       "available": true
@@ -7614,11 +7589,6 @@
     {
       "stop_id": "B01833P",
       "stop_name": "Karet Pedurenan 1",
-      "available": true
-    },
-    {
-      "stop_id": "B01838P",
-      "stop_name": "Karet Tengsin",
       "available": true
     },
     {
@@ -9102,11 +9072,6 @@
       "available": true
     },
     {
-      "stop_id": "B02173P",
-      "stop_name": "Makam Serang 1",
-      "available": true
-    },
-    {
       "stop_id": "B02174P",
       "stop_name": "Makam Serang 2",
       "available": true
@@ -9199,6 +9164,11 @@
     {
       "stop_id": "B02196P",
       "stop_name": "Mall Thamrin City",
+      "available": true
+    },
+    {
+      "stop_id": "B02173P",
+      "stop_name": "Makam Serang 1",
       "available": true
     },
     {
@@ -10262,11 +10232,6 @@
       "available": true
     },
     {
-      "stop_id": "B02448P",
-      "stop_name": "Midi Utama H. Lebar 1",
-      "available": true
-    },
-    {
       "stop_id": "B02449P",
       "stop_name": "Midi Utama H. Lebar 2",
       "available": true
@@ -10389,6 +10354,11 @@
     {
       "stop_id": "B02474P",
       "stop_name": "MOI Kelapa Gading",
+      "available": true
+    },
+    {
+      "stop_id": "B02448P",
+      "stop_name": "Midi Utama H. Lebar 1",
       "available": true
     },
     {
@@ -11437,11 +11407,6 @@
       "available": true
     },
     {
-      "stop_id": "B02733P",
-      "stop_name": "Pengadilan Negeri Jaksel 2",
-      "available": true
-    },
-    {
       "stop_id": "B02734P",
       "stop_name": "Pengadilan Negeri Jakut",
       "available": true
@@ -11537,11 +11502,6 @@
       "available": true
     },
     {
-      "stop_id": "B02756P",
-      "stop_name": "Perpustakaan Umum Daerah",
-      "available": true
-    },
-    {
       "stop_id": "B02757P",
       "stop_name": "Persada Purnawira Halim",
       "available": true
@@ -11599,6 +11559,11 @@
     {
       "stop_id": "B02771P",
       "stop_name": "Pertigaan Dewi Sartika",
+      "available": true
+    },
+    {
+      "stop_id": "B02756P",
+      "stop_name": "Perpustakaan Jakarta | Nyi Ageng Serang",
       "available": true
     },
     {
@@ -13782,11 +13747,6 @@
       "available": true
     },
     {
-      "stop_id": "P00230",
-      "stop_name": "St. Palmerah",
-      "available": true
-    },
-    {
       "stop_id": "B03301P",
       "stop_name": "Sabar Raya",
       "available": true
@@ -14227,11 +14187,6 @@
       "available": false
     },
     {
-      "stop_id": "B03313P",
-      "stop_name": "Sarinah",
-      "available": true
-    },
-    {
       "stop_id": "B03402P",
       "stop_name": "SDN Pegangsaan Dua 06",
       "available": true
@@ -14464,11 +14419,6 @@
     {
       "stop_id": "B03460P",
       "stop_name": "Sbr. Binus Syahdan",
-      "available": true
-    },
-    {
-      "stop_id": "B03461P",
-      "stop_name": "Sbr. Bona Plaza Indah",
       "available": true
     },
     {
@@ -16029,11 +15979,6 @@
     {
       "stop_id": "B03835P",
       "stop_name": "Sbr. Jln. Sawo I Pulo Gebang",
-      "available": true
-    },
-    {
-      "stop_id": "B03836P",
-      "stop_name": "Sbr. Jln. Sawo II Tomang",
       "available": true
     },
     {
@@ -18632,11 +18577,6 @@
       "available": true
     },
     {
-      "stop_id": "B04436P",
-      "stop_name": "Sbr. SMAN 94",
-      "available": true
-    },
-    {
       "stop_id": "B04437P",
       "stop_name": "Sbr. SMAN 95",
       "available": true
@@ -18644,6 +18584,11 @@
     {
       "stop_id": "B04438P",
       "stop_name": "Sbr. SMK 57",
+      "available": true
+    },
+    {
+      "stop_id": "B04436P",
+      "stop_name": "Sbr. SMAN 94",
       "available": true
     },
     {
@@ -20982,6 +20927,11 @@
       "available": true
     },
     {
+      "stop_id": "B05002P",
+      "stop_name": "Simpang Matraman",
+      "available": true
+    },
+    {
       "stop_id": "B05003P",
       "stop_name": "Simpang Matraman 2",
       "available": true
@@ -21477,11 +21427,6 @@
       "available": true
     },
     {
-      "stop_id": "H00277P",
-      "stop_name": "Harmoni Arah Utara",
-      "available": false
-    },
-    {
       "stop_id": "B05116P",
       "stop_name": "Simpang Raya Condet Batu Ampar",
       "available": true
@@ -21597,18 +21542,8 @@
       "available": true
     },
     {
-      "stop_id": "B05142P",
-      "stop_name": "Simpang Semangka I",
-      "available": true
-    },
-    {
       "stop_id": "B05143P",
       "stop_name": "Simpang Semangka II",
-      "available": true
-    },
-    {
-      "stop_id": "B05144P",
-      "stop_name": "Simpang Semangka III",
       "available": true
     },
     {
@@ -22317,11 +22252,6 @@
       "available": true
     },
     {
-      "stop_id": "B05315P",
-      "stop_name": "SMKN 38",
-      "available": true
-    },
-    {
       "stop_id": "B05316P",
       "stop_name": "SMKN 4",
       "available": true
@@ -22664,11 +22594,6 @@
     {
       "stop_id": "B05396P",
       "stop_name": "SMPN 89",
-      "available": true
-    },
-    {
-      "stop_id": "B05397P",
-      "stop_name": "SMU 79",
       "available": true
     },
     {
@@ -25252,11 +25177,6 @@
       "available": true
     },
     {
-      "stop_id": "B06076P",
-      "stop_name": "Sbr. SDN Sunter Agung 09",
-      "available": true
-    },
-    {
       "stop_id": "B06077P",
       "stop_name": "RS Dr. Sulianti Saroso",
       "available": true
@@ -25649,11 +25569,6 @@
     {
       "stop_id": "B06287P",
       "stop_name": "Gg. Palem II",
-      "available": true
-    },
-    {
-      "stop_id": "B06288P",
-      "stop_name": "Pejaten 1",
       "available": true
     },
     {
@@ -26162,11 +26077,6 @@
       "available": false
     },
     {
-      "stop_id": "H00015C",
-      "stop_name": "BNN",
-      "available": false
-    },
-    {
       "stop_id": "H00017P",
       "stop_name": "Buaran",
       "available": false
@@ -26322,11 +26232,6 @@
       "available": false
     },
     {
-      "stop_id": "H00074P",
-      "stop_name": "Harmoni Lama",
-      "available": false
-    },
-    {
       "stop_id": "H00030P",
       "stop_name": "Cawang Sentral",
       "available": false
@@ -26379,11 +26284,6 @@
     {
       "stop_id": "H00070P",
       "stop_name": "Grogol",
-      "available": false
-    },
-    {
-      "stop_id": "H00048P",
-      "stop_name": "Dukuh Atas 2 (Archived)",
       "available": false
     },
     {
@@ -26464,11 +26364,6 @@
     {
       "stop_id": "H00203S",
       "stop_name": "Pancoran Arah Barat",
-      "available": false
-    },
-    {
-      "stop_id": "H00053P",
-      "stop_name": "Flyover Jatinegara (Archive)",
       "available": false
     },
     {
@@ -26737,11 +26632,6 @@
       "available": false
     },
     {
-      "stop_id": "H00124P",
-      "stop_name": "Mangga Besar Lama",
-      "available": false
-    },
-    {
       "stop_id": "H00099P",
       "stop_name": "Karet",
       "available": false
@@ -26862,11 +26752,6 @@
       "available": false
     },
     {
-      "stop_id": "H00185P",
-      "stop_name": "Pulo Gadung (Archive)",
-      "available": false
-    },
-    {
       "stop_id": "H00193P",
       "stop_name": "Rawa Buaya",
       "available": false
@@ -26972,16 +26857,6 @@
       "available": false
     },
     {
-      "stop_id": "H00248P",
-      "stop_name": "Tipar Cakung",
-      "available": false
-    },
-    {
-      "stop_id": "H00274P",
-      "stop_name": "Tosari Lama",
-      "available": false
-    },
-    {
       "stop_id": "H00253P",
       "stop_name": "Ujung Menteng",
       "available": false
@@ -27019,11 +26894,6 @@
     {
       "stop_id": "H00262P",
       "stop_name": "Warung Jati",
-      "available": false
-    },
-    {
-      "stop_id": "H00208P",
-      "stop_name": "Sawah Besar Lama",
       "available": false
     },
     {
@@ -27742,11 +27612,6 @@
       "available": false
     },
     {
-      "stop_id": "H00126P",
-      "stop_name": "Manggarai",
-      "available": false
-    },
-    {
       "stop_id": "H00207P",
       "stop_name": "MH Thamrin",
       "available": false
@@ -28167,8 +28032,33 @@
       "available": true
     },
     {
-      "stop_id": "B06689P",
-      "stop_name": "Wisma Atlet Pademangan",
+      "stop_id": "B06690P",
+      "stop_name": "Sbr. SDN Pademangan 03",
+      "available": true
+    },
+    {
+      "stop_id": "B06691P",
+      "stop_name": "Sbr. SDN Pademangan Timur 05 07",
+      "available": true
+    },
+    {
+      "stop_id": "B06692P",
+      "stop_name": "Ps. Pademangan Timur 1",
+      "available": true
+    },
+    {
+      "stop_id": "B06693P",
+      "stop_name": "Sbr. SMKN 23",
+      "available": true
+    },
+    {
+      "stop_id": "B06694P",
+      "stop_name": "Puskesmas Kelurahan Pademangan Timur",
+      "available": true
+    },
+    {
+      "stop_id": "B06695P",
+      "stop_name": "Gereja Rajawali",
       "available": true
     },
     {
@@ -28329,11 +28219,6 @@
     {
       "stop_id": "B06703P",
       "stop_name": "JPO Benyamin Sueb",
-      "available": true
-    },
-    {
-      "stop_id": "B06725P",
-      "stop_name": "Gg. Jenan",
       "available": true
     },
     {
@@ -28712,11 +28597,6 @@
       "available": true
     },
     {
-      "stop_id": "B06749P",
-      "stop_name": "Sbr. Gg. Jenan",
-      "available": true
-    },
-    {
       "stop_id": "B00402P",
       "stop_name": "Gg. Ampera BMW Astra",
       "available": true
@@ -28940,11 +28820,6 @@
       "stop_id": "B05954P",
       "stop_name": "Jln. Tiong",
       "available": true
-    },
-    {
-      "stop_id": "H00159P",
-      "stop_name": "Pelabuhan Tanjung Priok",
-      "available": false
     },
     {
       "stop_id": "B06033P",
@@ -29277,11 +29152,6 @@
       "available": true
     },
     {
-      "stop_id": "H00026C",
-      "stop_name": "Kota",
-      "available": false
-    },
-    {
       "stop_id": "B06782P",
       "stop_name": "Mampang 10",
       "available": true
@@ -29320,16 +29190,6 @@
       "stop_id": "B06818P",
       "stop_name": "Jln. Raya Inpres",
       "available": true
-    },
-    {
-      "stop_id": "H00279P",
-      "stop_name": "Sawah Besar Arah Utara",
-      "available": false
-    },
-    {
-      "stop_id": "H00282P",
-      "stop_name": "Mangga Besar Arah Selatan",
-      "available": false
     },
     {
       "stop_id": "B06842P",
@@ -30047,11 +29907,6 @@
       "available": true
     },
     {
-      "stop_id": "B06907P",
-      "stop_name": "PIK2 Pantjoran",
-      "available": true
-    },
-    {
       "stop_id": "B01669P",
       "stop_name": "Jln. Tebet Dalam If",
       "available": true
@@ -30099,11 +29954,6 @@
     {
       "stop_id": "B06917P",
       "stop_name": "YP IPPI Jakarta",
-      "available": true
-    },
-    {
-      "stop_id": "B06918P",
-      "stop_name": "SDN 09 Pagi",
       "available": true
     },
     {
@@ -30887,11 +30737,6 @@
       "available": true
     },
     {
-      "stop_id": "H00223P",
-      "stop_name": "Stasiun Cakung",
-      "available": false
-    },
-    {
       "stop_id": "B01515P",
       "stop_name": "Jln. Pratama I Rorotan",
       "available": true
@@ -31492,11 +31337,6 @@
       "available": true
     },
     {
-      "stop_id": "B07147P",
-      "stop_name": "Sbr. Gg. Senggol",
-      "available": true
-    },
-    {
       "stop_id": "B07148P",
       "stop_name": "Jln. Pule",
       "available": true
@@ -31964,11 +31804,6 @@
     {
       "stop_id": "B07282P",
       "stop_name": "Jln. Kecapi 2",
-      "available": true
-    },
-    {
-      "stop_id": "P00157",
-      "stop_name": "Pasar Modern Harapan Indah",
       "available": true
     },
     {
@@ -32697,11 +32532,6 @@
       "available": true
     },
     {
-      "stop_id": "B07459P",
-      "stop_name": "Jamsostek 2",
-      "available": true
-    },
-    {
       "stop_id": "B05792P",
       "stop_name": "TPU Rawabunga",
       "available": true
@@ -32739,11 +32569,6 @@
     {
       "stop_id": "B07462P",
       "stop_name": "Gedung Manggala",
-      "available": true
-    },
-    {
-      "stop_id": "B07460P",
-      "stop_name": "Jamsostek 3",
       "available": true
     },
     {
@@ -32829,11 +32654,6 @@
     {
       "stop_id": "B07482P",
       "stop_name": "Sbr. Gg. Amal IV",
-      "available": true
-    },
-    {
-      "stop_id": "B07484P",
-      "stop_name": "Jln. Bangka X",
       "available": true
     },
     {
@@ -32942,16 +32762,6 @@
       "available": true
     },
     {
-      "stop_id": "H00016P",
-      "stop_name": "BTC",
-      "available": false
-    },
-    {
-      "stop_id": "H00020P",
-      "stop_name": "Bulak Kapal 2",
-      "available": false
-    },
-    {
       "stop_id": "B07512P",
       "stop_name": "Pinangsia",
       "available": true
@@ -32965,11 +32775,6 @@
       "stop_id": "B07503P",
       "stop_name": "Simpang Klp. 3 Jagakarsa",
       "available": true
-    },
-    {
-      "stop_id": "H00019P",
-      "stop_name": "Bulak Kapal 1",
-      "available": false
     },
     {
       "stop_id": "B07523P",
@@ -33377,11 +33182,6 @@
       "available": true
     },
     {
-      "stop_id": "B02343P",
-      "stop_name": "Masjid Jami Baiturrahman Tomang",
-      "available": true
-    },
-    {
       "stop_id": "B02355P",
       "stop_name": "Masjid Jami Nurul Islam 1",
       "available": true
@@ -33477,16 +33277,6 @@
       "available": true
     },
     {
-      "stop_id": "B04987P",
-      "stop_name": "Simpang Mandala Timur Selatan",
-      "available": true
-    },
-    {
-      "stop_id": "B04988P",
-      "stop_name": "Simpang Mandala Utara",
-      "available": true
-    },
-    {
       "stop_id": "B05225P",
       "stop_name": "Sinabung",
       "available": true
@@ -33514,11 +33304,6 @@
     {
       "stop_id": "B05674P",
       "stop_name": "Tanah Pasir",
-      "available": true
-    },
-    {
-      "stop_id": "P00289",
-      "stop_name": "Pelabuhan Tanjung Priok",
       "available": true
     },
     {
@@ -35347,11 +35132,6 @@
       "available": true
     },
     {
-      "stop_id": "G00308",
-      "stop_name": "Kampung Rambutan",
-      "available": true
-    },
-    {
       "stop_id": "G00329",
       "stop_name": "Cawang Cililitan",
       "available": true
@@ -36107,11 +35887,6 @@
       "available": true
     },
     {
-      "stop_id": "G00625",
-      "stop_name": "Bermis",
-      "available": true
-    },
-    {
       "stop_id": "G00630",
       "stop_name": "Transjakarta Tanah Abang 2",
       "available": true
@@ -36352,16 +36127,6 @@
       "available": true
     },
     {
-      "stop_id": "G00710",
-      "stop_name": "Tanah Tinggi",
-      "available": true
-    },
-    {
-      "stop_id": "G00709",
-      "stop_name": "Tanah Tinggi",
-      "available": true
-    },
-    {
       "stop_id": "G00713",
       "stop_name": "Jembatan Item",
       "available": true
@@ -36429,6 +36194,16 @@
     {
       "stop_id": "G00721",
       "stop_name": "Cawang Sentral",
+      "available": true
+    },
+    {
+      "stop_id": "G00709",
+      "stop_name": "Tanah Tinggi",
+      "available": true
+    },
+    {
+      "stop_id": "G00625",
+      "stop_name": "Bermis",
       "available": true
     },
     {
@@ -37137,11 +36912,6 @@
       "available": true
     },
     {
-      "stop_id": "B07644P",
-      "stop_name": "SDN Pekayon 09 Pagi",
-      "available": true
-    },
-    {
       "stop_id": "B07646P",
       "stop_name": "Masjid Jami Imam Hanafi",
       "available": true
@@ -37227,11 +36997,6 @@
       "available": true
     },
     {
-      "stop_id": "B06384P",
-      "stop_name": "SDN 09 Pagi dan Petang",
-      "available": true
-    },
-    {
       "stop_id": "B07663P",
       "stop_name": "Transport Hub Dukuh Atas",
       "available": false
@@ -37259,11 +37024,6 @@
     {
       "stop_id": "B07313P",
       "stop_name": "Jln. Sultan Agung",
-      "available": true
-    },
-    {
-      "stop_id": "B07681P",
-      "stop_name": "SDN 09 Pagi dan Petang",
       "available": true
     },
     {
@@ -37394,6 +37154,16 @@
     {
       "stop_id": "B07690P",
       "stop_name": "Jln. Swadaya 4 Kapuk",
+      "available": true
+    },
+    {
+      "stop_id": "B06384P",
+      "stop_name": "SDN Grogol Selatan 09",
+      "available": true
+    },
+    {
+      "stop_id": "B07681P",
+      "stop_name": "Sbr. SDN Grogol Selatan 09",
       "available": true
     },
     {
@@ -37699,11 +37469,6 @@
     {
       "stop_id": "B07729P",
       "stop_name": "Sbr. Pengendapan Moch. Kahfi II",
-      "available": true
-    },
-    {
-      "stop_id": "B07741P",
-      "stop_name": "Pancoran 3",
       "available": true
     },
     {
@@ -38337,11 +38102,6 @@
       "available": true
     },
     {
-      "stop_id": "B07973P",
-      "stop_name": "Symphony of The Sea",
-      "available": true
-    },
-    {
       "stop_id": "B07957P",
       "stop_name": "Sbr. Kementerian PUPR",
       "available": true
@@ -38372,78 +38132,8 @@
       "available": true
     },
     {
-      "stop_id": "B07963P",
-      "stop_name": "Shelter Pasar Seni",
-      "available": true
-    },
-    {
-      "stop_id": "B07964P",
-      "stop_name": "Gerbang Barat",
-      "available": true
-    },
-    {
-      "stop_id": "B07965P",
-      "stop_name": "Dufan Selatan",
-      "available": true
-    },
-    {
-      "stop_id": "B07967P",
-      "stop_name": "Ecovention",
-      "available": true
-    },
-    {
-      "stop_id": "B07968P",
-      "stop_name": "Halilintar",
-      "available": true
-    },
-    {
-      "stop_id": "B07969P",
-      "stop_name": "Pantai Indah",
-      "available": true
-    },
-    {
-      "stop_id": "B07970P",
-      "stop_name": "Danau Monumen",
-      "available": true
-    },
-    {
-      "stop_id": "B07971P",
-      "stop_name": "Shelter Ocean Dream Samudra",
-      "available": true
-    },
-    {
-      "stop_id": "B07972P",
-      "stop_name": "Shelter Seaworld",
-      "available": true
-    },
-    {
-      "stop_id": "B07962P",
-      "stop_name": "Shelter Gondola",
-      "available": true
-    },
-    {
-      "stop_id": "B07966P",
-      "stop_name": "Transjakarta Ancol",
-      "available": true
-    },
-    {
-      "stop_id": "B07981P",
-      "stop_name": "TOD",
-      "available": true
-    },
-    {
-      "stop_id": "B07978P",
-      "stop_name": "Gerbang Timur",
-      "available": true
-    },
-    {
       "stop_id": "B01639P",
       "stop_name": "Jln. Taman Kb. Sirih",
-      "available": true
-    },
-    {
-      "stop_id": "B07976P",
-      "stop_name": "Mall Beach City",
       "available": true
     },
     {
@@ -38454,31 +38144,6 @@
     {
       "stop_id": "B08013P",
       "stop_name": "Jln. Plumpang Semper",
-      "available": true
-    },
-    {
-      "stop_id": "B07975P",
-      "stop_name": "Shelter Ombak Laut",
-      "available": true
-    },
-    {
-      "stop_id": "B07979P",
-      "stop_name": "Beach Pool Selatan",
-      "available": true
-    },
-    {
-      "stop_id": "B07980P",
-      "stop_name": "TransBende",
-      "available": true
-    },
-    {
-      "stop_id": "B07974P",
-      "stop_name": "Beach Pool Utara",
-      "available": true
-    },
-    {
-      "stop_id": "B07977P",
-      "stop_name": "Lagoon",
       "available": true
     },
     {
@@ -38637,38 +38302,8 @@
       "available": true
     },
     {
-      "stop_id": "B07982P",
-      "stop_name": "ACS",
-      "available": true
-    },
-    {
       "stop_id": "B03588P",
       "stop_name": "Gereja Jemaat Kiwi",
-      "available": true
-    },
-    {
-      "stop_id": "B07987P",
-      "stop_name": "Terminal 1A",
-      "available": true
-    },
-    {
-      "stop_id": "B07985P",
-      "stop_name": "Kargo",
-      "available": true
-    },
-    {
-      "stop_id": "B07984P",
-      "stop_name": "Stasiun Kereta Bandara",
-      "available": true
-    },
-    {
-      "stop_id": "B07988P",
-      "stop_name": "ACD",
-      "available": true
-    },
-    {
-      "stop_id": "B07983P",
-      "stop_name": "Terminal 2",
       "available": true
     },
     {
@@ -38779,41 +38414,6 @@
     {
       "stop_id": "B08053P",
       "stop_name": "TIP TOP Ciputat",
-      "available": true
-    },
-    {
-      "stop_id": "B08054P",
-      "stop_name": "Ecomarket",
-      "available": true
-    },
-    {
-      "stop_id": "B08055P",
-      "stop_name": "Ecopark",
-      "available": true
-    },
-    {
-      "stop_id": "B08056P",
-      "stop_name": "Marina",
-      "available": true
-    },
-    {
-      "stop_id": "B08058P",
-      "stop_name": "MCD",
-      "available": true
-    },
-    {
-      "stop_id": "B08059P",
-      "stop_name": "Bande",
-      "available": true
-    },
-    {
-      "stop_id": "B08062P",
-      "stop_name": "Lagoon Selatan",
-      "available": true
-    },
-    {
-      "stop_id": "B08057P",
-      "stop_name": "Putri Duyung",
       "available": true
     },
     {
@@ -39034,11 +38634,6 @@
     {
       "stop_id": "B08109P",
       "stop_name": "IKEA",
-      "available": true
-    },
-    {
-      "stop_id": "B07986P",
-      "stop_name": "Terminal 3",
       "available": true
     },
     {
@@ -39584,11 +39179,6 @@
     {
       "stop_id": "B08348P",
       "stop_name": "Simpang Cipinang Muara 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08326P",
-      "stop_name": "Terminal 1B",
       "available": true
     },
     {
@@ -40182,46 +39772,6 @@
       "available": true
     },
     {
-      "stop_id": "B08476P",
-      "stop_name": "Kantor Kesehatan Pelabuhan 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08477P",
-      "stop_name": "Satuan Angkutan Perairan",
-      "available": true
-    },
-    {
-      "stop_id": "B08478P",
-      "stop_name": "Pelni",
-      "available": true
-    },
-    {
-      "stop_id": "B08479P",
-      "stop_name": "Museum Maritim Indonesia",
-      "available": true
-    },
-    {
-      "stop_id": "B08480P",
-      "stop_name": "Simpang 8",
-      "available": true
-    },
-    {
-      "stop_id": "B08481P",
-      "stop_name": "Pelindo",
-      "available": true
-    },
-    {
-      "stop_id": "B08482P",
-      "stop_name": "KSOP Utama Tanjung Priok",
-      "available": true
-    },
-    {
-      "stop_id": "B08483P",
-      "stop_name": "Kesehatan Pelabuhan 2",
-      "available": true
-    },
-    {
       "stop_id": "B08484P",
       "stop_name": "Polsek Ciracas",
       "available": true
@@ -40427,16 +39977,6 @@
       "available": true
     },
     {
-      "stop_id": "B08235P",
-      "stop_name": "Rukan Golf Island Blok L",
-      "available": true
-    },
-    {
-      "stop_id": "B08236P",
-      "stop_name": "Ebony 1",
-      "available": true
-    },
-    {
       "stop_id": "B08519P",
       "stop_name": "Cafe Walk",
       "available": true
@@ -40452,293 +39992,8 @@
       "available": true
     },
     {
-      "stop_id": "B08237P",
-      "stop_name": "Ebony 2",
-      "available": true
-    },
-    {
       "stop_id": "B08548P",
       "stop_name": "Jln. Industri Raya 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08225P",
-      "stop_name": "Shibuya",
-      "available": true
-    },
-    {
-      "stop_id": "B08227P",
-      "stop_name": "North Point",
-      "available": true
-    },
-    {
-      "stop_id": "B08228P",
-      "stop_name": "Verde",
-      "available": true
-    },
-    {
-      "stop_id": "B08229P",
-      "stop_name": "Osaka",
-      "available": true
-    },
-    {
-      "stop_id": "B08230P",
-      "stop_name": "Riverside",
-      "available": true
-    },
-    {
-      "stop_id": "B08234P",
-      "stop_name": "Central Market",
-      "available": true
-    },
-    {
-      "stop_id": "B08239P",
-      "stop_name": "Cluster Tampa",
-      "available": true
-    },
-    {
-      "stop_id": "B08240P",
-      "stop_name": "Cluster Nashville",
-      "available": true
-    },
-    {
-      "stop_id": "B08241P",
-      "stop_name": "Cluster Springville",
-      "available": true
-    },
-    {
-      "stop_id": "B08242P",
-      "stop_name": "Cluster Atlanta",
-      "available": true
-    },
-    {
-      "stop_id": "B08243P",
-      "stop_name": "Cluster Scarlet",
-      "available": true
-    },
-    {
-      "stop_id": "B08244P",
-      "stop_name": "Cluster Magenta",
-      "available": true
-    },
-    {
-      "stop_id": "B08245P",
-      "stop_name": "Cluster Cleveland - Virginia",
-      "available": true
-    },
-    {
-      "stop_id": "B08246P",
-      "stop_name": "Magenta",
-      "available": true
-    },
-    {
-      "stop_id": "B08247P",
-      "stop_name": "Osaka Residence",
-      "available": true
-    },
-    {
-      "stop_id": "B08248P",
-      "stop_name": "Euro Asia",
-      "available": true
-    },
-    {
-      "stop_id": "B08249P",
-      "stop_name": "Simprug Residences",
-      "available": true
-    },
-    {
-      "stop_id": "B08250P",
-      "stop_name": "Cluster Hawai / Longbeach / Miami",
-      "available": true
-    },
-    {
-      "stop_id": "B08251P",
-      "stop_name": "Cluster Denver / Arcadia",
-      "available": true
-    },
-    {
-      "stop_id": "B08252P",
-      "stop_name": "Cluster Florida",
-      "available": true
-    },
-    {
-      "stop_id": "B08253P",
-      "stop_name": "Cluster Alabama",
-      "available": true
-    },
-    {
-      "stop_id": "B08254P",
-      "stop_name": "Cluster Baltimore",
-      "available": true
-    },
-    {
-      "stop_id": "B08255P",
-      "stop_name": "Cluster California",
-      "available": true
-    },
-    {
-      "stop_id": "B08256P",
-      "stop_name": "Cluster Dallas",
-      "available": true
-    },
-    {
-      "stop_id": "B08257P",
-      "stop_name": "Cluster Georgia",
-      "available": true
-    },
-    {
-      "stop_id": "B08258P",
-      "stop_name": "Rukan Millennials",
-      "available": true
-    },
-    {
-      "stop_id": "B08259P",
-      "stop_name": "District Otomotif",
-      "available": true
-    },
-    {
-      "stop_id": "B08260P",
-      "stop_name": "BNI",
-      "available": true
-    },
-    {
-      "stop_id": "B08261P",
-      "stop_name": "Menara Syariah 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08262P",
-      "stop_name": "Spike Airdome",
-      "available": true
-    },
-    {
-      "stop_id": "B08263P",
-      "stop_name": "Cluster Palm Spring",
-      "available": true
-    },
-    {
-      "stop_id": "B08264P",
-      "stop_name": "Cluster Riverside & Oranges Grove",
-      "available": true
-    },
-    {
-      "stop_id": "B08265P",
-      "stop_name": "Cluster San Antonio",
-      "available": true
-    },
-    {
-      "stop_id": "B08266P",
-      "stop_name": "NICE East Gate",
-      "available": true
-    },
-    {
-      "stop_id": "B08267P",
-      "stop_name": "Center Point",
-      "available": true
-    },
-    {
-      "stop_id": "B08270P",
-      "stop_name": "Galaxy",
-      "available": true
-    },
-    {
-      "stop_id": "B08271P",
-      "stop_name": "Indonesia Design District",
-      "available": true
-    },
-    {
-      "stop_id": "B08272P",
-      "stop_name": "Community Park 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08273P",
-      "stop_name": "The Bund",
-      "available": true
-    },
-    {
-      "stop_id": "B08274P",
-      "stop_name": "Community Park",
-      "available": true
-    },
-    {
-      "stop_id": "B08275P",
-      "stop_name": "Senopati Villas",
-      "available": true
-    },
-    {
-      "stop_id": "B08550P",
-      "stop_name": "Universitas Tarakanita",
-      "available": true
-    },
-    {
-      "stop_id": "B08551P",
-      "stop_name": "Arista 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08552P",
-      "stop_name": "Arista 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08553P",
-      "stop_name": "Simpang Janur",
-      "available": true
-    },
-    {
-      "stop_id": "B08554P",
-      "stop_name": "Jln. Kelapa Muda 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08555P",
-      "stop_name": "Lapangan Kp. Tipar",
-      "available": true
-    },
-    {
-      "stop_id": "B08556P",
-      "stop_name": "Jln. Mayang",
-      "available": true
-    },
-    {
-      "stop_id": "B08557P",
-      "stop_name": "TK Islam Al Muhajirin",
-      "available": true
-    },
-    {
-      "stop_id": "B08558P",
-      "stop_name": "Klp. Kuning Raya 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08559P",
-      "stop_name": "Klp. Kuning Raya 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08560P",
-      "stop_name": "RPTRA Ikapola",
-      "available": true
-    },
-    {
-      "stop_id": "B08561P",
-      "stop_name": "Pd. Kelapa Raya 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08562P",
-      "stop_name": "Pd. Kelapa Raya 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08563P",
-      "stop_name": "Pemadam 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08564P",
-      "stop_name": "SMAN 91 Jakarta",
       "available": true
     },
     {
@@ -40787,53 +40042,8 @@
       "available": true
     },
     {
-      "stop_id": "B08575P",
-      "stop_name": "Jln. Rajawali Selatan Raya",
-      "available": true
-    },
-    {
       "stop_id": "B08577P",
       "stop_name": "JIEXPO Kemayoran Pintu 2",
-      "available": true
-    },
-    {
-      "stop_id": "B08578P",
-      "stop_name": "Rusunawa Ujung Menteng",
-      "available": true
-    },
-    {
-      "stop_id": "B08579P",
-      "stop_name": "Raya Bekasi I",
-      "available": true
-    },
-    {
-      "stop_id": "B08580P",
-      "stop_name": "Raya Bekasi II",
-      "available": true
-    },
-    {
-      "stop_id": "B08276P",
-      "stop_name": "Rusun Rawa Bebek II",
-      "available": true
-    },
-    {
-      "stop_id": "B08277P",
-      "stop_name": "Rusun Rawa Bebek 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08278P",
-      "stop_name": "Halte Metland Menteng",
-      "available": true
-    },
-    {
-      "stop_id": "B08283P",
-      "stop_name": "Taman Terpadu Pademangan",
-      "available": true
-    },
-    {
-      "stop_id": "B08284P",
-      "stop_name": "Kav. Marinir Kalimalang",
       "available": true
     },
     {
@@ -40859,11 +40069,6 @@
     {
       "stop_id": "B07315P",
       "stop_name": "Ps. Palmerah 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08268P",
-      "stop_name": "Tokyo Chikusei",
       "available": true
     },
     {
@@ -40987,116 +40192,6 @@
       "available": true
     },
     {
-      "stop_id": "B08583P",
-      "stop_name": "Pasadena",
-      "available": true
-    },
-    {
-      "stop_id": "B08584P",
-      "stop_name": "Marketing Gallery Pasadena",
-      "available": true
-    },
-    {
-      "stop_id": "B08585P",
-      "stop_name": "Tzu Chi School",
-      "available": true
-    },
-    {
-      "stop_id": "B08586P",
-      "stop_name": "District 36",
-      "available": true
-    },
-    {
-      "stop_id": "B08587P",
-      "stop_name": "Permata Hijau Residence",
-      "available": true
-    },
-    {
-      "stop_id": "B08588P",
-      "stop_name": "Bizpark",
-      "available": true
-    },
-    {
-      "stop_id": "B08589P",
-      "stop_name": "Pasir Putih Residences",
-      "available": true
-    },
-    {
-      "stop_id": "B08590P",
-      "stop_name": "Soho Manhattan",
-      "available": true
-    },
-    {
-      "stop_id": "B08591P",
-      "stop_name": "Marina Bay Loft",
-      "available": true
-    },
-    {
-      "stop_id": "B08592P",
-      "stop_name": "Pasir Putih Residences 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08593P",
-      "stop_name": "Marketing Office Millenials",
-      "available": true
-    },
-    {
-      "stop_id": "B08594P",
-      "stop_name": "Rukan Millennials 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08595P",
-      "stop_name": "Cluster Dallas 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08596P",
-      "stop_name": "Chevalier School",
-      "available": true
-    },
-    {
-      "stop_id": "B08597P",
-      "stop_name": "Cluster California 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08598P",
-      "stop_name": "Cluster Baltimore 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08599P",
-      "stop_name": "Cluster Alabama 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08600P",
-      "stop_name": "Cluster Florida 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08601P",
-      "stop_name": "Sbr. District 36",
-      "available": true
-    },
-    {
-      "stop_id": "B08602P",
-      "stop_name": "Tzu Chi School 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08603P",
-      "stop_name": "Marketing Gallery Pasadena 1",
-      "available": true
-    },
-    {
-      "stop_id": "B08604P",
-      "stop_name": "Pasadena 1",
-      "available": true
-    },
-    {
       "stop_id": "B02772P",
       "stop_name": "Pertigaan Duren Tiga Raya",
       "available": true
@@ -41214,6 +40309,151 @@
     {
       "stop_id": "B00733P",
       "stop_name": "Halimun 1",
+      "available": true
+    },
+    {
+      "stop_id": "G00710",
+      "stop_name": "Tanah Tinggi",
+      "available": true
+    },
+    {
+      "stop_id": "B06725P",
+      "stop_name": "Gg. Jenan",
+      "available": true
+    },
+    {
+      "stop_id": "B06749P",
+      "stop_name": "Sbr. Gg. Jenan",
+      "available": true
+    },
+    {
+      "stop_id": "B06076P",
+      "stop_name": "Sbr. SDN Sunter Agung 09",
+      "available": true
+    },
+    {
+      "stop_id": "B01838P",
+      "stop_name": "Karet Tengsin",
+      "available": true
+    },
+    {
+      "stop_id": "B07644P",
+      "stop_name": "SDN Pekayon 09 Pagi",
+      "available": true
+    },
+    {
+      "stop_id": "B05397P",
+      "stop_name": "SMU 79",
+      "available": true
+    },
+    {
+      "stop_id": "B07147P",
+      "stop_name": "Gg. Sopan",
+      "available": true
+    },
+    {
+      "stop_id": "B01721P",
+      "stop_name": "Jamsostek Gatot Subroto",
+      "available": true
+    },
+    {
+      "stop_id": "B08611P",
+      "stop_name": "Jln. Anggrek Rosliana VII",
+      "available": true
+    },
+    {
+      "stop_id": "B08612P",
+      "stop_name": "Ranch Market Pesanggrahan",
+      "available": true
+    },
+    {
+      "stop_id": "B07484P",
+      "stop_name": "Sbr. Jln. Bangka X",
+      "available": true
+    },
+    {
+      "stop_id": "B03313P",
+      "stop_name": "MH Thamrin 1",
+      "available": true
+    },
+    {
+      "stop_id": "B08613P",
+      "stop_name": "Gereja Advent",
+      "available": true
+    },
+    {
+      "stop_id": "B03461P",
+      "stop_name": "Sbr. Bona Plaza Indah",
+      "available": true
+    },
+    {
+      "stop_id": "B05948P",
+      "stop_name": "Klinik Budhi Medika",
+      "available": true
+    },
+    {
+      "stop_id": "B08615P",
+      "stop_name": "Polres Metro Jakarta Barat",
+      "available": true
+    },
+    {
+      "stop_id": "B08616P",
+      "stop_name": "Masjid Jami Al-Ikhlas",
+      "available": true
+    },
+    {
+      "stop_id": "B08617P",
+      "stop_name": "Jln. Empang Bahagia 4",
+      "available": true
+    },
+    {
+      "stop_id": "B08618P",
+      "stop_name": "Jln. Wijaya 1",
+      "available": true
+    },
+    {
+      "stop_id": "B08619P",
+      "stop_name": "Jln. Wijaya 2",
+      "available": true
+    },
+    {
+      "stop_id": "B08620P",
+      "stop_name": "Gg. Masjid Kota Bambu",
+      "available": true
+    },
+    {
+      "stop_id": "B08621P",
+      "stop_name": "Jln. Nurul Huda",
+      "available": true
+    },
+    {
+      "stop_id": "B08622P",
+      "stop_name": "Jln. Kota Bambu Utara IV",
+      "available": true
+    },
+    {
+      "stop_id": "B08637P",
+      "stop_name": "Rusun Ujung Menteng",
+      "available": true
+    },
+    {
+      "stop_id": "B08638P",
+      "stop_name": "Jln. Inspeksi Kanal Tim.",
+      "available": true
+    },
+    {
+      "stop_id": "B06918P",
+      "stop_name": "SDN Penggilingan 09",
+      "available": true
+    },
+    {
+      "stop_id": "B08639P",
+      "stop_name": "Jln. Raya Narogong",
+      "available": true
+    },
+    {
+      "stop_id": "B08640P",
+      "stop_name": "Batu Tulis",
       "available": true
     }
   ]

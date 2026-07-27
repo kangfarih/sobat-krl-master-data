@@ -5,6 +5,18 @@
   "longitude": 106.78223,
   "routes": [
     {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:22:38"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "JAK.53",
       "route_short_name": "JAK.53",
       "route_long_name": "Grogol - Pos Pengumben via Slipi",
@@ -12,7 +24,7 @@
       "category": "Mikrotrans",
       "direction": "Pos Pengumben dan Grogol",
       "weekdays": [
-        "08:13:50"
+        "08:13:07"
       ],
       "weekends": []
     },

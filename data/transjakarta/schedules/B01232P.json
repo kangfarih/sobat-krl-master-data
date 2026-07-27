@@ -13,21 +13,8 @@
       "direction": "Stasiun Gondangdia dan Tanah Abang",
       "weekdays": [
         "05:09:51",
-        "05:23:41",
-        "05:23:46"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:40:39",
-        "06:11:08"
+        "05:23:26",
+        "05:23:28"
       ],
       "weekends": []
     },
@@ -39,7 +26,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen via Wahid Hasyim",
       "weekdays": [
-        "05:43:01"
+        "05:43:13"
       ],
       "weekends": []
     }

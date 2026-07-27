@@ -12,9 +12,9 @@
       "category": "Non-BRT",
       "direction": "Stasiun Gondangdia dan Tanah Abang",
       "weekdays": [
-        "05:07:41",
-        "05:07:42",
-        "05:07:44"
+        "05:07:26",
+        "05:07:27",
+        "05:07:41"
       ],
       "weekends": []
     },
@@ -26,8 +26,8 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:53:19",
-        "06:05:05"
+        "05:56:00",
+        "06:05:00"
       ],
       "weekends": []
     },
@@ -39,11 +39,12 @@
       "category": "Non-BRT",
       "direction": "Explorer Tanah Abang dan Kampung Melayu",
       "weekdays": [
-        "05:05:59",
-        "05:59:15",
-        "06:03:06",
-        "06:11:08",
-        "06:18:33"
+        "05:05:41",
+        "05:58:57",
+        "06:03:09",
+        "06:09:51",
+        "06:10:51",
+        "06:18:16"
       ],
       "weekends": []
     }

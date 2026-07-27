@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Inspeksi Kanal Tim.",
+  "stop_id": "B08638P",
+  "latitude": -6.18875,
+  "longitude": 106.97105,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:35:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -89,18 +89,6 @@
       "weekends": []
     },
     {
-      "route_id": "2C",
-      "route_short_name": "2C",
-      "route_long_name": "Balai Kota - JIEXPO",
-      "color": "2F489C",
-      "category": "BRT",
-      "direction": "JIEXPO dan Balai Kota",
-      "weekdays": [
-        "05:15:17"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "7F",
       "route_short_name": "7F",
       "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",

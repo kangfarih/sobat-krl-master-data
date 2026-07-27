@@ -5,6 +5,18 @@
   "longitude": 106.808428,
   "routes": [
     {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Kota via Gerbang Pemuda",
+      "weekdays": [
+        "05:21:38"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "9",
       "route_short_name": "9",
       "route_long_name": "Pinang Ranti - Pluit",
@@ -41,7 +53,7 @@
       "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
       "weekdays": [
         "05:20:17",
-        "05:57:30"
+        "05:57:40"
       ],
       "weekends": []
     },

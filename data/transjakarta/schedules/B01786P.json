@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:34:16"
+        "05:34:26"
       ],
       "weekends": []
     },
@@ -24,10 +24,11 @@
       "category": "Non-BRT",
       "direction": "Explorer Tanah Abang dan Kampung Melayu",
       "weekdays": [
-        "05:52:03",
+        "05:51:24",
         "05:52:04",
-        "05:52:13",
-        "05:59:38"
+        "05:52:15",
+        "05:52:25",
+        "05:59:39"
       ],
       "weekends": []
     },
@@ -51,7 +52,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang",
       "weekdays": [
-        "06:16:08"
+        "06:16:00"
       ],
       "weekends": []
     },

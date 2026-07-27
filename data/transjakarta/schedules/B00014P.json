@@ -1,8 +1,8 @@
 {
   "stop_name": "Airy Eco Binus",
   "stop_id": "B00014P",
-  "latitude": -6.195282,
-  "longitude": 106.78881,
+  "latitude": -6.195119,
+  "longitude": 106.788433,
   "routes": [
     {
       "route_id": "JAK.53",
@@ -12,7 +12,7 @@
       "category": "Mikrotrans",
       "direction": "Pos Pengumben dan Grogol",
       "weekdays": [
-        "05:51:09"
+        "05:51:19"
       ],
       "weekends": []
     }

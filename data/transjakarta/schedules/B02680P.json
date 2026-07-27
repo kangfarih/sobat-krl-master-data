@@ -24,7 +24,8 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:11:01"
+        "05:10:59",
+        "05:11:02"
       ],
       "weekends": []
     },

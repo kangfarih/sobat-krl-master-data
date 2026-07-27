@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang Blok A dan Kampung Melayu",
       "weekdays": [
-        "05:46:32"
+        "05:46:02"
       ],
       "weekends": []
     },
@@ -24,9 +24,9 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Kebayoran",
       "weekdays": [
-        "05:39:15",
         "05:39:24",
-        "05:39:28"
+        "05:39:33",
+        "05:39:37"
       ],
       "weekends": []
     },

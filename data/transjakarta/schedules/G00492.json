@@ -37,18 +37,6 @@
       "weekends": []
     },
     {
-      "route_id": "10D",
-      "route_short_name": "10D",
-      "route_long_name": "Kampung Rambutan - Tanjung Priok",
-      "color": "9B1F21",
-      "category": "BRT",
-      "direction": "Tanjung Priok",
-      "weekdays": [
-        "06:45:55"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "12P",
       "route_short_name": "12P",
       "route_long_name": "St. LRT Pegangsaan Dua - JIS",
@@ -57,7 +45,7 @@
       "direction": "St. LRT Pegangsaan Dua dan JIS",
       "weekdays": [
         "05:26:40",
-        "06:26:52"
+        "06:25:26"
       ],
       "weekends": []
     },

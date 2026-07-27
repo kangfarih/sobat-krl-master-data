@@ -36,6 +36,7 @@
       "category": "Non-BRT",
       "direction": "Bundaran Senayan dan Stasiun Tebet",
       "weekdays": [
+        "05:02:00",
         "05:02:13"
       ],
       "weekends": [

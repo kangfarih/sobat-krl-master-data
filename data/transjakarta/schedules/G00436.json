@@ -12,6 +12,7 @@
       "category": "BRT",
       "direction": "Kota",
       "weekdays": [
+        "05:39:00",
         "05:49:04"
       ],
       "weekends": []
@@ -94,8 +95,8 @@
       "category": "Non-BRT",
       "direction": "Jelambar dan Kebayoran Lama",
       "weekdays": [
-        "05:36:32",
-        "05:36:45"
+        "05:36:34",
+        "05:36:46"
       ],
       "weekends": []
     },

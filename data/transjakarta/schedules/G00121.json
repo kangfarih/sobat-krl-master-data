@@ -71,7 +71,7 @@
       "category": "Non-BRT",
       "direction": "Juanda dan Jakarta International Stadium",
       "weekdays": [
-        "05:43:15",
+        "05:43:16",
         "06:02:28"
       ],
       "weekends": []
@@ -86,18 +86,6 @@
       "weekdays": [
         "08:01:32",
         "08:10:21"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "2C",
-      "route_short_name": "2C",
-      "route_long_name": "Balai Kota - JIEXPO",
-      "color": "2F489C",
-      "category": "BRT",
-      "direction": "JIEXPO dan Balai Kota",
-      "weekdays": [
-        "05:13:44"
       ],
       "weekends": []
     },

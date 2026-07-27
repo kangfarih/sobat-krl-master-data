@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Ragunan",
       "weekdays": [
-        "06:39:57"
+        "06:39:49"
       ],
       "weekends": []
     },
@@ -24,8 +24,8 @@
       "category": "Mikrotrans",
       "direction": "Lebak Bulus dan Ragunan",
       "weekdays": [
-        "05:50:52",
-        "07:01:54"
+        "05:53:35",
+        "07:04:28"
       ],
       "weekends": []
     }

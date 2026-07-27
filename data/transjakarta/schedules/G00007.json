@@ -40,8 +40,8 @@
       "category": "Non-BRT",
       "direction": "Kejaksaan Agung dan Pulo Gadung",
       "weekdays": [
-        "06:18:10",
-        "06:18:12"
+        "06:18:12",
+        "06:18:13"
       ],
       "weekends": []
     },
@@ -53,7 +53,7 @@
       "category": "Non-BRT",
       "direction": "Ragunan",
       "weekdays": [
-        "05:44:05"
+        "05:44:06"
       ],
       "weekends": []
     },
@@ -63,8 +63,9 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Pasar Minggu",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
+        "05:26:11",
         "05:26:25"
       ],
       "weekends": []

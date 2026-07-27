@@ -23,9 +23,10 @@
       "route_long_name": "Ragunan - Balai Kota via Kuningan",
       "color": "1BAC47",
       "category": "BRT",
-      "direction": "Balai Kota dan Ragunan via Kuningan",
+      "direction": "Kebon Sirih - Ragunan",
       "weekdays": [
         "05:33:55",
+        "06:46:34",
         "06:53:06"
       ],
       "weekends": []

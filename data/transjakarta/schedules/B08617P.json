@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Empang Bahagia 4",
+  "stop_id": "B08617P",
+  "latitude": -6.1589,
+  "longitude": 106.78724,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:14:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

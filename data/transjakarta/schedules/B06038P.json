@@ -5,6 +5,32 @@
   "longitude": 106.838009,
   "routes": [
     {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:21:10",
+        "05:21:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen",
+      "weekdays": [
+        "05:17:34",
+        "05:17:36"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "2P",
       "route_short_name": "2P",
       "route_long_name": "Stasiun Gondangdia - Pasar Senen",

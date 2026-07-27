@@ -24,7 +24,7 @@
       "category": "Non-BRT",
       "direction": "Meruya",
       "weekdays": [
-        "05:10:42"
+        "05:10:43"
       ],
       "weekends": []
     },
@@ -36,8 +36,8 @@
       "category": "Non-BRT",
       "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
       "weekdays": [
-        "06:06:47",
-        "06:08:31"
+        "06:06:57",
+        "06:08:41"
       ],
       "weekends": []
     },
@@ -59,9 +59,9 @@
       "route_long_name": "Kebayoran - Petamburan via Asia Afrika",
       "color": "dd6aab",
       "category": "Non-BRT",
-      "direction": "Petamburan dan Kebayoran",
+      "direction": "Petamburan dan Kebayoran via Asia Afrika",
       "weekdays": [
-        "06:03:27"
+        "06:03:38"
       ],
       "weekends": []
     }

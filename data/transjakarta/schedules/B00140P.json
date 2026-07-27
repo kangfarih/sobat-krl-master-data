@@ -18,18 +18,6 @@
       "weekends": []
     },
     {
-      "route_id": "JAK.42A",
-      "route_short_name": "JAK.42A",
-      "route_long_name": "Pondok Kelapa - Kalimalang",
-      "color": "00609C",
-      "category": "Mikrotrans",
-      "direction": "Kalimalang dan Pondok Kelapa",
-      "weekdays": [
-        "05:16:47"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "JAK.84",
       "route_short_name": "JAK.84",
       "route_long_name": "Terminal Kampung Melayu - Kapin Raya",

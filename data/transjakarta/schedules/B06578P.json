@@ -51,10 +51,11 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Pasar Minggu",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
         "05:00:10",
-        "06:00:29"
+        "06:00:28",
+        "07:14:53"
       ],
       "weekends": []
     },

@@ -23,8 +23,9 @@
       "route_long_name": "Ragunan - Balai Kota via Kuningan",
       "color": "1BAC47",
       "category": "BRT",
-      "direction": "Tosari dan Ragunan via Semanggi",
+      "direction": "Kebon Sirih - Ragunan",
       "weekdays": [
+        "05:29:06",
         "05:29:08",
         "05:29:09",
         "05:29:10"
@@ -39,10 +40,10 @@
       "category": "BRT",
       "direction": "Kebon Sirih dan Ragunan",
       "weekdays": [
+        "05:28:45",
         "05:29:10",
         "05:29:13",
-        "05:29:15",
-        "05:30:38"
+        "05:29:15"
       ],
       "weekends": []
     },
@@ -65,9 +66,10 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Blok M",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
-        "05:31:57"
+        "05:31:56",
+        "06:46:37"
       ],
       "weekends": []
     },

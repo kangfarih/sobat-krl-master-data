@@ -27,9 +27,10 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:08:10",
-        "06:12:42",
-        "06:24:28"
+        "05:08:08",
+        "05:08:11",
+        "06:15:34",
+        "06:24:33"
       ],
       "weekends": []
     },
@@ -69,7 +70,7 @@
       "category": "Mikrotrans",
       "direction": "Senen dan Pulo Gadung",
       "weekdays": [
-        "06:25:35",
+        "06:24:45",
         "06:25:47"
       ],
       "weekends": []

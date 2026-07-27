@@ -5,6 +5,18 @@
   "longitude": 106.74133,
   "routes": [
     {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Meruya",
+      "weekdays": [
+        "06:00:50"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "JAK.14",
       "route_short_name": "JAK.14",
       "route_long_name": "Tanah Abang - Meruya",

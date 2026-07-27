@@ -12,7 +12,7 @@
       "category": "Non-BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:30:09"
+        "05:30:21"
       ],
       "weekends": []
     },
@@ -24,8 +24,7 @@
       "category": "Non-BRT",
       "direction": "Tanah Abang dan Senen",
       "weekdays": [
-        "05:26:37",
-        "05:26:39"
+        "05:26:48"
       ],
       "weekends": []
     },
@@ -50,9 +49,9 @@
       "category": "Non-BRT",
       "direction": "Explorer Tanah Abang dan Kampung Melayu",
       "weekdays": [
-        "05:44:27",
         "05:44:28",
-        "05:44:37"
+        "05:44:39",
+        "05:44:47"
       ],
       "weekends": []
     }

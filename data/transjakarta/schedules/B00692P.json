@@ -1,8 +1,8 @@
 {
   "stop_name": "Grand Palm",
   "stop_id": "B00692P",
-  "latitude": -6.178166,
-  "longitude": 106.71541,
+  "latitude": -6.178119,
+  "longitude": 106.714854,
   "routes": [
     {
       "route_id": "JAK.50",

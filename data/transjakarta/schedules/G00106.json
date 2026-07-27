@@ -43,18 +43,6 @@
         "06:52:50"
       ],
       "weekends": []
-    },
-    {
-      "route_id": "PRJ3",
-      "route_short_name": "PRJ3",
-      "route_long_name": "Pulo Gadung - JIEXPO Kemayoran",
-      "color": "54659C",
-      "category": "BRT",
-      "direction": "Pulo Gadung - JIEXPO Kemayoran - Pulo Gadung",
-      "weekdays": [
-        "12:40:55"
-      ],
-      "weekends": []
     }
   ]
 }

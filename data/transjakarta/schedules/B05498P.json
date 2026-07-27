@@ -5,6 +5,19 @@
   "longitude": 106.77127,
   "routes": [
     {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
+      "weekdays": [
+        "06:04:42",
+        "06:04:43"
+      ],
+      "weekends": []
+    },
+    {
       "route_id": "JAK.56",
       "route_short_name": "JAK.56",
       "route_long_name": "Pesing - Srengseng",

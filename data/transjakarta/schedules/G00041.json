@@ -17,18 +17,6 @@
       "weekends": []
     },
     {
-      "route_id": "2C",
-      "route_short_name": "2C",
-      "route_long_name": "Balai Kota - JIEXPO",
-      "color": "2F489C",
-      "category": "BRT",
-      "direction": "JIEXPO dan Balai Kota",
-      "weekdays": [
-        "05:04:43"
-      ],
-      "weekends": []
-    },
-    {
       "route_id": "5C",
       "route_short_name": "5C",
       "route_long_name": "Cililitan - Juanda",

@@ -25,10 +25,10 @@
       "category": "BRT",
       "direction": "Kebon Sirih dan Ragunan",
       "weekdays": [
+        "05:36:30",
         "05:36:55",
         "05:36:58",
-        "05:37:00",
-        "05:38:23"
+        "05:37:00"
       ],
       "weekends": []
     },

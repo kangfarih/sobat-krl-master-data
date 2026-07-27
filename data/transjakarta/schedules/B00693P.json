@@ -35,9 +35,10 @@
       "route_long_name": "Blok M - Pasar Minggu",
       "color": "4CAC67",
       "category": "Non-BRT",
-      "direction": "Blok M",
+      "direction": "Pasar Minggu dan Blok M",
       "weekdays": [
-        "05:02:45"
+        "05:02:45",
+        "06:17:24"
       ],
       "weekends": []
     },
@@ -49,10 +50,10 @@
       "category": "Non-BRT",
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
-        "06:28:00",
+        "06:27:57",
         "06:33:52",
-        "07:50:03",
-        "17:19:47"
+        "06:49:37",
+        "07:19:55"
       ],
       "weekends": [
         "06:33:52"

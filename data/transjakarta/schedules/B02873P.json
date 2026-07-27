@@ -12,20 +12,7 @@
       "category": "Non-BRT",
       "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
       "weekdays": [
-        "05:49:31"
-      ],
-      "weekends": []
-    },
-    {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
-      "color": "D65E62",
-      "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
-      "weekdays": [
-        "05:26:45",
-        "05:26:51"
+        "05:49:41"
       ],
       "weekends": []
     },
@@ -37,8 +24,8 @@
       "category": "Non-BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:51:25",
-        "05:59:11"
+        "05:51:37",
+        "05:59:23"
       ],
       "weekends": []
     },
@@ -62,7 +49,7 @@
       "category": "Non-BRT",
       "direction": "Bundaran Senayan dan Stasiun Tebet",
       "weekdays": [
-        "05:26:52"
+        "05:26:39"
       ],
       "weekends": []
     },
@@ -74,8 +61,8 @@
       "category": "Non-BRT",
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
-        "05:26:22",
-        "06:47:51"
+        "05:26:31",
+        "06:17:43"
       ],
       "weekends": []
     }

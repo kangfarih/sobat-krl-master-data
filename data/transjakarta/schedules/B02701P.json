@@ -5,20 +5,6 @@
   "longitude": 106.82572,
   "routes": [
     {
-      "route_id": "ASG4",
-      "route_short_name": "ASG4",
-      "route_long_name": "PIK 2 - Juanda",
-      "color": "0754d2",
-      "category": "Shuttle",
-      "direction": "Juanda",
-      "weekdays": [
-        "08:34:21"
-      ],
-      "weekends": [
-        "15:34:21"
-      ]
-    },
-    {
       "route_id": "BW4",
       "route_short_name": "BW4",
       "route_long_name": "Pencakar Langit",

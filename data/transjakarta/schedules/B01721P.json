@@ -1,8 +1,8 @@
 {
   "stop_name": "Jamsostek Gatot Subroto",
   "stop_id": "B01721P",
-  "latitude": -6.232925,
-  "longitude": 106.82187,
+  "latitude": -6.232879,
+  "longitude": 106.822007,
   "routes": [
     {
       "route_id": "9D",
@@ -12,8 +12,8 @@
       "category": "Non-BRT",
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
-        "06:59:38",
-        "16:29:28"
+        "05:59:18",
+        "06:29:30"
       ],
       "weekends": []
     }

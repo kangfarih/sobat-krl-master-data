@@ -5,15 +5,14 @@
   "longitude": 106.82335,
   "routes": [
     {
-      "route_id": "1N",
-      "route_short_name": "1N",
-      "route_long_name": "Tanah Abang - Blok M",
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
       "color": "D65E62",
       "category": "Non-BRT",
-      "direction": "Bundaran Senayan dan Tanah Abang",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
       "weekdays": [
-        "05:16:41",
-        "05:16:47"
+        "05:39:57"
       ],
       "weekends": []
     },
@@ -25,8 +24,8 @@
       "category": "Non-BRT",
       "direction": "Blok M",
       "weekdays": [
-        "05:41:20",
-        "05:49:06"
+        "05:41:32",
+        "05:49:18"
       ],
       "weekends": []
     },
@@ -51,7 +50,7 @@
       "direction": "Tosari dan Pasar Minggu",
       "weekdays": [
         "05:16:28",
-        "06:37:47"
+        "06:07:39"
       ],
       "weekends": []
     }
