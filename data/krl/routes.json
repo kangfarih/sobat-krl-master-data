@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T22:47:08.412Z",
+  "lastUpdated": "2026-07-28T22:48:28.483Z",
   "count": 1192,
   "routes": [
     {
@@ -85273,6 +85273,11 @@
           "station_id": "SDM",
           "station_name": "SUDIMARA",
           "time": "16:47:00"
+        },
+        {
+          "station_id": "RU",
+          "station_name": "RAWA BUNTU",
+          "time": "16:52:00"
         },
         {
           "station_id": "SRP",
