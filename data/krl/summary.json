@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-07T01:14:13.376Z",
+  "lastUpdated": "2026-08-07T03:48:49.076Z",
   "stationCount": 111,
   "routeCount": 1192,
   "scheduleCount": 17463,
-  "errorCount": 1,
-  "failedStationCount": 1
+  "errorCount": 0,
+  "failedStationCount": 0
 }
