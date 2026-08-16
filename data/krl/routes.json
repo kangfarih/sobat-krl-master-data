@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T22:08:29.356Z",
-  "count": 1192,
+  "lastUpdated": "2026-08-16T22:00:27.999Z",
+  "count": 1196,
   "routes": [
     {
       "train_id": "2200",
@@ -101331,6 +101331,80 @@
       ]
     },
     {
+      "train_id": "KP/731A",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "color": "#E30A16",
+      "stations": [
+        {
+          "station_id": "PL",
+          "station_name": "PALUR",
+          "time": "07:40:00"
+        },
+        {
+          "station_id": "SK",
+          "station_name": "SOLO JEBRES",
+          "time": "07:47:00"
+        },
+        {
+          "station_id": "SLO",
+          "station_name": "SOLO BALAPAN",
+          "time": "07:52:00"
+        },
+        {
+          "station_id": "PWS",
+          "station_name": "PURWOSARI",
+          "time": "07:56:00"
+        },
+        {
+          "station_id": "GW",
+          "station_name": "GAWOK",
+          "time": "08:03:00"
+        },
+        {
+          "station_id": "DL",
+          "station_name": "DELANGGU",
+          "time": "08:09:00"
+        },
+        {
+          "station_id": "CE",
+          "station_name": "CEPER",
+          "time": "08:16:00"
+        },
+        {
+          "station_id": "KT",
+          "station_name": "KLATEN",
+          "time": "08:25:00"
+        },
+        {
+          "station_id": "SWT",
+          "station_name": "SROWOT",
+          "time": "08:32:00"
+        },
+        {
+          "station_id": "BBN",
+          "station_name": "BRAMBANAN",
+          "time": "08:38:00"
+        },
+        {
+          "station_id": "MGW",
+          "station_name": "MAGUWO",
+          "time": "08:46:00"
+        },
+        {
+          "station_id": "LPN",
+          "station_name": "LEMPUYANGAN",
+          "time": "08:53:00"
+        },
+        {
+          "station_id": "YK",
+          "station_name": "YOGYAKARTA",
+          "time": "08:57:00"
+        }
+      ]
+    },
+    {
       "train_id": "722",
       "ka_name": "COMMUTER LINE YOGYAKARTA",
       "route_name": "YOGYAKARTA-PALUR",
@@ -101401,6 +101475,80 @@
           "station_id": "PL",
           "station_name": "PALUR",
           "time": "10:12:00"
+        }
+      ]
+    },
+    {
+      "train_id": "KP/732A",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "YOGYAKARTA-PALUR",
+      "dest": "PALUR",
+      "color": "#E30A16",
+      "stations": [
+        {
+          "station_id": "YK",
+          "station_name": "YOGYAKARTA",
+          "time": "09:38:00"
+        },
+        {
+          "station_id": "LPN",
+          "station_name": "LEMPUYANGAN",
+          "time": "09:43:00"
+        },
+        {
+          "station_id": "MGW",
+          "station_name": "MAGUWO",
+          "time": "09:50:00"
+        },
+        {
+          "station_id": "BBN",
+          "station_name": "BRAMBANAN",
+          "time": "09:58:00"
+        },
+        {
+          "station_id": "SWT",
+          "station_name": "SROWOT",
+          "time": "10:04:00"
+        },
+        {
+          "station_id": "KT",
+          "station_name": "KLATEN",
+          "time": "10:11:00"
+        },
+        {
+          "station_id": "CE",
+          "station_name": "CEPER",
+          "time": "10:20:00"
+        },
+        {
+          "station_id": "DL",
+          "station_name": "DELANGGU",
+          "time": "10:27:00"
+        },
+        {
+          "station_id": "GW",
+          "station_name": "GAWOK",
+          "time": "10:33:00"
+        },
+        {
+          "station_id": "PWS",
+          "station_name": "PURWOSARI",
+          "time": "10:40:00"
+        },
+        {
+          "station_id": "SLO",
+          "station_name": "SOLO BALAPAN",
+          "time": "10:45:00"
+        },
+        {
+          "station_id": "SK",
+          "station_name": "SOLO JEBRES",
+          "time": "10:50:00"
+        },
+        {
+          "station_id": "PL",
+          "station_name": "PALUR",
+          "time": "10:55:00"
         }
       ]
     },
@@ -101627,6 +101775,80 @@
       ]
     },
     {
+      "train_id": "733F",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "color": "#E30A16",
+      "stations": [
+        {
+          "station_id": "PL",
+          "station_name": "PALUR",
+          "time": "11:07:00"
+        },
+        {
+          "station_id": "SK",
+          "station_name": "SOLO JEBRES",
+          "time": "11:13:00"
+        },
+        {
+          "station_id": "SLO",
+          "station_name": "SOLO BALAPAN",
+          "time": "11:19:00"
+        },
+        {
+          "station_id": "PWS",
+          "station_name": "PURWOSARI",
+          "time": "11:24:00"
+        },
+        {
+          "station_id": "GW",
+          "station_name": "GAWOK",
+          "time": "11:42:00"
+        },
+        {
+          "station_id": "DL",
+          "station_name": "DELANGGU",
+          "time": "11:49:00"
+        },
+        {
+          "station_id": "CE",
+          "station_name": "CEPER",
+          "time": "11:56:00"
+        },
+        {
+          "station_id": "KT",
+          "station_name": "KLATEN",
+          "time": "12:05:00"
+        },
+        {
+          "station_id": "SWT",
+          "station_name": "SROWOT",
+          "time": "12:12:00"
+        },
+        {
+          "station_id": "BBN",
+          "station_name": "BRAMBANAN",
+          "time": "12:19:00"
+        },
+        {
+          "station_id": "MGW",
+          "station_name": "MAGUWO",
+          "time": "12:28:00"
+        },
+        {
+          "station_id": "LPN",
+          "station_name": "LEMPUYANGAN",
+          "time": "12:37:00"
+        },
+        {
+          "station_id": "YK",
+          "station_name": "YOGYAKARTA",
+          "time": "12:41:00"
+        }
+      ]
+    },
+    {
       "train_id": "724",
       "ka_name": "COMMUTER LINE YOGYAKARTA",
       "route_name": "YOGYAKARTA-PALUR",
@@ -101697,6 +101919,80 @@
           "station_id": "PL",
           "station_name": "PALUR",
           "time": "13:30:00"
+        }
+      ]
+    },
+    {
+      "train_id": "713",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "color": "#E30A16",
+      "stations": [
+        {
+          "station_id": "PL",
+          "station_name": "PALUR",
+          "time": "12:10:00"
+        },
+        {
+          "station_id": "SK",
+          "station_name": "SOLO JEBRES",
+          "time": "12:16:00"
+        },
+        {
+          "station_id": "SLO",
+          "station_name": "SOLO BALAPAN",
+          "time": "12:23:00"
+        },
+        {
+          "station_id": "PWS",
+          "station_name": "PURWOSARI",
+          "time": "12:28:00"
+        },
+        {
+          "station_id": "GW",
+          "station_name": "GAWOK",
+          "time": "12:36:00"
+        },
+        {
+          "station_id": "DL",
+          "station_name": "DELANGGU",
+          "time": "12:42:00"
+        },
+        {
+          "station_id": "CE",
+          "station_name": "CEPER",
+          "time": "12:49:00"
+        },
+        {
+          "station_id": "KT",
+          "station_name": "KLATEN",
+          "time": "12:58:00"
+        },
+        {
+          "station_id": "SWT",
+          "station_name": "SROWOT",
+          "time": "13:05:00"
+        },
+        {
+          "station_id": "BBN",
+          "station_name": "BRAMBANAN",
+          "time": "13:11:00"
+        },
+        {
+          "station_id": "MGW",
+          "station_name": "MAGUWO",
+          "time": "13:19:00"
+        },
+        {
+          "station_id": "LPN",
+          "station_name": "LEMPUYANGAN",
+          "time": "13:31:00"
+        },
+        {
+          "station_id": "YK",
+          "station_name": "YOGYAKARTA",
+          "time": "13:35:00"
         }
       ]
     },
@@ -102772,7 +103068,7 @@
     },
     {
       "train_id": "508",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "color": "#0084D8",
@@ -102806,7 +103102,7 @@
     },
     {
       "train_id": "501",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "color": "#0084D8",
@@ -102840,7 +103136,7 @@
     },
     {
       "train_id": "502",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "color": "#0084D8",
@@ -102874,7 +103170,7 @@
     },
     {
       "train_id": "503",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "color": "#0084D8",
@@ -102908,7 +103204,7 @@
     },
     {
       "train_id": "504",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "color": "#0084D8",
@@ -102942,7 +103238,7 @@
     },
     {
       "train_id": "505",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "color": "#0084D8",
@@ -102976,7 +103272,7 @@
     },
     {
       "train_id": "506",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "color": "#0084D8",
@@ -103010,7 +103306,7 @@
     },
     {
       "train_id": "509",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "color": "#0084D8",
@@ -103044,7 +103340,7 @@
     },
     {
       "train_id": "507",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "color": "#0084D8",
@@ -103078,7 +103374,7 @@
     },
     {
       "train_id": "510",
-      "ka_name": "COMMUTER LINE PRAMEKS",
+      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "color": "#0084D8",

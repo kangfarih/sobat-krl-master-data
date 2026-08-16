@@ -56,6 +56,15 @@
       "dest_time": "08:39:00"
     },
     {
+      "train_id": "KP/731A",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "time_est": "08:16:00",
+      "color": "#E30A16",
+      "dest_time": "08:57:00"
+    },
+    {
       "train_id": "712",
       "ka_name": "COMMUTER LINE YOGYAKARTA",
       "route_name": "YOGYAKARTA-PALUR",
@@ -83,6 +92,15 @@
       "dest_time": "10:27:00"
     },
     {
+      "train_id": "KP/732A",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "YOGYAKARTA-PALUR",
+      "dest": "PALUR",
+      "time_est": "10:20:00",
+      "color": "#E30A16",
+      "dest_time": "10:55:00"
+    },
+    {
       "train_id": "723",
       "ka_name": "COMMUTER LINE YOGYAKARTA",
       "route_name": "PALUR-YOGYAKARTA",
@@ -99,6 +117,24 @@
       "time_est": "11:39:00",
       "color": "#E30A16",
       "dest_time": "12:18:00"
+    },
+    {
+      "train_id": "733F",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "time_est": "11:56:00",
+      "color": "#E30A16",
+      "dest_time": "12:41:00"
+    },
+    {
+      "train_id": "713",
+      "ka_name": "COMMUTER LINE YOGYAKARTA",
+      "route_name": "PALUR-YOGYAKARTA",
+      "dest": "YOGYAKARTA",
+      "time_est": "12:49:00",
+      "color": "#E30A16",
+      "dest_time": "13:35:00"
     },
     {
       "train_id": "724",
