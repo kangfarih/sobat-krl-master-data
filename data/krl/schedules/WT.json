@@ -3,7 +3,7 @@
   "schedules": [
     {
       "train_id": "508",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "time_est": "05:45:00",
@@ -12,7 +12,7 @@
     },
     {
       "train_id": "501",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "time_est": "07:07:00",
@@ -21,7 +21,7 @@
     },
     {
       "train_id": "502",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "time_est": "09:41:00",
@@ -30,7 +30,7 @@
     },
     {
       "train_id": "503",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "time_est": "12:15:00",
@@ -39,7 +39,7 @@
     },
     {
       "train_id": "504",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "time_est": "13:54:00",
@@ -48,7 +48,7 @@
     },
     {
       "train_id": "505",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "time_est": "15:42:00",
@@ -57,7 +57,7 @@
     },
     {
       "train_id": "509",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "time_est": "16:45:00",
@@ -66,7 +66,7 @@
     },
     {
       "train_id": "506",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "time_est": "17:28:00",
@@ -75,7 +75,7 @@
     },
     {
       "train_id": "507",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "YOGYAKARTA-KUTOARJO",
       "dest": "KUTOARJO",
       "time_est": "18:29:00",
@@ -84,7 +84,7 @@
     },
     {
       "train_id": "510",
-      "ka_name": "COMMUTER LINE PRAMEKS KUTOARJO",
+      "ka_name": "COMMUTER LINE PRAMEKS",
       "route_name": "KUTOARJO-YOGYAKARTA",
       "dest": "YOGYAKARTA",
       "time_est": "19:20:00",
