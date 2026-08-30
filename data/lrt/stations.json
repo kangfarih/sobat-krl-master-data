@@ -1,0 +1,96 @@
+{
+  "lastUpdated": "2026-08-30T23:57:24.867Z",
+  "count": 18,
+  "stations": [
+    {
+      "id": "dukuh-atas",
+      "slug": "dukuh-atas",
+      "name": "Dukuh Atas BNI"
+    },
+    {
+      "id": "setiabudi",
+      "slug": "setiabudi",
+      "name": "Setiabudi"
+    },
+    {
+      "id": "rasuna-said",
+      "slug": "rasuna-said",
+      "name": "Rasuna Said"
+    },
+    {
+      "id": "kuningan",
+      "slug": "kuningan",
+      "name": "Kuningan"
+    },
+    {
+      "id": "pancoran",
+      "slug": "pancoran",
+      "name": "Pancoran bank bjb"
+    },
+    {
+      "id": "cikoko",
+      "slug": "cikoko",
+      "name": "Cikoko"
+    },
+    {
+      "id": "ciliwung",
+      "slug": "ciliwung",
+      "name": "Ciliwung"
+    },
+    {
+      "id": "cawang",
+      "slug": "cawang",
+      "name": "Cawang"
+    },
+    {
+      "id": "halim",
+      "slug": "halim",
+      "name": "Halim"
+    },
+    {
+      "id": "jati-bening",
+      "slug": "jati-bening",
+      "name": "Jati Bening Baru"
+    },
+    {
+      "id": "cikunir-1",
+      "slug": "cikunir-1",
+      "name": "Cikunir 1"
+    },
+    {
+      "id": "cikunir-2",
+      "slug": "cikunir-2",
+      "name": "Cikunir 2"
+    },
+    {
+      "id": "bekasi-barat",
+      "slug": "bekasi-barat",
+      "name": "Bekasi Barat"
+    },
+    {
+      "id": "jati-mulya",
+      "slug": "jati-mulya",
+      "name": "Jati Mulya"
+    },
+    {
+      "id": "harjamukti",
+      "slug": "harjamukti",
+      "name": "Harjamukti"
+    },
+    {
+      "id": "kampung-rambutan",
+      "slug": "kampung-rambutan",
+      "name": "Kampung Rambutan"
+    },
+    {
+      "id": "ciracas",
+      "slug": "ciracas",
+      "name": "Ciracas"
+    },
+    {
+      "id": "taman-mini",
+      "slug": "taman-mini",
+      "name": "Taman Mini"
+    }
+  ]
+}
