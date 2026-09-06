@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T23:57:11.390Z",
-  "count": 111,
+  "lastUpdated": "2026-09-06T23:14:36.510Z",
+  "count": 110,
   "stations": [
     {
       "sta_id": "AC",
@@ -163,13 +163,13 @@
       "group_wil": 0
     },
     {
-      "sta_id": "JAY",
-      "sta_name": "JAYAKARTA",
+      "sta_id": "JTK",
+      "sta_name": "JATAKE",
       "group_wil": 0
     },
     {
-      "sta_id": "JTK",
-      "sta_name": "JATAKE",
+      "sta_id": "JAY",
+      "sta_name": "JAYAKARTA",
       "group_wil": 0
     },
     {
@@ -185,11 +185,6 @@
     {
       "sta_id": "JUA",
       "sta_name": "JUANDA",
-      "group_wil": 0
-    },
-    {
-      "sta_id": "KAT",
-      "sta_name": "KARET",
       "group_wil": 0
     },
     {
@@ -348,13 +343,13 @@
       "group_wil": 0
     },
     {
-      "sta_id": "SUD",
-      "sta_name": "SUDIRMAN",
+      "sta_id": "SUDB",
+      "sta_name": "SUDIRMAN BARU",
       "group_wil": 0
     },
     {
-      "sta_id": "SUDB",
-      "sta_name": "SUDIRMAN BARU",
+      "sta_id": "SUD",
+      "sta_name": "SUDIRMAN",
       "group_wil": 0
     },
     {
@@ -533,13 +528,13 @@
       "group_wil": 0
     },
     {
-      "sta_id": "TOJB",
-      "sta_name": "TONJONG BARU",
+      "sta_id": "RK",
+      "sta_name": "RANGKASBITUNG",
       "group_wil": 0
     },
     {
-      "sta_id": "RK",
-      "sta_name": "RANGKASBITUNG",
+      "sta_id": "TOJB",
+      "sta_name": "TONJONG BARU",
       "group_wil": 0
     },
     {

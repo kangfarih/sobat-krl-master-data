@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-09-06",
   "completedStations": [
     "AC",
     "AK",
@@ -46,7 +46,6 @@
     "JNG",
     "JTK",
     "JUA",
-    "KAT",
     "KBY",
     "KDS",
     "KEN",
@@ -112,6 +111,6 @@
     "WT",
     "YK"
   ],
-  "totalStations": 111,
+  "totalStations": 110,
   "isComplete": true
 }

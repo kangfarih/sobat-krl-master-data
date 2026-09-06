@@ -1,5 +1,5 @@
 {
-  "count": 111,
+  "count": 110,
   "stations": [
     {
       "sta_id": "AC",
@@ -162,13 +162,13 @@
       "available": true
     },
     {
-      "sta_id": "JAY",
-      "sta_name": "JAYAKARTA",
+      "sta_id": "JTK",
+      "sta_name": "JATAKE",
       "available": true
     },
     {
-      "sta_id": "JTK",
-      "sta_name": "JATAKE",
+      "sta_id": "JAY",
+      "sta_name": "JAYAKARTA",
       "available": true
     },
     {
@@ -184,11 +184,6 @@
     {
       "sta_id": "JUA",
       "sta_name": "JUANDA",
-      "available": true
-    },
-    {
-      "sta_id": "KAT",
-      "sta_name": "KARET",
       "available": true
     },
     {
@@ -347,13 +342,13 @@
       "available": true
     },
     {
-      "sta_id": "SUD",
-      "sta_name": "SUDIRMAN",
+      "sta_id": "SUDB",
+      "sta_name": "SUDIRMAN BARU",
       "available": true
     },
     {
-      "sta_id": "SUDB",
-      "sta_name": "SUDIRMAN BARU",
+      "sta_id": "SUD",
+      "sta_name": "SUDIRMAN",
       "available": true
     },
     {
@@ -532,13 +527,13 @@
       "available": true
     },
     {
-      "sta_id": "TOJB",
-      "sta_name": "TONJONG BARU",
+      "sta_id": "RK",
+      "sta_name": "RANGKASBITUNG",
       "available": true
     },
     {
-      "sta_id": "RK",
-      "sta_name": "RANGKASBITUNG",
+      "sta_id": "TOJB",
+      "sta_name": "TONJONG BARU",
       "available": true
     },
     {
