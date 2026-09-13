@@ -1,0 +1,21 @@
+{
+  "stop_name": "Museum Sejarah Jakarta 1",
+  "stop_id": "B08331P",
+  "latitude": -6.133757,
+  "longitude": 106.812624,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:04:11",
+        "05:55:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

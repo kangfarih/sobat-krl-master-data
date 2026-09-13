@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Pulo",
+  "stop_id": "B01939P",
+  "latitude": -6.250962,
+  "longitude": 106.80962,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:10:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Simpang Patra Kepa",
+  "stop_id": "B08285P",
+  "latitude": -6.1784669,
+  "longitude": 106.7795134,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "06:09:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

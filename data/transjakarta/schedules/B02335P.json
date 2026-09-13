@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami At Taqwa 2",
+  "stop_id": "B02335P",
+  "latitude": -6.229704,
+  "longitude": 106.8962,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:50:39",
+        "05:50:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

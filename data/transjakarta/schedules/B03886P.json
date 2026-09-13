@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jl H Emuntipala I",
+  "stop_id": "B03886P",
+  "latitude": -6.277035,
+  "longitude": 106.87761,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:07:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

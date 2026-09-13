@@ -1,0 +1,60 @@
+{
+  "stop_name": "Sbr. Jln. Kemandoran IV Palmerah",
+  "stop_id": "B03748P",
+  "latitude": -6.206785,
+  "longitude": 106.78573,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:25:14",
+        "06:24:06",
+        "07:44:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:41:18",
+        "06:01:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:55:14",
+        "08:18:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:18:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

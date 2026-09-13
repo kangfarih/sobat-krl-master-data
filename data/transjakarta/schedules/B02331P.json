@@ -1,0 +1,22 @@
+{
+  "stop_name": "Masjid Jami As Shiroth",
+  "stop_id": "B02331P",
+  "latitude": -6.225484,
+  "longitude": 106.77768,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "06:00:22",
+        "06:32:09",
+        "07:07:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

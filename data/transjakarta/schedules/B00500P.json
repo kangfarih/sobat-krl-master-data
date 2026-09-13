@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Kurung KDW",
+  "stop_id": "B00500P",
+  "latitude": -6.330806,
+  "longitude": 106.88214,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:42:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Marketing Gallery",
+  "stop_id": "B08131P",
+  "latitude": -6.080762,
+  "longitude": 106.72034,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:36:45"
+      ],
+      "weekends": [
+        "05:36:45"
+      ]
+    }
+  ]
+}

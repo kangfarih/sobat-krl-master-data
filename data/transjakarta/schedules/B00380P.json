@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gading Harmony",
+  "stop_id": "B00380P",
+  "latitude": -6.165901,
+  "longitude": 106.90179,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:44:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:23:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

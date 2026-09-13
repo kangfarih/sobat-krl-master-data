@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Bacang Lubang Buaya",
+  "stop_id": "B00881P",
+  "latitude": -6.288935,
+  "longitude": 106.89713,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:20:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:05:28",
+        "05:05:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

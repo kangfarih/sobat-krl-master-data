@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pisangan Lama Selatan III",
+  "stop_id": "B05076P",
+  "latitude": -6.21387,
+  "longitude": 106.87884,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:25:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

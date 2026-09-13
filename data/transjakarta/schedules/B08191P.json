@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Villa Utama",
+  "stop_id": "B08191P",
+  "latitude": -6.248358,
+  "longitude": 106.989007,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:25:01",
+        "05:25:08",
+        "05:25:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

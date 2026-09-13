@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Sekolah Bhineka Tunggal Ika",
+  "stop_id": "B04381P",
+  "latitude": -6.15058,
+  "longitude": 106.80752,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:45:00",
+        "06:44:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:08:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. Bekasi Timur I Jatinegara",
+  "stop_id": "B00920P",
+  "latitude": -6.215457,
+  "longitude": 106.87083,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "06:01:44",
+        "06:02:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:46:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:59:22",
+        "06:00:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

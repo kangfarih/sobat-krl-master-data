@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pepaya Raya",
+  "stop_id": "B06827P",
+  "latitude": -6.321994,
+  "longitude": 106.818789,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:26:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

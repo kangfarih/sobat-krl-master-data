@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Darmawangsa X",
+  "stop_id": "B06989P",
+  "latitude": -6.257378,
+  "longitude": 106.802938,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:17:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

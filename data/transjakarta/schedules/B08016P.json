@@ -1,0 +1,20 @@
+{
+  "stop_name": "Yayasan Darul 'Izzah",
+  "stop_id": "B08016P",
+  "latitude": -6.153734,
+  "longitude": 106.730977,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:01:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

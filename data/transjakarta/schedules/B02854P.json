@@ -1,0 +1,24 @@
+{
+  "stop_name": "Pintu Tol Cijago",
+  "stop_id": "B02854P",
+  "latitude": -6.380896,
+  "longitude": 106.86742,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:19:46",
+        "05:31:17",
+        "05:31:23"
+      ],
+      "weekends": [
+        "05:19:46"
+      ]
+    }
+  ]
+}

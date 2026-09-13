@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pusdiklatnas 2",
+  "stop_id": "B03036P",
+  "latitude": -6.104896,
+  "longitude": 106.93944,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:44:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

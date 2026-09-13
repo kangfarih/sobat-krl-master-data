@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jembatan Marunda Makmur",
+  "stop_id": "B01752P",
+  "latitude": -6.105728,
+  "longitude": 106.96801,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "06:14:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Jiban II Grogol Selatan",
+  "stop_id": "B01183P",
+  "latitude": -6.233634,
+  "longitude": 106.78176,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:02:44",
+        "06:01:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:02:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

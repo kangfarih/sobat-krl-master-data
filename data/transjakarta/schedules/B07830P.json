@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Pemangalan Raya",
+  "stop_id": "B07830P",
+  "latitude": -6.135199,
+  "longitude": 106.806497,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:24:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

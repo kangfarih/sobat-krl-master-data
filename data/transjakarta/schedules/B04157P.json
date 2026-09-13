@@ -1,0 +1,59 @@
+{
+  "stop_name": "Sbr. Ps. Klender",
+  "stop_id": "B04157P",
+  "latitude": -6.21293,
+  "longitude": 106.900747,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "06:08:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:33:37",
+        "06:37:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:42:50",
+        "05:44:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:55:33",
+        "05:58:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

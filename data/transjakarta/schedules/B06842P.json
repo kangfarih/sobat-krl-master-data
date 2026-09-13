@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. M. Khafi",
+  "stop_id": "B06842P",
+  "latitude": -6.311739,
+  "longitude": 106.813142,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:35:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pasar Minggu",
+      "weekdays": [
+        "05:37:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

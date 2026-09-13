@@ -1,0 +1,33 @@
+{
+  "stop_name": "Bank Indonesia 2",
+  "stop_id": "B00113P",
+  "latitude": -6.182667,
+  "longitude": 106.82275,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:41:08",
+        "05:41:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "07:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

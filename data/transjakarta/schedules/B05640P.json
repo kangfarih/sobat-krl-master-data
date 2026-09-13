@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman PIK Penggilingan",
+  "stop_id": "B05640P",
+  "latitude": -6.2042,
+  "longitude": 106.93176,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:30:26",
+        "05:32:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

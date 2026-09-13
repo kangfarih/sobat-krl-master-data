@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Swasembada Timur XV",
+  "stop_id": "B01634P",
+  "latitude": -6.121072,
+  "longitude": 106.88852,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:26:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

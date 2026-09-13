@@ -1,0 +1,36 @@
+{
+  "stop_name": "Sbr. Ps. Cengkareng",
+  "stop_id": "B04136P",
+  "latitude": -6.151851,
+  "longitude": 106.72708,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:02:06",
+        "05:30:47",
+        "05:31:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:28:03",
+        "02:34:37",
+        "05:48:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Kaliabang Rorotan",
+  "stop_id": "B01190P",
+  "latitude": -6.128157,
+  "longitude": 106.96325,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:08:02",
+        "06:04:56",
+        "07:33:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

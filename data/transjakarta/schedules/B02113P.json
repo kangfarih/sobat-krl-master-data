@@ -1,0 +1,22 @@
+{
+  "stop_name": "Lapangan Blok O Pengadegan",
+  "stop_id": "B02113P",
+  "latitude": -6.248374,
+  "longitude": 106.85793,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:24:40",
+        "06:11:53",
+        "06:25:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

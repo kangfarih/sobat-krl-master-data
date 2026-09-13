@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tebet Dalam VI A",
+  "stop_id": "B01670P",
+  "latitude": -6.238984,
+  "longitude": 106.84825,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:20:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Makaham Bungur",
+  "stop_id": "B04980P",
+  "latitude": -6.318807,
+  "longitude": 106.88377,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:34:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:24:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kel. Dukuh",
+  "stop_id": "B03914P",
+  "latitude": -6.29239,
+  "longitude": 106.87703,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:22:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

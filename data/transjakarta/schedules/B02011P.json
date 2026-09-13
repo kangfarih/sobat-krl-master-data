@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kolong Tol Raya Setu",
+  "stop_id": "B02011P",
+  "latitude": -6.312329,
+  "longitude": 106.91325,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:28:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

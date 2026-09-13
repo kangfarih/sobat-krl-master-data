@@ -1,0 +1,34 @@
+{
+  "stop_name": "BSI Cengkareng",
+  "stop_id": "B00192P",
+  "latitude": -6.147973,
+  "longitude": 106.72781,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:04:29",
+        "05:33:10",
+        "05:33:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:43:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

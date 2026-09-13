@@ -1,0 +1,36 @@
+{
+  "stop_name": "Univ. Satyagama",
+  "stop_id": "B05838P",
+  "latitude": -6.143228,
+  "longitude": 106.7295,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:22:58",
+        "05:23:30",
+        "05:23:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:19:52",
+        "02:26:26",
+        "05:43:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

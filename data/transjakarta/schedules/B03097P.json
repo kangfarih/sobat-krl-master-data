@@ -1,0 +1,44 @@
+{
+  "stop_name": "Rest Area TMII",
+  "stop_id": "B03097P",
+  "latitude": -6.29467,
+  "longitude": 106.8812,
+  "routes": [
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "18:13:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "17:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "17:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

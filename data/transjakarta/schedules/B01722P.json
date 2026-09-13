@@ -1,0 +1,45 @@
+{
+  "stop_name": "Janur Kuning Residence",
+  "stop_id": "B01722P",
+  "latitude": -6.163191,
+  "longitude": 106.90349,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:38:49",
+        "05:39:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:46:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:25:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

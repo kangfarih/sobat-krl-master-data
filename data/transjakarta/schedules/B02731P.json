@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pengadilan Agama 1A Jaktim",
+  "stop_id": "B02731P",
+  "latitude": -6.340105,
+  "longitude": 106.87746,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:18:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:24:44",
+        "06:09:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

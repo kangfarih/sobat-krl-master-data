@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mako Ops AU I",
+  "stop_id": "B02176P",
+  "latitude": -6.276548,
+  "longitude": 106.88667,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:17:35",
+        "05:17:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

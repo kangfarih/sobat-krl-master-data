@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Karya Utama Gandaria Utara",
+  "stop_id": "B07406P",
+  "latitude": -6.260927,
+  "longitude": 106.793593,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:50:25"
+      ],
+      "weekends": [
+        "05:50:25"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Satriya",
+  "stop_id": "B08397P",
+  "latitude": -6.141558,
+  "longitude": 106.952394,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:04:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

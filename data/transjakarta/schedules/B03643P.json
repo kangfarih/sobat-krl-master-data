@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Assirot Dalam",
+  "stop_id": "B03643P",
+  "latitude": -6.225602,
+  "longitude": 106.77477,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:58:33",
+        "06:30:20",
+        "07:05:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

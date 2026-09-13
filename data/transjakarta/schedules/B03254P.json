@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ruko Pondok Pinang Centre",
+  "stop_id": "B03254P",
+  "latitude": -6.27349,
+  "longitude": 106.77388,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:10:46",
+        "06:31:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

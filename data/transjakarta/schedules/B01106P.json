@@ -1,0 +1,45 @@
+{
+  "stop_name": "Jln. H. Ipin",
+  "stop_id": "B01106P",
+  "latitude": -6.311098,
+  "longitude": 106.79357,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:02:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:26:04",
+        "06:09:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:14:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

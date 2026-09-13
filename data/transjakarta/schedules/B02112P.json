@@ -1,0 +1,34 @@
+{
+  "stop_name": "Lapangan Banteng 2",
+  "stop_id": "B02112P",
+  "latitude": -6.171659,
+  "longitude": 106.83527,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "06:02:48",
+        "06:03:30",
+        "06:10:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "06:01:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

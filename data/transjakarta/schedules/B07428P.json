@@ -1,0 +1,38 @@
+{
+  "stop_name": "Karya Utama Gandaria Utara",
+  "stop_id": "B07428P",
+  "latitude": -6.260876,
+  "longitude": 106.793443,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:43:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:28:14",
+        "05:33:48",
+        "06:49:17",
+        "06:54:54"
+      ],
+      "weekends": [
+        "05:28:14",
+        "06:49:17"
+      ]
+    }
+  ]
+}

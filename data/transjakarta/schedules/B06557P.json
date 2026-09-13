@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kampus Frans Seda",
+  "stop_id": "B06557P",
+  "latitude": -6.204283,
+  "longitude": 106.87857,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:30:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:44:40",
+        "06:47:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

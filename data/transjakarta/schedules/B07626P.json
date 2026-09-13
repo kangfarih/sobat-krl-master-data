@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Pulo Lentut",
+  "stop_id": "B07626P",
+  "latitude": -6.189706,
+  "longitude": 106.917232,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:39:05",
+        "06:36:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

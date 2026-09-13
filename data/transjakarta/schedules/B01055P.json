@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Elang Laut Kamal",
+  "stop_id": "B01055P",
+  "latitude": -6.124468,
+  "longitude": 106.74879,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kalideres",
+      "weekdays": [
+        "05:23:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

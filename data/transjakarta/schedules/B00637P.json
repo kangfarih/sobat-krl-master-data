@@ -1,0 +1,47 @@
+{
+  "stop_name": "Gereja Santa Anna 2",
+  "stop_id": "B00637P",
+  "latitude": -6.234003,
+  "longitude": 106.91014,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:38:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:00:40",
+        "05:58:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:21:28",
+        "06:25:57",
+        "06:33:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

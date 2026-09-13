@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Gg. Bungur IX Rambutan",
+  "stop_id": "B03514P",
+  "latitude": -6.316993,
+  "longitude": 106.88461,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:35:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:28:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

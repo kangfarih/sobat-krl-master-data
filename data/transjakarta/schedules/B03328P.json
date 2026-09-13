@@ -1,0 +1,48 @@
+{
+  "stop_name": "SD Kartika X-4",
+  "stop_id": "B03328P",
+  "latitude": -6.259431,
+  "longitude": 106.75611,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:09:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:33:07",
+        "06:53:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:47:17",
+        "05:52:21",
+        "05:52:54",
+        "07:06:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

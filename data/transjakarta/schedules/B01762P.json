@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jembatan Pintu Satu",
+  "stop_id": "B01762P",
+  "latitude": -6.300382,
+  "longitude": 106.88363,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "05:15:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

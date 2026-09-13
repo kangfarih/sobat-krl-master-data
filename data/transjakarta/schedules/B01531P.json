@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rajai Ulujami",
+  "stop_id": "B01531P",
+  "latitude": -6.241707,
+  "longitude": 106.76292,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:12:49",
+        "06:13:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

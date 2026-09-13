@@ -1,0 +1,26 @@
+{
+  "stop_name": "Sbr. Jln. Ps. Inpres Gandaria Utara",
+  "stop_id": "B07427P",
+  "latitude": -6.25995,
+  "longitude": 106.791136,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:26:10",
+        "05:31:44",
+        "06:47:14",
+        "06:52:51"
+      ],
+      "weekends": [
+        "05:26:10",
+        "06:47:14"
+      ]
+    }
+  ]
+}

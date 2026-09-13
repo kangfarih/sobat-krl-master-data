@@ -1,0 +1,60 @@
+{
+  "stop_name": "Cilandak Town Square",
+  "stop_id": "B00253P",
+  "latitude": -6.291993,
+  "longitude": 106.799835,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:24:04",
+        "06:28:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:23:31",
+        "06:31:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:23:35",
+        "05:24:15",
+        "06:48:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:33:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

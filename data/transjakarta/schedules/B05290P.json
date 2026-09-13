@@ -1,0 +1,33 @@
+{
+  "stop_name": "SMK Bina Darma DKI",
+  "stop_id": "B05290P",
+  "latitude": -6.220551,
+  "longitude": 106.92073,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:22:05",
+        "05:22:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:27:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

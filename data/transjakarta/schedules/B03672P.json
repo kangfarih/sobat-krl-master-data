@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. Jln. Cibubur Indah V",
+  "stop_id": "B03672P",
+  "latitude": -6.350015,
+  "longitude": 106.88411,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:00:10",
+        "06:24:51",
+        "07:09:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:09:06",
+        "05:09:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

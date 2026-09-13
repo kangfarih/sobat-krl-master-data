@@ -1,0 +1,26 @@
+{
+  "stop_name": "TK Darussalam",
+  "stop_id": "B07437P",
+  "latitude": -6.271641,
+  "longitude": 106.8073,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:46:29",
+        "05:52:03",
+        "07:07:34",
+        "07:13:11"
+      ],
+      "weekends": [
+        "05:46:29",
+        "07:07:34"
+      ]
+    }
+  ]
+}

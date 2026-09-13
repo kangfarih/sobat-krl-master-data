@@ -1,0 +1,20 @@
+{
+  "stop_name": "TK Harapan Setu",
+  "stop_id": "B05755P",
+  "latitude": -6.306639,
+  "longitude": 106.91926,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:34:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

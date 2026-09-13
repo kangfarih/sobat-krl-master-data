@@ -1,0 +1,20 @@
+{
+  "stop_name": "Perempatan Jln. Mahoni No.1A",
+  "stop_id": "B08413P",
+  "latitude": -6.118279,
+  "longitude": 106.913367,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:38:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

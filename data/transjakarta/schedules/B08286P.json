@@ -1,0 +1,22 @@
+{
+  "stop_name": "Mako Paspampres",
+  "stop_id": "B08286P",
+  "latitude": -6.174852,
+  "longitude": 106.815808,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:32:52",
+        "06:07:47",
+        "07:02:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

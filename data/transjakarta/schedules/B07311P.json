@@ -1,0 +1,47 @@
+{
+  "stop_name": "Jln. Niaga Hijau 1",
+  "stop_id": "B07311P",
+  "latitude": -6.284509,
+  "longitude": 106.775304,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:02:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:07:09",
+        "06:17:07",
+        "06:18:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:43:55",
+        "05:44:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

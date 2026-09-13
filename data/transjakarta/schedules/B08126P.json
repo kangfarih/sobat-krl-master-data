@@ -1,0 +1,22 @@
+{
+  "stop_name": "San Antonio",
+  "stop_id": "B08126P",
+  "latitude": -6.065454,
+  "longitude": 106.692396,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:17:26"
+      ],
+      "weekends": [
+        "05:17:26"
+      ]
+    }
+  ]
+}

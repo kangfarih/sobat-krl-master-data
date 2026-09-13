@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Sepakat X Raya Cilangkap",
+  "stop_id": "B01576P",
+  "latitude": -6.340473,
+  "longitude": 106.90299,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:02:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

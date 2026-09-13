@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Martaip Sukabumi Selatan",
+  "stop_id": "B03785P",
+  "latitude": -6.217002,
+  "longitude": 106.77735,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:45:40",
+        "05:52:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

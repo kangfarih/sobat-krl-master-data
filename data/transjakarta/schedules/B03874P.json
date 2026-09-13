@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Utama III Cengkareng",
+  "stop_id": "B03874P",
+  "latitude": -6.149992,
+  "longitude": 106.72471,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:30:39",
+        "02:37:13",
+        "05:49:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

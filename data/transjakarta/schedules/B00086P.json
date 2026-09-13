@@ -1,0 +1,21 @@
+{
+  "stop_name": "AURI Jatibaru",
+  "stop_id": "B00086P",
+  "latitude": -6.182985,
+  "longitude": 106.81407,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Juanda dan Tanah Abang",
+      "weekdays": [
+        "05:42:44",
+        "06:17:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

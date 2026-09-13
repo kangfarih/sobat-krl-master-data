@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Oyot",
+  "stop_id": "B06551P",
+  "latitude": -6.207791,
+  "longitude": 106.86593,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:26:00",
+        "06:28:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

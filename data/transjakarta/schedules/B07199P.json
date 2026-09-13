@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pondok Pesantren Nurul Qolbi",
+  "stop_id": "B07199P",
+  "latitude": -6.32729,
+  "longitude": 106.8982,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "06:04:31",
+        "06:46:40",
+        "06:47:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "RPTRA Kampung Pulo Asri",
+  "stop_id": "B03111P",
+  "latitude": -6.277931,
+  "longitude": 106.88373,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:00:10",
+        "05:46:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

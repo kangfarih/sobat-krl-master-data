@@ -1,0 +1,20 @@
+{
+  "stop_name": "Perumahan Mawar Joglo",
+  "stop_id": "B02810P",
+  "latitude": -6.215254,
+  "longitude": 106.72525,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:35:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

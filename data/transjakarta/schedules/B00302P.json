@@ -1,0 +1,20 @@
+{
+  "stop_name": "Depo LRT Pegangsaan Dua",
+  "stop_id": "B00302P",
+  "latitude": -6.15505,
+  "longitude": 106.9137,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:37:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

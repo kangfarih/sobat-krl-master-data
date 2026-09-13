@@ -1,0 +1,22 @@
+{
+  "stop_name": "BKKBN 1",
+  "stop_id": "B00152P",
+  "latitude": -6.252902,
+  "longitude": 106.88084,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:07:44",
+        "06:00:11",
+        "07:07:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

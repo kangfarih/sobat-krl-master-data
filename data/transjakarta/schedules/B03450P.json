@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Badan Penghubung Sulawesi Tengah",
+  "stop_id": "B03450P",
+  "latitude": -6.175002,
+  "longitude": 106.80728,
+  "routes": [
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:08:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

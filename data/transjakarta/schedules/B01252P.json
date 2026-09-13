@@ -1,0 +1,58 @@
+{
+  "stop_name": "Jln. Kelapa Nias IV",
+  "stop_id": "B01252P",
+  "latitude": -6.152909,
+  "longitude": 106.90938,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:11:13",
+        "06:18:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:49:18",
+        "07:08:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:18:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:14:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

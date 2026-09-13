@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Perintis Pulo Mas Timur",
+  "stop_id": "B05065P",
+  "latitude": -6.172481,
+  "longitude": 106.88914,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:44:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Buaran Raya 2",
+  "stop_id": "B08341P",
+  "latitude": -6.22051,
+  "longitude": 106.92268,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:20:56",
+        "05:21:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

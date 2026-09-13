@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kemensos Bekasi Timur",
+  "stop_id": "B07551P",
+  "latitude": -6.254139,
+  "longitude": 107.022369,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:26:58",
+        "08:00:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

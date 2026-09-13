@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMK Ristek Kikin",
+  "stop_id": "B07700P",
+  "latitude": -6.206863,
+  "longitude": 106.935245,
+  "routes": [
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:26:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

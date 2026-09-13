@@ -1,0 +1,24 @@
+{
+  "stop_name": "Moch Yusuf Raya 2",
+  "stop_id": "B02473P",
+  "latitude": -6.379677,
+  "longitude": 106.84152,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:43:24",
+        "08:34:00",
+        "08:45:33"
+      ],
+      "weekends": [
+        "08:34:00"
+      ]
+    }
+  ]
+}

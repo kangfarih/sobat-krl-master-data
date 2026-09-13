@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Oxport Kebantenan VII",
+  "stop_id": "B00525P",
+  "latitude": -6.110279,
+  "longitude": 106.92941,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:44:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

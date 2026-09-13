@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Balai Pustaka Timur Waru",
+  "stop_id": "B04711P",
+  "latitude": -6.196611,
+  "longitude": 106.88629,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "06:15:13",
+        "06:17:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

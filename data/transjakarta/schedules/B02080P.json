@@ -1,0 +1,21 @@
+{
+  "stop_name": "Koramil Johar Baru",
+  "stop_id": "B02080P",
+  "latitude": -6.181165,
+  "longitude": 106.857577,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:33:43",
+        "07:01:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

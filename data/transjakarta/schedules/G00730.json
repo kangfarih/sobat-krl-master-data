@@ -1,0 +1,22 @@
+{
+  "stop_name": "Blok M Jalur 2",
+  "stop_id": "G00730",
+  "latitude": -6.243396,
+  "longitude": 106.801803,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:00:10",
+        "05:54:26",
+        "05:54:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

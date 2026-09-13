@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Belanak II Rawamangun",
+  "stop_id": "B00923P",
+  "latitude": -6.200972,
+  "longitude": 106.89065,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:02:16",
+        "06:14:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:02:16",
+        "05:58:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

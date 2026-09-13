@@ -1,0 +1,52 @@
+{
+  "stop_name": "Sbr. SDN Palmerah 07",
+  "stop_id": "B04358P",
+  "latitude": -6.205628,
+  "longitude": 106.79661,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:26:54",
+        "05:33:37",
+        "07:27:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:26:54",
+        "05:27:12",
+        "05:58:16",
+        "06:33:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:27:00",
+        "06:03:33",
+        "06:47:26",
+        "07:27:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pisangan Lama III",
+  "stop_id": "B01504P",
+  "latitude": -6.214491,
+  "longitude": 106.87763,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:24:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

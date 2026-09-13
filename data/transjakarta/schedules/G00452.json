@@ -1,0 +1,36 @@
+{
+  "stop_name": "Halim",
+  "stop_id": "G00452",
+  "latitude": -6.239069,
+  "longitude": 106.877984,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Halim dan Tanjung Priok",
+      "weekdays": [
+        "00:16:15",
+        "05:16:15",
+        "06:18:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "06:09:49"
+      ],
+      "weekends": [
+        "06:09:49"
+      ]
+    }
+  ]
+}

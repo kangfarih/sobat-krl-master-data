@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Islam Sukapura",
+  "stop_id": "B04285P",
+  "latitude": -6.140258,
+  "longitude": 106.92215,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:03:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

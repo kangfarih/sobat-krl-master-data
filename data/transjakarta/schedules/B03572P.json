@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Wali Pertama Cijantung",
+  "stop_id": "B03572P",
+  "latitude": -6.326401,
+  "longitude": 106.85771,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:46:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

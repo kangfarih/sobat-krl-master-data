@@ -1,0 +1,26 @@
+{
+  "stop_name": "Jln. Sasak 2",
+  "stop_id": "B07433P",
+  "latitude": -6.267209,
+  "longitude": 106.801877,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:38:31",
+        "05:44:05",
+        "06:59:36",
+        "07:05:13"
+      ],
+      "weekends": [
+        "05:38:31",
+        "06:59:36"
+      ]
+    }
+  ]
+}

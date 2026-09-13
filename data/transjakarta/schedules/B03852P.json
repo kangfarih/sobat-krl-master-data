@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. SMPN 160",
+  "stop_id": "B03852P",
+  "latitude": -6.311787,
+  "longitude": 106.88941,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:38:21",
+        "06:43:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

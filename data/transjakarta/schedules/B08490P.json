@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Madrasah Jln. H. Kelik",
+  "stop_id": "B08490P",
+  "latitude": -6.209277,
+  "longitude": 106.760977,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "06:25:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

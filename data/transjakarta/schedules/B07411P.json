@@ -1,0 +1,22 @@
+{
+  "stop_name": "RSUD Kebayoran",
+  "stop_id": "B07411P",
+  "latitude": -6.248418,
+  "longitude": 106.785294,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:05:10"
+      ],
+      "weekends": [
+        "06:05:10"
+      ]
+    }
+  ]
+}

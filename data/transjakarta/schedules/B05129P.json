@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Rukun 1",
+  "stop_id": "B05129P",
+  "latitude": -6.308156,
+  "longitude": 106.91758,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:35:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

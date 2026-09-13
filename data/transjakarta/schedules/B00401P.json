@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Amd XXVIII Balekambang",
+  "stop_id": "B00401P",
+  "latitude": -6.289318,
+  "longitude": 106.85383,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:37:13",
+        "06:31:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

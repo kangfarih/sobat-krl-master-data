@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. St. Angke",
+  "stop_id": "B07828P",
+  "latitude": -6.14354,
+  "longitude": 106.80095,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:16:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

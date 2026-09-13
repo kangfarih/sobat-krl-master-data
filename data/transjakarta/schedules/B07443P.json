@@ -1,0 +1,26 @@
+{
+  "stop_name": "Simpang Masjid Al Barkah 2",
+  "stop_id": "B07443P",
+  "latitude": -6.284557,
+  "longitude": 106.811631,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:01:48",
+        "06:07:22",
+        "07:22:51",
+        "07:28:28"
+      ],
+      "weekends": [
+        "06:01:48",
+        "07:22:51"
+      ]
+    }
+  ]
+}

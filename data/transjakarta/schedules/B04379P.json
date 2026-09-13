@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Sekolah Avicenna Jagakarsa",
+  "stop_id": "B04379P",
+  "latitude": -6.336338,
+  "longitude": 106.82992,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:36:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:55:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

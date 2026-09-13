@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Duri Kosambi",
+  "stop_id": "B01915P",
+  "latitude": -6.170102,
+  "longitude": 106.7226,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:36:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

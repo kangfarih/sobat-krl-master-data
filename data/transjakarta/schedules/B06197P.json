@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Balai Kimia",
+  "stop_id": "B06197P",
+  "latitude": -6.343677,
+  "longitude": 106.85802,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:00:10",
+        "05:44:43",
+        "06:49:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

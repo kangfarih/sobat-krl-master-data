@@ -1,0 +1,47 @@
+{
+  "stop_name": "Plaza Kalibata",
+  "stop_id": "B02864P",
+  "latitude": -6.256423,
+  "longitude": 106.85566,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:45:55",
+        "05:45:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Blok M",
+      "weekdays": [
+        "06:21:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:09:58",
+        "05:57:10",
+        "06:10:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Jln. Casablanca IX",
+  "stop_id": "B07009P",
+  "latitude": -6.160247,
+  "longitude": 106.893433,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:09:39",
+        "05:09:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:45:21",
+        "05:45:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

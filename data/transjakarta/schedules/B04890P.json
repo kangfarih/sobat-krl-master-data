@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Kaliabang Rorotan 2",
+  "stop_id": "B04890P",
+  "latitude": -6.153794,
+  "longitude": 106.97115,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:09:19",
+        "06:19:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

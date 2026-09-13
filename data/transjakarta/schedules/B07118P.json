@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Rawa Bokor",
+  "stop_id": "B07118P",
+  "latitude": -6.114804,
+  "longitude": 106.689168,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:38:18",
+        "06:43:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

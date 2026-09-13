@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cipinang Baru",
+  "stop_id": "B00260P",
+  "latitude": -6.206806,
+  "longitude": 106.89025,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:05:46",
+        "06:02:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "stop_name": "Masjid Jami Al Barkah 2",
+  "stop_id": "B02308P",
+  "latitude": -6.22955,
+  "longitude": 106.91228,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:34:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:41:46",
+        "05:41:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:54:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "06:09:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:25:48",
+        "05:27:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

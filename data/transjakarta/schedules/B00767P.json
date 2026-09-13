@@ -1,0 +1,21 @@
+{
+  "stop_name": "Hero Basuki Rahmat",
+  "stop_id": "B00767P",
+  "latitude": -6.22764,
+  "longitude": 106.88296,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:25:58",
+        "06:38:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

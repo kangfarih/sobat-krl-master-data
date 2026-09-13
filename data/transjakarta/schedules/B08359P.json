@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. SDN Pondok Bambu 04",
+  "stop_id": "B08359P",
+  "latitude": -6.223104,
+  "longitude": 106.896347,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:38:07",
+        "06:23:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:41:49",
+        "06:52:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

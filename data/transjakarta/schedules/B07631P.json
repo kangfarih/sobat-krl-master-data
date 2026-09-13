@@ -1,0 +1,20 @@
+{
+  "stop_name": "JIEP Grha Dayaguna",
+  "stop_id": "B07631P",
+  "latitude": -6.206854,
+  "longitude": 106.917882,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:01:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

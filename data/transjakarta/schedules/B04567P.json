@@ -1,0 +1,48 @@
+{
+  "stop_name": "Sbr. TPU Petamburan",
+  "stop_id": "B04567P",
+  "latitude": -6.19759,
+  "longitude": 106.80394,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:56:03",
+        "06:15:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:09:45",
+        "06:10:04",
+        "08:33:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:19:32",
+        "06:19:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

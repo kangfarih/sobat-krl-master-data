@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Pusaka",
+  "stop_id": "B04652P",
+  "latitude": -6.236888,
+  "longitude": 106.89838,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:32:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 190",
+  "stop_id": "B04475P",
+  "latitude": -6.108313,
+  "longitude": 106.70297,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:38:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

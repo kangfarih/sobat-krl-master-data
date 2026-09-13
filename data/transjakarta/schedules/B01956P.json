@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Tengah",
+  "stop_id": "B01956P",
+  "latitude": -6.290037,
+  "longitude": 106.86477,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:30:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

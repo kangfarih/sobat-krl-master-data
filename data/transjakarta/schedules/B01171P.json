@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Jaya Abadi",
+  "stop_id": "B01171P",
+  "latitude": -6.275357,
+  "longitude": 106.91273,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:23:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

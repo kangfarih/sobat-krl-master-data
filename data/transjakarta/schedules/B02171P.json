@@ -1,0 +1,32 @@
+{
+  "stop_name": "Mahaka Square",
+  "stop_id": "B02171P",
+  "latitude": -6.149939,
+  "longitude": 106.90213,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:40:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:06:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

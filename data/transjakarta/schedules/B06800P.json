@@ -1,0 +1,20 @@
+{
+  "stop_name": "SD Angkasa 1",
+  "stop_id": "B06800P",
+  "latitude": -6.252707,
+  "longitude": 106.890229,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:02:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

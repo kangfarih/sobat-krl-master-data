@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Sekolah Kencana I",
+  "stop_id": "B07371P",
+  "latitude": -6.281134,
+  "longitude": 106.783795,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:16:49",
+        "06:26:53",
+        "06:27:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

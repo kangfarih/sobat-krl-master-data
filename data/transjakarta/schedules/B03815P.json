@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Perdana I",
+  "stop_id": "B03815P",
+  "latitude": -6.243081,
+  "longitude": 106.75677,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pesanggrahan",
+      "weekdays": [
+        "05:41:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

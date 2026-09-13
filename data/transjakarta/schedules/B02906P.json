@@ -1,0 +1,20 @@
+{
+  "stop_name": "Polsek Kelapa Gading",
+  "stop_id": "B02906P",
+  "latitude": -6.162927,
+  "longitude": 106.90748,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "06:29:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMA Kartika",
+  "stop_id": "B05248P",
+  "latitude": -6.260596,
+  "longitude": 106.75896,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:08:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

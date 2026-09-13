@@ -1,0 +1,34 @@
+{
+  "stop_name": "Madrasah Hasanatuddarain",
+  "stop_id": "B02169P",
+  "latitude": -6.22101,
+  "longitude": 106.90464,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:49:03",
+        "07:02:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:28:07",
+        "06:40:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

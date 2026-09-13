@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Nasim Badeh Susukan",
+  "stop_id": "B00523P",
+  "latitude": -6.312485,
+  "longitude": 106.87029,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:55:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

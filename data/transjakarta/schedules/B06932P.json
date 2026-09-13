@@ -1,0 +1,21 @@
+{
+  "stop_name": "Agung Karya",
+  "stop_id": "B06932P",
+  "latitude": -6.138513,
+  "longitude": 106.878478,
+  "routes": [
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:33:27",
+        "05:35:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

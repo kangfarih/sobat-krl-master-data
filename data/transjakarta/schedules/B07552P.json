@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bulak Kapal 4",
+  "stop_id": "B07552P",
+  "latitude": -6.251121,
+  "longitude": 107.02366,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:28:50",
+        "08:02:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

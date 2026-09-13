@@ -1,0 +1,20 @@
+{
+  "stop_name": "Rusun Sukapura",
+  "stop_id": "B03294P",
+  "latitude": -6.154874,
+  "longitude": 106.92507,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:02:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

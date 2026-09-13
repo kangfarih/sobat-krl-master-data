@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Lagoa Sinar",
+  "stop_id": "B03762P",
+  "latitude": -6.112816,
+  "longitude": 106.90777,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:42:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

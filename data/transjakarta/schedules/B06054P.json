@@ -1,0 +1,20 @@
+{
+  "stop_name": "Halimun 2",
+  "stop_id": "B06054P",
+  "latitude": -6.20509,
+  "longitude": 106.83357,
+  "routes": [
+    {
+      "route_id": "6Q",
+      "route_short_name": "6Q",
+      "route_long_name": "Galunggung - Casablanca via Epicentrum Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Casablanca dan Galunggung via Epicentrum Raya",
+      "weekdays": [
+        "05:05:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

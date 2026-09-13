@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Balai Rakyat Balekambang",
+  "stop_id": "B00412P",
+  "latitude": -6.293289,
+  "longitude": 106.85517,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:34:37",
+        "06:28:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

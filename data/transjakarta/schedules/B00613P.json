@@ -1,0 +1,45 @@
+{
+  "stop_name": "Gempol",
+  "stop_id": "B00613P",
+  "latitude": -6.30729,
+  "longitude": 106.89415,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "07:07:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:51:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:14:18",
+        "05:14:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Darul Huda 2",
+  "stop_id": "B02296P",
+  "latitude": -6.249131,
+  "longitude": 106.89149,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:27:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

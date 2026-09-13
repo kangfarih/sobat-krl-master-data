@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Yayasan Asih Budi",
+  "stop_id": "B04594P",
+  "latitude": -6.22992,
+  "longitude": 106.92008,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:22:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:20:43",
+        "05:21:55",
+        "05:58:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

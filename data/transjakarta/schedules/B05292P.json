@@ -1,0 +1,22 @@
+{
+  "stop_name": "SMK Hatawana",
+  "stop_id": "B05292P",
+  "latitude": -6.229468,
+  "longitude": 106.87871,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:18:18",
+        "05:18:22",
+        "05:45:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "BTC 2",
+  "stop_id": "B00194P",
+  "latitude": -6.258258,
+  "longitude": 107.0206,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Bekasi Timur",
+      "weekdays": [
+        "06:24:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Juanda 2",
+  "stop_id": "B06905P",
+  "latitude": -6.167648,
+  "longitude": 106.830273,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:19:29",
+        "05:19:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

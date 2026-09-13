@@ -1,0 +1,22 @@
+{
+  "stop_name": "Slipi Kemanggisan 1",
+  "stop_id": "B06925P",
+  "latitude": -6.190271,
+  "longitude": 106.796849,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:06:11",
+        "06:59:15",
+        "07:42:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

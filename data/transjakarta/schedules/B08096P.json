@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kampung Rawa Malang",
+  "stop_id": "B08096P",
+  "latitude": -6.115301,
+  "longitude": 106.940525,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:11:48",
+        "05:42:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

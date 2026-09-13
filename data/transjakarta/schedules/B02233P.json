@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Barkah Halim",
+  "stop_id": "B02233P",
+  "latitude": -6.275791,
+  "longitude": 106.8886,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:37:02",
+        "06:29:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

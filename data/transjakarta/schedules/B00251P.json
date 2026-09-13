@@ -1,0 +1,47 @@
+{
+  "stop_name": "Cilandak",
+  "stop_id": "B00251P",
+  "latitude": -6.29195,
+  "longitude": 106.81519,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:30:50",
+        "07:49:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:32:33",
+        "06:36:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:32:00",
+        "06:39:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

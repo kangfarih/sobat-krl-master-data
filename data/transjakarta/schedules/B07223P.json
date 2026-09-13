@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Trikora Halim 1",
+  "stop_id": "B07223P",
+  "latitude": -6.246953,
+  "longitude": 106.881572,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:16:59",
+        "05:17:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Pulo Gadung 4",
+  "stop_id": "B02673P",
+  "latitude": -6.186369,
+  "longitude": 106.90572,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:05:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Golf Bandar Kemayoran",
+  "stop_id": "B00655P",
+  "latitude": -6.143748,
+  "longitude": 106.85374,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "08:25:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:54:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

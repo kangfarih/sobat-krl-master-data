@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Bendi Baru",
+  "stop_id": "B00926P",
+  "latitude": -6.253319,
+  "longitude": 106.77658,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:22:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:27:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. Berdikari",
+  "stop_id": "B06864P",
+  "latitude": -6.343622,
+  "longitude": 106.833138,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:25:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:44:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

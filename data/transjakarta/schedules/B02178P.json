@@ -1,0 +1,33 @@
+{
+  "stop_name": "Malaka 1 Gg. 3 Rorotan",
+  "stop_id": "B02178P",
+  "latitude": -6.139309,
+  "longitude": 106.95461,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:04:21",
+        "07:40:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:07:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

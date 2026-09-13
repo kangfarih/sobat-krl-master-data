@@ -1,0 +1,47 @@
+{
+  "stop_name": "LP Cipinang",
+  "stop_id": "B02159P",
+  "latitude": -6.214568,
+  "longitude": 106.88574,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:53:00",
+        "05:53:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:50:38",
+        "05:51:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:22:51",
+        "05:22:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

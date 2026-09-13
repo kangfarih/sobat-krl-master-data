@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cipete Raya Dalam",
+  "stop_id": "B04771P",
+  "latitude": -6.277545,
+  "longitude": 106.80067,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:47:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

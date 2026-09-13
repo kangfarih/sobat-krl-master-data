@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Perternakan II",
+  "stop_id": "B06329P",
+  "latitude": -6.146502,
+  "longitude": 106.767134,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:35:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

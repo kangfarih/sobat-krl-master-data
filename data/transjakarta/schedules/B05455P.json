@@ -1,0 +1,54 @@
+{
+  "stop_name": "St. Kebayoran 2",
+  "stop_id": "B05455P",
+  "latitude": -6.235723,
+  "longitude": 106.78285,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:00:10",
+        "05:59:12",
+        "06:06:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:00:10",
+        "06:09:08",
+        "06:40:57",
+        "07:16:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:00:10",
+        "06:21:16",
+        "06:21:18"
+      ],
+      "weekends": [
+        "05:00:10",
+        "06:21:16"
+      ]
+    }
+  ]
+}

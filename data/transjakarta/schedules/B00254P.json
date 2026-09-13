@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. PGC",
+  "stop_id": "B00254P",
+  "latitude": -6.263494,
+  "longitude": 106.865419,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:37:59",
+        "05:38:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

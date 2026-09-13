@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Jln. Rawa Buaya",
+  "stop_id": "B04875P",
+  "latitude": -6.160511,
+  "longitude": 106.72757,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:40:43",
+        "05:51:32",
+        "07:34:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:30:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

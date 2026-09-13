@@ -1,0 +1,33 @@
+{
+  "stop_name": "Rukan Radin Inten II",
+  "stop_id": "B03225P",
+  "latitude": -6.235567,
+  "longitude": 106.92282,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:30:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:42:14",
+        "05:42:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

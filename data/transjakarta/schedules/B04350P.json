@@ -1,0 +1,23 @@
+{
+  "stop_name": "Sbr. SDN Kb. Jeruk 08",
+  "stop_id": "B04350P",
+  "latitude": -6.198507,
+  "longitude": 106.76694,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:56:19",
+        "06:33:01",
+        "07:16:44",
+        "07:56:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

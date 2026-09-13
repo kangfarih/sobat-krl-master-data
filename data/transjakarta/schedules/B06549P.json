@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Pondok Jati",
+  "stop_id": "B06549P",
+  "latitude": -6.209196,
+  "longitude": 106.86216,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:21:30",
+        "06:23:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

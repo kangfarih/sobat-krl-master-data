@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Lapangan Arcici",
+  "stop_id": "B03994P",
+  "latitude": -6.182813,
+  "longitude": 106.86922,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:45:32",
+        "07:12:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

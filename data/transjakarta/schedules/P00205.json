@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kota Bambu Arah Selatan",
+  "stop_id": "P00205",
+  "latitude": -6.185221,
+  "longitude": 106.79709,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Kebayoran Lama",
+      "weekdays": [
+        "05:16:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMKN 50",
+  "stop_id": "B05321P",
+  "latitude": -6.228003,
+  "longitude": 106.89039,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:31:53",
+        "06:17:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:38:41",
+        "06:35:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

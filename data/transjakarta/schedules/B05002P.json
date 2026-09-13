@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Matraman",
+  "stop_id": "B05002P",
+  "latitude": -6.200005,
+  "longitude": 106.85347,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Kampung Melayu via Abdul Muis",
+      "weekdays": [
+        "05:17:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

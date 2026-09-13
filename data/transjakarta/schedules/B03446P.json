@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Anggur KDW",
+  "stop_id": "B03446P",
+  "latitude": -6.334046,
+  "longitude": 106.88116,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:24:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

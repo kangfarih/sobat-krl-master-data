@@ -1,0 +1,21 @@
+{
+  "stop_name": "Nusantara",
+  "stop_id": "B02535P",
+  "latitude": -6.227142,
+  "longitude": 106.88136,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:59:03",
+        "05:59:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

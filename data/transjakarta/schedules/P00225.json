@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kemanggisan Arah Selatan",
+  "stop_id": "P00225",
+  "latitude": -6.189781,
+  "longitude": 106.79726,
+  "routes": [
+    {
+      "route_id": "9E",
+      "route_short_name": "9E",
+      "route_long_name": "Kebayoran Lama - Jelambar",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Kebayoran Lama",
+      "weekdays": [
+        "05:19:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

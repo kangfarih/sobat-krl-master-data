@@ -1,0 +1,22 @@
+{
+  "stop_name": "Depan Flyover Raya Bogor",
+  "stop_id": "B07655P",
+  "latitude": -6.30647,
+  "longitude": 106.86609,
+  "routes": [
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:55:07",
+        "06:33:21",
+        "06:34:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

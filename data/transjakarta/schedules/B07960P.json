@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. S. Citanduy Raya",
+  "stop_id": "B07960P",
+  "latitude": -6.1293309,
+  "longitude": 106.9244064,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:26:18",
+        "06:26:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

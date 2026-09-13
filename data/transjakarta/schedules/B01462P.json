@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pekan Raya",
+  "stop_id": "B01462P",
+  "latitude": -6.151154,
+  "longitude": 106.84215,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "08:05:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:45:46",
+        "07:29:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

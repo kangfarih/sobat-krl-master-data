@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pisangan Baru Utara 2",
+  "stop_id": "B06537P",
+  "latitude": -6.208644,
+  "longitude": 106.86702,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:42:41",
+        "05:42:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Rawa Terate III",
+  "stop_id": "B07642P",
+  "latitude": -6.195302,
+  "longitude": 106.910654,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:20:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

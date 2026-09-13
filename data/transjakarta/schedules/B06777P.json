@@ -1,0 +1,32 @@
+{
+  "stop_name": "Ps. Cakung 1",
+  "stop_id": "B06777P",
+  "latitude": -6.182424,
+  "longitude": 106.935415,
+  "routes": [
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "06:25:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:27:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

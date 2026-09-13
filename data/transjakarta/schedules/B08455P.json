@@ -1,0 +1,21 @@
+{
+  "stop_name": "Banggalawa Hotel",
+  "stop_id": "B08455P",
+  "latitude": -6.30326,
+  "longitude": 106.867062,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:10:12",
+        "06:02:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

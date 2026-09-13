@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rasamala",
+  "stop_id": "B06432P",
+  "latitude": -6.206328,
+  "longitude": 106.871422,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "06:00:08",
+        "06:10:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Tj. Duren Timur 5",
+  "stop_id": "B05177P",
+  "latitude": -6.180482,
+  "longitude": 106.78375,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "05:32:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stop_name": "BSI 2",
+  "stop_id": "B00191P",
+  "latitude": -6.237609,
+  "longitude": 106.76252,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:27:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:44:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:16:16",
+        "06:16:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

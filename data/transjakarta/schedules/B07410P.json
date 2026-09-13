@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Jatayu V",
+  "stop_id": "B07410P",
+  "latitude": -6.247006,
+  "longitude": 106.787801,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:03:14"
+      ],
+      "weekends": [
+        "06:03:14"
+      ]
+    }
+  ]
+}

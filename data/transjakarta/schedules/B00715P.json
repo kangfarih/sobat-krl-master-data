@@ -1,0 +1,21 @@
+{
+  "stop_name": "Groserindo",
+  "stop_id": "B00715P",
+  "latitude": -6.249011,
+  "longitude": 107.01686,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:34:10",
+        "08:07:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

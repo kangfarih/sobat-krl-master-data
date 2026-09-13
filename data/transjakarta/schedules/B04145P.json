@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Ps. Hipli Semanan",
+  "stop_id": "B04145P",
+  "latitude": -6.156922,
+  "longitude": 106.70563,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:01:19",
+        "06:15:06",
+        "08:09:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

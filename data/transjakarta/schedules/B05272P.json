@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 52",
+  "stop_id": "B05272P",
+  "latitude": -6.122613,
+  "longitude": 106.92425,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:04:18",
+        "06:32:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

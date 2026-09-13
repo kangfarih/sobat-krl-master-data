@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. SMAN 99",
+  "stop_id": "B01589P",
+  "latitude": -6.351933,
+  "longitude": 106.8725,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:07:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

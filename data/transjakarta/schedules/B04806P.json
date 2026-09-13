@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Gading Raya",
+  "stop_id": "B04806P",
+  "latitude": -6.239038,
+  "longitude": 106.90515,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:06:18",
+        "06:04:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:44:09",
+        "07:04:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kantor Kelurahan Bambu Apus",
+  "stop_id": "B08292P",
+  "latitude": -6.3059,
+  "longitude": 106.90665,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:42:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

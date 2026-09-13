@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. H. Saidi",
+  "stop_id": "B01139P",
+  "latitude": -6.303505,
+  "longitude": 106.84433,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:49:47",
+        "06:53:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:27:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:49:14",
+        "06:56:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

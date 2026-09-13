@@ -1,0 +1,44 @@
+{
+  "stop_name": "Kemenkes 2",
+  "stop_id": "B01963P",
+  "latitude": -6.2287,
+  "longitude": 106.83302,
+  "routes": [
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:41:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:15:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:15:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

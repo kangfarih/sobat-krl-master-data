@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Sindang Terusan",
+  "stop_id": "B03846P",
+  "latitude": -6.111512,
+  "longitude": 106.89939,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:34:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

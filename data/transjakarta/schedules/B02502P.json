@@ -1,0 +1,58 @@
+{
+  "stop_name": "Museum Nasional Visible Storage",
+  "stop_id": "B02502P",
+  "latitude": -6.307188,
+  "longitude": 106.89653,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "07:02:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:32:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:23:53",
+        "06:05:48",
+        "06:07:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:17:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

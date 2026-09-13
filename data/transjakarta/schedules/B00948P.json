@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Budi Jaya",
+  "stop_id": "B00948P",
+  "latitude": -6.126053,
+  "longitude": 106.884775,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:13:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

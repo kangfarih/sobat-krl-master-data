@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ruko Jakasampurna",
+  "stop_id": "B08534P",
+  "latitude": -6.249171,
+  "longitude": 106.970456,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:34:51",
+        "08:06:18",
+        "09:03:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

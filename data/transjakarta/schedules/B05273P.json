@@ -1,0 +1,36 @@
+{
+  "stop_name": "SMAN 55",
+  "stop_id": "B05273P",
+  "latitude": -6.253441,
+  "longitude": 106.838278,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:09:58",
+        "05:56:36",
+        "05:56:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:10:01",
+        "06:04:58",
+        "06:31:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

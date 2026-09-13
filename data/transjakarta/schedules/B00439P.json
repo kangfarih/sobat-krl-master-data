@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Elang II Kebantenan",
+  "stop_id": "B00439P",
+  "latitude": -6.111453,
+  "longitude": 106.92886,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:43:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

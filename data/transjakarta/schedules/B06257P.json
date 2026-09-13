@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. Kramat Jaya",
+  "stop_id": "B06257P",
+  "latitude": -6.10836,
+  "longitude": 106.9171,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "05:37:10",
+        "05:37:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "05:37:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:33:17",
+        "06:03:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Lestari Kalisari",
+  "stop_id": "B03764P",
+  "latitude": -6.333568,
+  "longitude": 106.85273,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:29:39",
+        "06:34:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

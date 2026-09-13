@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Beringin 4 RS Soekanto",
+  "stop_id": "B03509P",
+  "latitude": -6.227684,
+  "longitude": 106.93269,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:15:05",
+        "05:15:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

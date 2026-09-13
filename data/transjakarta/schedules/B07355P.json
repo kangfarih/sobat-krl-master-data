@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Omaha Village",
+  "stop_id": "B07355P",
+  "latitude": -6.260572,
+  "longitude": 106.630333,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Summarecon Serpong",
+      "weekdays": [
+        "18:47:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

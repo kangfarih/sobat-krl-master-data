@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMA Katolik Bintang Kejora",
+  "stop_id": "B08024P",
+  "latitude": -6.146697,
+  "longitude": 106.74772,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:16:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

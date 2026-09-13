@@ -1,0 +1,59 @@
+{
+  "stop_name": "Sbr. Komplek Pacul Mas",
+  "stop_id": "B03977P",
+  "latitude": -6.221005,
+  "longitude": 106.89961,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:36:58",
+        "05:37:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:46:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:26:16",
+        "06:46:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:40:41",
+        "06:49:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pintu Tol Citeureup 2",
+  "stop_id": "B07104P",
+  "latitude": -6.485142,
+  "longitude": 106.873398,
+  "routes": [
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bogor",
+      "weekdays": [
+        "07:51:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

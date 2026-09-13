@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Jemb. Besi Raya",
+  "stop_id": "B07825P",
+  "latitude": -6.151807,
+  "longitude": 106.800666,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:00:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

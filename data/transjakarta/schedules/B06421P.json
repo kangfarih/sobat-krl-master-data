@@ -1,0 +1,20 @@
+{
+  "stop_name": "SATLAK Johar Baru",
+  "stop_id": "B06421P",
+  "latitude": -6.186499,
+  "longitude": 106.861084,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:35:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

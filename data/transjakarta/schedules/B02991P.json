@@ -1,0 +1,20 @@
+{
+  "stop_name": "Premier Terrace",
+  "stop_id": "B02991P",
+  "latitude": -6.329721,
+  "longitude": 106.87537,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:35:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

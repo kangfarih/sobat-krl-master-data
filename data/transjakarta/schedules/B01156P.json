@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Industri 1",
+  "stop_id": "B01156P",
+  "latitude": -6.20329,
+  "longitude": 106.62026,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:34:59",
+        "05:35:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

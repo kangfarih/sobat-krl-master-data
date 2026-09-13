@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Raya KDW PKP",
+  "stop_id": "B05117P",
+  "latitude": -6.340686,
+  "longitude": 106.88691,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:08:15",
+        "05:08:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

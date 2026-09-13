@@ -1,0 +1,58 @@
+{
+  "stop_name": "Boulevard Kelapa Hybrida Raya 2",
+  "stop_id": "B00173P",
+  "latitude": -6.148396,
+  "longitude": 106.90935,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "06:02:24",
+        "06:03:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:28:33",
+        "05:28:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:56:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:31:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

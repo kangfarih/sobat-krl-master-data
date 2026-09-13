@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bengkel Jln. Letjen Suprapto",
+  "stop_id": "B06668P",
+  "latitude": -6.174721,
+  "longitude": 106.85362,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:10:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

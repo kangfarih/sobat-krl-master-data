@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan Pagelarang 1",
+  "stop_id": "B02779P",
+  "latitude": -6.303704,
+  "longitude": 106.91762,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:30:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

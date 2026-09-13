@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. C. Teluk Gong",
+  "stop_id": "B07692P",
+  "latitude": -6.1385027,
+  "longitude": 106.778072,
+  "routes": [
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:12:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

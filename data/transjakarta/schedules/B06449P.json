@@ -1,0 +1,22 @@
+{
+  "stop_name": "BPOM",
+  "stop_id": "B06449P",
+  "latitude": -6.189488,
+  "longitude": 106.859405,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:31:05",
+        "06:38:23",
+        "06:48:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

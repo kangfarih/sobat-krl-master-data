@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Bukit Duri Selatan",
+  "stop_id": "B04736P",
+  "latitude": -6.221135,
+  "longitude": 106.85519,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:50:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:10:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rawa Indah 2",
+  "stop_id": "B06595P",
+  "latitude": -6.14467,
+  "longitude": 106.91482,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:40:44",
+        "07:00:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

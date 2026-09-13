@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jembatan Sukamulya III",
+  "stop_id": "B03885P",
+  "latitude": -6.170489,
+  "longitude": 106.85205,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:51:49",
+        "05:52:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Taman Tulang Bawang",
+  "stop_id": "B04537P",
+  "latitude": -6.176908,
+  "longitude": 106.80858,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:07:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:07:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

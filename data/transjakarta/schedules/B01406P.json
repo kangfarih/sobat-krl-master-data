@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Muhidin KDW",
+  "stop_id": "B01406P",
+  "latitude": -6.335157,
+  "longitude": 106.87957,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:22:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

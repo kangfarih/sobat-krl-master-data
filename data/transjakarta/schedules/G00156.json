@@ -1,0 +1,37 @@
+{
+  "stop_name": "Sumur Bor",
+  "stop_id": "G00156",
+  "latitude": -6.153071,
+  "longitude": 106.719303,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kalideres",
+      "weekdays": [
+        "06:03:32",
+        "06:04:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "06:32:55",
+        "07:11:33",
+        "07:46:41"
+      ],
+      "weekends": [
+        "06:32:55"
+      ]
+    }
+  ]
+}

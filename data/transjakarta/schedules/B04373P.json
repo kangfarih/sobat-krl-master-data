@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Sukabumi Utara 04",
+  "stop_id": "B04373P",
+  "latitude": -6.206558,
+  "longitude": 106.77249,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:10:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

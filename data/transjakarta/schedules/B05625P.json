@@ -1,0 +1,33 @@
+{
+  "stop_name": "Taman Melawai",
+  "stop_id": "B05625P",
+  "latitude": -6.246321,
+  "longitude": 106.79999,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:47:49",
+        "06:57:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:07:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Ps. Warakas 3",
+  "stop_id": "B05052P",
+  "latitude": -6.115511,
+  "longitude": 106.87993,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:06:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mandor Munding",
+  "stop_id": "B01348P",
+  "latitude": -6.307095,
+  "longitude": 106.91558,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:38:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

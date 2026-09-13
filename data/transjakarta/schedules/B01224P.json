@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kebagusan III",
+  "stop_id": "B01224P",
+  "latitude": -6.309083,
+  "longitude": 106.82708,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:47:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

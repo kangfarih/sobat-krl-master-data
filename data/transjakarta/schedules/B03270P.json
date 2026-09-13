@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusun Cipinang Besar Selatan",
+  "stop_id": "B03270P",
+  "latitude": -6.231625,
+  "longitude": 106.88288,
+  "routes": [
+    {
+      "route_id": "10B",
+      "route_short_name": "10B",
+      "route_long_name": "Rusun Cipinang Besar Selatan - Halim",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Halim dan Rusun Cipinang Besar Selatan",
+      "weekdays": [
+        "05:00:10",
+        "05:13:59",
+        "05:22:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "BPK Penabur Kelapa Gading",
+  "stop_id": "B00180P",
+  "latitude": -6.147463,
+  "longitude": 106.90796,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:32:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

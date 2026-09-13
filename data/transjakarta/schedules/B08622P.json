@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kota Bambu Utara IV",
+  "stop_id": "B08622P",
+  "latitude": -6.184279,
+  "longitude": 106.805592,
+  "routes": [
+    {
+      "route_id": "JAK.07",
+      "route_short_name": "JAK.07",
+      "route_long_name": "Tanah Abang - Grogol via Tawakal",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Grogol",
+      "weekdays": [
+        "05:53:23",
+        "05:53:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

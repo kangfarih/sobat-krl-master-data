@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. Cipinang Timur Persahabatan",
+  "stop_id": "B01011P",
+  "latitude": -6.202447,
+  "longitude": 106.89344,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:54:59",
+        "05:57:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "06:07:43",
+        "06:10:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:11:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

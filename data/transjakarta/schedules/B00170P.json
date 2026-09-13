@@ -1,0 +1,33 @@
+{
+  "stop_name": "Boulevard Janur Elok Raya 2",
+  "stop_id": "B00170P",
+  "latitude": -6.150553,
+  "longitude": 106.90922,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:27:17",
+        "05:27:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:55:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

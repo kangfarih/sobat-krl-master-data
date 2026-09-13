@@ -1,0 +1,32 @@
+{
+  "stop_name": "SMP Dan SMK Bakti 17",
+  "stop_id": "B05329P",
+  "latitude": -6.348009,
+  "longitude": 106.80965,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "06:19:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:14:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

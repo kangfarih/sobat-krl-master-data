@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 50",
+  "stop_id": "B05270P",
+  "latitude": -6.220085,
+  "longitude": 106.89616,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:41:16",
+        "05:42:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Apartemen Metro Sunter",
+  "stop_id": "B00057P",
+  "latitude": -6.13396,
+  "longitude": 106.87208,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:24:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:27:50",
+        "05:29:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

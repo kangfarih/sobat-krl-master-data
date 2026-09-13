@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Rahman Pulo Gebang",
+  "stop_id": "B07677P",
+  "latitude": -6.208816,
+  "longitude": 106.957002,
+  "routes": [
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "07:31:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

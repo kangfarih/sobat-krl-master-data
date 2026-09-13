@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klinik Darsa Medika Kamal",
+  "stop_id": "B01987P",
+  "latitude": -6.099616,
+  "longitude": 106.69901,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:24:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

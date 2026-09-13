@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gedung Pompa Cideng Siantar",
+  "stop_id": "B00600P",
+  "latitude": -6.173284,
+  "longitude": 106.80669,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:09:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:09:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

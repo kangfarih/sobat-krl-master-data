@@ -1,0 +1,60 @@
+{
+  "stop_name": "Mall Cipinang Indah 2",
+  "stop_id": "B02190P",
+  "latitude": -6.240232,
+  "longitude": 106.894691,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:36:07",
+        "05:36:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:16:40",
+        "06:14:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:27:49",
+        "06:32:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:57:39",
+        "06:04:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

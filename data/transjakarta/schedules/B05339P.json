@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 106",
+  "stop_id": "B05339P",
+  "latitude": -6.314971,
+  "longitude": 106.87411,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:01:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

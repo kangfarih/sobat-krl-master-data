@@ -1,0 +1,69 @@
+{
+  "stop_name": "Pos 9 Pelabuhan Jict",
+  "stop_id": "B02953P",
+  "latitude": -6.107294,
+  "longitude": 106.8957,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "06:08:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "08:22:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:56:21",
+        "06:26:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:09:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:09:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

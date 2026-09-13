@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusun Tambora",
+  "stop_id": "B03295P",
+  "latitude": -6.147327,
+  "longitude": 106.798676,
+  "routes": [
+    {
+      "route_id": "9F",
+      "route_short_name": "9F",
+      "route_long_name": "Rusun Tambora - Pluit",
+      "color": "85A4A2",
+      "category": "Rusun",
+      "direction": "Pluit dan Rusun Tambora",
+      "weekdays": [
+        "05:00:10",
+        "05:23:27",
+        "06:06:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

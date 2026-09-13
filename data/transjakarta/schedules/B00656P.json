@@ -1,0 +1,46 @@
+{
+  "stop_name": "Gongseng",
+  "stop_id": "B00656P",
+  "latitude": -6.326712,
+  "longitude": 106.86376,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:13:12",
+        "06:17:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:24:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:31:40",
+        "05:31:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

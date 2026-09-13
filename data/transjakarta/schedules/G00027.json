@@ -1,0 +1,25 @@
+{
+  "stop_name": "Tosari",
+  "stop_id": "G00027",
+  "latitude": -6.196742,
+  "longitude": 106.823051,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:33:10",
+        "05:33:16",
+        "05:33:18",
+        "05:33:19",
+        "06:33:35",
+        "08:33:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

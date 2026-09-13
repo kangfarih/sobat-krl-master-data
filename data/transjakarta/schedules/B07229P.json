@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Wangko 2",
+  "stop_id": "B07229P",
+  "latitude": -6.245735,
+  "longitude": 106.882299,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:45:13",
+        "05:45:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

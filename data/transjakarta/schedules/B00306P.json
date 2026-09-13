@@ -1,0 +1,59 @@
+{
+  "stop_name": "Dinas Kebersihan Duren Sawit",
+  "stop_id": "B00306P",
+  "latitude": -6.219815,
+  "longitude": 106.92338,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Walikota Jakarta Timur",
+      "weekdays": [
+        "05:20:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:52:55",
+        "07:05:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:51:23",
+        "05:52:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:28:07",
+        "06:30:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

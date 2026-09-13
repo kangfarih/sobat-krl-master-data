@@ -1,0 +1,20 @@
+{
+  "stop_name": "Mushola At Taufiq",
+  "stop_id": "B02515P",
+  "latitude": -6.261415,
+  "longitude": 106.86704,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:26:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Anggrek Cililitan",
+  "stop_id": "B08425P",
+  "latitude": -6.265546,
+  "longitude": 106.861358,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:05:54",
+        "06:00:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

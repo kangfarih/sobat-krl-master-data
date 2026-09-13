@@ -1,0 +1,21 @@
+{
+  "stop_name": "Dato Tonggara",
+  "stop_id": "B00301P",
+  "latitude": -6.283918,
+  "longitude": 106.87222,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:00:10",
+        "05:43:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

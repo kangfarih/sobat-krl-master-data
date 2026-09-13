@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Komarudin Lama",
+  "stop_id": "B07296P",
+  "latitude": -6.193574,
+  "longitude": 106.943338,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:31:00",
+        "06:09:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

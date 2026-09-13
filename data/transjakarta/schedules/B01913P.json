@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kel. Duren Sawit",
+  "stop_id": "B01913P",
+  "latitude": -6.230817,
+  "longitude": 106.91423,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:51:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "06:07:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Rusun Pelindo Cilincing",
+  "stop_id": "B08100P",
+  "latitude": -6.11187,
+  "longitude": 106.940572,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:17:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

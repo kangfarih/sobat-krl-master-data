@@ -1,0 +1,20 @@
+{
+  "stop_name": "Rusun Daan Mogot",
+  "stop_id": "B08404P",
+  "latitude": -6.160795,
+  "longitude": 106.716741,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:01:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

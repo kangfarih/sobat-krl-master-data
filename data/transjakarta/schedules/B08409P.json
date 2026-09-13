@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Walang Baru Raya",
+  "stop_id": "B08409P",
+  "latitude": -6.1253804,
+  "longitude": 106.9057851,
+  "routes": [
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:29:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

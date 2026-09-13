@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pasopati Dewa Kembar",
+  "stop_id": "B01460P",
+  "latitude": -6.108065,
+  "longitude": 106.92548,
+  "routes": [
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:47:23",
+        "05:47:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

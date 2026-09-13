@@ -1,0 +1,20 @@
+{
+  "stop_name": "Greenwich Park 2",
+  "stop_id": "B07346P",
+  "latitude": -6.27724,
+  "longitude": 106.635259,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Lebak Bulus",
+      "weekdays": [
+        "06:15:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

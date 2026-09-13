@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kartini",
+  "stop_id": "B01840P",
+  "latitude": -6.199557,
+  "longitude": 106.82891,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:29:47",
+        "06:59:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

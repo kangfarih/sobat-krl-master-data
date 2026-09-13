@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Pademangan 03",
+  "stop_id": "B06690P",
+  "latitude": -6.131746,
+  "longitude": 106.84567,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:46:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

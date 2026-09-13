@@ -1,0 +1,36 @@
+{
+  "stop_name": "Jln. Adam Sukabumi Utara",
+  "stop_id": "B00836P",
+  "latitude": -6.208434,
+  "longitude": 106.78322,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:22:30",
+        "05:22:42",
+        "06:21:34",
+        "07:42:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:38:46",
+        "05:58:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

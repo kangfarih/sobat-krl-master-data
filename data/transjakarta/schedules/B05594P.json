@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Hutan Tebet",
+  "stop_id": "B05594P",
+  "latitude": -6.238056,
+  "longitude": 106.85332,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:23:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

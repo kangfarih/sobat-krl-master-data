@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Menteng Pulo",
+  "stop_id": "B02645P",
+  "latitude": -6.221436,
+  "longitude": 106.84529,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:35:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

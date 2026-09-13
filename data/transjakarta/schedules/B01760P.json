@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Pesakih Semanan",
+  "stop_id": "B01760P",
+  "latitude": -6.155824,
+  "longitude": 106.716,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:04:19",
+        "05:04:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "MI Imadun Najah Rorotan",
+  "stop_id": "B02441P",
+  "latitude": -6.149081,
+  "longitude": 106.95582,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:43:14",
+        "05:44:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

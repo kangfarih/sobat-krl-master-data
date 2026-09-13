@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gading Serpong 1",
+  "stop_id": "B00383P",
+  "latitude": -6.230729,
+  "longitude": 106.64138,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:43:01",
+        "05:43:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

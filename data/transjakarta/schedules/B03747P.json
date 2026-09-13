@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Kb. Bawang XIII",
+  "stop_id": "B03747P",
+  "latitude": -6.115811,
+  "longitude": 106.8868,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:15:32",
+        "05:54:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sekolah Pah Tsung",
+  "stop_id": "B04643P",
+  "latitude": -6.136693,
+  "longitude": 106.73785,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "06:09:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:09:12",
+        "02:15:46",
+        "05:37:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

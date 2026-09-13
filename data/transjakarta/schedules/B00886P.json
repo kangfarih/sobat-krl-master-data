@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. Balai Rakyat",
+  "stop_id": "B00886P",
+  "latitude": -6.224651,
+  "longitude": 106.8991,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:25:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:40:29",
+        "06:25:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:42:53",
+        "06:51:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

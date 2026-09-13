@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 258",
+  "stop_id": "B05379P",
+  "latitude": -6.357133,
+  "longitude": 106.87444,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:04:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

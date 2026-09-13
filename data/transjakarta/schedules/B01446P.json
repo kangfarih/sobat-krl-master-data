@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pam Lama I",
+  "stop_id": "B01446P",
+  "latitude": -6.20374,
+  "longitude": 106.805603,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:51:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

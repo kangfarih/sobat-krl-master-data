@@ -1,0 +1,21 @@
+{
+  "stop_name": "Komplek Depkes Sunter Jaya",
+  "stop_id": "B07237P",
+  "latitude": -6.15527,
+  "longitude": 106.865873,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:30:03",
+        "06:28:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

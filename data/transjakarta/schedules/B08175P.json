@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sentul",
+  "stop_id": "B08175P",
+  "latitude": -6.5318515,
+  "longitude": 106.851737,
+  "routes": [
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:00:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

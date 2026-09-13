@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sekolah Bumi Husada Ciracas",
+  "stop_id": "B04621P",
+  "latitude": -6.323141,
+  "longitude": 106.8839,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:37:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:27:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

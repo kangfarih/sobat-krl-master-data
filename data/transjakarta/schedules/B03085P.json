@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rawa Sengon",
+  "stop_id": "B03085P",
+  "latitude": -6.142574,
+  "longitude": 106.90094,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:00:10",
+        "06:10:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

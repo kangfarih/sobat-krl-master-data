@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SIT I-II PIK",
+  "stop_id": "B04411P",
+  "latitude": -6.124122,
+  "longitude": 106.74544,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:46:52",
+        "05:41:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

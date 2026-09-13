@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Peta Utara",
+  "stop_id": "B01482P",
+  "latitude": -6.144574,
+  "longitude": 106.70249,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "06:01:52",
+        "07:06:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 1",
+  "stop_id": "B05952P",
+  "latitude": -6.192985,
+  "longitude": 106.83895,
+  "routes": [
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:22:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

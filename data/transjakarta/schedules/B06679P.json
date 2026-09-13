@@ -1,0 +1,21 @@
+{
+  "stop_name": "Flyover Cakung Barat",
+  "stop_id": "B06679P",
+  "latitude": -6.188763,
+  "longitude": 106.942098,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:22:16",
+        "06:00:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

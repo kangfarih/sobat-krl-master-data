@@ -1,0 +1,22 @@
+{
+  "stop_name": "RPTRA Jakpro Asri",
+  "stop_id": "B06566P",
+  "latitude": -6.112221,
+  "longitude": 106.78125,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:05:18",
+        "01:17:39",
+        "05:02:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

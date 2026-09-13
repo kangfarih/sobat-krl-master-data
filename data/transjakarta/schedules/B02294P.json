@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Darul Falah Petukangan 2",
+  "stop_id": "B02294P",
+  "latitude": -6.234767,
+  "longitude": 106.75144,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:23:57",
+        "05:24:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

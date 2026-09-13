@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jembatan Baru 1",
+  "stop_id": "B06965P",
+  "latitude": -6.155029,
+  "longitude": 106.730794,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Puri Kembangan",
+      "weekdays": [
+        "05:31:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:35:44",
+        "07:29:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

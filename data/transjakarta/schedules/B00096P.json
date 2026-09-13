@@ -1,0 +1,21 @@
+{
+  "stop_name": "Badan Penghubung Sulawesi Tengah",
+  "stop_id": "B00096P",
+  "latitude": -6.175029,
+  "longitude": 106.80734,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:04:04",
+        "05:20:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

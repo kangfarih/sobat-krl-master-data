@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bujana Tirta Raya 1",
+  "stop_id": "B06556P",
+  "latitude": -6.205467,
+  "longitude": 106.87659,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:42:50",
+        "06:45:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

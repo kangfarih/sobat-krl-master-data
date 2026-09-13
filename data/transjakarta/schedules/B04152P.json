@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ps. Kamal",
+  "stop_id": "B04152P",
+  "latitude": -6.104541,
+  "longitude": 106.70712,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:33:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

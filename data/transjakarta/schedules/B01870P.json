@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kec. Grogol Petamburan",
+  "stop_id": "B01870P",
+  "latitude": -6.178341,
+  "longitude": 106.7833,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "05:32:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

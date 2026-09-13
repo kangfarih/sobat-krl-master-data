@@ -1,0 +1,23 @@
+{
+  "stop_name": "Flyover Pramuka",
+  "stop_id": "G00197",
+  "latitude": -6.19896,
+  "longitude": 106.854551,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:34:51",
+        "05:40:50"
+      ],
+      "weekends": [
+        "05:40:50"
+      ]
+    }
+  ]
+}

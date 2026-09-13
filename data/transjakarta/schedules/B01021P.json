@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Damai",
+  "stop_id": "B01021P",
+  "latitude": -6.242741,
+  "longitude": 106.90184,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:49:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

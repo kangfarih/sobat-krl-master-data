@@ -1,0 +1,26 @@
+{
+  "stop_name": "Gandaria City 2",
+  "stop_id": "B07422P",
+  "latitude": -6.245578,
+  "longitude": 106.784308,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:11:51",
+        "05:17:27",
+        "06:32:57",
+        "06:38:34"
+      ],
+      "weekends": [
+        "05:11:51",
+        "06:32:57"
+      ]
+    }
+  ]
+}

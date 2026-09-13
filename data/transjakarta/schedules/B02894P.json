@@ -1,0 +1,20 @@
+{
+  "stop_name": "Alfurqon",
+  "stop_id": "B02894P",
+  "latitude": -6.184794,
+  "longitude": 106.84433,
+  "routes": [
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:22:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

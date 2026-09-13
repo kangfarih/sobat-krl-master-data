@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. SDN Gunung Sahari 01",
+  "stop_id": "B06776P",
+  "latitude": -6.166091,
+  "longitude": 106.841843,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:34:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:07:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

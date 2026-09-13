@@ -1,0 +1,70 @@
+{
+  "stop_name": "Rukan Balai Pustaka",
+  "stop_id": "B03223P",
+  "latitude": -6.198484,
+  "longitude": 106.88611,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:09:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:03:23",
+        "06:23:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:22:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:46:31",
+        "05:46:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:04:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

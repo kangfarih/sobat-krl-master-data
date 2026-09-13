@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tambora VI Gg. 2",
+  "stop_id": "B01648P",
+  "latitude": -6.14285,
+  "longitude": 106.80679,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:14:54",
+        "05:15:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

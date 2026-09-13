@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kramat Pela",
+  "stop_id": "B02096P",
+  "latitude": -6.249958,
+  "longitude": 106.79544,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:06:15",
+        "06:33:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

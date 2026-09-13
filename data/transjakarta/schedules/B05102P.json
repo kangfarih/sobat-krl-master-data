@@ -1,0 +1,63 @@
+{
+  "stop_name": "Simpang Rawa Belong Palmerah Barat",
+  "stop_id": "B05102P",
+  "latitude": -6.206644,
+  "longitude": 106.784036,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:23:41",
+        "05:23:54",
+        "06:22:46",
+        "07:43:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:39:57",
+        "05:59:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:53:49",
+        "05:53:53",
+        "05:53:54",
+        "08:17:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:16:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

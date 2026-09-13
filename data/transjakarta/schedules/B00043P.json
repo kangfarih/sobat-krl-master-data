@@ -1,0 +1,44 @@
+{
+  "stop_name": "Andara Margasatwa 2",
+  "stop_id": "B00043P",
+  "latitude": -6.313577,
+  "longitude": 106.80356,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:07:59"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:07:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:08:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

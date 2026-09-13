@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Gunung Galunggung 1",
+  "stop_id": "B01087P",
+  "latitude": -6.142286,
+  "longitude": 106.73712,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:14:13",
+        "02:20:47",
+        "05:40:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bumi Jatiwaringin",
+  "stop_id": "B00211P",
+  "latitude": -6.275283,
+  "longitude": 106.91282,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:04:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

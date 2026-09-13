@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan Al Baidho 1",
+  "stop_id": "B02763P",
+  "latitude": -6.293971,
+  "longitude": 106.90439,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:53:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

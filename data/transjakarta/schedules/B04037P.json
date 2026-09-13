@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Annur 20 Desember",
+  "stop_id": "B04037P",
+  "latitude": -6.133682,
+  "longitude": 106.70941,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:24:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

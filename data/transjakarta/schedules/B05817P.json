@@ -1,0 +1,21 @@
+{
+  "stop_name": "UBM",
+  "stop_id": "B05817P",
+  "latitude": -6.131138,
+  "longitude": 106.818276,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:18:28",
+        "06:10:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

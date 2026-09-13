@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kampung Bulak Cabe",
+  "stop_id": "B08099P",
+  "latitude": -6.107943,
+  "longitude": 106.940579,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:14:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

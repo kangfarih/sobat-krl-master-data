@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Poncol Malaka III",
+  "stop_id": "B00532P",
+  "latitude": -6.14769,
+  "longitude": 106.95627,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:58:05",
+        "07:33:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

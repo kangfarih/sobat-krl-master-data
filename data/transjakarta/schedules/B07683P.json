@@ -1,0 +1,21 @@
+{
+  "stop_name": "MTsN 25 Jakarta",
+  "stop_id": "B07683P",
+  "latitude": -6.21504882,
+  "longitude": 106.89569378,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:16:37",
+        "05:16:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

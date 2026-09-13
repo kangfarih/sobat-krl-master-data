@@ -1,0 +1,59 @@
+{
+  "stop_name": "IRTI",
+  "stop_id": "B00806P",
+  "latitude": -6.1803,
+  "longitude": 106.82618,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:44:23",
+        "05:50:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW2",
+      "route_short_name": "BW2",
+      "route_long_name": "Monas Explorer",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Monas Explorer",
+      "weekdays": [
+        "10:00:10",
+        "10:37:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "10:00:10",
+        "11:40:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "07:02:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

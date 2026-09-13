@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Puskesmas Cibubur",
+  "stop_id": "B04248P",
+  "latitude": -6.355815,
+  "longitude": 106.8793,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:33:51",
+        "06:11:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

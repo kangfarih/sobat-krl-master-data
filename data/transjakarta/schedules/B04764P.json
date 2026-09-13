@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Cibubur III/I",
+  "stop_id": "B04764P",
+  "latitude": -6.344359,
+  "longitude": 106.87407,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:14:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

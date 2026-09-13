@@ -1,0 +1,20 @@
+{
+  "stop_name": "Tanah Merah",
+  "stop_id": "B05672P",
+  "latitude": -6.142042,
+  "longitude": 106.908619,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:10:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

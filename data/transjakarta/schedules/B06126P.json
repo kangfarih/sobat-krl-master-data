@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sudinkes",
+  "stop_id": "B06126P",
+  "latitude": -6.189449,
+  "longitude": 106.859617,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:38:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

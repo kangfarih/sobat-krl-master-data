@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kel. Rawamangun",
+  "stop_id": "B06560P",
+  "latitude": -6.199099,
+  "longitude": 106.8808,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:35:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:49:22",
+        "06:51:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

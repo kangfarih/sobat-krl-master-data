@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Khayar",
+  "stop_id": "B06852P",
+  "latitude": -6.341809,
+  "longitude": 106.80462,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:02:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Rukun Lubang Buaya",
+  "stop_id": "B06786P",
+  "latitude": -6.290369,
+  "longitude": 106.906529,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:06:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

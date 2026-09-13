@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Musyarofah Kapuk",
+  "stop_id": "B07695P",
+  "latitude": -6.1414989,
+  "longitude": 106.774219,
+  "routes": [
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:46:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kokoh Semesta",
+  "stop_id": "B02006P",
+  "latitude": -6.1156,
+  "longitude": 106.92682,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:56:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

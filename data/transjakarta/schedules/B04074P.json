@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid Nurul Huda Batu Ampar",
+  "stop_id": "B04074P",
+  "latitude": -6.278212,
+  "longitude": 106.86116,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:14:04",
+        "06:08:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

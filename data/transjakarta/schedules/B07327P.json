@@ -1,0 +1,20 @@
+{
+  "stop_name": "Yayasan Pangudi Luhur",
+  "stop_id": "B07327P",
+  "latitude": -6.263921,
+  "longitude": 106.795424,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:34:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

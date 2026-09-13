@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Manggarai Utara 5",
+  "stop_id": "B06547P",
+  "latitude": -6.211332,
+  "longitude": 106.85441,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:15:24",
+        "06:17:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

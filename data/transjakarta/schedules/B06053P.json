@@ -1,0 +1,59 @@
+{
+  "stop_name": "Selatan St. Gondangdia",
+  "stop_id": "B06053P",
+  "latitude": -6.187059,
+  "longitude": 106.8329,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:47:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2Q",
+      "route_short_name": "2Q",
+      "route_long_name": "Gondangdia - Balai Kota",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Balai Kota dan Gondangdia",
+      "weekdays": [
+        "05:00:10",
+        "05:15:36",
+        "05:25:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:37:04",
+        "08:55:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:02:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

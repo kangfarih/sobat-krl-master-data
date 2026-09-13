@@ -1,0 +1,20 @@
+{
+  "stop_name": "Setiabudi Utara 2",
+  "stop_id": "B04686P",
+  "latitude": -6.207513,
+  "longitude": 106.8294,
+  "routes": [
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:50:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

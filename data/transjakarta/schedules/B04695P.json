@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Ahmad Yani H. Ten",
+  "stop_id": "B04695P",
+  "latitude": -6.188381,
+  "longitude": 106.87591,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:51:13",
+        "07:18:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

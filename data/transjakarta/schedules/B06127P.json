@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. BPPK Jakarta",
+  "stop_id": "B06127P",
+  "latitude": -6.190102,
+  "longitude": 106.858644,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:39:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

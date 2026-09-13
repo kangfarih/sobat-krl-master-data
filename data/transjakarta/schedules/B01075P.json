@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Gamprit Raya",
+  "stop_id": "B01075P",
+  "latitude": -6.27691,
+  "longitude": 106.91306,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:05:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Tiga Pulo Gebang Raya 2",
+  "stop_id": "B07676P",
+  "latitude": -6.207045,
+  "longitude": 106.95427,
+  "routes": [
+    {
+      "route_id": "11C",
+      "route_short_name": "11C",
+      "route_long_name": "Rusun Pulo Gebang - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Pulo Gebang",
+      "weekdays": [
+        "05:39:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "07:29:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

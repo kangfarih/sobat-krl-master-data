@@ -1,0 +1,21 @@
+{
+  "stop_name": "Blok M Jalur 5",
+  "stop_id": "B08117P",
+  "latitude": -6.24352454,
+  "longitude": 106.80187762,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:00:10",
+        "06:28:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

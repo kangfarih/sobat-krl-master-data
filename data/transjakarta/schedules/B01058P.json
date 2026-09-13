@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Flamboyan",
+  "stop_id": "B01058P",
+  "latitude": -6.297424,
+  "longitude": 106.89605,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:10:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

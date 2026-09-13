@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Rawa Belong 2 KH Taisir",
+  "stop_id": "B05100P",
+  "latitude": -6.200768,
+  "longitude": 106.78765,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:27:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

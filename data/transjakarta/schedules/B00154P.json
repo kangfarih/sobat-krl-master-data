@@ -1,0 +1,32 @@
+{
+  "stop_name": "BKN 1",
+  "stop_id": "B00154P",
+  "latitude": -6.258026,
+  "longitude": 106.86955,
+  "routes": [
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:20:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:28:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

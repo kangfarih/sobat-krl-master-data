@@ -1,0 +1,46 @@
+{
+  "stop_name": "Pademangan",
+  "stop_id": "G00239",
+  "latitude": -6.133712,
+  "longitude": 106.831591,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:53:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "06:12:16",
+        "07:26:12",
+        "08:02:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "07:13:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

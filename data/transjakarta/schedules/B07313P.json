@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Sultan Agung",
+  "stop_id": "B07313P",
+  "latitude": -6.209154,
+  "longitude": 106.847721,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:02:43",
+        "05:02:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:00:10",
+        "06:02:22",
+        "06:02:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

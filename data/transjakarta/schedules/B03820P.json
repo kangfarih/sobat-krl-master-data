@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Prepedan Dalam",
+  "stop_id": "B03820P",
+  "latitude": -6.119537,
+  "longitude": 106.70911,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:47:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "stop_name": "Sbr. Gg. Masjid Benda Raya",
+  "stop_id": "B07440P",
+  "latitude": -6.275141,
+  "longitude": 106.816169,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:53:34",
+        "05:59:08",
+        "07:14:38",
+        "07:20:15"
+      ],
+      "weekends": [
+        "05:53:34",
+        "07:14:38"
+      ]
+    }
+  ]
+}

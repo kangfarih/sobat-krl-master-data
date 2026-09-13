@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Saaba Meruya Selatan",
+  "stop_id": "B05131P",
+  "latitude": -6.214861,
+  "longitude": 106.73735,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:28:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

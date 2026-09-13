@@ -1,0 +1,33 @@
+{
+  "stop_name": "Persada Purnawira Halim",
+  "stop_id": "B02757P",
+  "latitude": -6.259498,
+  "longitude": 106.88584,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:12:36",
+        "06:05:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:44:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

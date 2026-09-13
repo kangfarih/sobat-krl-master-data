@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Cipete IX",
+  "stop_id": "B07378P",
+  "latitude": -6.277748,
+  "longitude": 106.80271,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:35:48",
+        "06:45:32",
+        "06:46:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

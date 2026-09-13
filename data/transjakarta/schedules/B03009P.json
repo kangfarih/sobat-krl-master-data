@@ -1,0 +1,48 @@
+{
+  "stop_name": "Puri Agung",
+  "stop_id": "B03009P",
+  "latitude": -6.150977,
+  "longitude": 106.72798,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:27:40",
+        "05:28:12",
+        "05:28:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Puri Kembangan",
+      "weekdays": [
+        "05:20:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:24:35",
+        "02:31:09",
+        "05:46:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

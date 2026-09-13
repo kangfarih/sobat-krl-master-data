@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Batu Permata V",
+  "stop_id": "B00908P",
+  "latitude": -6.279588,
+  "longitude": 106.86244,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:15:17",
+        "06:09:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

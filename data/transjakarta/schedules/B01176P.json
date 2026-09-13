@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Jembatan Merah",
+  "stop_id": "B01176P",
+  "latitude": -6.145356,
+  "longitude": 106.83323,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:53:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

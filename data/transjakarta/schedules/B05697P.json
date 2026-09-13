@@ -1,0 +1,46 @@
+{
+  "stop_name": "Telkomsel Jln. Nangka",
+  "stop_id": "B05697P",
+  "latitude": -6.304254,
+  "longitude": 106.84593,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:22:46",
+        "05:22:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:23:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:55:31",
+        "07:03:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

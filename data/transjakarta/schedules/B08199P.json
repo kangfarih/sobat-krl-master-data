@@ -1,0 +1,21 @@
+{
+  "stop_name": "GOR Betos Cut Mutia",
+  "stop_id": "B08199P",
+  "latitude": -6.253622,
+  "longitude": 107.009717,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:05:03",
+        "05:05:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

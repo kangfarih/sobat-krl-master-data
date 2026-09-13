@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Sungai Barito Sembar",
+  "stop_id": "B03854P",
+  "latitude": -6.129451,
+  "longitude": 106.91868,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:26:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

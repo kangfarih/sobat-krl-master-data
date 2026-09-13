@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Pahlawan Revolusi Kalimalang",
+  "stop_id": "B05025P",
+  "latitude": -6.245592,
+  "longitude": 106.90576,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:48:26",
+        "07:08:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:48:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

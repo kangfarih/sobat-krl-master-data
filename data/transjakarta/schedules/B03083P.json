@@ -1,0 +1,33 @@
+{
+  "stop_name": "Rawa Selatan 1",
+  "stop_id": "B03083P",
+  "latitude": -6.174148,
+  "longitude": 106.85794,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:41:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:45:47",
+        "05:45:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

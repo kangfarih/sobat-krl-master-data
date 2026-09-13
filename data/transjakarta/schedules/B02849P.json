@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pintu Keluar Ps. Induk",
+  "stop_id": "B02849P",
+  "latitude": -6.295914,
+  "longitude": 106.87165,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:18:24",
+        "05:18:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

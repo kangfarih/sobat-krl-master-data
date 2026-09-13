@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Unisma",
+  "stop_id": "B08202P",
+  "latitude": -6.256588,
+  "longitude": 107.00509,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "07:02:19",
+        "08:33:45",
+        "09:30:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

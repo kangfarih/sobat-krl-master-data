@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Ps. Johar Baru",
+  "stop_id": "B04149P",
+  "latitude": -6.184282,
+  "longitude": 106.85584,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:30:48",
+        "06:58:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:31:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

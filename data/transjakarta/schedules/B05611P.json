@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Kudus",
+  "stop_id": "B05611P",
+  "latitude": -6.202491,
+  "longitude": 106.824708,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:33:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

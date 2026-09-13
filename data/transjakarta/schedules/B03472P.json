@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Child Care Pre School",
+  "stop_id": "B03472P",
+  "latitude": -6.257475,
+  "longitude": 106.801105,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:16:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

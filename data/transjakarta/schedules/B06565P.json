@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Pluit Karang Utara 1",
+  "stop_id": "B06565P",
+  "latitude": -6.11042,
+  "longitude": 106.7755,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:01:52",
+        "01:14:13",
+        "05:00:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

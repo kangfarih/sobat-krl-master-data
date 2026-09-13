@@ -1,0 +1,21 @@
+{
+  "stop_name": "Naga Raya Duren Sawit",
+  "stop_id": "B02530P",
+  "latitude": -6.224769,
+  "longitude": 106.91146,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:34:10",
+        "06:46:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

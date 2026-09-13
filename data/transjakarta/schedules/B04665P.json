@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Yapenda",
+  "stop_id": "B04665P",
+  "latitude": -6.125204,
+  "longitude": 106.89089,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:29:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

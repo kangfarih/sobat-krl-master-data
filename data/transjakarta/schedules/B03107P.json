@@ -1,0 +1,21 @@
+{
+  "stop_name": "Roxy Square 2",
+  "stop_id": "B03107P",
+  "latitude": -6.167221,
+  "longitude": 106.79975,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:55:53",
+        "06:56:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

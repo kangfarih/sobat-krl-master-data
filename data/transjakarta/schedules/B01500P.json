@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pintu Air II Pasar Baru",
+  "stop_id": "B01500P",
+  "latitude": -6.164921,
+  "longitude": 106.8302,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang",
+      "weekdays": [
+        "05:52:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

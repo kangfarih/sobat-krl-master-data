@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Albarkah I Cilandak",
+  "stop_id": "B00848P",
+  "latitude": -6.285505,
+  "longitude": 106.79964,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:43:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "stop_name": "Kel. Kayu Putih",
+  "stop_id": "B01924P",
+  "latitude": -6.18578,
+  "longitude": 106.88844,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:20:46",
+        "05:21:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:09:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:24:27",
+        "05:24:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

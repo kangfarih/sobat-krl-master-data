@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Jami Darussalam Pinang",
+  "stop_id": "B04065P",
+  "latitude": -6.307844,
+  "longitude": 106.79875,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:19:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

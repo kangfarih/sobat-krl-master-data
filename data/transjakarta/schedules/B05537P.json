@@ -1,0 +1,21 @@
+{
+  "stop_name": "STMT Trisakti 3",
+  "stop_id": "B05537P",
+  "latitude": -6.230904,
+  "longitude": 106.87854,
+  "routes": [
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:44:37",
+        "06:49:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

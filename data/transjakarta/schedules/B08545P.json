@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kedasih",
+  "stop_id": "B08545P",
+  "latitude": -6.30005,
+  "longitude": 107.166582,
+  "routes": [
+    {
+      "route_id": "B51",
+      "route_short_name": "B51",
+      "route_long_name": "Cikarang - Cawang",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Cikarang",
+      "weekdays": [
+        "05:13:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

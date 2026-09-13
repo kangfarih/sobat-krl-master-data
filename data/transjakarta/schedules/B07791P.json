@@ -1,0 +1,34 @@
+{
+  "stop_name": "Cipinang 1",
+  "stop_id": "B07791P",
+  "latitude": -6.213527,
+  "longitude": 106.889956,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:23:37",
+        "06:33:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:23:15",
+        "06:32:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Museum Nasional",
+  "stop_id": "B02501P",
+  "latitude": -6.176403,
+  "longitude": 106.82263,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:44:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "11:11:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

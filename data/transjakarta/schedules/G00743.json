@@ -1,0 +1,20 @@
+{
+  "stop_name": "Transport Hub Dukuh Atas",
+  "stop_id": "G00743",
+  "latitude": -6.201825,
+  "longitude": 106.823823,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:32:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

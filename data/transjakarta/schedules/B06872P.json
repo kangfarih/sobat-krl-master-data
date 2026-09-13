@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Ancol Selatan",
+  "stop_id": "B06872P",
+  "latitude": -6.134139,
+  "longitude": 106.855696,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "06:01:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

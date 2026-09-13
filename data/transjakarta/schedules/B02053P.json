@@ -1,0 +1,35 @@
+{
+  "stop_name": "Komplek Mandiri Giant Express 2",
+  "stop_id": "B02053P",
+  "latitude": -6.297573,
+  "longitude": 106.76499,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:44:34",
+        "07:11:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:57:33",
+        "06:08:27",
+        "08:02:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Al Mukhlisin",
+  "stop_id": "B00030P",
+  "latitude": -6.128569,
+  "longitude": 106.792084,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:27:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12H",
+      "route_short_name": "12H",
+      "route_long_name": "Rusun Penjaringan - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Penjaringan",
+      "weekdays": [
+        "05:11:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

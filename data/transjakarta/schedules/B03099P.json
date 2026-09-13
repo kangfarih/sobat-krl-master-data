@@ -1,0 +1,20 @@
+{
+  "stop_name": "Roda Mas Baja Intan",
+  "stop_id": "B03099P",
+  "latitude": -6.141794,
+  "longitude": 106.82785,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:57:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

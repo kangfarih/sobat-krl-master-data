@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Entong",
+  "stop_id": "B07652P",
+  "latitude": -6.340673,
+  "longitude": 106.868902,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:16:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Poltangan",
+  "stop_id": "B02915P",
+  "latitude": -6.295763,
+  "longitude": 106.84087,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:55:02",
+        "05:55:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:21:49",
+        "06:34:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

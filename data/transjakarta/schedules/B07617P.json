@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Rawa Sumur II",
+  "stop_id": "B07617P",
+  "latitude": -6.207998,
+  "longitude": 106.917009,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "06:06:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "06:29:45",
+        "07:59:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

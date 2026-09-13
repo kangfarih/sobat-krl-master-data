@@ -1,0 +1,46 @@
+{
+  "stop_name": "Akses Bawah Jembatan Marunda",
+  "stop_id": "B00020P",
+  "latitude": -6.110376,
+  "longitude": 106.94129,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:40:35",
+        "05:40:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:19:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:32:43",
+        "05:32:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

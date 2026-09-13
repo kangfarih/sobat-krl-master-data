@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Taman Kemang",
+  "stop_id": "B01640P",
+  "latitude": -6.255317,
+  "longitude": 106.8095,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:38:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stop_name": "STIAMI 1",
+  "stop_id": "B05520P",
+  "latitude": -6.377387,
+  "longitude": 106.83318,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:00:10",
+        "05:11:41",
+        "05:11:48"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    }
+  ]
+}

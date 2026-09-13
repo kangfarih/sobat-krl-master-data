@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Galur Sari Timur 2",
+  "stop_id": "B06430P",
+  "latitude": -6.201961,
+  "longitude": 106.869061,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:56:34",
+        "06:06:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

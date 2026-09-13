@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kantor Kec. Kemayoran",
+  "stop_id": "B07249P",
+  "latitude": -6.156194,
+  "longitude": 106.864137,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:38:15",
+        "05:38:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

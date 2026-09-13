@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMAN 84",
+  "stop_id": "B05281P",
+  "latitude": -6.144834,
+  "longitude": 106.70458,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:15:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

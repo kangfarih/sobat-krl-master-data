@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Drainase Cakung 2",
+  "stop_id": "B08103P",
+  "latitude": -6.122716,
+  "longitude": 106.940575,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:23:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

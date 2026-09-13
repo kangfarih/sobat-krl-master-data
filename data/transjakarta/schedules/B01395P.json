@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mesjid Attaqwa Kembangan Utara",
+  "stop_id": "B01395P",
+  "latitude": -6.175315,
+  "longitude": 106.7339,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:15:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

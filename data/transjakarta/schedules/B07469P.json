@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Amal IV",
+  "stop_id": "B07469P",
+  "latitude": -6.246651,
+  "longitude": 106.815287,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "06:24:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

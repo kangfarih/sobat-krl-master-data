@@ -1,0 +1,22 @@
+{
+  "stop_name": "RSUD Cengkareng",
+  "stop_id": "B03207P",
+  "latitude": -6.142238,
+  "longitude": 106.73398,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:16:36",
+        "02:23:10",
+        "05:41:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

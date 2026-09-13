@@ -1,0 +1,26 @@
+{
+  "stop_name": "Matraman 4",
+  "stop_id": "B02387P",
+  "latitude": -6.199782,
+  "longitude": 106.8545,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Explorer Tanah Abang dan Kampung Melayu",
+      "weekdays": [
+        "05:33:21",
+        "06:15:06",
+        "06:26:13",
+        "06:30:59",
+        "06:37:34",
+        "06:38:07",
+        "06:45:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

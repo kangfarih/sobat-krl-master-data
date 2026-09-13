@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Usaha Ciracas",
+  "stop_id": "B03571P",
+  "latitude": -6.319845,
+  "longitude": 106.87257,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:46:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

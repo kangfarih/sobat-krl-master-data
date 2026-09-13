@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Cipinang Besar Selatan",
+  "stop_id": "B03356P",
+  "latitude": -6.233133,
+  "longitude": 106.88262,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:19:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

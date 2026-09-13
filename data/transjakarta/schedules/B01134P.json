@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. H. Peeng Kb. Jeruk",
+  "stop_id": "B01134P",
+  "latitude": -6.198859,
+  "longitude": 106.7773,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:15:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:45:52",
+        "05:45:53",
+        "05:45:54",
+        "08:09:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

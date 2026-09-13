@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Olahraga V",
+  "stop_id": "B06968P",
+  "latitude": -6.188493,
+  "longitude": 106.790215,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:33:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

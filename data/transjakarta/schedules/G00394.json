@@ -1,0 +1,28 @@
+{
+  "stop_name": "Kedoya Panjang",
+  "stop_id": "G00394",
+  "latitude": -6.174498,
+  "longitude": 106.765904,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:28:57",
+        "05:53:40",
+        "05:56:51",
+        "07:21:38",
+        "07:34:27",
+        "14:16:23"
+      ],
+      "weekends": [
+        "05:28:57",
+        "05:53:40"
+      ]
+    }
+  ]
+}

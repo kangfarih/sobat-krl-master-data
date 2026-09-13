@@ -1,0 +1,23 @@
+{
+  "stop_name": "Pinangsia",
+  "stop_id": "B07512P",
+  "latitude": -6.221526,
+  "longitude": 106.61673,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:01:53",
+        "05:45:29",
+        "05:45:30",
+        "07:03:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. SDN Kap Pulo",
+  "stop_id": "B01569P",
+  "latitude": -6.178232,
+  "longitude": 106.71373,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:44:03",
+        "05:57:50",
+        "07:52:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

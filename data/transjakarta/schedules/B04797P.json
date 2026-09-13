@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Dewi Sartika Condet",
+  "stop_id": "B04797P",
+  "latitude": -6.26274,
+  "longitude": 106.86451,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:02:49",
+        "05:57:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

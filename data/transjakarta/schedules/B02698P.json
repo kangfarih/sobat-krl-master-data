@@ -1,0 +1,20 @@
+{
+  "stop_name": "PAUD Bintang Pondok Bambu",
+  "stop_id": "B02698P",
+  "latitude": -6.24536,
+  "longitude": 106.90575,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:47:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Rw Ulujami Raya",
+  "stop_id": "B00545P",
+  "latitude": -6.249665,
+  "longitude": 106.7637,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:34:08",
+        "06:53:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

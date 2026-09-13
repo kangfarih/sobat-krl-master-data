@@ -1,0 +1,21 @@
+{
+  "stop_name": "Surabaya",
+  "stop_id": "B05564P",
+  "latitude": -6.201305,
+  "longitude": 106.84116,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:36:24",
+        "07:06:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

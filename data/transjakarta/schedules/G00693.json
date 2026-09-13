@@ -1,0 +1,35 @@
+{
+  "stop_name": "Bundaran Senayan",
+  "stop_id": "G00693",
+  "latitude": -6.227855,
+  "longitude": 106.801046,
+  "routes": [
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "05:34:28",
+        "14:57:48"
+      ],
+      "weekends": [
+        "05:34:28"
+      ]
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "06:15:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "stop_name": "Gg. Suzuki",
+  "stop_id": "B00564P",
+  "latitude": -6.184571,
+  "longitude": 106.90797,
+  "routes": [
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:23:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:01:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:01:11",
+        "05:01:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:03:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:03:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

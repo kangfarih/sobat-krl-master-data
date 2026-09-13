@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Cipayung Raya",
+  "stop_id": "B07172P",
+  "latitude": -6.331503,
+  "longitude": 106.88661,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:22:17",
+        "05:22:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

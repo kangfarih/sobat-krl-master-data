@@ -1,0 +1,21 @@
+{
+  "stop_name": "Glodok",
+  "stop_id": "G00059",
+  "latitude": -6.144544,
+  "longitude": 106.815514,
+  "routes": [
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:04:53",
+        "05:56:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Rusun Pesakih",
+  "stop_id": "B03286P",
+  "latitude": -6.161468,
+  "longitude": 106.71698,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:00:10",
+        "05:23:18",
+        "05:23:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

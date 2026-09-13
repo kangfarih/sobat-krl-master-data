@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tebet Timur III",
+  "stop_id": "B01673P",
+  "latitude": -6.237629,
+  "longitude": 106.85348,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:04:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

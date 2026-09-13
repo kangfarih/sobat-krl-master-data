@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kedawu Residence Ciracas",
+  "stop_id": "B01890P",
+  "latitude": -6.338318,
+  "longitude": 106.87967,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:21:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

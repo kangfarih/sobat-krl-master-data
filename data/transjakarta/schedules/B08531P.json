@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pekayon Ahmad Yani",
+  "stop_id": "B08531P",
+  "latitude": -6.256687,
+  "longitude": 106.991033,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Galunggung",
+      "weekdays": [
+        "05:18:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

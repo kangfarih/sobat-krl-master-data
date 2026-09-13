@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yudistira",
+  "stop_id": "B08362P",
+  "latitude": -6.22106,
+  "longitude": 106.90999,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:52:10",
+        "07:05:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

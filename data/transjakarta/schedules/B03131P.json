@@ -1,0 +1,21 @@
+{
+  "stop_name": "RS Dr Mintohardjo",
+  "stop_id": "B03131P",
+  "latitude": -6.211193,
+  "longitude": 106.81231,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:44:07",
+        "06:03:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

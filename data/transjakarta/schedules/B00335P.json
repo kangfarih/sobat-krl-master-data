@@ -1,0 +1,47 @@
+{
+  "stop_name": "Embun Pagi Islamic Elementary School",
+  "stop_id": "B00335P",
+  "latitude": -6.248768,
+  "longitude": 106.92911,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:14:42",
+        "05:15:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:06:13",
+        "06:11:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:05:55",
+        "06:07:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

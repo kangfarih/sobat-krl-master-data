@@ -1,0 +1,22 @@
+{
+  "stop_name": "SDN Cengkareng Barat 05",
+  "stop_id": "B03342P",
+  "latitude": -6.149878,
+  "longitude": 106.72239,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:32:00",
+        "02:38:34",
+        "05:50:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

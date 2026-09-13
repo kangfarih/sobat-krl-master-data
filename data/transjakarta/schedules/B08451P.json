@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Susukan 09 Pagi",
+  "stop_id": "B08451P",
+  "latitude": -6.30512,
+  "longitude": 106.872706,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:06:26",
+        "05:58:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

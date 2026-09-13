@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cipinang Jaya Raya",
+  "stop_id": "B06768P",
+  "latitude": -6.219144,
+  "longitude": 106.886964,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:49:24",
+        "05:50:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

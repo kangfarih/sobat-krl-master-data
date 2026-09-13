@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. TK Dinamika",
+  "stop_id": "B04553P",
+  "latitude": -6.29502,
+  "longitude": 106.90397,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:18:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:20:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

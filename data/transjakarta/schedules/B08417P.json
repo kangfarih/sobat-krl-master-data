@@ -1,0 +1,22 @@
+{
+  "stop_name": "Mampang VI",
+  "stop_id": "B08417P",
+  "latitude": -6.246821,
+  "longitude": 106.826244,
+  "routes": [
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:32:36",
+        "05:32:37",
+        "05:32:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

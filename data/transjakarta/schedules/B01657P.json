@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tanah Tinggi III",
+  "stop_id": "B01657P",
+  "latitude": -6.175078,
+  "longitude": 106.84765,
+  "routes": [
+    {
+      "route_id": "14B",
+      "route_short_name": "14B",
+      "route_long_name": "Tanjung Priok - Senen via JIS",
+      "color": "f5ab6e",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok dan Senen",
+      "weekdays": [
+        "05:54:59",
+        "07:25:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Green Lake City",
+  "stop_id": "B00697P",
+  "latitude": -6.177644,
+  "longitude": 106.71198,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:45:09",
+        "05:58:56",
+        "07:53:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

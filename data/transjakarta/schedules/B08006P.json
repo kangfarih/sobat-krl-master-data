@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Tohir 1",
+  "stop_id": "B08006P",
+  "latitude": -6.225122,
+  "longitude": 106.769991,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:13:26",
+        "06:32:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

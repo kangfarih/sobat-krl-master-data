@@ -1,0 +1,25 @@
+{
+  "stop_name": "IKEA",
+  "stop_id": "B08109P",
+  "latitude": -6.220566,
+  "longitude": 106.662876,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:21:06",
+        "05:21:07",
+        "05:21:08"
+      ],
+      "weekends": [
+        "05:21:06",
+        "05:21:07"
+      ]
+    }
+  ]
+}

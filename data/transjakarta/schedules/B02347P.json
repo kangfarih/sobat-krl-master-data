@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Jami Fathurrahman Ciracas",
+  "stop_id": "B02347P",
+  "latitude": -6.318244,
+  "longitude": 106.87303,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:03:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

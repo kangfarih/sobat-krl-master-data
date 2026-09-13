@@ -1,0 +1,37 @@
+{
+  "stop_name": "Velodrome",
+  "stop_id": "G00182",
+  "latitude": -6.193414,
+  "longitude": 106.888298,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:40:19",
+        "05:43:08",
+        "05:50:40",
+        "05:54:58"
+      ],
+      "weekends": [
+        "05:40:19"
+      ]
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "07:36:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

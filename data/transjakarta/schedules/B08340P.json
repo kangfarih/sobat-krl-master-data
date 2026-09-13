@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Delima VI",
+  "stop_id": "B08340P",
+  "latitude": -6.22272,
+  "longitude": 106.92638,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:17:13",
+        "05:18:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

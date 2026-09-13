@@ -1,0 +1,44 @@
+{
+  "stop_name": "Ps. Pondok Labu",
+  "stop_id": "B02668P",
+  "latitude": -6.312034,
+  "longitude": 106.79409,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:01:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:13:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:13:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

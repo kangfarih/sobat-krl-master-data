@@ -1,0 +1,44 @@
+{
+  "stop_name": "Transjakarta Pool Rawa Buaya",
+  "stop_id": "B05799P",
+  "latitude": -6.159048,
+  "longitude": 106.72692,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:25:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:45:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:01:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

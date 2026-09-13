@@ -1,0 +1,46 @@
+{
+  "stop_name": "Mall Metropolitan",
+  "stop_id": "B02192P",
+  "latitude": -6.247861,
+  "longitude": 106.99215,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:23:06",
+        "05:23:12",
+        "05:23:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:18:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:01:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stop_name": "Pintu 2 Jembatan Semanan Raya",
+  "stop_id": "B02833P",
+  "latitude": -6.155916,
+  "longitude": 106.70954,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:08:26",
+        "05:08:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:06:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:47:36",
+        "02:54:10",
+        "06:00:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

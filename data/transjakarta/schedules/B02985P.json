@@ -1,0 +1,45 @@
+{
+  "stop_name": "Prajawangsa 1",
+  "stop_id": "B02985P",
+  "latitude": -6.32145,
+  "longitude": 106.86508,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:54:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:27:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:34:47",
+        "05:34:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

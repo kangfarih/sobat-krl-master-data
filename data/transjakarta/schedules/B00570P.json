@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Timbul Jaya Daan Mogot",
+  "stop_id": "B00570P",
+  "latitude": -6.153096,
+  "longitude": 106.72239,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:06:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

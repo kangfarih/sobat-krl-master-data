@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Kedoya Selatan 01",
+  "stop_id": "B06482P",
+  "latitude": -6.183632,
+  "longitude": 106.761229,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:18:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

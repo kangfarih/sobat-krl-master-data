@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Duren Sawit Dermaga",
+  "stop_id": "B08363P",
+  "latitude": -6.22096,
+  "longitude": 106.91267,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:53:52",
+        "07:06:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

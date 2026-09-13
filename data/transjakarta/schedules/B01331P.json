@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Madrasah Bambu Batas",
+  "stop_id": "B01331P",
+  "latitude": -6.241656,
+  "longitude": 106.89874,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:13:45",
+        "06:11:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

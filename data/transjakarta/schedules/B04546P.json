@@ -1,0 +1,52 @@
+{
+  "stop_name": "Sbr. The Jakarta Post",
+  "stop_id": "B04546P",
+  "latitude": -6.207699,
+  "longitude": 106.79386,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:30:29",
+        "05:30:52",
+        "06:29:43",
+        "07:50:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:46:44",
+        "05:46:54",
+        "06:06:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:00:36",
+        "06:00:50",
+        "06:00:55",
+        "08:24:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

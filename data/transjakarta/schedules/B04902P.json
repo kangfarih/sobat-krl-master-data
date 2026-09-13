@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Kapuk Cengkareng",
+  "stop_id": "B04902P",
+  "latitude": -6.133709,
+  "longitude": 106.730451,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:17:25",
+        "05:17:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "06:03:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

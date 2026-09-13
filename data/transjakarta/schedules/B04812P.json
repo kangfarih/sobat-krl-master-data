@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Garden City 2",
+  "stop_id": "B04812P",
+  "latitude": -6.171597,
+  "longitude": 106.96277,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:30:24",
+        "06:40:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

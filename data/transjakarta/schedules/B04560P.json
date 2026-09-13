@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. TK Tunas Harapan",
+  "stop_id": "B04560P",
+  "latitude": -6.232157,
+  "longitude": 106.75153,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:22:04",
+        "05:22:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Agung Timur 3",
+  "stop_id": "B07078P",
+  "latitude": -6.14474,
+  "longitude": 106.8808,
+  "routes": [
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "06:26:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

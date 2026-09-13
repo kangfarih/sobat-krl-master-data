@@ -1,0 +1,32 @@
+{
+  "stop_name": "Grha Intirub 2",
+  "stop_id": "B00704P",
+  "latitude": -6.265491,
+  "longitude": 106.87672,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:06:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:32:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

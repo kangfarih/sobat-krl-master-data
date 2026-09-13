@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kantor Walikota Jaksel",
+  "stop_id": "B05872P",
+  "latitude": -6.249147,
+  "longitude": 106.80791,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:08:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

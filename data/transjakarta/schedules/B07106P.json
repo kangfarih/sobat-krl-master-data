@@ -1,0 +1,32 @@
+{
+  "stop_name": "St. LRT Kampung Rambutan",
+  "stop_id": "B07106P",
+  "latitude": -6.309878,
+  "longitude": 106.884201,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:28:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:18:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

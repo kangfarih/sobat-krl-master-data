@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pendet",
+  "stop_id": "B01469P",
+  "latitude": -6.172117,
+  "longitude": 106.90895,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:24:45",
+        "05:24:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

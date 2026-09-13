@@ -1,0 +1,20 @@
+{
+  "stop_name": "Lapangan Pondok Gede",
+  "stop_id": "B02121P",
+  "latitude": -6.28213,
+  "longitude": 106.91371,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:19:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

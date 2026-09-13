@@ -1,0 +1,45 @@
+{
+  "stop_name": "Sbr. Gereja Oikumene",
+  "stop_id": "B03591P",
+  "latitude": -6.262305,
+  "longitude": 106.88696,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:38:24",
+        "05:38:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:16:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:03:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

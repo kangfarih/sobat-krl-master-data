@@ -1,0 +1,112 @@
+{
+  "stop_name": "Senayan Bank Jakarta",
+  "stop_id": "G00015",
+  "latitude": -6.224212,
+  "longitude": 106.805729,
+  "routes": [
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:03:28",
+        "06:53:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1F",
+      "route_short_name": "1F",
+      "route_long_name": "Stasiun Palmerah - Bundaran Senayan",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan Stasiun Palmerah",
+      "weekdays": [
+        "05:28:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:14:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:14:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "14:42:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:03:29",
+        "05:19:33",
+        "06:21:40"
+      ],
+      "weekends": [
+        "05:19:33"
+      ]
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:14:40",
+        "07:37:08"
+      ],
+      "weekends": [
+        "07:37:08"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "PIK 2",
+      "weekdays": [
+        "05:14:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

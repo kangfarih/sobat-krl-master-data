@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Kb. Kacang VIII",
+  "stop_id": "B01232P",
+  "latitude": -6.187181,
+  "longitude": 106.81827,
+  "routes": [
+    {
+      "route_id": "1H",
+      "route_short_name": "1H",
+      "route_long_name": "Tanah Abang - Stasiun Gondangdia",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Tanah Abang",
+      "weekdays": [
+        "05:09:51",
+        "05:23:26",
+        "05:23:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1R",
+      "route_short_name": "1R",
+      "route_long_name": "Senen - Tanah Abang",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Tanah Abang dan Senen via Wahid Hasyim",
+      "weekdays": [
+        "05:43:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

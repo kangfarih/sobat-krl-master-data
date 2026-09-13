@@ -1,0 +1,23 @@
+{
+  "stop_name": "Kec. Kb. Jeruk",
+  "stop_id": "B01873P",
+  "latitude": -6.198513,
+  "longitude": 106.76455,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:58:07",
+        "06:34:50",
+        "07:18:32",
+        "07:58:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

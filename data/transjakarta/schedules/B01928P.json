@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kel. Lebak Bulus",
+  "stop_id": "B01928P",
+  "latitude": -6.3035,
+  "longitude": 106.784191,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:54:26",
+        "05:54:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

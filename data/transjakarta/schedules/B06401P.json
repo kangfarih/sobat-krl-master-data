@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yayasan Avicena Al Fath",
+  "stop_id": "B06401P",
+  "latitude": -6.144868,
+  "longitude": 106.742173,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:31:22",
+        "06:11:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Baitul Iman Sunter",
+  "stop_id": "B02285P",
+  "latitude": -6.156872,
+  "longitude": 106.868717,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:34:56",
+        "05:34:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

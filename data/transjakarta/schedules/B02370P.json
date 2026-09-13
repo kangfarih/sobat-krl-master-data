@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Nurul Istiqomah Pegadungan",
+  "stop_id": "B02370P",
+  "latitude": -6.129558,
+  "longitude": 106.70437,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:28:52",
+        "05:57:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

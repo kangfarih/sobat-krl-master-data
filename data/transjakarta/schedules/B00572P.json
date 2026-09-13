@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. Tresna Asih Cililitan",
+  "stop_id": "B00572P",
+  "latitude": -6.263788,
+  "longitude": 106.86849,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:01:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:27:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

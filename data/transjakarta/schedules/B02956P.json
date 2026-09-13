@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pos Jaga Trikora 1",
+  "stop_id": "B02956P",
+  "latitude": -6.241638,
+  "longitude": 106.87981,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:38:52",
+        "05:38:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

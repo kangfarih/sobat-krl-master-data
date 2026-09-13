@@ -1,0 +1,36 @@
+{
+  "stop_name": "KKDM",
+  "stop_id": "B01982P",
+  "latitude": -6.239629,
+  "longitude": 106.88149,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:12:35",
+        "06:14:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:25:30",
+        "05:25:34",
+        "05:36:36",
+        "06:41:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

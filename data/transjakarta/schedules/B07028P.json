@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Cipinang Pulo Maja",
+  "stop_id": "B07028P",
+  "latitude": -6.218911,
+  "longitude": 106.878784,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:20:01",
+        "06:05:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

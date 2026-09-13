@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMK PGRI 35",
+  "stop_id": "B06402P",
+  "latitude": -6.145739,
+  "longitude": 106.739229,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:33:00",
+        "06:13:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

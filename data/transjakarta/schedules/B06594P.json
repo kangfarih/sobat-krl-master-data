@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Gading Griya Lestari",
+  "stop_id": "B06594P",
+  "latitude": -6.1412,
+  "longitude": 106.91444,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:38:46",
+        "06:58:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

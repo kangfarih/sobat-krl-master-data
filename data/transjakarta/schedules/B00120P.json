@@ -1,0 +1,46 @@
+{
+  "stop_name": "Baung",
+  "stop_id": "B00120P",
+  "latitude": -6.302036,
+  "longitude": 106.83656,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:28:12",
+        "05:28:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ragunan",
+      "weekdays": [
+        "05:28:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:30:29",
+        "05:30:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

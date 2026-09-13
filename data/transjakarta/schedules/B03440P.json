@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Akademi Farmasi Mahadhika",
+  "stop_id": "B03440P",
+  "latitude": -6.312606,
+  "longitude": 106.86941,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:31:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

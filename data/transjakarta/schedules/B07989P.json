@@ -1,0 +1,82 @@
+{
+  "stop_name": "Masjid Ar-Raudhah",
+  "stop_id": "B07989P",
+  "latitude": -6.293846,
+  "longitude": 106.821474,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "06:52:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:07:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:37:58",
+        "05:38:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:08:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:40:15",
+        "05:40:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:25:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

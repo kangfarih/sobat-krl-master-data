@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Tebet Barat Dalam VIII",
+  "stop_id": "B04543P",
+  "latitude": -6.240847,
+  "longitude": 106.84754,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:18:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

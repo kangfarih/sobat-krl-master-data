@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. PLTU Pluit",
+  "stop_id": "B06567P",
+  "latitude": -6.112189,
+  "longitude": 106.78596,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:09:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Sulaiman Rawa Belong",
+  "stop_id": "B05160P",
+  "latitude": -6.20609,
+  "longitude": 106.78269,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:16:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Majalah",
+  "stop_id": "B01338P",
+  "latitude": -6.232603,
+  "longitude": 106.88758,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:25:39",
+        "06:23:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Musholla Nurul Hikmah Bulak Ringin",
+  "stop_id": "B02524P",
+  "latitude": -6.353984,
+  "longitude": 106.87366,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "06:05:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

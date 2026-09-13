@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. TPU Rawabunga",
+  "stop_id": "B04570P",
+  "latitude": -6.224677,
+  "longitude": 106.871643,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:38:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:53:54",
+        "06:58:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

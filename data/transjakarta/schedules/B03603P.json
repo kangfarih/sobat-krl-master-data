@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Graha Delta Tengah",
+  "stop_id": "B03603P",
+  "latitude": -6.293006,
+  "longitude": 106.8596,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:24:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

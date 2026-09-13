@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gereja Protestan Tugu",
+  "stop_id": "B00634P",
+  "latitude": -6.123642,
+  "longitude": 106.92353,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:15:27",
+        "06:15:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

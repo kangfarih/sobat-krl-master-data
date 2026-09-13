@@ -1,0 +1,20 @@
+{
+  "stop_name": "STIKES KESOSI Rawa Buaya",
+  "stop_id": "B05529P",
+  "latitude": -6.169618,
+  "longitude": 106.734097,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:12:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

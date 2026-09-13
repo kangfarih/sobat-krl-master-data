@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Timbul III",
+  "stop_id": "B03872P",
+  "latitude": -6.35031,
+  "longitude": 106.80301,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:08:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

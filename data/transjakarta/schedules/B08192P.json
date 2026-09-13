@@ -1,0 +1,22 @@
+{
+  "stop_name": "Halte Grand",
+  "stop_id": "B08192P",
+  "latitude": -6.24888,
+  "longitude": 106.985948,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:26:46",
+        "05:27:02",
+        "05:27:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

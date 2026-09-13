@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Cempaka Putih Barat 03",
+  "stop_id": "B07594P",
+  "latitude": -6.177401,
+  "longitude": 106.858602,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:05:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

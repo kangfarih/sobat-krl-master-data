@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lapangan PIK Penggilingan",
+  "stop_id": "B02120P",
+  "latitude": -6.205229,
+  "longitude": 106.92882,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:32:55",
+        "05:34:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

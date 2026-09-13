@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Sindang Terusan",
+  "stop_id": "B01585P",
+  "latitude": -6.111462,
+  "longitude": 106.89934,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:47:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

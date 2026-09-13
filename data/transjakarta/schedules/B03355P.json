@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Cipete Utara 09",
+  "stop_id": "B03355P",
+  "latitude": -6.258171,
+  "longitude": 106.803413,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:18:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

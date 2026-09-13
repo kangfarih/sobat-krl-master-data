@@ -1,0 +1,57 @@
+{
+  "stop_name": "Sekolah Islam PB Soedirman",
+  "stop_id": "B04633P",
+  "latitude": -6.314293,
+  "longitude": 106.86298,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:58:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:32:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:04:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:38:58",
+        "05:39:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

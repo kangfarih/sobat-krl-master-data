@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gg. Marlina",
+  "stop_id": "B06294P",
+  "latitude": -6.117402,
+  "longitude": 106.80334,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:04:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "07:13:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Albarkah II Cilandak",
+  "stop_id": "B03632P",
+  "latitude": -6.287195,
+  "longitude": 106.80168,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:38:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

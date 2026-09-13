@@ -1,0 +1,32 @@
+{
+  "stop_name": "Hotel Borobudur 2",
+  "stop_id": "B00774P",
+  "latitude": -6.159653,
+  "longitude": 106.83912,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:09:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "05:08:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

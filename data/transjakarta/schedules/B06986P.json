@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Metro Kencana IV",
+  "stop_id": "B06986P",
+  "latitude": -6.274261,
+  "longitude": 106.782542,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:25:33",
+        "06:52:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

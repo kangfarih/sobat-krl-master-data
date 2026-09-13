@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Kaget Pengadegan",
+  "stop_id": "B02621P",
+  "latitude": -6.249871,
+  "longitude": 106.85659,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:33:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

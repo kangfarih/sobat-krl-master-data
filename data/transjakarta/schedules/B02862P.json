@@ -1,0 +1,20 @@
+{
+  "stop_name": "Plaza Festival",
+  "stop_id": "B02862P",
+  "latitude": -6.220212,
+  "longitude": 106.833047,
+  "routes": [
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Karet",
+      "weekdays": [
+        "05:28:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

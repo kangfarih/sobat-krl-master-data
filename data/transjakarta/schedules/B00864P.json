@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Anugrah Raya",
+  "stop_id": "B00864P",
+  "latitude": -6.258951,
+  "longitude": 106.91029,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:54:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

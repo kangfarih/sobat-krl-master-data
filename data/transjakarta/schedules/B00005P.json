@@ -1,0 +1,24 @@
+{
+  "stop_name": "ACE Hardware",
+  "stop_id": "B00005P",
+  "latitude": -6.387532,
+  "longitude": 106.82738,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:56:23",
+        "08:47:00",
+        "08:58:32"
+      ],
+      "weekends": [
+        "08:47:00"
+      ]
+    }
+  ]
+}

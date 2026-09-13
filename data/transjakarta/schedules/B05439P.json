@@ -1,0 +1,22 @@
+{
+  "stop_name": "St. Duren Kalibata 3",
+  "stop_id": "B05439P",
+  "latitude": -6.255192,
+  "longitude": 106.85492,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:19:36",
+        "06:06:48",
+        "06:20:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

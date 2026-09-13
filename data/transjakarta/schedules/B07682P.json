@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Subur Pesanggrahan",
+  "stop_id": "B07682P",
+  "latitude": -6.254261,
+  "longitude": 106.764825,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:04:52",
+        "06:05:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

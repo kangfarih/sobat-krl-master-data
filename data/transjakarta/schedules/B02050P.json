@@ -1,0 +1,21 @@
+{
+  "stop_name": "Komplek Lapan Pekayon",
+  "stop_id": "B02050P",
+  "latitude": -6.341692,
+  "longitude": 106.85947,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:43:13",
+        "06:47:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

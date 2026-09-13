@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Waru Tengah",
+  "stop_id": "B05218P",
+  "latitude": -6.293301,
+  "longitude": 106.85862,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:23:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

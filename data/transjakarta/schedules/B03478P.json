@@ -1,0 +1,49 @@
+{
+  "stop_name": "Sbr. Cipinang Lontar",
+  "stop_id": "B03478P",
+  "latitude": -6.214204,
+  "longitude": 106.88839,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:28:49",
+        "06:39:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:28:27",
+        "05:49:06",
+        "05:50:18",
+        "06:37:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:21:20",
+        "05:21:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

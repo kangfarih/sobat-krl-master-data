@@ -1,0 +1,34 @@
+{
+  "stop_name": "Pos Rw 06 Pondok Bambu",
+  "stop_id": "B02966P",
+  "latitude": -6.229454,
+  "longitude": 106.90441,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:33:43",
+        "06:53:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:48:38",
+        "06:57:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

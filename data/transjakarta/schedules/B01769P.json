@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jembatan Sungai Landak 2",
+  "stop_id": "B01769P",
+  "latitude": -6.10525,
+  "longitude": 106.940063,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:17:30",
+        "05:47:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:53:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. TK Kreatif Komimo",
+  "stop_id": "B04557P",
+  "latitude": -6.143029,
+  "longitude": 106.87258,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:34:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

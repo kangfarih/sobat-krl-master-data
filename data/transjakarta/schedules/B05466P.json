@@ -1,0 +1,20 @@
+{
+  "stop_name": "St. LRT Boulevard Selatan 2",
+  "stop_id": "B05466P",
+  "latitude": -6.169685,
+  "longitude": 106.89943,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:41:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

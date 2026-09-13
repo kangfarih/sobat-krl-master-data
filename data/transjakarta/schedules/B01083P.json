@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Gotong Royong",
+  "stop_id": "B01083P",
+  "latitude": -6.260007,
+  "longitude": 106.79662,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:31:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:35:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

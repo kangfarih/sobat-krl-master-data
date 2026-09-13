@@ -1,0 +1,53 @@
+{
+  "stop_name": "Kwitang",
+  "stop_id": "G00125",
+  "latitude": -6.181014,
+  "longitude": 106.838645,
+  "routes": [
+    {
+      "route_id": "2",
+      "route_short_name": "2",
+      "route_long_name": "Pulo Gadung - Monumen Nasional",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Monas dan Pulo Gadung",
+      "weekdays": [
+        "05:13:06",
+        "06:17:38",
+        "06:18:38",
+        "06:38:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:16:02",
+        "08:16:55",
+        "08:18:44",
+        "08:27:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:16:01",
+        "07:25:15",
+        "07:33:41",
+        "07:44:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

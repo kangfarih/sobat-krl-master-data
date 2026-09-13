@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pusat Promosi Dan Pemasaran Hortikultura 1",
+  "stop_id": "B03025P",
+  "latitude": -6.206283,
+  "longitude": 106.77799,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:13:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

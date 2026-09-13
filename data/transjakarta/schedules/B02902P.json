@@ -1,0 +1,32 @@
+{
+  "stop_name": "Polsek Cipayung",
+  "stop_id": "B02902P",
+  "latitude": -6.308731,
+  "longitude": 106.89937,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:34:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:19:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

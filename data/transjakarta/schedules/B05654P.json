@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Spatodhea",
+  "stop_id": "B05654P",
+  "latitude": -6.322818,
+  "longitude": 106.82439,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:32:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

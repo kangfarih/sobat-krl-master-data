@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Rusunawa Cakung Barat",
+  "stop_id": "B07558P",
+  "latitude": -6.16836899,
+  "longitude": 106.93433046,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "06:26:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

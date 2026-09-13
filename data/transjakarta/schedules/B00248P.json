@@ -1,0 +1,166 @@
+{
+  "stop_name": "Cibubur Junction",
+  "stop_id": "B00248P",
+  "latitude": -6.368735,
+  "longitude": 106.89366,
+  "routes": [
+    {
+      "route_id": "7C",
+      "route_short_name": "7C",
+      "route_long_name": "Cibubur - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Cibubur",
+      "weekdays": [
+        "05:00:10",
+        "07:20:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7T",
+      "route_short_name": "7T",
+      "route_long_name": "Cibubur - Tanjung Priok",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    },
+    {
+      "route_id": "7U",
+      "route_short_name": "7U",
+      "route_long_name": "Cibubur - Ancol",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Ancol",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7V",
+      "route_short_name": "7V",
+      "route_long_name": "Cibubur - Kampung Rambutan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan dan Cibubur",
+      "weekdays": [
+        "05:00:10",
+        "06:34:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:43:49",
+        "05:55:20",
+        "05:55:26"
+      ],
+      "weekends": [
+        "05:43:49"
+      ]
+    },
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:48:36",
+        "06:26:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:55:27",
+        "06:40:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:03:23",
+        "07:37:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1K",
+      "route_short_name": "1K",
+      "route_long_name": "Cibubur Junction - Blok M",
+      "color": "9c4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:20:10",
+        "18:48:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "06:00:10",
+        "17:35:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "06:20:10",
+        "17:59:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

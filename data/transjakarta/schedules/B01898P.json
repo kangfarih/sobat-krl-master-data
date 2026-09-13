@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kelapa Cengkir Barat XI",
+  "stop_id": "B01898P",
+  "latitude": -6.163816,
+  "longitude": 106.9068,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:32:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

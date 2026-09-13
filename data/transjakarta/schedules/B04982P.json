@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Mandala Dwikora",
+  "stop_id": "B04982P",
+  "latitude": -6.245022,
+  "longitude": 106.8922,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:04:34",
+        "05:04:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

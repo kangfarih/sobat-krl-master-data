@@ -1,0 +1,38 @@
+{
+  "stop_name": "Mega Mall Bekasi",
+  "stop_id": "B02397P",
+  "latitude": -6.250287,
+  "longitude": 106.992,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "05:17:15",
+        "05:17:16",
+        "07:20:12"
+      ],
+      "weekends": [
+        "07:20:12"
+      ]
+    },
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:48:56",
+        "08:20:21",
+        "09:17:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

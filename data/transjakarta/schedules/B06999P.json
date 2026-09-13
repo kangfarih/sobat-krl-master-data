@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMP 31 Muhammadiyah",
+  "stop_id": "B06999P",
+  "latitude": -6.198118,
+  "longitude": 106.882915,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:09:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

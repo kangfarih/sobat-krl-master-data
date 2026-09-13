@@ -1,0 +1,20 @@
+{
+  "stop_name": "TK Rahmania Ragunan",
+  "stop_id": "B05758P",
+  "latitude": -6.316021,
+  "longitude": 106.81651,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:21:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

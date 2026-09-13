@@ -1,0 +1,27 @@
+{
+  "stop_name": "Velbak",
+  "stop_id": "G00588",
+  "latitude": -6.239378,
+  "longitude": 106.785479,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "00:35:39",
+        "05:33:30",
+        "05:35:39",
+        "05:43:40",
+        "05:43:41",
+        "05:47:33",
+        "06:00:46",
+        "22:35:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

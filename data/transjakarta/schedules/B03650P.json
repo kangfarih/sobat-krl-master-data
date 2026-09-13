@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Bendungan Hilir Gg. IV",
+  "stop_id": "B03650P",
+  "latitude": -6.212801,
+  "longitude": 106.81255,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:38:34",
+        "05:58:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:58:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMK Angkasa 2",
+  "stop_id": "B04440P",
+  "latitude": -6.252021,
+  "longitude": 106.88972,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:25:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Benteng Mas",
+  "stop_id": "B07240P",
+  "latitude": -6.151296,
+  "longitude": 106.871911,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:34:39",
+        "06:33:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

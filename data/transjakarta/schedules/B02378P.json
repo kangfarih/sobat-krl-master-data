@@ -1,0 +1,34 @@
+{
+  "stop_name": "Masjid Raya Al Musyawarah Kelapa Gading 2",
+  "stop_id": "B02378P",
+  "latitude": -6.155338,
+  "longitude": 106.90963,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:12:58",
+        "06:20:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:51:07",
+        "07:10:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

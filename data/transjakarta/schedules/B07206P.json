@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. URINDO Kampus A",
+  "stop_id": "B07206P",
+  "latitude": -6.31645,
+  "longitude": 106.9006,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:04:44",
+        "05:04:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

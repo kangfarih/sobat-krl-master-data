@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Nur Alimin 2",
+  "stop_id": "B02363P",
+  "latitude": -6.302584,
+  "longitude": 106.91756,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:52:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

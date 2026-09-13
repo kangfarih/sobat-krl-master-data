@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pertigaan Jengki Raya",
+  "stop_id": "B02777P",
+  "latitude": -6.255038,
+  "longitude": 106.87911,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:05:55",
+        "05:58:22",
+        "07:05:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

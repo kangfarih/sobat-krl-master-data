@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Iman Cipinang",
+  "stop_id": "B06769P",
+  "latitude": -6.222614,
+  "longitude": 106.887298,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:35:30",
+        "06:45:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

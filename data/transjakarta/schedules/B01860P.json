@@ -1,0 +1,61 @@
+{
+  "stop_name": "Kebayoran Baru Velbak 2",
+  "stop_id": "B01860P",
+  "latitude": -6.239272,
+  "longitude": 106.78492,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:40:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:57:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:42:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:03:50",
+        "06:24:56",
+        "06:24:58"
+      ],
+      "weekends": [
+        "05:03:50",
+        "06:24:56"
+      ]
+    }
+  ]
+}

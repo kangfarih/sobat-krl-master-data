@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Tipar Selatan II",
+  "stop_id": "B06807P",
+  "latitude": -6.134485,
+  "longitude": 106.9215,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:59:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

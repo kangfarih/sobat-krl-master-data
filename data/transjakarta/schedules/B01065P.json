@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Gading Elok Timur IV",
+  "stop_id": "B01065P",
+  "latitude": -6.168536,
+  "longitude": 106.90603,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:17:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

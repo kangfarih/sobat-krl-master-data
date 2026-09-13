@@ -1,0 +1,26 @@
+{
+  "stop_name": "Jln. Cipete Utara IV",
+  "stop_id": "B07431P",
+  "latitude": -6.264592,
+  "longitude": 106.800064,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:35:23",
+        "05:40:57",
+        "06:56:29",
+        "07:02:06"
+      ],
+      "weekends": [
+        "05:35:23",
+        "06:56:29"
+      ]
+    }
+  ]
+}

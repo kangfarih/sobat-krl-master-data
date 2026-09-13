@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Mesjid Abidin",
+  "stop_id": "B01392P",
+  "latitude": -6.229484,
+  "longitude": 106.90194,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:36:25",
+        "06:48:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:15:17",
+        "06:19:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

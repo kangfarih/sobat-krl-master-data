@@ -1,0 +1,21 @@
+{
+  "stop_name": "RSPAD 2",
+  "stop_id": "B03200P",
+  "latitude": -6.177322,
+  "longitude": 106.83824,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:18:11",
+        "05:18:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

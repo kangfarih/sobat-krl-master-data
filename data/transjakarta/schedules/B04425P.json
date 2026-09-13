@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMAN 49",
+  "stop_id": "B04425P",
+  "latitude": -6.324613,
+  "longitude": 106.81985,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:28:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

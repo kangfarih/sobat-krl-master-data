@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bambu Ori I",
+  "stop_id": "B00892P",
+  "latitude": -6.239082,
+  "longitude": 106.9079,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:43:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

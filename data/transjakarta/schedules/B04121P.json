@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Pam Jaya DKI",
+  "stop_id": "B04121P",
+  "latitude": -6.203461,
+  "longitude": 106.80803,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:32:02",
+        "05:51:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:39:55",
+        "05:39:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

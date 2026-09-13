@@ -1,0 +1,33 @@
+{
+  "stop_name": "Bundaran JIEP 2",
+  "stop_id": "B07620P",
+  "latitude": -6.201342,
+  "longitude": 106.917438,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:13:47",
+        "06:11:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:01:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

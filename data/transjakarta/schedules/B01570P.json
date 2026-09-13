@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Sejahtera",
+  "stop_id": "B01570P",
+  "latitude": -6.276295,
+  "longitude": 106.91284,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:23:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

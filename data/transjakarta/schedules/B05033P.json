@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Panglima Polim IX Wijaya",
+  "stop_id": "B05033P",
+  "latitude": -6.249567,
+  "longitude": 106.79993,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:14:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stop_name": "Perumahan KFT 1",
+  "stop_id": "B02808P",
+  "latitude": -6.134665,
+  "longitude": 106.729819,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:11:46",
+        "05:40:39",
+        "05:41:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:50:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:28:14",
+        "05:24:55",
+        "22:24:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

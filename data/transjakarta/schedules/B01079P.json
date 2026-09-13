@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Giri Kencana Raya Cilangkap",
+  "stop_id": "B01079P",
+  "latitude": -6.340412,
+  "longitude": 106.90292,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "06:01:57",
+        "07:06:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

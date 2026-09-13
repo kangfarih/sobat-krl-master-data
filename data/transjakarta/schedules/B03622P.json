@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Industri SPBU Shell",
+  "stop_id": "B03622P",
+  "latitude": -6.146667,
+  "longitude": 106.83538,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:46:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:11:56",
+        "06:12:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

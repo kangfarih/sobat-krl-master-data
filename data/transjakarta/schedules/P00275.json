@@ -1,0 +1,33 @@
+{
+  "stop_name": "Keselamatan",
+  "stop_id": "P00275",
+  "latitude": -6.222946,
+  "longitude": 106.84745,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:11:49",
+        "05:11:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "05:51:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

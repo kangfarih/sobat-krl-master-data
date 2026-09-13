@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ponpes Darunnajah",
+  "stop_id": "B02934P",
+  "latitude": -6.24664,
+  "longitude": 106.7628,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:09:43",
+        "06:10:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

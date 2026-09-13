@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Galur Sari Barat 2",
+  "stop_id": "B06428P",
+  "latitude": -6.200101,
+  "longitude": 106.864719,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:53:01",
+        "06:03:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

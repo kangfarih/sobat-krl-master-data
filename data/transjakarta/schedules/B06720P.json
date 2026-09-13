@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Al-Wathoniyah",
+  "stop_id": "B06720P",
+  "latitude": -6.184075,
+  "longitude": 106.923562,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:48:01",
+        "06:50:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stop_name": "St. LRT Velodrome 1",
+  "stop_id": "B05477P",
+  "latitude": -6.191381,
+  "longitude": 106.89127,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "06:06:09",
+        "06:08:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:15:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "06:05:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

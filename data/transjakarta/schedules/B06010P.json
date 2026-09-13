@@ -1,0 +1,20 @@
+{
+  "stop_name": "ASSA",
+  "stop_id": "B06010P",
+  "latitude": -6.149222,
+  "longitude": 106.92471,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:09:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

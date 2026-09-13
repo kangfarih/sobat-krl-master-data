@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Midi Utama Green Ville",
+  "stop_id": "B04093P",
+  "latitude": -6.173087,
+  "longitude": 106.77736,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:48:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

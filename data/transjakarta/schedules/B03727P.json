@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Sidan",
+  "stop_id": "B03727P",
+  "latitude": -6.280408,
+  "longitude": 106.88249,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:44:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

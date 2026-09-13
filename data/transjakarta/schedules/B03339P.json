@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Cakung Timur 05",
+  "stop_id": "B03339P",
+  "latitude": -6.165556,
+  "longitude": 106.96241,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:26:58",
+        "06:37:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

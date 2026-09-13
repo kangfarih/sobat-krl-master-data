@@ -1,0 +1,51 @@
+{
+  "stop_name": "Swadarma ParagonCorp",
+  "stop_id": "G00599",
+  "latitude": -6.237505,
+  "longitude": 106.760657,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "00:21:46",
+        "05:19:38",
+        "05:21:47",
+        "05:29:48",
+        "05:29:50",
+        "05:33:42",
+        "05:46:55",
+        "22:21:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:21:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "05:21:46"
+      ]
+    }
+  ]
+}

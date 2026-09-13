@@ -1,0 +1,21 @@
+{
+  "stop_name": "Tebet Balai Sudirman",
+  "stop_id": "B05685P",
+  "latitude": -6.226949,
+  "longitude": 106.84757,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "05:14:12",
+        "05:14:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

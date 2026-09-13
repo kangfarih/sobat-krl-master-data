@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Elektro",
+  "stop_id": "B06312P",
+  "latitude": -6.114391,
+  "longitude": 106.80278,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:13:12",
+        "05:42:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "07:05:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

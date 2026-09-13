@@ -1,0 +1,46 @@
+{
+  "stop_name": "Widya Chandra Telkomsel Arah Timur",
+  "stop_id": "G00666",
+  "latitude": -6.226484,
+  "longitude": 106.817397,
+  "routes": [
+    {
+      "route_id": "6A",
+      "route_short_name": "6A",
+      "route_long_name": "Ragunan - Balai Kota via Kuningan",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Tosari dan Ragunan via Semanggi",
+      "weekdays": [
+        "06:24:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "05:29:04",
+        "06:44:35",
+        "06:51:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:25:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

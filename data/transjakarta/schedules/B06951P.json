@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Cengkareng Golf Club 3",
+  "stop_id": "B06951P",
+  "latitude": -6.124498,
+  "longitude": 106.667022,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:58:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "07:22:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

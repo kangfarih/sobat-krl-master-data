@@ -1,0 +1,21 @@
+{
+  "stop_name": "Balai Sudirman",
+  "stop_id": "B00105P",
+  "latitude": -6.227043,
+  "longitude": 106.84742,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:14:19",
+        "06:39:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

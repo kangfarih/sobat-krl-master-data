@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Pramuka 3",
+  "stop_id": "B06447P",
+  "latitude": -6.194932,
+  "longitude": 106.85986,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:26:06",
+        "06:33:24",
+        "06:43:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

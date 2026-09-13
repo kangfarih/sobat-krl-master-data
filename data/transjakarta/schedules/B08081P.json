@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Raya Gudang Peluru",
+  "stop_id": "B08081P",
+  "latitude": -6.117693,
+  "longitude": 106.954127,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:30:58",
+        "05:31:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

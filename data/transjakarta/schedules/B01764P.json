@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jembatan Raya Prepedan",
+  "stop_id": "B01764P",
+  "latitude": -6.120539,
+  "longitude": 106.70872,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:47:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

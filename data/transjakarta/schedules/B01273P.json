@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kencana Muria Setiabudi",
+  "stop_id": "B01273P",
+  "latitude": -6.210088,
+  "longitude": 106.83703,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:24:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

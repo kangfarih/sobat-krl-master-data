@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Nusa Indah VI",
+  "stop_id": "B05020P",
+  "latitude": -6.21821,
+  "longitude": 106.93627,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:05:27",
+        "05:05:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "KUA Pasar Minggu",
+  "stop_id": "B02101P",
+  "latitude": -6.300085,
+  "longitude": 106.82626,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:46:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

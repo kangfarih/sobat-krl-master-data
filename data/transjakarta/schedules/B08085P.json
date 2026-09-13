@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Bhineka I",
+  "stop_id": "B08085P",
+  "latitude": -6.125248,
+  "longitude": 106.921592,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:16:57",
+        "06:17:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

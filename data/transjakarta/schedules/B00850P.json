@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Alhidayah III",
+  "stop_id": "B00850P",
+  "latitude": -6.298639,
+  "longitude": 106.9064,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:59:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:48:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

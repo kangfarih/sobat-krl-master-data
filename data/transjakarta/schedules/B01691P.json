@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Tubagus Baddarudin",
+  "stop_id": "B01691P",
+  "latitude": -6.21249,
+  "longitude": 106.89767,
+  "routes": [
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:43:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:28:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

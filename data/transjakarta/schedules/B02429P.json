@@ -1,0 +1,20 @@
+{
+  "stop_name": "Mesjid Nurul Huda Kebagusan",
+  "stop_id": "B02429P",
+  "latitude": -6.314214,
+  "longitude": 106.82536,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:37:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

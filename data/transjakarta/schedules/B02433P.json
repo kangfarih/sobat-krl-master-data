@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mess Wirayudha 2",
+  "stop_id": "B02433P",
+  "latitude": -6.242076,
+  "longitude": 106.88072,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:24:40",
+        "05:24:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Danau Indah Barat IA",
+  "stop_id": "B06298P",
+  "latitude": -6.147518,
+  "longitude": 106.87886,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:24:46",
+        "05:24:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

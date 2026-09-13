@@ -1,0 +1,62 @@
+{
+  "stop_name": "Pasar Rumput",
+  "stop_id": "G00700",
+  "latitude": -6.207067,
+  "longitude": 106.841128,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Manggarai dan Galunggung",
+      "weekdays": [
+        "05:10:12",
+        "05:10:13",
+        "05:10:14"
+      ],
+      "weekends": [
+        "05:10:12"
+      ]
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "06:56:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Patra Kuningan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:03:08",
+        "06:08:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Galunggung dan Bekasi",
+      "weekdays": [
+        "05:10:12",
+        "07:38:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

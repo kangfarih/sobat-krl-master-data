@@ -1,0 +1,70 @@
+{
+  "stop_name": "Jatinegara Kaum Raya Bekasi",
+  "stop_id": "B01730P",
+  "latitude": -6.203351,
+  "longitude": 106.90407,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:30:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:35:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:12:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:11:01",
+        "06:23:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:15:44",
+        "06:35:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kemanggisan Ilir Gg. III",
+  "stop_id": "B01958P",
+  "latitude": -6.188313,
+  "longitude": 106.79281,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:34:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

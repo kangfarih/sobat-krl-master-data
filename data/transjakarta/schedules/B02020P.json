@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Beacukai Pondok Bambu",
+  "stop_id": "B02020P",
+  "latitude": -6.23585,
+  "longitude": 106.89759,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:31:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

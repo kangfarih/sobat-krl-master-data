@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Jami Nurul Ikhlas",
+  "stop_id": "B07203P",
+  "latitude": -6.32101,
+  "longitude": 106.9012,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:01:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

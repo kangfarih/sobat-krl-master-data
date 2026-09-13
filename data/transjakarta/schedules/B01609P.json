@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Sungai Musi Sembar",
+  "stop_id": "B01609P",
+  "latitude": -6.130915,
+  "longitude": 106.919826,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:22:24",
+        "06:22:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:56:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

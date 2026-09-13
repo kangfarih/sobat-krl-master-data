@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. SMP 171",
+  "stop_id": "B01590P",
+  "latitude": -6.313102,
+  "longitude": 106.87528,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:36:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

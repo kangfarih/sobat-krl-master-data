@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Cambela Permai",
+  "stop_id": "B03670P",
+  "latitude": -6.097476,
+  "longitude": 106.69996,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:22:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

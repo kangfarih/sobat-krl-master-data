@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. TPU Pondok Kelapa",
+  "stop_id": "B04568P",
+  "latitude": -6.23711,
+  "longitude": 106.94312,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:22:57",
+        "06:23:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:00:10",
+        "05:01:22",
+        "06:17:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Komplek Keuangan",
+  "stop_id": "B02045P",
+  "latitude": -6.234028,
+  "longitude": 106.84417,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:09:33",
+        "06:34:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "06:25:03",
+        "06:27:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Sawah Lio",
+  "stop_id": "B07827P",
+  "latitude": -6.14705,
+  "longitude": 106.80106,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:14:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

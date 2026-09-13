@@ -1,0 +1,24 @@
+{
+  "stop_name": "Komplek Pelni",
+  "stop_id": "B02055P",
+  "latitude": -6.380018,
+  "longitude": 106.85409,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:12:00",
+        "05:23:31",
+        "05:23:37"
+      ],
+      "weekends": [
+        "05:12:00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Angsana Kemanggisan",
+  "stop_id": "B00862P",
+  "latitude": -6.194934,
+  "longitude": 106.78208,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:20:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

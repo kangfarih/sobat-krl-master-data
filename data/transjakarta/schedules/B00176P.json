@@ -1,0 +1,20 @@
+{
+  "stop_name": "BPHN",
+  "stop_id": "B00176P",
+  "latitude": -6.259724,
+  "longitude": 106.86834,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:27:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

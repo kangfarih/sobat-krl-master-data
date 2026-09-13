@@ -1,0 +1,34 @@
+{
+  "stop_name": "Term. Tj. Priok 2",
+  "stop_id": "B05729P",
+  "latitude": -6.109718,
+  "longitude": 106.8834,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:00:10",
+        "05:36:16",
+        "06:17:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:01:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

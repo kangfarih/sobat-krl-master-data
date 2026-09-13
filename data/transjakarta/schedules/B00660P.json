@@ -1,0 +1,20 @@
+{
+  "stop_name": "GOR Handayani Kemanggisan",
+  "stop_id": "B00660P",
+  "latitude": -6.187211,
+  "longitude": 106.79,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:32:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

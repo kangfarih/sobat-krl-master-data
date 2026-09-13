@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pertigaan Usman Harun",
+  "stop_id": "B02785P",
+  "latitude": -6.254816,
+  "longitude": 106.873685,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:02:45",
+        "05:55:16",
+        "07:02:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

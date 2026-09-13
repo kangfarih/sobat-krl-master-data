@@ -1,0 +1,22 @@
+{
+  "stop_name": "Pertigaan Masjid Nurul Cipayung",
+  "stop_id": "B07188P",
+  "latitude": -6.32646,
+  "longitude": 106.896,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:46:30",
+        "06:28:42",
+        "06:29:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

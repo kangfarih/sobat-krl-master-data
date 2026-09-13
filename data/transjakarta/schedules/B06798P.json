@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Gorda",
+  "stop_id": "B06798P",
+  "latitude": -6.289593,
+  "longitude": 106.89598,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:06:18",
+        "05:06:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Lodan Dalam VI",
+  "stop_id": "B03768P",
+  "latitude": -6.127362,
+  "longitude": 106.814459,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:44:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

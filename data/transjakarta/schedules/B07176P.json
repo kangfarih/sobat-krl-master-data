@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gedung Serbaguna Gempol",
+  "stop_id": "B07176P",
+  "latitude": -6.31178,
+  "longitude": 106.8941,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:30:36",
+        "06:12:41",
+        "06:13:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

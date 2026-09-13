@@ -1,0 +1,61 @@
+{
+  "stop_name": "Bundaran Senayan",
+  "stop_id": "G00695",
+  "latitude": -6.227847,
+  "longitude": 106.800843,
+  "routes": [
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:00:10",
+        "06:50:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6M",
+      "route_short_name": "6M",
+      "route_long_name": "Stasiun Manggarai - Blok M",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:11:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "14:39:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:00:10",
+        "05:16:14",
+        "06:18:24"
+      ],
+      "weekends": [
+        "05:16:14"
+      ]
+    }
+  ]
+}

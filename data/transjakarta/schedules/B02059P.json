@@ -1,0 +1,33 @@
+{
+  "stop_name": "Komplek Pertokoan Cempaka Putih",
+  "stop_id": "B02059P",
+  "latitude": -6.173296,
+  "longitude": 106.85976,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:33:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:12:31",
+        "07:55:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

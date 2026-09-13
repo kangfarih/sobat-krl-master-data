@@ -1,0 +1,23 @@
+{
+  "stop_name": "Sbr. SDN 06 Petukangan Utara",
+  "stop_id": "B06413P",
+  "latitude": -6.225193,
+  "longitude": 106.75818,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:13:11",
+        "05:13:14",
+        "06:12:07",
+        "07:32:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

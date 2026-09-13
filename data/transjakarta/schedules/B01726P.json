@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jasamarga Toll Road Maintenance",
+  "stop_id": "B01726P",
+  "latitude": -6.291584,
+  "longitude": 106.8807,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:27:31",
+        "05:27:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:40:18",
+        "05:40:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

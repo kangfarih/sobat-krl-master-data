@@ -1,0 +1,35 @@
+{
+  "stop_name": "Mampang 10",
+  "stop_id": "B06782P",
+  "latitude": -6.249742,
+  "longitude": 106.826708,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:26:13",
+        "06:26:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kalibata dan Blok M",
+      "weekdays": [
+        "05:34:17",
+        "05:34:18",
+        "05:34:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

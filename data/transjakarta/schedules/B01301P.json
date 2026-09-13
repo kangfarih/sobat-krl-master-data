@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kramat Lubang Buaya",
+  "stop_id": "B01301P",
+  "latitude": -6.291363,
+  "longitude": 106.90599,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:15:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

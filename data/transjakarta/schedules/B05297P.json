@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMK Kemala Bhayangkari I",
+  "stop_id": "B05297P",
+  "latitude": -6.210043,
+  "longitude": 106.89408,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:26:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

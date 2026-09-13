@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Makmur VI",
+  "stop_id": "B08473P",
+  "latitude": -6.310418,
+  "longitude": 106.86719,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:16:13",
+        "06:08:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. MI Nurul Hakim",
+  "stop_id": "B06411P",
+  "latitude": -6.226067,
+  "longitude": 106.75777,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "06:07:46",
+        "07:28:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

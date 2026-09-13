@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Sekolah Fajar Sion",
+  "stop_id": "B04385P",
+  "latitude": -6.138169,
+  "longitude": 106.81723,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:44:09",
+        "05:44:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:04:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

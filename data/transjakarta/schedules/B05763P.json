@@ -1,0 +1,46 @@
+{
+  "stop_name": "TMII Pintu 3",
+  "stop_id": "B05763P",
+  "latitude": -6.30539,
+  "longitude": 106.890202,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:58:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:29:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:20:22",
+        "06:02:17",
+        "06:03:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

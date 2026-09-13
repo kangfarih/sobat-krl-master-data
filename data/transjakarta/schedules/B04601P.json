@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yayasan Panti Nugraha",
+  "stop_id": "B04601P",
+  "latitude": -6.304701,
+  "longitude": 106.803989,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:32:21",
+        "05:32:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

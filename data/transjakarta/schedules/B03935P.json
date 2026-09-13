@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Kel. Sumur Batu",
+  "stop_id": "B03935P",
+  "latitude": -6.164306,
+  "longitude": 106.87132,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:18:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

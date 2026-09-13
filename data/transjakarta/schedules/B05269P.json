@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMAN 5",
+  "stop_id": "B05269P",
+  "latitude": -6.159519,
+  "longitude": 106.86711,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "05:34:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

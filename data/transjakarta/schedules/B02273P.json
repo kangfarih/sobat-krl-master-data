@@ -1,0 +1,35 @@
+{
+  "stop_name": "Masjid Assaadah Malaka Jaya",
+  "stop_id": "B02273P",
+  "latitude": -6.22578,
+  "longitude": 106.93879,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:52:14",
+        "07:04:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:51:15",
+        "06:55:50",
+        "07:02:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

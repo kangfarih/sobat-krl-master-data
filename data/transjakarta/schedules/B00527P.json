@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Padi Pelita Cipinang",
+  "stop_id": "B00527P",
+  "latitude": -6.211832,
+  "longitude": 106.8877,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:22:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

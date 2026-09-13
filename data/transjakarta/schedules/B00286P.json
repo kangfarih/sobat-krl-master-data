@@ -1,0 +1,23 @@
+{
+  "stop_name": "Cyberpark Karawaci",
+  "stop_id": "B00286P",
+  "latitude": -6.222465,
+  "longitude": 106.61844,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:03:21",
+        "05:46:57",
+        "05:46:58",
+        "07:04:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

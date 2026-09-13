@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Kampung Baru Assirat",
+  "stop_id": "B04896P",
+  "latitude": -6.225618,
+  "longitude": 106.77194,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:56:55",
+        "06:28:41",
+        "07:03:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:33:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Nusa Indah VII",
+  "stop_id": "B01427P",
+  "latitude": -6.218457,
+  "longitude": 106.93803,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:57:04",
+        "07:09:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:14:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

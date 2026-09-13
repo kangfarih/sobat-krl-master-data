@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSUD Koja 1",
+  "stop_id": "B03212P",
+  "latitude": -6.108976,
+  "longitude": 106.8994,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:32:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

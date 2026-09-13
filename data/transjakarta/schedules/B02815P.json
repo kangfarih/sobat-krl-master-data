@@ -1,0 +1,32 @@
+{
+  "stop_name": "Perumahan TNI AU 2",
+  "stop_id": "B02815P",
+  "latitude": -6.25262,
+  "longitude": 106.90928,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:36:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:16:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

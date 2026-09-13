@@ -1,0 +1,34 @@
+{
+  "stop_name": "Setiabudi Integritas",
+  "stop_id": "G00300",
+  "latitude": -6.209221,
+  "longitude": 106.830212,
+  "routes": [
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "06:20:32",
+        "06:24:04"
+      ]
+    },
+    {
+      "route_id": "L13E",
+      "route_short_name": "L13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan (Express)",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta (Express)",
+      "weekdays": [
+        "06:19:12",
+        "06:19:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

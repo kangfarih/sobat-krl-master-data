@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Suropati 2",
+  "stop_id": "B05657P",
+  "latitude": -6.19969,
+  "longitude": 106.833202,
+  "routes": [
+    {
+      "route_id": "2P",
+      "route_short_name": "2P",
+      "route_long_name": "Stasiun Gondangdia - Pasar Senen",
+      "color": "54659C",
+      "category": "Non-BRT",
+      "direction": "Stasiun Gondangdia dan Pasar Senen",
+      "weekdays": [
+        "05:35:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

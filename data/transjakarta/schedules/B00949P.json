@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Budi Murni Raya Cilangkap",
+  "stop_id": "B00949P",
+  "latitude": -6.33352,
+  "longitude": 106.89479,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:55:05",
+        "06:59:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

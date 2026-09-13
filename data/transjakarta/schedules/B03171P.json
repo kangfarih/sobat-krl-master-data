@@ -1,0 +1,68 @@
+{
+  "stop_name": "RS Pusat Pertamina 3",
+  "stop_id": "B03171P",
+  "latitude": -6.239806,
+  "longitude": 106.79431,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:49:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:06:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:43:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:44:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:51:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

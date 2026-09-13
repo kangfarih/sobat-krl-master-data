@@ -1,0 +1,66 @@
+{
+  "stop_name": "Tol Kb. Jeruk 2",
+  "stop_id": "B05771P",
+  "latitude": -6.189835,
+  "longitude": 106.76681,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "07:05:03",
+        "07:05:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "06:21:49",
+        "06:21:51",
+        "06:21:52"
+      ],
+      "weekends": [
+        "06:21:49",
+        "06:21:51"
+      ]
+    },
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "06:24:40",
+        "07:08:15",
+        "07:08:18",
+        "08:26:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "06:53:01",
+        "06:53:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

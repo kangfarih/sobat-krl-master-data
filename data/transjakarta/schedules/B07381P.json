@@ -1,0 +1,22 @@
+{
+  "stop_name": "SMKN 20",
+  "stop_id": "B07381P",
+  "latitude": -6.283564,
+  "longitude": 106.793838,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:51:30",
+        "05:52:27",
+        "05:52:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

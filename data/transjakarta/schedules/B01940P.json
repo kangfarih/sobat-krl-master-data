@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kel. Pulo Gebang",
+  "stop_id": "B01940P",
+  "latitude": -6.215805,
+  "longitude": 106.9546,
+  "routes": [
+    {
+      "route_id": "11B",
+      "route_short_name": "11B",
+      "route_long_name": "Rusun Rawa Bebek - Penggilingan",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Rawa Bebek",
+      "weekdays": [
+        "05:14:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:07:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

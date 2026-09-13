@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kampung Budaya Betawi Sukapura",
+  "stop_id": "B06811P",
+  "latitude": -6.142087,
+  "longitude": 106.922,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:04:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

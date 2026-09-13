@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Huda Balai Rakyat",
+  "stop_id": "B02243P",
+  "latitude": -6.224484,
+  "longitude": 106.90008,
+  "routes": [
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:26:08",
+        "06:30:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

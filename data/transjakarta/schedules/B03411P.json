@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Pisangan Timur 05/07",
+  "stop_id": "B03411P",
+  "latitude": -6.211291,
+  "longitude": 106.87457,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:39:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

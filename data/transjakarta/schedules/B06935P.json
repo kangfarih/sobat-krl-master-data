@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Agung Barat 30",
+  "stop_id": "B06935P",
+  "latitude": -6.139775,
+  "longitude": 106.859889,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:16:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

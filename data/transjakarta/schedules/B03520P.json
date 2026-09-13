@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Damai Lingkar Timur 2",
+  "stop_id": "B03520P",
+  "latitude": -6.195348,
+  "longitude": 106.94385,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:13:46",
+        "06:51:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

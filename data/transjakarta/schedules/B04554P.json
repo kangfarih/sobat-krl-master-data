@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. TK Dwi Matra Cilandak",
+  "stop_id": "B04554P",
+  "latitude": -6.282523,
+  "longitude": 106.79945,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:41:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

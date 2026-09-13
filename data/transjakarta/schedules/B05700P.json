@@ -1,0 +1,49 @@
+{
+  "stop_name": "Term. Bayangan Kota Intan",
+  "stop_id": "B05700P",
+  "latitude": -6.130949,
+  "longitude": 106.81172,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:00:10",
+        "05:54:32",
+        "05:54:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:00:10",
+        "06:01:41",
+        "07:00:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:08:43",
+        "06:00:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

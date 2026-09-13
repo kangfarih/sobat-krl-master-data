@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Pekayon Ahmad Yani",
+  "stop_id": "B08532P",
+  "latitude": -6.255577,
+  "longitude": 106.990605,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:18:44",
+        "05:18:50",
+        "05:19:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

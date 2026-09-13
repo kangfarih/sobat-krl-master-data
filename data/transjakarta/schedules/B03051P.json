@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Kel. Dukuh",
+  "stop_id": "B03051P",
+  "latitude": -6.302654,
+  "longitude": 106.88026,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:13:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

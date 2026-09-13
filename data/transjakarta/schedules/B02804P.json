@@ -1,0 +1,21 @@
+{
+  "stop_name": "Perumahan Buddha Tzu Chi 1",
+  "stop_id": "B02804P",
+  "latitude": -6.107548,
+  "longitude": 106.77192,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "05:03:51",
+        "05:03:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

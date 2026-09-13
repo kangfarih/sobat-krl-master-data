@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Tanah Sereal XIII",
+  "stop_id": "B01655P",
+  "latitude": -6.155353,
+  "longitude": 106.80815,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:22:28",
+        "05:22:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

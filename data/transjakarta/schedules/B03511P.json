@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Bina Citra",
+  "stop_id": "B03511P",
+  "latitude": -6.312002,
+  "longitude": 106.87183,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:33:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:19:37",
+        "06:11:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

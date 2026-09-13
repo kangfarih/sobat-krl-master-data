@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gereja HKBP Cilangkap",
+  "stop_id": "B00626P",
+  "latitude": -6.334412,
+  "longitude": 106.89744,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:56:43",
+        "07:01:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

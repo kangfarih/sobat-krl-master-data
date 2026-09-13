@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Husein Sastranegara",
+  "stop_id": "B06955P",
+  "latitude": -6.114483,
+  "longitude": 106.685818,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:45:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

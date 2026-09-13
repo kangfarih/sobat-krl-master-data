@@ -1,0 +1,34 @@
+{
+  "stop_name": "PLN Kramat Jati",
+  "stop_id": "B02879P",
+  "latitude": -6.283549,
+  "longitude": 106.87163,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:41:50",
+        "05:42:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:14:35",
+        "06:19:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

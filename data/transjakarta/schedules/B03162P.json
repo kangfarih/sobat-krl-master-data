@@ -1,0 +1,46 @@
+{
+  "stop_name": "RS Pelabuhan Jakarta",
+  "stop_id": "B03162P",
+  "latitude": -6.124553,
+  "longitude": 106.9168,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:28:17",
+        "06:47:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:52:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:00:53",
+        "06:19:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

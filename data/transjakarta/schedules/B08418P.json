@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Mebel",
+  "stop_id": "B08418P",
+  "latitude": -6.322249,
+  "longitude": 106.87697,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:34:57",
+        "05:35:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

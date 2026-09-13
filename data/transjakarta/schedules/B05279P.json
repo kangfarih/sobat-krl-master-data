@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMAN 75",
+  "stop_id": "B05279P",
+  "latitude": -6.135264,
+  "longitude": 106.92169,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:59:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

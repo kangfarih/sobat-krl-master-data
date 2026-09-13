@@ -1,0 +1,20 @@
+{
+  "stop_name": "Andara Margasatwa 4",
+  "stop_id": "B00045P",
+  "latitude": -6.312578,
+  "longitude": 106.80356,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:43:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

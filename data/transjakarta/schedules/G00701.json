@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jembatan Baru",
+  "stop_id": "G00701",
+  "latitude": -6.154881,
+  "longitude": 106.730433,
+  "routes": [
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "06:52:43",
+        "06:54:33",
+        "07:03:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

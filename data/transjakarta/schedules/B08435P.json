@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Univ. Mercu Buana 2",
+  "stop_id": "B08435P",
+  "latitude": -6.209714,
+  "longitude": 106.738025,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "06:08:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

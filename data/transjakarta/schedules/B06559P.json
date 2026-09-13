@@ -1,0 +1,33 @@
+{
+  "stop_name": "GI Pulo Mas",
+  "stop_id": "B06559P",
+  "latitude": -6.201197,
+  "longitude": 106.88038,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:33:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:47:43",
+        "06:50:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

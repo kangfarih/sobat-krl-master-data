@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Melati PKP",
+  "stop_id": "B03787P",
+  "latitude": -6.340019,
+  "longitude": 106.87845,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:49:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:13:23",
+        "05:13:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

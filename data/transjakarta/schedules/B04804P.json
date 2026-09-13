@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Gading Mas Biru Laut",
+  "stop_id": "B04804P",
+  "latitude": -6.166526,
+  "longitude": 106.90893,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:29:26",
+        "05:29:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Masjid Al Wustho",
+  "stop_id": "B01372P",
+  "latitude": -6.245281,
+  "longitude": 106.90494,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:39:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:47:50",
+        "07:08:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

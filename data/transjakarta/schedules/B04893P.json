@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kalisari II",
+  "stop_id": "B04893P",
+  "latitude": -6.335786,
+  "longitude": 106.8537,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:26:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jln. Sandratex 2",
+  "stop_id": "B01559P",
+  "latitude": -6.293633,
+  "longitude": 106.76529,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:42:06",
+        "07:09:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:55:04",
+        "06:05:59",
+        "08:00:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

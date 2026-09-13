@@ -1,0 +1,33 @@
+{
+  "stop_name": "Pesakih 1",
+  "stop_id": "B06656P",
+  "latitude": -6.154564,
+  "longitude": 106.71537,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:17:38",
+        "05:17:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "06:20:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pepaya V Jagakarsa",
+  "stop_id": "B01472P",
+  "latitude": -6.320652,
+  "longitude": 106.81847,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:24:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

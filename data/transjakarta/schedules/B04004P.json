@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Mahaka Square",
+  "stop_id": "B04004P",
+  "latitude": -6.150389,
+  "longitude": 106.90233,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:41:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:35:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

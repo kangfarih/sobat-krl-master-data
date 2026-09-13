@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Rorotan 01",
+  "stop_id": "B03422P",
+  "latitude": -6.15738,
+  "longitude": 106.95587,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:50:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

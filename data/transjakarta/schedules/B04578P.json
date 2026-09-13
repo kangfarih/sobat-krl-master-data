@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. UP Angkutan Sekolah",
+  "stop_id": "B04578P",
+  "latitude": -6.287471,
+  "longitude": 106.87243,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:03:43",
+        "05:45:29",
+        "05:47:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:17:42",
+        "06:22:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

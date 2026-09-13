@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Raya Al Arraf Sukapura",
+  "stop_id": "B02375P",
+  "latitude": -6.145395,
+  "longitude": 106.92281,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:15:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

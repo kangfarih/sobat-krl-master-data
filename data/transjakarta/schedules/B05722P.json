@@ -1,0 +1,21 @@
+{
+  "stop_name": "Term. Rawa Buaya",
+  "stop_id": "B05722P",
+  "latitude": -6.15943,
+  "longitude": 106.72564,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:00:10",
+        "06:34:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

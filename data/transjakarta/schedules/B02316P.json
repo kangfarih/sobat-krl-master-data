@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Al Khoiriyah",
+  "stop_id": "B02316P",
+  "latitude": -6.136743,
+  "longitude": 106.96787,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:01:59",
+        "05:02:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

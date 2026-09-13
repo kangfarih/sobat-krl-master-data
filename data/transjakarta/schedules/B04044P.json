@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid At Taqwa Karang Tengah",
+  "stop_id": "B04044P",
+  "latitude": -6.151164,
+  "longitude": 106.97219,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:07:40",
+        "06:17:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

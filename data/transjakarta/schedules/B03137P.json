@@ -1,0 +1,33 @@
+{
+  "stop_name": "RS Gading Pluit",
+  "stop_id": "B03137P",
+  "latitude": -6.166419,
+  "longitude": 106.91558,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:00:17",
+        "07:19:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:47:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

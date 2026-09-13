@@ -1,0 +1,24 @@
+{
+  "stop_name": "PGC",
+  "stop_id": "G00328",
+  "latitude": -6.2619,
+  "longitude": 106.8657,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Sunter Kelapa Gading dan PGC",
+      "weekdays": [
+        "00:00:10",
+        "05:00:10",
+        "06:31:44",
+        "07:19:12",
+        "08:02:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

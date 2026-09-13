@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Sekolah Anglo Rawasari",
+  "stop_id": "B04377P",
+  "latitude": -6.186448,
+  "longitude": 106.87326,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:49:12",
+        "07:16:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Puas Cibubur",
+  "stop_id": "B03554P",
+  "latitude": -6.347245,
+  "longitude": 106.87416,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:26:41",
+        "06:04:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:56:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

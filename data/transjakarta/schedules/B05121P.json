@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Raya Pondok Gede 2",
+  "stop_id": "B05121P",
+  "latitude": -6.283372,
+  "longitude": 106.91042,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:17:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:01:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

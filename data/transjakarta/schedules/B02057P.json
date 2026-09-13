@@ -1,0 +1,21 @@
+{
+  "stop_name": "Komplek Pemda 2",
+  "stop_id": "B02057P",
+  "latitude": -6.212336,
+  "longitude": 106.61938,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "07:05:06",
+        "09:41:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Darma Wanita V",
+  "stop_id": "B03686P",
+  "latitude": -6.160782,
+  "longitude": 106.73104,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:24:37",
+        "05:31:46",
+        "07:26:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

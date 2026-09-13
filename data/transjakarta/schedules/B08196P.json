@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Satria Raya",
+  "stop_id": "B08196P",
+  "latitude": -6.247456,
+  "longitude": 106.977307,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:38:44",
+        "08:10:11",
+        "09:07:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

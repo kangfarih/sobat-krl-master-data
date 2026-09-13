@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pondok Randu",
+  "stop_id": "B08488P",
+  "latitude": -6.170589,
+  "longitude": 106.727683,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:19:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

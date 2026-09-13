@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Kereta Cepat Halim",
+  "stop_id": "B07310P",
+  "latitude": -6.245363,
+  "longitude": 106.885494,
+  "routes": [
+    {
+      "route_id": "7W",
+      "route_short_name": "7W",
+      "route_long_name": "Cawang - St. Kereta Cepat Halim",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang dan St. Kereta Cepat Halim",
+      "weekdays": [
+        "05:00:10",
+        "05:45:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

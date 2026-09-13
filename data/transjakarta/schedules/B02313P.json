@@ -1,0 +1,36 @@
+{
+  "stop_name": "Masjid Jami Al Inayah",
+  "stop_id": "B02313P",
+  "latitude": -6.224554,
+  "longitude": 106.86945,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:18:11",
+        "06:30:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:06:21",
+        "05:06:25",
+        "05:56:24",
+        "07:00:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

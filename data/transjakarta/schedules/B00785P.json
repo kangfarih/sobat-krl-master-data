@@ -1,0 +1,32 @@
+{
+  "stop_name": "IBI-K 57",
+  "stop_id": "B00785P",
+  "latitude": -6.334036,
+  "longitude": 106.833,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:34:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:53:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

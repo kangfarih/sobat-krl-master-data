@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Usman Ciracas",
+  "stop_id": "B07144P",
+  "latitude": -6.328864,
+  "longitude": 106.884,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:25:15",
+        "05:25:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

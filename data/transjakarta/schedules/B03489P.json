@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. Duta Merlin",
+  "stop_id": "B03489P",
+  "latitude": -6.168488,
+  "longitude": 106.82011,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:26:55",
+        "06:01:52",
+        "06:56:53"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:06:20",
+        "07:37:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

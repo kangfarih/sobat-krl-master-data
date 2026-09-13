@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Kemenyan Sadar 2",
+  "stop_id": "B08137P",
+  "latitude": -6.340433,
+  "longitude": 106.812575,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:09:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

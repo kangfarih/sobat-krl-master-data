@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Prapanca Apartment",
+  "stop_id": "B06731P",
+  "latitude": -6.263316,
+  "longitude": 106.808158,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:44:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

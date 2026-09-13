@@ -1,0 +1,46 @@
+{
+  "stop_name": "St. Lenteng Agung 2",
+  "stop_id": "B05464P",
+  "latitude": -6.331342,
+  "longitude": 106.83467,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:12:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:12:29",
+        "05:12:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:45:59",
+        "06:10:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

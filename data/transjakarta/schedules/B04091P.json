@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. MI Arruhaniyah Rorotan",
+  "stop_id": "B04091P",
+  "latitude": -6.135394,
+  "longitude": 106.96739,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:02:53",
+        "05:02:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gereja Santa Maria Imakulata",
+  "stop_id": "B00638P",
+  "latitude": -6.127632,
+  "longitude": 106.70459,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:56:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

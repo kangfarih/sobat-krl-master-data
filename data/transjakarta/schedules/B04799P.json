@@ -1,0 +1,35 @@
+{
+  "stop_name": "Simpang Dinkes",
+  "stop_id": "B04799P",
+  "latitude": -6.170376,
+  "longitude": 106.81543,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:29:55",
+        "06:04:53",
+        "06:59:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "05:09:21",
+        "07:40:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

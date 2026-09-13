@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Peta Barat 2",
+  "stop_id": "B08078P",
+  "latitude": -6.144507,
+  "longitude": 106.701797,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "06:01:21",
+        "07:06:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

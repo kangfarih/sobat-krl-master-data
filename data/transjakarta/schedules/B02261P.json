@@ -1,0 +1,22 @@
+{
+  "stop_name": "Masjid Alhikmah Duren Sawit",
+  "stop_id": "B02261P",
+  "latitude": -6.239993,
+  "longitude": 106.91261,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:26:10",
+        "06:30:39",
+        "06:37:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

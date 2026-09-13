@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pulo Mas 2",
+  "stop_id": "B03003P",
+  "latitude": -6.175088,
+  "longitude": 106.892871,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:32:54",
+        "05:32:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

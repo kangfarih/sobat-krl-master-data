@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Taman Gorontalo",
+  "stop_id": "B04524P",
+  "latitude": -6.112994,
+  "longitude": 106.88324,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:33:27",
+        "06:12:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

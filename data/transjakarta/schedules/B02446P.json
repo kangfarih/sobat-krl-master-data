@@ -1,0 +1,44 @@
+{
+  "stop_name": "Midi Utama Danau Indah",
+  "stop_id": "B02446P",
+  "latitude": -6.150877,
+  "longitude": 106.87961,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "06:02:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:11:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:55:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

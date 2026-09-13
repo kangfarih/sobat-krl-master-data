@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Sungai Barito Sembar",
+  "stop_id": "B01607P",
+  "latitude": -6.129487,
+  "longitude": 106.91884,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:21:20",
+        "06:21:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:55:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cibubur VI",
+  "stop_id": "B00996P",
+  "latitude": -6.353511,
+  "longitude": 106.87832,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:32:14",
+        "06:10:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

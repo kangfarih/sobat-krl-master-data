@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Al Islamiyah Grogol Selatan",
+  "stop_id": "B00845P",
+  "latitude": -6.225526,
+  "longitude": 106.7765,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:59:36",
+        "06:31:23",
+        "07:06:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

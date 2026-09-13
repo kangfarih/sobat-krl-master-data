@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Masjid Jami Nurul Iman",
+  "stop_id": "B07036P",
+  "latitude": -6.224605,
+  "longitude": 106.893827,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:06:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

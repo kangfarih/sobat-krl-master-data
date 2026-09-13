@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rusun Jati Rawasari",
+  "stop_id": "B03273P",
+  "latitude": -6.183517,
+  "longitude": 106.86389,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:00:10",
+        "05:49:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

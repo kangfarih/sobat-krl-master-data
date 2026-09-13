@@ -1,0 +1,61 @@
+{
+  "stop_name": "Gg. Ramli KS Tubun",
+  "stop_id": "B00537P",
+  "latitude": -6.192032,
+  "longitude": 106.805896,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:14:17",
+        "07:14:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:14:17",
+        "05:14:20",
+        "06:20:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:14:23",
+        "06:34:39",
+        "07:14:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:38:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stop_name": "Terminal Bekasi",
+  "stop_id": "P00255",
+  "latitude": -6.249502,
+  "longitude": 107.01339,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:37:20",
+        "08:10:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:00:10",
+        "07:09:01",
+        "08:40:29",
+        "09:37:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

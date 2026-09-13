@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Radjiman 1",
+  "stop_id": "B06187P",
+  "latitude": -6.190263,
+  "longitude": 106.92314,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:44:28",
+        "06:46:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

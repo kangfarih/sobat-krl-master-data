@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sbr. Jln. Metro Duta 1",
+  "stop_id": "B03793P",
+  "latitude": -6.283181,
+  "longitude": 106.7801,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:12:56",
+        "05:13:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:13:05",
+        "06:23:10",
+        "06:24:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Universitas Paramadina",
+  "stop_id": "B08421P",
+  "latitude": -6.313963,
+  "longitude": 106.906757,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:24:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

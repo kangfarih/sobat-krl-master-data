@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMP Dwi Cakti Cipinang",
+  "stop_id": "B07042P",
+  "latitude": -6.218572,
+  "longitude": 106.87577,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:24:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

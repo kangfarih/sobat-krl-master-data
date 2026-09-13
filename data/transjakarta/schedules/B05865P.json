@@ -1,0 +1,20 @@
+{
+  "stop_name": "Waduk Setiabudi Jln. Gembira",
+  "stop_id": "B05865P",
+  "latitude": -6.205469,
+  "longitude": 106.82993,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:17:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

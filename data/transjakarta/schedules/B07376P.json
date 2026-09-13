@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. SMKN 20",
+  "stop_id": "B07376P",
+  "latitude": -6.283544,
+  "longitude": 106.794151,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:24:21",
+        "06:34:05",
+        "06:35:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

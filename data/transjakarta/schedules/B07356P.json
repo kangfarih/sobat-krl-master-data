@@ -1,0 +1,20 @@
+{
+  "stop_name": "Menteng Village",
+  "stop_id": "B07356P",
+  "latitude": -6.258212,
+  "longitude": 106.62506,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Summarecon Serpong",
+      "weekdays": [
+        "18:50:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

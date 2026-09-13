@@ -1,0 +1,20 @@
+{
+  "stop_name": "Green Permata",
+  "stop_id": "B00698P",
+  "latitude": -6.229061,
+  "longitude": 106.76065,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:38:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

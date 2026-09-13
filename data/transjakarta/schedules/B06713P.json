@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al-Marzuqiyah",
+  "stop_id": "B06713P",
+  "latitude": -6.20353,
+  "longitude": 106.922932,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:23:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

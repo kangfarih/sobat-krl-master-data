@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. I Gusti Ngurah Rai 2",
+  "stop_id": "B06663P",
+  "latitude": -6.216375,
+  "longitude": 106.92745,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:18:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

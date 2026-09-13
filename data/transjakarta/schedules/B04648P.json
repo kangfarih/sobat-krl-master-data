@@ -1,0 +1,45 @@
+{
+  "stop_name": "Sekolah PGRI Penggilingan",
+  "stop_id": "B04648P",
+  "latitude": -6.216995,
+  "longitude": 106.933775,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Walikota Jakarta Timur",
+      "weekdays": [
+        "05:28:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "07:13:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:59:42",
+        "06:00:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

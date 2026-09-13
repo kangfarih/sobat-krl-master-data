@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Cempaka Putih Tengah XVI",
+  "stop_id": "B00980P",
+  "latitude": -6.176206,
+  "longitude": 106.86558,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:24:01",
+        "08:07:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

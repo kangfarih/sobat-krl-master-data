@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Muara Kapuk 03",
+  "stop_id": "B07698P",
+  "latitude": -6.1383262,
+  "longitude": 106.763188,
+  "routes": [
+    {
+      "route_id": "3C",
+      "route_short_name": "3C",
+      "route_long_name": "Rusun Kapuk Muara - Penjaringan",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Kapuk Muara",
+      "weekdays": [
+        "05:52:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

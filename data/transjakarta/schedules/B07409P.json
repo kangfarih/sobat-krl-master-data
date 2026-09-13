@@ -1,0 +1,34 @@
+{
+  "stop_name": "Simpang Jln. BRI Radio Dalam 1",
+  "stop_id": "B07409P",
+  "latitude": -6.257276,
+  "longitude": 106.790678,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:38:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:54:47"
+      ],
+      "weekends": [
+        "05:54:47"
+      ]
+    }
+  ]
+}

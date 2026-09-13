@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Hidayah Raya Tugu",
+  "stop_id": "B08086P",
+  "latitude": -6.128482,
+  "longitude": 106.917858,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:20:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Plaza Adorama",
+  "stop_id": "B02859P",
+  "latitude": -6.258301,
+  "longitude": 106.81519,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Term. Ragunan via Kemang",
+      "weekdays": [
+        "05:17:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

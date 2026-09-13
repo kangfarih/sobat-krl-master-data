@@ -1,0 +1,21 @@
+{
+  "stop_name": "Islamic Centre Wasilah Subuh",
+  "stop_id": "B00809P",
+  "latitude": -6.33663,
+  "longitude": 106.89768,
+  "routes": [
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:58:01",
+        "07:02:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

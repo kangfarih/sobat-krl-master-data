@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Kayu Jati V Pemuda",
+  "stop_id": "B04908P",
+  "latitude": -6.192962,
+  "longitude": 106.88621,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "06:00:56",
+        "07:28:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

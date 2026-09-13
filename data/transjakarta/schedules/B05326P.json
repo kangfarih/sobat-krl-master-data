@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMKN 63",
+  "stop_id": "B05326P",
+  "latitude": -6.351697,
+  "longitude": 106.79855,
+  "routes": [
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:23:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

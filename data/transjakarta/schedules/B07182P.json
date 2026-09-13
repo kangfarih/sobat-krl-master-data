@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Gg. Swadaya I",
+  "stop_id": "B07182P",
+  "latitude": -6.31771,
+  "longitude": 106.9013,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:37:58",
+        "06:20:03",
+        "06:21:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

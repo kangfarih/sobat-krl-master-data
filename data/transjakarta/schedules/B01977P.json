@@ -1,0 +1,21 @@
+{
+  "stop_name": "KH Ahmad Dahlan",
+  "stop_id": "B01977P",
+  "latitude": -6.247088,
+  "longitude": 106.79194,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:13:25",
+        "06:13:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

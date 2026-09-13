@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Mamad",
+  "stop_id": "B07420P",
+  "latitude": -6.249238,
+  "longitude": 106.782983,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:13:18",
+        "06:34:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

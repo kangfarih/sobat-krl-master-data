@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Tebet Timur Dalam 7J",
+  "stop_id": "B06267P",
+  "latitude": -6.238823,
+  "longitude": 106.85856,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:26:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

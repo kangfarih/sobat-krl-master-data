@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Mantang Terusan",
+  "stop_id": "B04994P",
+  "latitude": -6.112776,
+  "longitude": 106.90821,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:39:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Tongolo",
+  "stop_id": "B00571P",
+  "latitude": -6.267049,
+  "longitude": 106.88252,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:33:02",
+        "05:33:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:10:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

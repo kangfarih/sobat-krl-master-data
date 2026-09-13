@@ -1,0 +1,44 @@
+{
+  "stop_name": "Sbr. SMPN 195",
+  "stop_id": "B04476P",
+  "latitude": -6.230919,
+  "longitude": 106.90988,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Rusun Pondok Bambu",
+      "weekdays": [
+        "05:36:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:56:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "06:02:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

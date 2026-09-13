@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. H. Kincan Rawa Buaya",
+  "stop_id": "B03715P",
+  "latitude": -6.164546,
+  "longitude": 106.73543,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:20:40",
+        "05:20:49",
+        "07:11:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

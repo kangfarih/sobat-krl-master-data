@@ -1,0 +1,57 @@
+{
+  "stop_name": "Pospol Makasar",
+  "stop_id": "B02974P",
+  "latitude": -6.246997,
+  "longitude": 106.90659,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:40:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:28:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:19:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:19:51",
+        "06:24:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

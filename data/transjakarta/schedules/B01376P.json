@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Masjid Soeprapto",
+  "stop_id": "B01376P",
+  "latitude": -6.277536,
+  "longitude": 106.87806,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:06:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

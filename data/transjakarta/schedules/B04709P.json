@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Asem II Bunga Flamboyan",
+  "stop_id": "B04709P",
+  "latitude": -6.272424,
+  "longitude": 106.80298,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:52:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

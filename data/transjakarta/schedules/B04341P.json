@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Jagakarsa 01",
+  "stop_id": "B04341P",
+  "latitude": -6.328227,
+  "longitude": 106.82021,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:26:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

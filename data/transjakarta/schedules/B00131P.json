@@ -1,0 +1,46 @@
+{
+  "stop_name": "Bermis 2",
+  "stop_id": "B00131P",
+  "latitude": -6.178353,
+  "longitude": 106.89841,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:08:22",
+        "05:08:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:08:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:06:23",
+        "05:06:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

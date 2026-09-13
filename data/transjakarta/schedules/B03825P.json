@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Ratu Melati 5",
+  "stop_id": "B03825P",
+  "latitude": -6.168577,
+  "longitude": 106.76978,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:55:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

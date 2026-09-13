@@ -1,0 +1,34 @@
+{
+  "stop_name": "Makam Pangeran Jayakarta",
+  "stop_id": "B02172P",
+  "latitude": -6.202329,
+  "longitude": 106.90056,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:08:36",
+        "06:20:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:13:19",
+        "06:33:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

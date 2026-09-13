@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Gotong Royong Cipinang Muara",
+  "stop_id": "B01084P",
+  "latitude": -6.227649,
+  "longitude": 106.89623,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:03:58",
+        "05:03:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bundaran JIEP 1",
+  "stop_id": "B07629P",
+  "latitude": -6.20129,
+  "longitude": 106.917658,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:45:30",
+        "06:42:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

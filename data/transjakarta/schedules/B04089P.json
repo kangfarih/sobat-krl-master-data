@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Mgk Kemayoran",
+  "stop_id": "B04089P",
+  "latitude": -6.153128,
+  "longitude": 106.84671,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:48:45",
+        "07:32:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

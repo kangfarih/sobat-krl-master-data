@@ -1,0 +1,46 @@
+{
+  "stop_name": "Jln. Muara 1",
+  "stop_id": "B01405P",
+  "latitude": -6.304063,
+  "longitude": 106.85061,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:53:19",
+        "06:57:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:30:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:52:43",
+        "07:00:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

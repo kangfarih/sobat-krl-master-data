@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Barakah Assyafiiyah",
+  "stop_id": "B02230P",
+  "latitude": -6.220472,
+  "longitude": 106.8508,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:45:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Kramat Lontar",
+  "stop_id": "B07760P",
+  "latitude": -6.189686,
+  "longitude": 106.847198,
+  "routes": [
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:25:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

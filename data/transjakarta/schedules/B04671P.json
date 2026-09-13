@@ -1,0 +1,142 @@
+{
+  "stop_name": "Selapa Polri",
+  "stop_id": "B04671P",
+  "latitude": -6.286492,
+  "longitude": 106.77119,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:03:22",
+        "07:21:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:03:54",
+        "06:07:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:03:21",
+        "06:11:00"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:03:22",
+        "05:03:28",
+        "06:27:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:01:48",
+        "06:11:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:02:58",
+        "06:23:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:02:01",
+        "05:02:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:01:40",
+        "06:11:39",
+        "06:12:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:38:24",
+        "05:38:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:00:10",
+        "05:38:23",
+        "05:38:29",
+        "05:39:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

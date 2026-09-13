@@ -1,0 +1,21 @@
+{
+  "stop_name": "Ps. Gembrong Baru",
+  "stop_id": "B02609P",
+  "latitude": -6.179762,
+  "longitude": 106.86075,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:36:25",
+        "07:03:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

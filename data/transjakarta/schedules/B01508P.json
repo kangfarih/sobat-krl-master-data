@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pluit Raya 2",
+  "stop_id": "B01508P",
+  "latitude": -6.125392,
+  "longitude": 106.7978,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "06:07:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

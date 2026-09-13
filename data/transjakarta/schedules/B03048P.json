@@ -1,0 +1,21 @@
+{
+  "stop_name": "Puskesmas Kebayoran Baru",
+  "stop_id": "B03048P",
+  "latitude": -6.247225,
+  "longitude": 106.80572,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:44:45",
+        "05:45:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

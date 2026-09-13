@@ -1,0 +1,20 @@
+{
+  "stop_name": "Samping SMAN 95",
+  "stop_id": "B08571P",
+  "latitude": -6.12556,
+  "longitude": 106.70312,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:41:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

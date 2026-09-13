@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Mawar Merah VI",
+  "stop_id": "B08332P",
+  "latitude": -6.2211,
+  "longitude": 106.93749,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:03:48",
+        "05:03:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

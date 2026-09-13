@@ -1,0 +1,48 @@
+{
+  "stop_name": "Term. Muara Angke 2",
+  "stop_id": "B05714P",
+  "latitude": -6.109001,
+  "longitude": 106.77349,
+  "routes": [
+    {
+      "route_id": "12A",
+      "route_short_name": "12A",
+      "route_long_name": "Pelabuhan Kaliadem - Kota",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Kota dan Kali Adem",
+      "weekdays": [
+        "06:42:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "07:01:29"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:00:10",
+        "01:12:31",
+        "05:00:00",
+        "06:07:42",
+        "23:16:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

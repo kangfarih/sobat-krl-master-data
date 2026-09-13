@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pertigaan Jln. Asem",
+  "stop_id": "B07168P",
+  "latitude": -6.329473,
+  "longitude": 106.886539,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:44:26",
+        "06:36:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

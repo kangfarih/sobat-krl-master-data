@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kantor Pos Kebayoran Lama",
+  "stop_id": "B01822P",
+  "latitude": -6.249119,
+  "longitude": 106.778,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:26:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:31:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

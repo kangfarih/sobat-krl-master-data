@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Tampak Siring Cipete Dalam",
+  "stop_id": "B00569P",
+  "latitude": -6.274609,
+  "longitude": 106.80055,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:48:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

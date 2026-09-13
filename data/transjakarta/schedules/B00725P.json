@@ -1,0 +1,20 @@
+{
+  "stop_name": "H. Agus Salim 2",
+  "stop_id": "B00725P",
+  "latitude": -6.184459,
+  "longitude": 106.8248,
+  "routes": [
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:08:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

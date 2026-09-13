@@ -1,0 +1,57 @@
+{
+  "stop_name": "Simpang Lagoa Ciampea",
+  "stop_id": "B04964P",
+  "latitude": -6.108978,
+  "longitude": 106.9077,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "05:42:38",
+        "05:42:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "05:42:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:50:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:27:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

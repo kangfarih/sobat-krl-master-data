@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Terentang Elok 1",
+  "stop_id": "B07280P",
+  "latitude": -6.198919,
+  "longitude": 106.940427,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:35:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

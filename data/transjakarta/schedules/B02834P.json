@@ -1,0 +1,35 @@
+{
+  "stop_name": "Pintu 3 TMII",
+  "stop_id": "B02834P",
+  "latitude": -6.305153,
+  "longitude": 106.88853,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:19:21",
+        "06:01:16",
+        "06:02:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:33:18",
+        "06:37:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

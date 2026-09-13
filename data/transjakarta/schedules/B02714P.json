@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pemadam Jakpus",
+  "stop_id": "B02714P",
+  "latitude": -6.161338,
+  "longitude": 106.80889,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:37:44",
+        "06:36:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

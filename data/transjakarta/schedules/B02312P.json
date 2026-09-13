@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Al Ihsan Kemayoran",
+  "stop_id": "B02312P",
+  "latitude": -6.163404,
+  "longitude": 106.85285,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:01:14",
+        "07:44:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

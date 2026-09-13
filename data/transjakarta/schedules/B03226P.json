@@ -1,0 +1,21 @@
+{
+  "stop_name": "Rukan Teuku Umar",
+  "stop_id": "B03226P",
+  "latitude": -6.195499,
+  "longitude": 106.62391,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "07:15:16",
+        "09:52:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

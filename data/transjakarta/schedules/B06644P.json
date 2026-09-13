@@ -1,0 +1,32 @@
+{
+  "stop_name": "Gerbang Tol Brigif",
+  "stop_id": "B06644P",
+  "latitude": -6.343523,
+  "longitude": 106.79725,
+  "routes": [
+    {
+      "route_id": "D32",
+      "route_short_name": "D32",
+      "route_long_name": "Cinere - Bundaran Senayan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:11:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "17:57:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

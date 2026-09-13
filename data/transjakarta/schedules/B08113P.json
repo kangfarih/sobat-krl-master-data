@@ -1,0 +1,25 @@
+{
+  "stop_name": "Prominence",
+  "stop_id": "B08113P",
+  "latitude": -6.228327,
+  "longitude": 106.656763,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "07:06:19",
+        "09:15:07",
+        "09:28:38"
+      ],
+      "weekends": [
+        "09:15:07",
+        "09:28:38"
+      ]
+    }
+  ]
+}

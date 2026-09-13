@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kel. Rawa Bunga",
+  "stop_id": "B01941P",
+  "latitude": -6.221597,
+  "longitude": 106.86956,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "06:07:01",
+        "06:07:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "06:04:36",
+        "06:05:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

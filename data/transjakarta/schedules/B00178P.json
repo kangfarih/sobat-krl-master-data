@@ -1,0 +1,47 @@
+{
+  "stop_name": "BPJS Kesehatan Sultan Hasanudin",
+  "stop_id": "B00178P",
+  "latitude": -6.242517,
+  "longitude": 106.80229,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "05:01:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:00:10",
+        "05:56:06",
+        "07:05:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:01:06",
+        "06:22:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

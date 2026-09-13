@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pinang IIIb",
+  "stop_id": "B01494P",
+  "latitude": -6.308157,
+  "longitude": 106.79798,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:18:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gerbang South City Cinere",
+  "stop_id": "B07781P",
+  "latitude": -6.346676,
+  "longitude": 106.776872,
+  "routes": [
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "18:23:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

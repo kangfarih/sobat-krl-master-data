@@ -1,0 +1,22 @@
+{
+  "stop_name": "Bermis",
+  "stop_id": "G00623",
+  "latitude": -6.17822,
+  "longitude": 106.898581,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Galunggung via Bermis",
+      "weekdays": [
+        "05:08:07"
+      ],
+      "weekends": [
+        "05:08:07"
+      ]
+    }
+  ]
+}

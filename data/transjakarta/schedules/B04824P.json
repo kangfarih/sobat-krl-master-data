@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang H. Ali Kramat Barat",
+  "stop_id": "B04824P",
+  "latitude": -6.291941,
+  "longitude": 106.86585,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:29:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

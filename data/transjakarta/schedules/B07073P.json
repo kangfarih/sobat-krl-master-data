@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Pulau Kecil Danau Sunter",
+  "stop_id": "B07073P",
+  "latitude": -6.14814,
+  "longitude": 106.8616,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:17:49",
+        "06:16:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "06:16:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

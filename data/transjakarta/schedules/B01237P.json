@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kb. Nanas 2",
+  "stop_id": "B01237P",
+  "latitude": -6.216153,
+  "longitude": 106.630491,
+  "routes": [
+    {
+      "route_id": "T12",
+      "route_short_name": "T12",
+      "route_long_name": "Poris Plawad - Juanda",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Juanda dan Poris Plawad",
+      "weekdays": [
+        "06:54:32",
+        "09:25:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

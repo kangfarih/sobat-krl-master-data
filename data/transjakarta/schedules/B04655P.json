@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Segar Amanah Klender",
+  "stop_id": "B04655P",
+  "latitude": -6.223949,
+  "longitude": 106.90863,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:31:18",
+        "05:31:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Tebet Timur Dalam VIII X",
+  "stop_id": "B08474P",
+  "latitude": -6.242073,
+  "longitude": 106.857548,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:29:10",
+        "06:16:22",
+        "06:30:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

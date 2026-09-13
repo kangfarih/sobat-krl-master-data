@@ -1,0 +1,20 @@
+{
+  "stop_name": "Vidyasana Bahasa",
+  "stop_id": "B05856P",
+  "latitude": -6.25487,
+  "longitude": 106.89129,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:04:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

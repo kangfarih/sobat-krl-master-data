@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Majelis Meruya Ilir",
+  "stop_id": "B01339P",
+  "latitude": -6.197218,
+  "longitude": 106.75773,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:32:32",
+        "05:32:36",
+        "05:32:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

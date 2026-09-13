@@ -1,0 +1,33 @@
+{
+  "stop_name": "Kantor Pos Halim 2",
+  "stop_id": "B01820P",
+  "latitude": -6.251103,
+  "longitude": 106.88925,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:25:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:09:33",
+        "05:09:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

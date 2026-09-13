@@ -1,0 +1,35 @@
+{
+  "stop_name": "Antena II",
+  "stop_id": "B00053P",
+  "latitude": -6.25033,
+  "longitude": 106.79163,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:59:26"
+      ],
+      "weekends": [
+        "05:59:26"
+      ]
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:11:35",
+        "06:12:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

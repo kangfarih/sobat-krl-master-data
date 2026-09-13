@@ -1,0 +1,43 @@
+{
+  "stop_name": "Pantai Maju",
+  "stop_id": "B06040P",
+  "latitude": -6.093637,
+  "longitude": 106.75068,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:00:10",
+        "06:28:04",
+        "06:59:18",
+        "07:11:59",
+        "08:35:37",
+        "08:39:01"
+      ],
+      "weekends": [
+        "05:00:10",
+        "07:40:24",
+        "07:50:26"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:57:09"
+      ],
+      "weekends": [
+        "05:57:09"
+      ]
+    }
+  ]
+}

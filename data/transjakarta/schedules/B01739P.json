@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jembatan BKT Pendidikan Raya 2",
+  "stop_id": "B01739P",
+  "latitude": -6.229245,
+  "longitude": 106.91753,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:24:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:22:15",
+        "05:23:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

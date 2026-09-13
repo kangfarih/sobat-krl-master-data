@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pedati",
+  "stop_id": "B02704P",
+  "latitude": -6.225717,
+  "longitude": 106.87473,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:11:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

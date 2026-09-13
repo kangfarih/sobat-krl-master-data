@@ -1,0 +1,20 @@
+{
+  "stop_name": "RS Mitra Kelapa Gading",
+  "stop_id": "B03154P",
+  "latitude": -6.152389,
+  "longitude": 106.89745,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:51:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

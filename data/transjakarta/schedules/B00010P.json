@@ -1,0 +1,21 @@
+{
+  "stop_name": "AEON Mall",
+  "stop_id": "B00010P",
+  "latitude": -6.171923,
+  "longitude": 106.95283,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:04:19",
+        "06:05:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

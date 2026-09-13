@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Raya Narogong",
+  "stop_id": "B08639P",
+  "latitude": -6.30985,
+  "longitude": 106.984458,
+  "routes": [
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sentral via Jatiasih dan Vida Bekasi",
+      "weekdays": [
+        "06:41:22",
+        "08:22:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

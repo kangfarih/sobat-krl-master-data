@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Rusun Griya Tipar Cakung",
+  "stop_id": "B07570P",
+  "latitude": -6.17179299,
+  "longitude": 106.93571448,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:10:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

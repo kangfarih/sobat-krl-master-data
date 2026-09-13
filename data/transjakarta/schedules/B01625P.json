@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Swakarsa IV Pondok Kelapa",
+  "stop_id": "B01625P",
+  "latitude": -6.243335,
+  "longitude": 106.94262,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:34:26",
+        "06:35:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Ps. Warakas 1",
+  "stop_id": "B05050P",
+  "latitude": -6.115658,
+  "longitude": 106.88001,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:30:38",
+        "06:09:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

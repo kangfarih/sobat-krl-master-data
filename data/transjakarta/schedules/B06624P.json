@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pinang 2",
+  "stop_id": "B06624P",
+  "latitude": -6.11447,
+  "longitude": 106.90313,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:00:28",
+        "06:00:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

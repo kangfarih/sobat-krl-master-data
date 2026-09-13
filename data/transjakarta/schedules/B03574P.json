@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Gg. Waru",
+  "stop_id": "B03574P",
+  "latitude": -6.305912,
+  "longitude": 106.91221,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:35:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:40:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

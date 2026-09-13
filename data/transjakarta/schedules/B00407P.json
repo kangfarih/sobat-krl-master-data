@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Asem Ciracas",
+  "stop_id": "B00407P",
+  "latitude": -6.321196,
+  "longitude": 106.87024,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:06:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. ITC Fatmawati",
+  "stop_id": "B03626P",
+  "latitude": -6.26343,
+  "longitude": 106.7969,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:29:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:47:23"
+      ],
+      "weekends": [
+        "05:47:23"
+      ]
+    }
+  ]
+}

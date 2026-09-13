@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Pusbinal",
+  "stop_id": "B08172P",
+  "latitude": -6.245315,
+  "longitude": 106.901732,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:31:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

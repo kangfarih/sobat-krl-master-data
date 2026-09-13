@@ -1,0 +1,46 @@
+{
+  "stop_name": "H. Nawi Jln. Timbul",
+  "stop_id": "B00730P",
+  "latitude": -6.268439,
+  "longitude": 106.79744,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Pondok Labu",
+      "weekdays": [
+        "05:23:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:28:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:42:39"
+      ],
+      "weekends": [
+        "05:42:39"
+      ]
+    }
+  ]
+}

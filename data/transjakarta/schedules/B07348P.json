@@ -1,0 +1,20 @@
+{
+  "stop_name": "FBL 2",
+  "stop_id": "B07348P",
+  "latitude": -6.291133,
+  "longitude": 106.63978,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Lebak Bulus",
+      "weekdays": [
+        "06:25:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

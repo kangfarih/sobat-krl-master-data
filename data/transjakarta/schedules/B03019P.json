@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puri Swadaya",
+  "stop_id": "B03019P",
+  "latitude": -6.23716,
+  "longitude": 106.91961,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:34:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

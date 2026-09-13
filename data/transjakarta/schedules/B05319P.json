@@ -1,0 +1,33 @@
+{
+  "stop_name": "SMKN 49",
+  "stop_id": "B05319P",
+  "latitude": -6.129409,
+  "longitude": 106.95577,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:10:59",
+        "07:46:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.58",
+      "route_short_name": "JAK.58",
+      "route_long_name": "Cilincing - Rusun Padat Karya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cilincing dan Rusun Padat Karya",
+      "weekdays": [
+        "05:14:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

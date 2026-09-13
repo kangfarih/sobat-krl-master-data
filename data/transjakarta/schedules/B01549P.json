@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Sabar 1 Petukangan",
+  "stop_id": "B01549P",
+  "latitude": -6.240055,
+  "longitude": 106.75249,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:48:49",
+        "07:10:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

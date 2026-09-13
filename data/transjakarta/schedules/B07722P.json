@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Jami Al-Mujahidin",
+  "stop_id": "B07722P",
+  "latitude": -6.170408,
+  "longitude": 106.934758,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "06:25:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

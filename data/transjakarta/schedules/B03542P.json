@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Kerang Raya Dadap",
+  "stop_id": "B03542P",
+  "latitude": -6.095784,
+  "longitude": 106.71554,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:23:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

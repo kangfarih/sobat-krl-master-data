@@ -1,0 +1,32 @@
+{
+  "stop_name": "Benhil PAM Jaya",
+  "stop_id": "B00126P",
+  "latitude": -6.216775,
+  "longitude": 106.8154,
+  "routes": [
+    {
+      "route_id": "1B",
+      "route_short_name": "1B",
+      "route_long_name": "Stasiun Palmerah - Transport Hub Dukuh Atas",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Transport Hub Dukuh Atas dan St. Palmerah",
+      "weekdays": [
+        "05:14:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1T",
+      "route_short_name": "1T",
+      "route_long_name": "Cibubur - Balai Kota",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Balai Kota",
+      "weekdays": [
+        "06:48:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

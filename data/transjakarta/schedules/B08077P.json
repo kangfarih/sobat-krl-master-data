@@ -1,0 +1,20 @@
+{
+  "stop_name": "Utan Kayu 2",
+  "stop_id": "B08077P",
+  "latitude": -6.192932,
+  "longitude": 106.864505,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:38:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

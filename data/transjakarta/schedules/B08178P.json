@@ -1,0 +1,20 @@
+{
+  "stop_name": "Monumen Pancakarsa",
+  "stop_id": "B08178P",
+  "latitude": -6.532481,
+  "longitude": 106.853647,
+  "routes": [
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bogor",
+      "weekdays": [
+        "08:18:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

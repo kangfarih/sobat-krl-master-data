@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Yayasan Islam Suci Susukan",
+  "stop_id": "B04596P",
+  "latitude": -6.310841,
+  "longitude": 106.87305,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:34:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:20:39",
+        "06:12:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

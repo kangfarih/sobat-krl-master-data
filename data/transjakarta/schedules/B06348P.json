@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Al Mujahidin",
+  "stop_id": "B06348P",
+  "latitude": -6.148821,
+  "longitude": 106.768812,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:37:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

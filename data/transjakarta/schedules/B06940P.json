@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasar Rumput 1",
+  "stop_id": "B06940P",
+  "latitude": -6.207363,
+  "longitude": 106.841524,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Poltangan dan Stasiun Manggarai",
+      "weekdays": [
+        "06:27:50",
+        "06:53:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

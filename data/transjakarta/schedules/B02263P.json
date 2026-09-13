@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Amar Maruf 2",
+  "stop_id": "B02263P",
+  "latitude": -6.255062,
+  "longitude": 107.02206,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "06:26:13",
+        "07:59:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

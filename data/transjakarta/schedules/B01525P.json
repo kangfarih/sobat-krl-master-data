@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pulogayung Petukangan",
+  "stop_id": "B01525P",
+  "latitude": -6.248536,
+  "longitude": 106.75563,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:36:34",
+        "05:36:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

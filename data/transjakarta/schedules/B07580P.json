@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Salman Kb. Jeruk",
+  "stop_id": "B07580P",
+  "latitude": -6.197933,
+  "longitude": 106.77629,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:21:50",
+        "07:05:42",
+        "07:45:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

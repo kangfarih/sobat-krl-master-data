@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Damai",
+  "stop_id": "B06260P",
+  "latitude": -6.196948,
+  "longitude": 106.9559,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:47:37",
+        "07:21:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

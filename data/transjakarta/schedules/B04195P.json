@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Perum Taman Malaka",
+  "stop_id": "B04195P",
+  "latitude": -6.231282,
+  "longitude": 106.92863,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "06:02:55",
+        "07:11:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

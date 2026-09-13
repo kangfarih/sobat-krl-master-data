@@ -1,0 +1,23 @@
+{
+  "stop_name": "Gandaria Arteri Pondok Indah",
+  "stop_id": "B07413P",
+  "latitude": -6.246667,
+  "longitude": 106.781421,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:10:12",
+        "06:10:14"
+      ],
+      "weekends": [
+        "06:10:12"
+      ]
+    }
+  ]
+}

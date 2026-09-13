@@ -1,0 +1,52 @@
+{
+  "stop_name": "Jembatan Gantung",
+  "stop_id": "G00150",
+  "latitude": -6.155473,
+  "longitude": 106.749473,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:24:50",
+        "05:24:51",
+        "06:18:05"
+      ],
+      "weekends": [
+        "05:24:50"
+      ]
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "05:12:37",
+        "07:13:19",
+        "07:15:09",
+        "07:23:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:24:50",
+        "05:24:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

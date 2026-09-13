@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Lele Kayuringin",
+  "stop_id": "B08198P",
+  "latitude": -6.247482,
+  "longitude": 106.990111,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "06:45:39",
+        "08:17:06",
+        "09:14:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

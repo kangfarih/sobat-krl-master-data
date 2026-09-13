@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Moneter",
+  "stop_id": "B02054P",
+  "latitude": -6.205509,
+  "longitude": 106.77026,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:08:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

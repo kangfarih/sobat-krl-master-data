@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. S Kalimalang Tarum Barat",
+  "stop_id": "B01548P",
+  "latitude": -6.248748,
+  "longitude": 106.90841,
+  "routes": [
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:07:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

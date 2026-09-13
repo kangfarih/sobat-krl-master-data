@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan H. Naim Cilandak Barat",
+  "stop_id": "B02773P",
+  "latitude": -6.287426,
+  "longitude": 106.80233,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:45:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

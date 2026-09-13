@@ -1,0 +1,78 @@
+{
+  "stop_name": "Tegal Mampang",
+  "stop_id": "G00008",
+  "latitude": -6.240215,
+  "longitude": 106.830883,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "01:01:56",
+        "05:00:10",
+        "06:13:48",
+        "06:26:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "05:31:22",
+        "06:57:54"
+      ]
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "05:45:08",
+        "05:45:09",
+        "14:15:08"
+      ],
+      "weekends": [
+        "05:45:09"
+      ]
+    },
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:31:21",
+        "06:18:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "L13E",
+      "route_short_name": "L13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan (Express)",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta (Express)",
+      "weekdays": [
+        "05:31:23",
+        "06:55:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kebantenan V Asrama AIRUD",
+  "stop_id": "B01227P",
+  "latitude": -6.107132,
+  "longitude": 106.93225,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:24:14",
+        "06:53:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

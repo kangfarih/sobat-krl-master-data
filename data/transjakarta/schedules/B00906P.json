@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Batas II Baru",
+  "stop_id": "B00906P",
+  "latitude": -6.329867,
+  "longitude": 106.85238,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:27:13",
+        "06:31:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

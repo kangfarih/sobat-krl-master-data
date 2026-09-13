@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pemuda Merdeka",
+  "stop_id": "G00173",
+  "latitude": -6.192417,
+  "longitude": 106.904944,
+  "routes": [
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "05:06:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

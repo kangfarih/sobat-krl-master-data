@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pos RW 10 Jingga Raya",
+  "stop_id": "B02967P",
+  "latitude": -6.163696,
+  "longitude": 106.90887,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:31:45",
+        "05:32:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

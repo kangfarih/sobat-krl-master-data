@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kemang Raya Bangka",
+  "stop_id": "B08069P",
+  "latitude": -6.271978,
+  "longitude": 106.815199,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:25:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

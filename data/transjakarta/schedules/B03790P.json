@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Merpati Putih Kembangan Utara",
+  "stop_id": "B03790P",
+  "latitude": -6.173369,
+  "longitude": 106.7335,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:14:45",
+        "05:14:54",
+        "07:05:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

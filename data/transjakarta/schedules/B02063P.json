@@ -1,0 +1,35 @@
+{
+  "stop_name": "Komplek Polri Kalideres",
+  "stop_id": "B02063P",
+  "latitude": -6.156402,
+  "longitude": 106.7049,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:05:41",
+        "06:20:01",
+        "08:14:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "06:10:01",
+        "07:14:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

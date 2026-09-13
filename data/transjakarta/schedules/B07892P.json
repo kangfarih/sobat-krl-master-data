@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Puri Indah Raya 2",
+  "stop_id": "B07892P",
+  "latitude": -6.186379,
+  "longitude": 106.747516,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:33:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

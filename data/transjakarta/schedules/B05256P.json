@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMAN 100",
+  "stop_id": "B05256P",
+  "latitude": -6.228401,
+  "longitude": 106.88494,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:56:56",
+        "05:57:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Perguruan Cikini",
+  "stop_id": "B05953P",
+  "latitude": -6.1948,
+  "longitude": 106.83964,
+  "routes": [
+    {
+      "route_id": "JAK.10A",
+      "route_short_name": "JAK.10A",
+      "route_long_name": "Gondangdia - Cikini via Salemba Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini dan Gondangdia via Salemba Raya",
+      "weekdays": [
+        "05:23:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.10B",
+      "route_short_name": "JAK.10B",
+      "route_long_name": "Gondangdia - Cikini via Kramat Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cikini via Kramat dan Gondangdia",
+      "weekdays": [
+        "05:32:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

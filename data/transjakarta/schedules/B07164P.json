@@ -1,0 +1,21 @@
+{
+  "stop_name": "Lapangan Bola Centex",
+  "stop_id": "B07164P",
+  "latitude": -6.326471,
+  "longitude": 106.87666,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:35:31",
+        "06:27:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

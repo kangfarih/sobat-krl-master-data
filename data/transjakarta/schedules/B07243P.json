@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Danau Sunter",
+  "stop_id": "B07243P",
+  "latitude": -6.145975,
+  "longitude": 106.876406,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:45:36",
+        "06:44:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

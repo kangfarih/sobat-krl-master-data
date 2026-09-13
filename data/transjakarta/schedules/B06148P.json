@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pangarengan",
+  "stop_id": "B06148P",
+  "latitude": -6.200434,
+  "longitude": 106.92249,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:22:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

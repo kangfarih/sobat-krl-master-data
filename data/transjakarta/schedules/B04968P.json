@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Lapangan Tembak Raya Bogor",
+  "stop_id": "B04968P",
+  "latitude": -6.343672,
+  "longitude": 106.86917,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:22:51",
+        "06:00:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

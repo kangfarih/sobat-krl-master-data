@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pasar Genjing 1",
+  "stop_id": "B08063P",
+  "latitude": -6.19448,
+  "longitude": 106.860512,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:50:11",
+        "07:20:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN 06 Ciracas",
+  "stop_id": "B07173P",
+  "latitude": -6.317462,
+  "longitude": 106.87849,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:37:43",
+        "05:37:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pasar Pulo Jaya",
+  "stop_id": "B06147P",
+  "latitude": -6.195007,
+  "longitude": 106.92255,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:19:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

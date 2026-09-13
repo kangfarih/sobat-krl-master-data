@@ -1,0 +1,20 @@
+{
+  "stop_name": "Yayasan At Taufiq Gg. R",
+  "stop_id": "B05916P",
+  "latitude": -6.109205,
+  "longitude": 106.93104,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:46:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Utan Kayu Selatan 23 Pagi",
+  "stop_id": "B06431P",
+  "latitude": -6.203858,
+  "longitude": 106.87078,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:58:18",
+        "06:08:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

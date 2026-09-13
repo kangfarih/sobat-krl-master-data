@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDIT Al Huda Kelapa Gading",
+  "stop_id": "B03332P",
+  "latitude": -6.171373,
+  "longitude": 106.91094,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:14:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

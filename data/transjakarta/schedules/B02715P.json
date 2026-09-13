@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pemadam Kelapa Gading",
+  "stop_id": "B02715P",
+  "latitude": -6.176102,
+  "longitude": 106.90423,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:22:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

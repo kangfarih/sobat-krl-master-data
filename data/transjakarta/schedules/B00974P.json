@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Cek Do Abdul Rahman",
+  "stop_id": "B00974P",
+  "latitude": -6.29084,
+  "longitude": 106.86563,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:30:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

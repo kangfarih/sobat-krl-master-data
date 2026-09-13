@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Pondok Bambu Batas 4",
+  "stop_id": "B05085P",
+  "latitude": -6.241275,
+  "longitude": 106.90108,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:35:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:12:08",
+        "06:09:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Jembatan Dua",
+  "stop_id": "G00443",
+  "latitude": -6.14328,
+  "longitude": 106.793546,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "05:17:20",
+        "05:17:21",
+        "05:17:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9F",
+      "route_short_name": "9F",
+      "route_long_name": "Rusun Tambora - Pluit",
+      "color": "85A4A2",
+      "category": "Rusun",
+      "direction": "Pluit dan Rusun Tambora",
+      "weekdays": [
+        "05:17:24",
+        "06:00:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

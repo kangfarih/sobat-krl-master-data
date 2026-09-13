@@ -1,0 +1,34 @@
+{
+  "stop_name": "Dirjen Anggaran",
+  "stop_id": "B00314P",
+  "latitude": -6.227253,
+  "longitude": 106.89881,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:42:00",
+        "06:27:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:44:24",
+        "06:53:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

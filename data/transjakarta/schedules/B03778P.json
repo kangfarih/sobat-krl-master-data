@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Mangga KDW",
+  "stop_id": "B03778P",
+  "latitude": -6.332148,
+  "longitude": 106.88178,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:25:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

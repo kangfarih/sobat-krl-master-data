@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid At Taqwa Rawa Kuning",
+  "stop_id": "B04045P",
+  "latitude": -6.20319,
+  "longitude": 106.96027,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:33:33",
+        "07:07:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Simpang Meruya Ilir Srengseng",
+  "stop_id": "B05012P",
+  "latitude": -6.196942,
+  "longitude": 106.75667,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "06:03:33",
+        "06:40:18",
+        "07:23:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Akses Bawah Flyover Raya Bogor 3",
+  "stop_id": "B07658P",
+  "latitude": -6.305959,
+  "longitude": 106.86511,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:11:34",
+        "05:11:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

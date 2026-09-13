@@ -1,0 +1,34 @@
+{
+  "stop_name": "Pasar Baru Gedung Kesenian Jakarta",
+  "stop_id": "B02581P",
+  "latitude": -6.166751,
+  "longitude": 106.83524,
+  "routes": [
+    {
+      "route_id": "1P",
+      "route_short_name": "1P",
+      "route_long_name": "Senen - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:57:53",
+        "05:58:35",
+        "06:05:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "11:24:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

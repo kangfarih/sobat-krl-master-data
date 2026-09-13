@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMAN 8",
+  "stop_id": "B04433P",
+  "latitude": -6.218237,
+  "longitude": 106.85982,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:02:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

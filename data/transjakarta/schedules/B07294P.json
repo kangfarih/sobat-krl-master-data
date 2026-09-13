@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kantor RW 3 Cakung Barat",
+  "stop_id": "B07294P",
+  "latitude": -6.18807,
+  "longitude": 106.942525,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:27:37",
+        "06:05:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

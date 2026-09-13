@@ -1,0 +1,22 @@
+{
+  "stop_name": "Kec. Cengkareng 2",
+  "stop_id": "B01866P",
+  "latitude": -6.150125,
+  "longitude": 106.72713,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:29:15",
+        "02:35:49",
+        "05:48:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

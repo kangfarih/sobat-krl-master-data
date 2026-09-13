@@ -1,0 +1,49 @@
+{
+  "stop_name": "Kali Grogol Arah Utara",
+  "stop_id": "G00439",
+  "latitude": -6.160164,
+  "longitude": 106.790684,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:04:11",
+        "06:16:21",
+        "06:44:16",
+        "06:44:35",
+        "08:04:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7R",
+      "route_short_name": "7R",
+      "route_long_name": "Cibubur - Pluit",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "07:18:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9F",
+      "route_short_name": "9F",
+      "route_long_name": "Rusun Tambora - Pluit",
+      "color": "85A4A2",
+      "category": "Rusun",
+      "direction": "Pluit dan Rusun Tambora",
+      "weekdays": [
+        "05:11:33",
+        "05:11:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

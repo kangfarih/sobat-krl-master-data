@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Flamboyan Berdikari",
+  "stop_id": "B01059P",
+  "latitude": -6.120868,
+  "longitude": 106.89439,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:00:10",
+        "05:38:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

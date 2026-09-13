@@ -1,0 +1,36 @@
+{
+  "stop_name": "Rusun Nagrak",
+  "stop_id": "B06311P",
+  "latitude": -6.12462,
+  "longitude": 106.94823,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:18:08",
+        "05:18:19",
+        "05:54:51",
+        "07:23:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "06:18:44",
+        "07:54:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

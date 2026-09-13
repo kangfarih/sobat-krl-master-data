@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Bambu Sukapura",
+  "stop_id": "B06808P",
+  "latitude": -6.1369,
+  "longitude": 106.9217,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:01:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

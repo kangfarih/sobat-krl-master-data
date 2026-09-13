@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gereja Santo Bonaventura",
+  "stop_id": "B00640P",
+  "latitude": -6.17641,
+  "longitude": 106.886672,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:26:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

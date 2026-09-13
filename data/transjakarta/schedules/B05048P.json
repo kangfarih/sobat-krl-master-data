@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Ps. Patra 2",
+  "stop_id": "B05048P",
+  "latitude": -6.182981,
+  "longitude": 106.77982,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "06:06:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stop_name": "Grogol Reformasi",
+  "stop_id": "G00740",
+  "latitude": -6.16747298,
+  "longitude": 106.78850949,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cawang Sentral dan Pluit",
+      "weekdays": [
+        "05:31:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "05:47:39",
+        "05:47:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

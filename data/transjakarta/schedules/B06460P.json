@@ -1,0 +1,20 @@
+{
+  "stop_name": "GBI Tanah Merah",
+  "stop_id": "B06460P",
+  "latitude": -6.139901,
+  "longitude": 106.90929,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:08:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

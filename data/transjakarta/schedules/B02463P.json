@@ -1,0 +1,34 @@
+{
+  "stop_name": "Minimarket Pondok Kopi",
+  "stop_id": "B02463P",
+  "latitude": -6.218369,
+  "longitude": 106.93956,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:13:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:57:44",
+        "07:02:21",
+        "07:09:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

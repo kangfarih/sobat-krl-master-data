@@ -1,0 +1,22 @@
+{
+  "stop_name": "Melati Cut Mutia",
+  "stop_id": "B08206P",
+  "latitude": -6.254313,
+  "longitude": 107.006918,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "07:03:57",
+        "08:35:23",
+        "09:32:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

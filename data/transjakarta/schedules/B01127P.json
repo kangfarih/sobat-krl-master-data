@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Muhajar",
+  "stop_id": "B01127P",
+  "latitude": -6.222549,
+  "longitude": 106.77168,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:54:50",
+        "06:26:35",
+        "07:01:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

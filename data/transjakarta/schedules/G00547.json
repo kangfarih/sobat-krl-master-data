@@ -1,0 +1,32 @@
+{
+  "stop_name": "Pasar Enjo",
+  "stop_id": "G00547",
+  "latitude": -6.214854,
+  "longitude": 106.878174,
+  "routes": [
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "category": "BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:16:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "06:45:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

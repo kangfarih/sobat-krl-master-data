@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Masjid Al Istiqomah Tengah",
+  "stop_id": "B03546P",
+  "latitude": -6.292648,
+  "longitude": 106.86459,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:28:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

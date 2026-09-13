@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kelinci",
+  "stop_id": "B06851P",
+  "latitude": -6.340332,
+  "longitude": 106.804777,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:01:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

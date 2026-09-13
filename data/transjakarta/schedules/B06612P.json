@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Raya Kelapa Hybrida 2",
+  "stop_id": "B06612P",
+  "latitude": -6.14892,
+  "longitude": 106.91569,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:56:07",
+        "05:56:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

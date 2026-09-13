@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Satu Maret",
+  "stop_id": "B08565P",
+  "latitude": -6.13119,
+  "longitude": 106.70353,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:30:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

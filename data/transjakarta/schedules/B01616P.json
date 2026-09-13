@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Swadarma Raya",
+  "stop_id": "B01616P",
+  "latitude": -6.237451,
+  "longitude": 106.76089,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:26:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:43:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

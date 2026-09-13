@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Tanah Tinggi IV",
+  "stop_id": "B06456P",
+  "latitude": -6.178099,
+  "longitude": 106.847887,
+  "routes": [
+    {
+      "route_id": "JAK.23",
+      "route_short_name": "JAK.23",
+      "route_long_name": "Senen - Pisangan Baru",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pisangan Baru dan Senen",
+      "weekdays": [
+        "05:49:14",
+        "06:56:25",
+        "07:06:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

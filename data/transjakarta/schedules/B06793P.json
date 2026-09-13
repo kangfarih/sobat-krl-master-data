@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. Nangka Halim",
+  "stop_id": "B06793P",
+  "latitude": -6.266664,
+  "longitude": 106.881701,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:20:58",
+        "06:13:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:16:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

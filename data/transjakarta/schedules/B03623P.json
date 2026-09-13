@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Institut Teknologi Budi Utomo",
+  "stop_id": "B03623P",
+  "latitude": -6.221694,
+  "longitude": 106.93904,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:54:40",
+        "07:06:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stop_name": "Jln. Madrasah Daan Mogot",
+  "stop_id": "B01332P",
+  "latitude": -6.155691,
+  "longitude": 106.70774,
+  "routes": [
+    {
+      "route_id": "3A",
+      "route_short_name": "3A",
+      "route_long_name": "Rusun Pesakih - Kalideres",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Kalideres dan Rusun Pesakih",
+      "weekdays": [
+        "05:13:16",
+        "05:13:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:02:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:02:10",
+        "05:02:11",
+        "22:02:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

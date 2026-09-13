@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Pos Komodor",
+  "stop_id": "B03553P",
+  "latitude": -6.265372,
+  "longitude": 106.883464,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:18:30",
+        "06:10:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:13:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

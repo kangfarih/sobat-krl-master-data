@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Kunir III",
+  "stop_id": "B07862P",
+  "latitude": -6.133298,
+  "longitude": 106.813623,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:01:44",
+        "05:53:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

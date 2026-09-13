@@ -1,0 +1,20 @@
+{
+  "stop_name": "Laut Banda",
+  "stop_id": "B02126P",
+  "latitude": -6.23357,
+  "longitude": 106.91345,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:49:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

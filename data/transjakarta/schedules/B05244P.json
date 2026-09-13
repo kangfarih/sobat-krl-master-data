@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMA Angkasa 2",
+  "stop_id": "B05244P",
+  "latitude": -6.276218,
+  "longitude": 106.88766,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:36:21",
+        "06:28:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stop_name": "Tokyo Riverside Selatan",
+  "stop_id": "B08135P",
+  "latitude": -6.041968,
+  "longitude": 106.693331,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "07:45:31",
+        "10:24:54"
+      ],
+      "weekends": [
+        "10:24:54"
+      ]
+    }
+  ]
+}

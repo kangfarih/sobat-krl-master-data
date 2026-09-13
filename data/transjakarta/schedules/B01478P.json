@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Perkutut Bukit Duri",
+  "stop_id": "B01478P",
+  "latitude": -6.220981,
+  "longitude": 106.85438,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:49:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:09:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

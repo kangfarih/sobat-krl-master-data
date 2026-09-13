@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sekolah Tunas Cemerlang",
+  "stop_id": "B04662P",
+  "latitude": -6.238978,
+  "longitude": 106.90499,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:42:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:29:26",
+        "05:32:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

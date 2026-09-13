@@ -1,0 +1,21 @@
+{
+  "stop_name": "Metro Pondok Indah",
+  "stop_id": "B02435P",
+  "latitude": -6.265966,
+  "longitude": 106.78347,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:59:18",
+        "05:59:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Tebet Timur Raya",
+  "stop_id": "B05191P",
+  "latitude": -6.230297,
+  "longitude": 106.8525,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:00:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

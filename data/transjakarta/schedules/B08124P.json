@@ -1,0 +1,22 @@
+{
+  "stop_name": "Mega Kuningan PIK 2",
+  "stop_id": "B08124P",
+  "latitude": -6.046159,
+  "longitude": 106.695515,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:03:37"
+      ],
+      "weekends": [
+        "05:03:37"
+      ]
+    }
+  ]
+}

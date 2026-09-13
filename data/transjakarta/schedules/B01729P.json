@@ -1,0 +1,53 @@
+{
+  "stop_name": "Jatibening 2",
+  "stop_id": "B01729P",
+  "latitude": -6.257093,
+  "longitude": 106.94168,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "05:40:13",
+        "06:52:14",
+        "06:52:25",
+        "07:12:44"
+      ],
+      "weekends": [
+        "06:52:14",
+        "06:52:25"
+      ]
+    },
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "05:40:12",
+        "07:13:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sentral via Jatiasih dan Vida Bekasi",
+      "weekdays": [
+        "05:44:12",
+        "06:57:05",
+        "07:25:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

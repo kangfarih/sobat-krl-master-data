@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. I Jln. Cipeucang V",
+  "stop_id": "B06625P",
+  "latitude": -6.11442,
+  "longitude": 106.90155,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:01:27",
+        "06:01:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

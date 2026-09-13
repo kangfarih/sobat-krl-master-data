@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. H. Syarip Sawah Mede",
+  "stop_id": "B00482P",
+  "latitude": -6.099468,
+  "longitude": 106.70596,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:18:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

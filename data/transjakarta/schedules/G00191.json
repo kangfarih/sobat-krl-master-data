@@ -1,0 +1,37 @@
+{
+  "stop_name": "Pramuka Sari",
+  "stop_id": "G00191",
+  "latitude": -6.192155,
+  "longitude": 106.868584,
+  "routes": [
+    {
+      "route_id": "4",
+      "route_short_name": "4",
+      "route_long_name": "Pulo Gadung - Galunggung",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Flyover Pramuka dan Pulo Gadung",
+      "weekdays": [
+        "05:29:35",
+        "05:32:21",
+        "05:39:53",
+        "05:44:12"
+      ],
+      "weekends": [
+        "05:29:35"
+      ]
+    },
+    {
+      "route_id": "4D",
+      "route_short_name": "4D",
+      "route_long_name": "Pulo Gadung - Kuningan",
+      "color": "512C62",
+      "category": "BRT",
+      "direction": "Kuningan dan Pulo Gadung",
+      "weekdays": [
+        "07:26:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

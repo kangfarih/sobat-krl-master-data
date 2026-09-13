@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Puskesmas Cilandak Timur 1",
+  "stop_id": "B06023P",
+  "latitude": -6.279059,
+  "longitude": 106.814733,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "06:56:15",
+        "06:57:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

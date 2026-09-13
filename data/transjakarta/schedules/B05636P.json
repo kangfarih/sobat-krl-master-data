@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Panglima Polim XVI",
+  "stop_id": "B05636P",
+  "latitude": -6.252189,
+  "longitude": 106.799121,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:11:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

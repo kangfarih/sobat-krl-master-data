@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Banjir Kanal Timur",
+  "stop_id": "B07678P",
+  "latitude": -6.212364,
+  "longitude": 106.955977,
+  "routes": [
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "07:33:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

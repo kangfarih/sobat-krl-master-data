@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN Pulo Gebang 03",
+  "stop_id": "B07290P",
+  "latitude": -6.199009,
+  "longitude": 106.942723,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:15:58",
+        "05:54:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

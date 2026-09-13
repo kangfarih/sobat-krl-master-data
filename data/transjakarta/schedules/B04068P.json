@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid Jami Hasbi",
+  "stop_id": "B04068P",
+  "latitude": -6.273084,
+  "longitude": 106.88039,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:30:17",
+        "06:22:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

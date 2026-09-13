@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gading Orchard",
+  "stop_id": "B05942P",
+  "latitude": -6.14963,
+  "longitude": 106.92147,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:07:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

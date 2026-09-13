@@ -1,0 +1,23 @@
+{
+  "stop_name": "Puskesmas Kb. Jeruk",
+  "stop_id": "B03049P",
+  "latitude": -6.198765,
+  "longitude": 106.76534,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:57:28",
+        "06:34:10",
+        "07:17:53",
+        "07:57:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

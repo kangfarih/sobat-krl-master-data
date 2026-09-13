@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Kampung Baru V Swadarma",
+  "stop_id": "B01198P",
+  "latitude": -6.224839,
+  "longitude": 106.76071,
+  "routes": [
+    {
+      "route_id": "1M",
+      "route_short_name": "1M",
+      "route_long_name": "Meruya - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:35:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

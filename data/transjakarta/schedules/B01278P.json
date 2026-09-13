@@ -1,0 +1,69 @@
+{
+  "stop_name": "Jln. Kesadaran Pool Bus 2",
+  "stop_id": "B01278P",
+  "latitude": -6.182447,
+  "longitude": 106.91465,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:04:05"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:33:50",
+        "06:30:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:50:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "07:42:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:04:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

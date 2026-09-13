@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Gading Putih Raya",
+  "stop_id": "B03698P",
+  "latitude": -6.175263,
+  "longitude": 106.90064,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:24:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

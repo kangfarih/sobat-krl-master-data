@@ -1,0 +1,57 @@
+{
+  "stop_name": "Pasar Baru Timur",
+  "stop_id": "G00234",
+  "latitude": -6.162262,
+  "longitude": 106.838163,
+  "routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_long_name": "Kampung Melayu - Ancol",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "05:19:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "10H",
+      "route_short_name": "10H",
+      "route_long_name": "Tanjung Priok - Bundaran Senayan",
+      "color": "9B1F21",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Tanjung Priok",
+      "weekdays": [
+        "05:47:26",
+        "05:47:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Senen",
+      "weekdays": [
+        "05:56:22"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "14A",
+      "route_short_name": "14A",
+      "route_long_name": "Monumen Nasional - Jakarta International Stadium",
+      "color": "F5AB6E",
+      "category": "Non-BRT",
+      "direction": "Juanda dan Jakarta International Stadium",
+      "weekdays": [
+        "05:32:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

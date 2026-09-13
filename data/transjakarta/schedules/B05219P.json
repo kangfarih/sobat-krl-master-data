@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Warung Sila Rindang",
+  "stop_id": "B05219P",
+  "latitude": -6.345472,
+  "longitude": 106.81167,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:11:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "05:15:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

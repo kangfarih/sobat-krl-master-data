@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jembatan Serong",
+  "stop_id": "B01766P",
+  "latitude": -6.182204,
+  "longitude": 106.81814,
+  "routes": [
+    {
+      "route_id": "9D",
+      "route_short_name": "9D",
+      "route_long_name": "Pasar Minggu - Tanah Abang",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:04:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

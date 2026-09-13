@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Manggis VIII Manggarai Selatan",
+  "stop_id": "B00509P",
+  "latitude": -6.220354,
+  "longitude": 106.84767,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:43:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

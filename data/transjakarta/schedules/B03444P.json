@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Al Khairiyah School",
+  "stop_id": "B03444P",
+  "latitude": -6.236532,
+  "longitude": 106.91761,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:31:24",
+        "06:35:54",
+        "06:42:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

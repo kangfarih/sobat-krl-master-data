@@ -1,0 +1,23 @@
+{
+  "stop_name": "Sbr. Ps. Kembang",
+  "stop_id": "B04154P",
+  "latitude": -6.206049,
+  "longitude": 106.78317,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:53:16",
+        "05:53:18",
+        "05:53:20",
+        "08:16:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

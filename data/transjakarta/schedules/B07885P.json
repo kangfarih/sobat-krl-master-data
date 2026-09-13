@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Kembangan",
+  "stop_id": "B07885P",
+  "latitude": -6.181852,
+  "longitude": 106.741796,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:26:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

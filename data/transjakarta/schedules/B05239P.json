@@ -1,0 +1,21 @@
+{
+  "stop_name": "Slbn 7 Jakarta",
+  "stop_id": "B05239P",
+  "latitude": -6.233213,
+  "longitude": 106.88266,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:29:40",
+        "06:27:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

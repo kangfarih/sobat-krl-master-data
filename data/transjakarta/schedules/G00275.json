@@ -1,0 +1,21 @@
+{
+  "stop_name": "Underpass Kuningan",
+  "stop_id": "G00275",
+  "latitude": -6.234712,
+  "longitude": 106.829043,
+  "routes": [
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_long_name": "Ragunan - Galunggung",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Ragunan",
+      "weekdays": [
+        "05:41:44",
+        "05:41:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

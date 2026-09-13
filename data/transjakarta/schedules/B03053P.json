@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puskesmas Kel. Kamal II",
+  "stop_id": "B03053P",
+  "latitude": -6.100938,
+  "longitude": 106.69786,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:25:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

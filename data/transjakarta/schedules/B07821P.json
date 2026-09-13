@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Seni Abadi 2",
+  "stop_id": "B07821P",
+  "latitude": -6.149889,
+  "longitude": 106.784877,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:48:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

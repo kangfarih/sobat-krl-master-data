@@ -1,0 +1,20 @@
+{
+  "stop_name": "Musholla Nurul Islam Tipar Cakung",
+  "stop_id": "B07557P",
+  "latitude": -6.173191,
+  "longitude": 106.936107,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "06:16:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "stop_name": "Pintu Kawasan 1",
+  "stop_id": "B02847P",
+  "latitude": -6.189631,
+  "longitude": 106.90646,
+  "routes": [
+    {
+      "route_id": "4C",
+      "route_short_name": "4C",
+      "route_long_name": "JIEP - Bundaran Senayan",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Bundaran Senayan dan JIEP",
+      "weekdays": [
+        "05:14:08"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:27:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:04:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4K",
+      "route_short_name": "4K",
+      "route_long_name": "Pulo Gadung - Kejaksaan Agung",
+      "color": "512C62",
+      "category": "Non-BRT",
+      "direction": "Kejaksaan Agung dan Pulo Gadung",
+      "weekdays": [
+        "05:04:47",
+        "05:04:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:07:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

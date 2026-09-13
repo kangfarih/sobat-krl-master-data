@@ -1,0 +1,32 @@
+{
+  "stop_name": "Masjid Al Ichrom",
+  "stop_id": "B02245P",
+  "latitude": -6.117469,
+  "longitude": 106.71019,
+  "routes": [
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "06:04:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:50:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

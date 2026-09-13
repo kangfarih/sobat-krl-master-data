@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Jln. Kamboja Halim",
+  "stop_id": "B06794P",
+  "latitude": -6.265656,
+  "longitude": 106.879334,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:22:52",
+        "06:15:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:18:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

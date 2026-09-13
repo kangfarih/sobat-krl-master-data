@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pondok Pinang IV",
+  "stop_id": "B01513P",
+  "latitude": -6.26655,
+  "longitude": 106.775,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:51:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:08:59",
+        "07:28:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

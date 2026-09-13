@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Rawamangun Selatan 2",
+  "stop_id": "B06558P",
+  "latitude": -6.201932,
+  "longitude": 106.8799,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:32:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:46:37",
+        "06:49:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

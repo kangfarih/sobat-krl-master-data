@@ -1,0 +1,58 @@
+{
+  "stop_name": "Jln. B Lagoa Terusan 2",
+  "stop_id": "B06164P",
+  "latitude": -6.108628,
+  "longitude": 106.91505,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "05:38:23",
+        "05:38:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "05:38:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:34:30",
+        "06:04:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:23:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

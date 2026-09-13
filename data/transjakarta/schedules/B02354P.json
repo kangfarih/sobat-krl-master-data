@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Jami Nurul Iman Palmerah",
+  "stop_id": "B02354P",
+  "latitude": -6.204227,
+  "longitude": 106.7875,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:24:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

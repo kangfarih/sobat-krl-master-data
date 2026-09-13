@@ -1,0 +1,49 @@
+{
+  "stop_name": "Pancoran Arah Barat",
+  "stop_id": "G00738",
+  "latitude": -6.241691,
+  "longitude": 106.83737592,
+  "routes": [
+    {
+      "route_id": "9",
+      "route_short_name": "9",
+      "route_long_name": "Pinang Ranti - Pluit",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Simpang Kuningan dan Pinang Ranti",
+      "weekdays": [
+        "05:22:18",
+        "05:50:31",
+        "05:50:32",
+        "05:50:33",
+        "07:10:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "05:29:47",
+        "05:29:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9C",
+      "route_short_name": "9C",
+      "route_long_name": "Pinang Ranti - Bundaran Senayan",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Bundaran Senayan dan Pinang Ranti",
+      "weekdays": [
+        "05:50:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

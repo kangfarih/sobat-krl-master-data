@@ -1,0 +1,20 @@
+{
+  "stop_name": "Danau Agung 13",
+  "stop_id": "B06895P",
+  "latitude": -6.144993,
+  "longitude": 106.863245,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:42:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

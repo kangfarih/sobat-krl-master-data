@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln.Tebet Barat V",
+  "stop_id": "B06277P",
+  "latitude": -6.233979,
+  "longitude": 106.847438,
+  "routes": [
+    {
+      "route_id": "JAK.43C",
+      "route_short_name": "JAK.43C",
+      "route_long_name": "Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "St. Cawang dan Sarana Jaya via TEP",
+      "weekdays": [
+        "05:00:10",
+        "05:22:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

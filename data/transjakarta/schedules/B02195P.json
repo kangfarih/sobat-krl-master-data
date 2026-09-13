@@ -1,0 +1,22 @@
+{
+  "stop_name": "Mall Taman Palem 3",
+  "stop_id": "B02195P",
+  "latitude": -6.140548,
+  "longitude": 106.73011,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:21:24",
+        "05:21:56",
+        "05:21:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Cipinang BKT",
+  "stop_id": "B00262P",
+  "latitude": -6.229448,
+  "longitude": 106.89288,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:31:28",
+        "06:43:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

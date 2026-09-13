@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kantor Kecamatan Cipinang Cempedak",
+  "stop_id": "B07271P",
+  "latitude": -6.230357,
+  "longitude": 106.875937,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:11:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

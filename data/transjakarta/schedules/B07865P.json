@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Pintu Utara Green Garden",
+  "stop_id": "B07865P",
+  "latitude": -6.161375,
+  "longitude": 106.763176,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:03:15"
+      ],
+      "weekends": []
+    }
+  ]
+}

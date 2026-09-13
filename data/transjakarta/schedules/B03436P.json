@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Adem Ayem",
+  "stop_id": "B03436P",
+  "latitude": -6.173945,
+  "longitude": 106.96356,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:31:56",
+        "06:41:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

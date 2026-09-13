@@ -1,0 +1,43 @@
+{
+  "stop_name": "Jelambar",
+  "stop_id": "G00135",
+  "latitude": -6.166561,
+  "longitude": 106.786443,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:06:28",
+        "05:31:11",
+        "05:34:22",
+        "05:34:23",
+        "06:59:19",
+        "07:11:59",
+        "09:34:22"
+      ],
+      "weekends": [
+        "05:06:28",
+        "05:31:11"
+      ]
+    },
+    {
+      "route_id": "8A",
+      "route_short_name": "8A",
+      "route_long_name": "Jelambar - Juanda",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Jelambar dan Pasar Baru",
+      "weekdays": [
+        "05:34:25"
+      ],
+      "weekends": [
+        "05:34:25"
+      ]
+    }
+  ]
+}

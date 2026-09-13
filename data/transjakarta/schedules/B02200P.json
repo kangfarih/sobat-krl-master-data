@@ -1,0 +1,21 @@
+{
+  "stop_name": "MAN 11",
+  "stop_id": "B02200P",
+  "latitude": -6.302587,
+  "longitude": 106.78808,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:52:23",
+        "05:52:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

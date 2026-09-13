@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Komplek Pertambangan Kelapa Dua",
+  "stop_id": "B03978P",
+  "latitude": -6.216617,
+  "longitude": 106.77072,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "05:42:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:49:03",
+        "06:20:46",
+        "06:55:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

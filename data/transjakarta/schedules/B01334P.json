@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Madrasah I Bojong Raya",
+  "stop_id": "B01334P",
+  "latitude": -6.168523,
+  "longitude": 106.7341,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:18:09",
+        "05:18:18",
+        "07:09:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

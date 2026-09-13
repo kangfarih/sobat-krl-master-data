@@ -1,0 +1,21 @@
+{
+  "stop_name": "Piranti Baja",
+  "stop_id": "B02855P",
+  "latitude": -6.118797,
+  "longitude": 106.92869,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:59:00",
+        "05:59:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

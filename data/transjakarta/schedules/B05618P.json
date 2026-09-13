@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Malaka Selatan 2",
+  "stop_id": "B05618P",
+  "latitude": -6.232454,
+  "longitude": 106.93131,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "06:04:40",
+        "07:13:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

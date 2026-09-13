@@ -1,0 +1,22 @@
+{
+  "stop_name": "Ekowisata Mangrove",
+  "stop_id": "B00333P",
+  "latitude": -6.121673,
+  "longitude": 106.75482,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:30:44",
+        "01:43:05",
+        "05:17:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

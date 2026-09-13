@@ -1,0 +1,25 @@
+{
+  "stop_name": "Akses Bawah Flyover Slipi",
+  "stop_id": "B07587P",
+  "latitude": -6.201044,
+  "longitude": 106.799406,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:00:10",
+        "06:53:12",
+        "06:53:14",
+        "07:36:51",
+        "07:37:04",
+        "08:54:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

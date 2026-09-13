@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Ayam Kalasan Pisangan Lama",
+  "stop_id": "B03449P",
+  "latitude": -6.210406,
+  "longitude": 106.87873,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kp. Melayu",
+      "weekdays": [
+        "05:33:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "SPBU Industri Kemayoran",
+  "stop_id": "B05407P",
+  "latitude": -6.14864,
+  "longitude": 106.83832,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:44:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:09:48",
+        "06:10:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

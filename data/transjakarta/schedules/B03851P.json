@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. SMPN 147",
+  "stop_id": "B03851P",
+  "latitude": -6.362268,
+  "longitude": 106.888,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:48:08",
+        "06:33:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

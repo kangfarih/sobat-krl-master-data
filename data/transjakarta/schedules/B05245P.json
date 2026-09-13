@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMA Budi Utomo",
+  "stop_id": "B05245P",
+  "latitude": -6.167046,
+  "longitude": 106.838,
+  "routes": [
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:22:16",
+        "05:22:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

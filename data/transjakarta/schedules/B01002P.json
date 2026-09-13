@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Cilincing Bakti",
+  "stop_id": "B01002P",
+  "latitude": -6.106467,
+  "longitude": 106.93353,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:48:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

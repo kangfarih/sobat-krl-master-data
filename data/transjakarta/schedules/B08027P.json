@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kapuk Pulo Peternakan",
+  "stop_id": "B08027P",
+  "latitude": -6.138839,
+  "longitude": 106.755349,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:27:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

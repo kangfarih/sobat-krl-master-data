@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Abdullah",
+  "stop_id": "B01093P",
+  "latitude": -6.221319,
+  "longitude": 106.77179,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:54:02",
+        "06:25:48",
+        "07:00:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Griya Kukila Halim Perdanakusuma",
+  "stop_id": "B00713P",
+  "latitude": -6.28456,
+  "longitude": 106.90678,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:14:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:12:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

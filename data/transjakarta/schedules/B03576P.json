@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Garuda Indonesia Training Center",
+  "stop_id": "B03576P",
+  "latitude": -6.175248,
+  "longitude": 106.72176,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:33:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

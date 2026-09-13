@@ -1,0 +1,45 @@
+{
+  "stop_name": "Summarecon Bekasi",
+  "stop_id": "G00678",
+  "latitude": -6.225566,
+  "longitude": 107.00281,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Blok M",
+      "weekdays": [
+        "06:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "06:00:10",
+        "18:36:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

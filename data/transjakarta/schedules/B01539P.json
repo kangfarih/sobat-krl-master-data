@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Rawa Segaran",
+  "stop_id": "B01539P",
+  "latitude": -6.306765,
+  "longitude": 106.8919,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "07:08:39"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:57:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

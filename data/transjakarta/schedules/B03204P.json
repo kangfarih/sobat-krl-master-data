@@ -1,0 +1,20 @@
+{
+  "stop_name": "RSU Pekerja Sukapura",
+  "stop_id": "B03204P",
+  "latitude": -6.145072,
+  "longitude": 106.92271,
+  "routes": [
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "06:06:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

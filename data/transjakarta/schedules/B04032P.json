@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Murtamiyyah Marunda",
+  "stop_id": "B04032P",
+  "latitude": -6.107181,
+  "longitude": 106.961388,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "06:07:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

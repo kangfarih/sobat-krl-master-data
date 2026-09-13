@@ -1,0 +1,28 @@
+{
+  "stop_name": "Tanah Kusir",
+  "stop_id": "G00369",
+  "latitude": -6.256997,
+  "longitude": 106.781676,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "05:28:15",
+        "05:28:23",
+        "05:28:24",
+        "05:28:25",
+        "06:59:40",
+        "14:28:16"
+      ],
+      "weekends": [
+        "05:28:24",
+        "05:28:25"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Lodan Center P2",
+  "stop_id": "B07053P",
+  "latitude": -6.128148,
+  "longitude": 106.815011,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:15:43",
+        "06:07:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

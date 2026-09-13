@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Pesanggrahan",
+  "stop_id": "B01481P",
+  "latitude": -6.308339,
+  "longitude": 106.75598,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:22:33"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S22",
+      "route_short_name": "S22",
+      "route_long_name": "Ciputat - Kampung Rambutan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Rambutan dan Ciputat",
+      "weekdays": [
+        "05:22:33",
+        "05:22:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

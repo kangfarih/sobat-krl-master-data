@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kec. Johar Baru",
+  "stop_id": "B03900P",
+  "latitude": -6.182256,
+  "longitude": 106.8561,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:32:16",
+        "06:59:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

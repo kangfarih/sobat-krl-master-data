@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN Rawamangun 05",
+  "stop_id": "B04367P",
+  "latitude": -6.188748,
+  "longitude": 106.88039,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:54:00",
+        "07:21:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

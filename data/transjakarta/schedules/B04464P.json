@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMPN 128",
+  "stop_id": "B04464P",
+  "latitude": -6.279045,
+  "longitude": 106.88927,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:15:19",
+        "05:15:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

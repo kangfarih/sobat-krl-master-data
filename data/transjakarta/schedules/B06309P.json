@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kantor RW 06 Sunter Jaya",
+  "stop_id": "B06309P",
+  "latitude": -6.151832,
+  "longitude": 106.871689,
+  "routes": [
+    {
+      "route_id": "JAK.76",
+      "route_short_name": "JAK.76",
+      "route_long_name": "Jln. Industri Raya - Perintis Kemerdekaan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jln. Industri Raya dan ASMI",
+      "weekdays": [
+        "05:31:37",
+        "05:31:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RS Ciputra",
+  "stop_id": "B04277P",
+  "latitude": -6.123741,
+  "longitude": 106.70514,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:50:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

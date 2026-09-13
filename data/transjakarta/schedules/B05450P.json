@@ -1,0 +1,33 @@
+{
+  "stop_name": "St. Jayakarta 2",
+  "stop_id": "B05450P",
+  "latitude": -6.140453,
+  "longitude": 106.82291,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:40:30",
+        "05:40:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "06:00:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

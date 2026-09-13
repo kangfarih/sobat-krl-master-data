@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bumi Pratama III",
+  "stop_id": "B00955P",
+  "latitude": -6.296434,
+  "longitude": 106.87835,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:19:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

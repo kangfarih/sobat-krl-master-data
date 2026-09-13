@@ -1,0 +1,32 @@
+{
+  "stop_name": "Simpang Serdang Swadaya Raya 2",
+  "stop_id": "B05148P",
+  "latitude": -6.227633,
+  "longitude": 106.91484,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:26:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:40:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Lorong 104 Timur 2",
+  "stop_id": "B06176P",
+  "latitude": -6.11414,
+  "longitude": 106.89504,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:05:11",
+        "06:05:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Tanah Tinggi Timur",
+  "stop_id": "B05170P",
+  "latitude": -6.174437,
+  "longitude": 106.85231,
+  "routes": [
+    {
+      "route_id": "2H",
+      "route_short_name": "2H",
+      "route_long_name": "Rusun Jati Rawasari - Senen",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Senen dan Rusun Jati Rawasari",
+      "weekdays": [
+        "05:29:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:08:11",
+        "07:51:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

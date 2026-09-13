@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pulo Mas Residence",
+  "stop_id": "B03005P",
+  "latitude": -6.175379,
+  "longitude": 106.88744,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:45:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

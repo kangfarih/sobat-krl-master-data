@@ -1,0 +1,24 @@
+{
+  "stop_name": "Bintaro",
+  "stop_id": "B00144P",
+  "latitude": -6.271245,
+  "longitude": 106.75133,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "06:16:34",
+        "06:17:36"
+      ],
+      "weekends": [
+        "06:17:36"
+      ]
+    }
+  ]
+}

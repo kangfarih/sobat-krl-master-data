@@ -1,0 +1,56 @@
+{
+  "stop_name": "BNI Syariah",
+  "stop_id": "B00163P",
+  "latitude": -6.227256,
+  "longitude": 106.83291,
+  "routes": [
+    {
+      "route_id": "6K",
+      "route_short_name": "6K",
+      "route_long_name": "Kuningan - Karet",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Karet",
+      "weekdays": [
+        "05:38:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:42:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:16:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Kuningan",
+      "weekdays": [
+        "07:17:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

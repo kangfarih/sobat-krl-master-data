@@ -1,0 +1,21 @@
+{
+  "stop_name": "RS Grand Family",
+  "stop_id": "B03138P",
+  "latitude": -6.123468,
+  "longitude": 106.73897,
+  "routes": [
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:43:13",
+        "05:38:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kelapa Gading Square",
+  "stop_id": "B01900P",
+  "latitude": -6.149744,
+  "longitude": 106.88993,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:51:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

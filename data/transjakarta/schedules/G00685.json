@@ -1,0 +1,22 @@
+{
+  "stop_name": "Term. Pulo Gebang",
+  "stop_id": "G00685",
+  "latitude": -6.212614,
+  "longitude": 106.953161,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:00:10",
+        "06:36:21",
+        "06:37:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

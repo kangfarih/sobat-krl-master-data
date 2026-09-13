@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Nururrohman Pondok Kopi",
+  "stop_id": "B02372P",
+  "latitude": -6.218564,
+  "longitude": 106.94447,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:08:02",
+        "06:09:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:05:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

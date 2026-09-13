@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pusdiklat Bps Jagakarsa",
+  "stop_id": "B03031P",
+  "latitude": -6.331167,
+  "longitude": 106.83154,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:12:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

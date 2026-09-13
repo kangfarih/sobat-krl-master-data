@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Pekayon 11",
+  "stop_id": "B07649P",
+  "latitude": -6.346624,
+  "longitude": 106.861595,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:08:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Rawa Kompeni Raya Prancis",
+  "stop_id": "B05106P",
+  "latitude": -6.109565,
+  "longitude": 106.68406,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:00:10",
+        "06:36:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

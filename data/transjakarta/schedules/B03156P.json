@@ -1,0 +1,48 @@
+{
+  "stop_name": "RS Mitra Keluarga 2",
+  "stop_id": "B03156P",
+  "latitude": -6.24088,
+  "longitude": 106.99285,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "06:11:37",
+        "07:23:49",
+        "07:44:07"
+      ],
+      "weekends": [
+        "07:23:49"
+      ]
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:28:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:21:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

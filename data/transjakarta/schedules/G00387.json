@@ -1,0 +1,29 @@
+{
+  "stop_name": "Kelapa Dua Sasak",
+  "stop_id": "G00387",
+  "latitude": -6.20556,
+  "longitude": 106.769487,
+  "routes": [
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Tanjung Duren dan Lebak Bulus",
+      "weekdays": [
+        "06:02:11",
+        "06:02:20",
+        "06:02:21",
+        "06:02:24",
+        "07:02:33",
+        "07:33:38",
+        "15:02:12"
+      ],
+      "weekends": [
+        "06:02:20",
+        "06:02:24"
+      ]
+    }
+  ]
+}

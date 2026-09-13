@@ -1,0 +1,22 @@
+{
+  "stop_name": "Yayasan Al Mahbubiyah",
+  "stop_id": "B07388P",
+  "latitude": -6.28942,
+  "longitude": 106.812629,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:00:57"
+      ],
+      "weekends": [
+        "05:00:57"
+      ]
+    }
+  ]
+}

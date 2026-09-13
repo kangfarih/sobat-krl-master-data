@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Alhidayah",
+  "stop_id": "B08378P",
+  "latitude": -6.15353,
+  "longitude": 106.80169,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "06:01:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Komplek Polri Kalideres",
+  "stop_id": "B06496P",
+  "latitude": -6.156683,
+  "longitude": 106.704971,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:15:52",
+        "08:10:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Baiturrahmah Marunda",
+  "stop_id": "B02341P",
+  "latitude": -6.127633,
+  "longitude": 106.95715,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:01:23",
+        "07:30:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

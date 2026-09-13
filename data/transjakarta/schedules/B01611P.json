@@ -1,0 +1,44 @@
+{
+  "stop_name": "Jln. Sunter Jaya V",
+  "stop_id": "B01611P",
+  "latitude": -6.159128,
+  "longitude": 106.87008,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "05:37:03"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:46:04"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:05:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jembatan Pejambon",
+  "stop_id": "B02708P",
+  "latitude": -6.175454,
+  "longitude": 106.83269,
+  "routes": [
+    {
+      "route_id": "5M",
+      "route_short_name": "5M",
+      "route_long_name": "Kampung Melayu - Tanah Abang via Cikini",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Tugu Tani via Pejambon dan Kampung Melayu",
+      "weekdays": [
+        "05:48:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6H",
+      "route_short_name": "6H",
+      "route_long_name": "Senen - Lebak Bulus",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Senen",
+      "weekdays": [
+        "05:28:58",
+        "05:28:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

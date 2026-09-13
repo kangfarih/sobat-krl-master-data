@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. H. Aseni Raya",
+  "stop_id": "B01098P",
+  "latitude": -6.171954,
+  "longitude": 106.70693,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:50:57",
+        "06:04:44",
+        "07:58:56"
+      ],
+      "weekends": []
+    }
+  ]
+}

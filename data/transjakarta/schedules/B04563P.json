@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. TPU Budi Darma",
+  "stop_id": "B04563P",
+  "latitude": -6.119884,
+  "longitude": 106.92917,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:13:55",
+        "06:42:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

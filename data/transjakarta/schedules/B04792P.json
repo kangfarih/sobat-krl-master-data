@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang DDN Pondok Labu",
+  "stop_id": "B04792P",
+  "latitude": -6.312668,
+  "longitude": 106.79687,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:30:44",
+        "06:13:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "06:08:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

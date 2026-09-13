@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Mumin",
+  "stop_id": "B02255P",
+  "latitude": -6.175528,
+  "longitude": 106.90865,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:22:12",
+        "05:22:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

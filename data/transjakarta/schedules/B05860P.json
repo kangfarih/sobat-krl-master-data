@@ -1,0 +1,20 @@
+{
+  "stop_name": "Villa Delima",
+  "stop_id": "B05860P",
+  "latitude": -6.308803,
+  "longitude": 106.78105,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:23:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

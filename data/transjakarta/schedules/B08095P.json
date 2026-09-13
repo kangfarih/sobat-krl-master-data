@@ -1,0 +1,21 @@
+{
+  "stop_name": "TPU Semper",
+  "stop_id": "B08095P",
+  "latitude": -6.11936,
+  "longitude": 106.940539,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:09:33",
+        "05:39:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

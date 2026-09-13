@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. H. Baserin 2",
+  "stop_id": "B04857P",
+  "latitude": -6.244287,
+  "longitude": 106.76328,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:30:31",
+        "06:49:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

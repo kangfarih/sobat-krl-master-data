@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Jln. Bunga Rampai Raya",
+  "stop_id": "B08336P",
+  "latitude": -6.22454,
+  "longitude": 106.93248,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:10:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

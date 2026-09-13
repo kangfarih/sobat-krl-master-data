@@ -1,0 +1,21 @@
+{
+  "stop_name": "Taman Bayu",
+  "stop_id": "B05578P",
+  "latitude": -6.2241,
+  "longitude": 106.91027,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:33:17",
+        "06:45:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

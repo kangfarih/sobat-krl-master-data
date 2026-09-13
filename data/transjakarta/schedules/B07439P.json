@@ -1,0 +1,26 @@
+{
+  "stop_name": "Bundaran Jln. Kemang Selatan 1",
+  "stop_id": "B07439P",
+  "latitude": -6.272955,
+  "longitude": 106.813396,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:50:33",
+        "05:56:07",
+        "07:11:38",
+        "07:17:15"
+      ],
+      "weekends": [
+        "05:50:33",
+        "07:11:38"
+      ]
+    }
+  ]
+}

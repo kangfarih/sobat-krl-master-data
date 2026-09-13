@@ -1,0 +1,35 @@
+{
+  "stop_name": "Sentraland Cengkareng",
+  "stop_id": "B04682P",
+  "latitude": -6.139078,
+  "longitude": 106.739378,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:00:10",
+        "06:12:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "01:11:31",
+        "02:18:05",
+        "05:39:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

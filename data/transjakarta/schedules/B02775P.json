@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan H. Sadjim 3",
+  "stop_id": "B02775P",
+  "latitude": -6.305788,
+  "longitude": 106.91087,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:36:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

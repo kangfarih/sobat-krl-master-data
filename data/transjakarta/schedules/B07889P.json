@@ -1,0 +1,22 @@
+{
+  "stop_name": "Gg. Kopaja",
+  "stop_id": "B07889P",
+  "latitude": -6.161222,
+  "longitude": 106.734352,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:29:50",
+        "05:59:52",
+        "07:19:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

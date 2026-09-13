@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Al-Mukarromah",
+  "stop_id": "B07059P",
+  "latitude": -6.131707,
+  "longitude": 106.820563,
+  "routes": [
+    {
+      "route_id": "JAK.89",
+      "route_short_name": "JAK.89",
+      "route_long_name": "Terminal Tanjung Priok - Taman Kota Intan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota Intan dan Terminal Tanjung Priok",
+      "weekdays": [
+        "05:19:52",
+        "06:11:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

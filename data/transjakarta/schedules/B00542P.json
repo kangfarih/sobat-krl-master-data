@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Robaya",
+  "stop_id": "B00542P",
+  "latitude": -6.333288,
+  "longitude": 106.82819,
+  "routes": [
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:41:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

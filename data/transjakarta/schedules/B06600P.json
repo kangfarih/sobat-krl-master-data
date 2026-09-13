@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Pegangsaan Dua 5",
+  "stop_id": "B06600P",
+  "latitude": -6.16952,
+  "longitude": 106.91776,
+  "routes": [
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "06:03:15",
+        "07:22:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

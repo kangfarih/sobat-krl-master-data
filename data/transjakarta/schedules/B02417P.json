@@ -1,0 +1,21 @@
+{
+  "stop_name": "Menara Pejompongan",
+  "stop_id": "B02417P",
+  "latitude": -6.203753,
+  "longitude": 106.80224,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:13:32",
+        "06:13:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

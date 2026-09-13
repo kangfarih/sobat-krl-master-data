@@ -1,0 +1,21 @@
+{
+  "stop_name": "Puri Ardhya Garini",
+  "stop_id": "B03010P",
+  "latitude": -6.25703,
+  "longitude": 106.88392,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:42:25",
+        "05:42:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

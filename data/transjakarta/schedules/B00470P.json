@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. H. Kamil",
+  "stop_id": "B00470P",
+  "latitude": -6.185002,
+  "longitude": 106.95902,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:38:47",
+        "06:48:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

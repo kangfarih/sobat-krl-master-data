@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Warung Jati Barat V",
+  "stop_id": "B06367P",
+  "latitude": -6.269297,
+  "longitude": 106.83107,
+  "routes": [
+    {
+      "route_id": "6U",
+      "route_short_name": "6U",
+      "route_long_name": "Blok M - Pasar Minggu",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu",
+      "weekdays": [
+        "05:45:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

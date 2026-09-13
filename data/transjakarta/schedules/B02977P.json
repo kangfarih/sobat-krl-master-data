@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pospol PIK Penggilingan",
+  "stop_id": "B02977P",
+  "latitude": -6.203442,
+  "longitude": 106.93258,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:50:14",
+        "05:52:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

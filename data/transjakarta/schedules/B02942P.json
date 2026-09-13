@@ -1,0 +1,84 @@
+{
+  "stop_name": "Pool Hiba Utama 2",
+  "stop_id": "B02942P",
+  "latitude": -6.20608,
+  "longitude": 106.90261,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:44:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:05:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "06:12:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:34:54",
+        "05:37:44",
+        "06:41:41"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:46:57",
+        "05:48:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.35",
+      "route_short_name": "JAK.35",
+      "route_long_name": "Pangkalan Jati - Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Pangkalan Jati",
+      "weekdays": [
+        "05:59:41",
+        "06:02:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

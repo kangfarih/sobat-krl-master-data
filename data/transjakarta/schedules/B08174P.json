@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mall Bellanova Sentul",
+  "stop_id": "B08174P",
+  "latitude": -6.565897,
+  "longitude": 106.844813,
+  "routes": [
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:40:54",
+        "08:39:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stop_name": "Bandar Djakarta Bekasi",
+  "stop_id": "B00108P",
+  "latitude": -6.227085,
+  "longitude": 106.99683,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "06:20:11",
+        "07:32:23",
+        "07:52:41"
+      ],
+      "weekends": [
+        "07:32:23"
+      ]
+    },
+    {
+      "route_id": "B13",
+      "route_short_name": "B13",
+      "route_long_name": "Summarecon Bekasi - Blok M",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:35:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "18:26:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

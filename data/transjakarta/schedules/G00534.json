@@ -1,0 +1,32 @@
+{
+  "stop_name": "Klender",
+  "stop_id": "G00534",
+  "latitude": -6.213605,
+  "longitude": 106.903085,
+  "routes": [
+    {
+      "route_id": "11",
+      "route_short_name": "11",
+      "route_long_name": "Pulo Gebang - Kampung Melayu",
+      "color": "312F92",
+      "category": "BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "00:40:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11M",
+      "route_short_name": "11M",
+      "route_long_name": "Rusun Rawa Bebek - Bukit Duri",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Bukit Duri dan Rusun Rawa Bebek",
+      "weekdays": [
+        "05:48:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

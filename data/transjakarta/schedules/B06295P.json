@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gg. VIII Muara Baru",
+  "stop_id": "B06295P",
+  "latitude": -6.122869,
+  "longitude": 106.80402,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:08:29",
+        "05:37:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "12F",
+      "route_short_name": "12F",
+      "route_long_name": "Rusun Marunda - Rusun Waduk Pluit",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Rusun Waduk Pluit dan Rusun Marunda",
+      "weekdays": [
+        "07:01:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

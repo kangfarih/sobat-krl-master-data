@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Gg. Nusa Indah Ciracas",
+  "stop_id": "B03550P",
+  "latitude": -6.326059,
+  "longitude": 106.86869,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:41:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stop_name": "Jln. Bintaro Tengah",
+  "stop_id": "B07316P",
+  "latitude": -6.2696317,
+  "longitude": 106.7546629,
+  "routes": [
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:11:18",
+        "06:12:20"
+      ],
+      "weekends": [
+        "06:12:20"
+      ]
+    }
+  ]
+}

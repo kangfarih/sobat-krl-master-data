@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Mutiara Benhil",
+  "stop_id": "B03799P",
+  "latitude": -6.209626,
+  "longitude": 106.81226,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:45:05",
+        "06:04:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

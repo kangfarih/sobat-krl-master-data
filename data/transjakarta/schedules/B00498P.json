@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gg. Koperasi Ciracas",
+  "stop_id": "B00498P",
+  "latitude": -6.327325,
+  "longitude": 106.86902,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:10:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

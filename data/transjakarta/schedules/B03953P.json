@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Klinik Win Medika",
+  "stop_id": "B03953P",
+  "latitude": -6.22016,
+  "longitude": 106.89843,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:39:57",
+        "05:41:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

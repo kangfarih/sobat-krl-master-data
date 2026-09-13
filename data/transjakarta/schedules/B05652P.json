@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Semanan Indah",
+  "stop_id": "B05652P",
+  "latitude": -6.163993,
+  "longitude": 106.72545,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:42:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

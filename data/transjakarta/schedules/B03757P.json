@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Kramat Cipedak",
+  "stop_id": "B03757P",
+  "latitude": -6.363399,
+  "longitude": 106.80298,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:16:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

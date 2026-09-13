@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Al Jabr Islamic School",
+  "stop_id": "B03443P",
+  "latitude": -6.308238,
+  "longitude": 106.80364,
+  "routes": [
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:30:11",
+        "05:30:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

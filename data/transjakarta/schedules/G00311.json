@@ -1,0 +1,38 @@
+{
+  "stop_name": "Kampung Rambutan",
+  "stop_id": "G00311",
+  "latitude": -6.309801,
+  "longitude": 106.882101,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Melayu via Tol Hek",
+      "weekdays": [
+        "05:00:10",
+        "06:14:11",
+        "06:16:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7F",
+      "route_short_name": "7F",
+      "route_long_name": "Kampung Rambutan - Juanda via Cempaka Putih",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Juanda dan Kampung Rambutan",
+      "weekdays": [
+        "05:00:10",
+        "07:23:50",
+        "09:26:41",
+        "09:41:20",
+        "09:46:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Jln. Ww Sukabumi Selatan",
+  "stop_id": "B03880P",
+  "latitude": -6.213704,
+  "longitude": 106.7768,
+  "routes": [
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:43:52",
+        "06:15:28",
+        "06:50:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

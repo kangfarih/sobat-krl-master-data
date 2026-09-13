@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Pegangsaan Dua 06",
+  "stop_id": "B03402P",
+  "latitude": -6.17679,
+  "longitude": 106.9111,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "05:10:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

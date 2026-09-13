@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Panglima Polim IX",
+  "stop_id": "B07336P",
+  "latitude": -6.24967,
+  "longitude": 106.798809,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:41:46",
+        "06:51:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

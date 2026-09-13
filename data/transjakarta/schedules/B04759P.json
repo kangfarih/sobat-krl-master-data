@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Cempaka Putih Ahmad Yani",
+  "stop_id": "B04759P",
+  "latitude": -6.176898,
+  "longitude": 106.87556,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:32:45",
+        "05:33:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

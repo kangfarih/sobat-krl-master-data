@@ -1,0 +1,34 @@
+{
+  "stop_name": "Ranch Market Pesanggrahan",
+  "stop_id": "B08612P",
+  "latitude": -6.188723,
+  "longitude": 106.755809,
+  "routes": [
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:25:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.51",
+      "route_short_name": "JAK.51",
+      "route_long_name": "Taman Kota - Budi Luhur",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Taman Kota dan Budi Luhur",
+      "weekdays": [
+        "06:18:35",
+        "06:50:59",
+        "07:27:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

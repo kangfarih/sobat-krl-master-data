@@ -1,0 +1,21 @@
+{
+  "stop_name": "Midi Utama Rorotan",
+  "stop_id": "B02452P",
+  "latitude": -6.144886,
+  "longitude": 106.95626,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:40:28",
+        "05:41:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

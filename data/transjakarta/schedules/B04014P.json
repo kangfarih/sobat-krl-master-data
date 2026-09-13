@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Man 18 Jakarta",
+  "stop_id": "B04014P",
+  "latitude": -6.232594,
+  "longitude": 106.94286,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:03:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

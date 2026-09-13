@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Bulungan 2",
+  "stop_id": "B00954P",
+  "latitude": -6.239771,
+  "longitude": 106.79658,
+  "routes": [
+    {
+      "route_id": "1E",
+      "route_short_name": "1E",
+      "route_long_name": "Pondok Labu - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:42:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:46:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

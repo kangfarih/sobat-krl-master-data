@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Masjid Al Jadid I Baru",
+  "stop_id": "B01371P",
+  "latitude": -6.328279,
+  "longitude": 106.8512,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:25:42",
+        "06:30:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

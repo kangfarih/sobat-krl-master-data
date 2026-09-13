@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Primanota",
+  "stop_id": "B01516P",
+  "latitude": -6.168008,
+  "longitude": 106.91097,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:27:44",
+        "05:28:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

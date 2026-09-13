@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Pemadam Grogol Utara",
+  "stop_id": "B04182P",
+  "latitude": -6.213731,
+  "longitude": 106.77765,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:16:24",
+        "05:16:27",
+        "06:15:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

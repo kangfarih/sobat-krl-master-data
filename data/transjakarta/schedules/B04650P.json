@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sekolah Purba Adhika 1",
+  "stop_id": "B04650P",
+  "latitude": -6.311037,
+  "longitude": 106.78555,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:20:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

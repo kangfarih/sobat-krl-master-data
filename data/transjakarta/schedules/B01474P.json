@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Percetakan Susukan",
+  "stop_id": "B01474P",
+  "latitude": -6.323535,
+  "longitude": 106.86973,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "05:43:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

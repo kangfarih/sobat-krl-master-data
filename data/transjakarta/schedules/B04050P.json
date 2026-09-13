@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid El Syifa Ciganjur",
+  "stop_id": "B04050P",
+  "latitude": -6.332948,
+  "longitude": 106.80755,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "05:57:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

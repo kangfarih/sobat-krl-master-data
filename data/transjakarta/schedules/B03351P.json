@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Cilincing 09",
+  "stop_id": "B03351P",
+  "latitude": -6.107565,
+  "longitude": 106.93718,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:26:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

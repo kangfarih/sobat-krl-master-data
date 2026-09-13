@@ -1,0 +1,22 @@
+{
+  "stop_name": "St. Kalideres",
+  "stop_id": "B05452P",
+  "latitude": -6.166146,
+  "longitude": 106.70466,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:55:27",
+        "06:09:14",
+        "08:03:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "SMPN 127",
+  "stop_id": "B05344P",
+  "latitude": -6.198939,
+  "longitude": 106.7783,
+  "routes": [
+    {
+      "route_id": "8K",
+      "route_short_name": "8K",
+      "route_long_name": "Batusari - Grogol",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Grogol dan Batusari",
+      "weekdays": [
+        "05:16:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:46:32",
+        "05:46:34",
+        "08:10:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "St. Sawah Besar 2",
+  "stop_id": "B05501P",
+  "latitude": -6.161426,
+  "longitude": 106.82806,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:48:25",
+        "06:43:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

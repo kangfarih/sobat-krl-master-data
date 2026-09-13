@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gereja Toraja Kelapa Gading",
+  "stop_id": "B07006P",
+  "latitude": -6.169516,
+  "longitude": 106.888184,
+  "routes": [
+    {
+      "route_id": "JAK.87",
+      "route_short_name": "JAK.87",
+      "route_long_name": "Terminal Tanjung Priok - Terminal Rawamangun",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Tanjung Priok dan Term. Rawamangun",
+      "weekdays": [
+        "05:39:05",
+        "05:39:09"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stop_name": "The Violin",
+  "stop_id": "B06041P",
+  "latitude": -6.093301,
+  "longitude": 106.74942,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "05:01:02"
+      ],
+      "weekends": [
+        "05:01:00",
+        "05:01:01"
+      ]
+    }
+  ]
+}

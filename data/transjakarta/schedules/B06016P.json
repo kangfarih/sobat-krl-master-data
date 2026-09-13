@@ -1,0 +1,34 @@
+{
+  "stop_name": "PLN GIS Kemang",
+  "stop_id": "B06016P",
+  "latitude": -6.279113,
+  "longitude": 106.828569,
+  "routes": [
+    {
+      "route_id": "6T",
+      "route_short_name": "6T",
+      "route_long_name": "Pasar Minggu - Velbak",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Velbak dan Pasar Minggu via Jeruk Purut",
+      "weekdays": [
+        "05:19:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:24:10",
+        "05:25:07",
+        "05:25:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

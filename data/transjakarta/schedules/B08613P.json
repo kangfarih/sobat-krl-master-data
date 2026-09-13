@@ -1,0 +1,33 @@
+{
+  "stop_name": "Gereja Advent",
+  "stop_id": "B08613P",
+  "latitude": -6.301077,
+  "longitude": 106.84032,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Universitas Indonesia",
+      "weekdays": [
+        "05:57:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9H",
+      "route_short_name": "9H",
+      "route_long_name": "Cipedak - Pasar Minggu",
+      "color": "66A4A0",
+      "category": "Non-BRT",
+      "direction": "Pasar Minggu dan Tanah Baru",
+      "weekdays": [
+        "05:24:47",
+        "06:37:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

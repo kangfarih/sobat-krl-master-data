@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Zamrud",
+  "stop_id": "B06344P",
+  "latitude": -6.141187,
+  "longitude": 106.751617,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:23:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

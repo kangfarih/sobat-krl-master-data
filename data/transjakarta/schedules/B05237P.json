@@ -1,0 +1,21 @@
+{
+  "stop_name": "SLB 01",
+  "stop_id": "B05237P",
+  "latitude": -6.307004,
+  "longitude": 106.78025,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:14:20",
+        "05:57:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

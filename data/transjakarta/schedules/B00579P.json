@@ -1,0 +1,20 @@
+{
+  "stop_name": "Gardu PLN Gotong Royong",
+  "stop_id": "B00579P",
+  "latitude": -6.225352,
+  "longitude": 106.89697,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:02:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

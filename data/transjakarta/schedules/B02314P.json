@@ -1,0 +1,22 @@
+{
+  "stop_name": "Masjid Jami Al Ittihadiyah",
+  "stop_id": "B02314P",
+  "latitude": -6.16615,
+  "longitude": 106.73488,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:19:38",
+        "05:19:47",
+        "07:10:35"
+      ],
+      "weekends": []
+    }
+  ]
+}

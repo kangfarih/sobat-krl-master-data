@@ -1,0 +1,21 @@
+{
+  "stop_name": "Guardian Apotek",
+  "stop_id": "B00716P",
+  "latitude": -6.176403,
+  "longitude": 106.87262,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:34:45",
+        "05:35:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

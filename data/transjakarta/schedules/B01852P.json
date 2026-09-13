@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kayuringin 1",
+  "stop_id": "B01852P",
+  "latitude": -6.245825,
+  "longitude": 106.99277,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "05:14:46",
+        "05:14:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

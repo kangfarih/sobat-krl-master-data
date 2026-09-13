@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. RW 10 Kelurahan Semper Timur",
+  "stop_id": "B08104P",
+  "latitude": -6.124768,
+  "longitude": 106.940565,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:24:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMK Nurul Huda",
+  "stop_id": "B06182P",
+  "latitude": -6.176843,
+  "longitude": 106.93604,
+  "routes": [
+    {
+      "route_id": "2F",
+      "route_short_name": "2F",
+      "route_long_name": "Rusun Cakung Barat - Pulo Gadung",
+      "color": "78809C",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Cakung Barat",
+      "weekdays": [
+        "05:23:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stop_name": "Simpang KH. Moh. Mansyur",
+  "stop_id": "B06973P",
+  "latitude": -6.165745,
+  "longitude": 106.807795,
+  "routes": [
+    {
+      "route_id": "8M",
+      "route_short_name": "8M",
+      "route_long_name": "Tanjung Duren - Tanah Abang",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Tanjung Duren dan Tanah Abang",
+      "weekdays": [
+        "06:03:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:32:41",
+        "05:35:58",
+        "05:36:06",
+        "05:44:47",
+        "06:31:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

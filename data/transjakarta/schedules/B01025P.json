@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Damai Mandor Munding",
+  "stop_id": "B01025P",
+  "latitude": -6.306868,
+  "longitude": 106.91506,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:48:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

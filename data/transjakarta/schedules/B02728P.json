@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pengadegan Barat VII",
+  "stop_id": "B02728P",
+  "latitude": -6.250143,
+  "longitude": 106.85423,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "07:23:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

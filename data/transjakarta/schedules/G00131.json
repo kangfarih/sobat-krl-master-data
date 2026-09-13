@@ -1,0 +1,53 @@
+{
+  "stop_name": "Roxy",
+  "stop_id": "G00131",
+  "latitude": -6.166252,
+  "longitude": 106.796803,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "05:51:42",
+        "06:10:45",
+        "06:44:59"
+      ],
+      "weekends": [
+        "05:51:42"
+      ]
+    },
+    {
+      "route_id": "8",
+      "route_short_name": "8",
+      "route_long_name": "Lebak Bulus - Pasar Baru",
+      "color": "DD3393",
+      "category": "BRT",
+      "direction": "Pasar Baru via Cideng",
+      "weekdays": [
+        "06:47:18"
+      ],
+      "weekends": [
+        "06:47:18"
+      ]
+    },
+    {
+      "route_id": "2A",
+      "route_short_name": "2A",
+      "route_long_name": "Pulo Gadung - Rawa Buaya via Balai Kota",
+      "color": "2F489C",
+      "category": "BRT",
+      "direction": "Rawa Buaya dan Pulo Gadung",
+      "weekdays": [
+        "05:39:28",
+        "07:40:10",
+        "07:42:00",
+        "07:50:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

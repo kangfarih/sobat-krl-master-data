@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMPN 129",
+  "stop_id": "B05346P",
+  "latitude": -6.126144,
+  "longitude": 106.87638,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:17:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

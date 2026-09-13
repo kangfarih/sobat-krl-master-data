@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Al Baidho 1",
+  "stop_id": "B00841P",
+  "latitude": -6.293763,
+  "longitude": 106.9046,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "06:04:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

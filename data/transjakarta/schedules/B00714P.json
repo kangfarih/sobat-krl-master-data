@@ -1,0 +1,20 @@
+{
+  "stop_name": "Griya Sujud Kayu Manis",
+  "stop_id": "B00714P",
+  "latitude": -6.288991,
+  "longitude": 106.85353,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:17:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

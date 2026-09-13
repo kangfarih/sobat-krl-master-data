@@ -1,0 +1,33 @@
+{
+  "stop_name": "St. Klender Muka",
+  "stop_id": "B05460P",
+  "latitude": -6.212928,
+  "longitude": 106.89948,
+  "routes": [
+    {
+      "route_id": "4E",
+      "route_short_name": "4E",
+      "route_long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+      "color": "5C5062",
+      "category": "Rusun",
+      "direction": "Pulo Gadung dan Rusun Jatinegara Kaum",
+      "weekdays": [
+        "05:41:44"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.26",
+      "route_short_name": "JAK.26",
+      "route_long_name": "Rawamangun - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Rawamangun",
+      "weekdays": [
+        "05:45:09",
+        "06:49:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

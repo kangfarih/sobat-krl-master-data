@@ -1,0 +1,33 @@
+{
+  "stop_name": "Dwijaya",
+  "stop_id": "B00332P",
+  "latitude": -6.262287,
+  "longitude": 106.78855,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "06:34:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "06:04:07",
+        "06:04:29"
+      ],
+      "weekends": []
+    }
+  ]
+}

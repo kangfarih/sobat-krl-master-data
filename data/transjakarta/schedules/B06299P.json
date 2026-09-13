@@ -1,0 +1,59 @@
+{
+  "stop_name": "Jln. Kayu Besar Dalam",
+  "stop_id": "B06299P",
+  "latitude": -6.122739,
+  "longitude": 106.73129,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:11:19",
+        "05:11:30"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Sentraland Cengkareng",
+      "weekdays": [
+        "05:57:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.52",
+      "route_short_name": "JAK.52",
+      "route_long_name": "Kalideres - Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Muara Angke dan Kalideres",
+      "weekdays": [
+        "00:56:31",
+        "02:03:05",
+        "05:29:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:38:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

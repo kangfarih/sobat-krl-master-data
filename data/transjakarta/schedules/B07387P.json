@@ -1,0 +1,25 @@
+{
+  "stop_name": "SMPN 56 Jakarta",
+  "stop_id": "B07387P",
+  "latitude": -6.290571,
+  "longitude": 106.812646,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:00:10",
+        "07:29:24",
+        "07:35:01"
+      ],
+      "weekends": [
+        "05:00:10",
+        "07:29:24"
+      ]
+    }
+  ]
+}

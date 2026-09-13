@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Polsek Pulo Gadung",
+  "stop_id": "B04220P",
+  "latitude": -6.209444,
+  "longitude": 106.89101,
+  "routes": [
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:07:21",
+        "06:04:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "BKKBN Sunter Utara",
+  "stop_id": "B06984P",
+  "latitude": -6.139092,
+  "longitude": 106.861951,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "08:31:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

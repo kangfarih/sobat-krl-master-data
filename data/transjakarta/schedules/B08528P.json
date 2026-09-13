@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Cut Mutia 3",
+  "stop_id": "B08528P",
+  "latitude": -6.25983,
+  "longitude": 107.002874,
+  "routes": [
+    {
+      "route_id": "B25",
+      "route_short_name": "B25",
+      "route_long_name": "Bekasi - Dukuh Atas",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Kampung Melayu dan Bekasi",
+      "weekdays": [
+        "05:10:29",
+        "05:10:30",
+        "05:10:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

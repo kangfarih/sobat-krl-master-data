@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. Pam Baru",
+  "stop_id": "B01444P",
+  "latitude": -6.204511,
+  "longitude": 106.809219,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:33:12",
+        "05:52:51"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:41:04",
+        "05:41:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

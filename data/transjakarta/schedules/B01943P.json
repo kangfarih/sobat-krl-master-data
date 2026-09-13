@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Semanan",
+  "stop_id": "B01943P",
+  "latitude": -6.159888,
+  "longitude": 106.70498,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:10:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Komplek Perum Ad Cibubur",
+  "stop_id": "B02060P",
+  "latitude": -6.365857,
+  "longitude": 106.88841,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:44:01",
+        "06:22:07"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:50:52",
+        "06:35:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jembatan Cempaka Mas Utara",
+  "stop_id": "B01741P",
+  "latitude": -6.16198,
+  "longitude": 106.87432,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:08:48",
+        "06:24:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Puri Botanical Meruya Selatan",
+  "stop_id": "B08391P",
+  "latitude": -6.216389,
+  "longitude": 106.73753,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Joglo via Meruya Selatan",
+      "weekdays": [
+        "06:26:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

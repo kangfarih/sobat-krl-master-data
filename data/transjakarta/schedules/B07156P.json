@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Dewan Masjid Ciracas",
+  "stop_id": "B07156P",
+  "latitude": -6.309665,
+  "longitude": 106.87927,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:25:00",
+        "06:17:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

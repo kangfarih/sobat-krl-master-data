@@ -1,0 +1,25 @@
+{
+  "stop_name": "Onyx",
+  "stop_id": "B08114P",
+  "latitude": -6.235076,
+  "longitude": 106.659931,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "07:11:19",
+        "09:20:07",
+        "09:33:38"
+      ],
+      "weekends": [
+        "09:20:07",
+        "09:33:38"
+      ]
+    }
+  ]
+}

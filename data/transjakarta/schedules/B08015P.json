@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Mandor Hasan",
+  "stop_id": "B08015P",
+  "latitude": -6.325111,
+  "longitude": 106.895558,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "06:01:44",
+        "06:43:54",
+        "06:45:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

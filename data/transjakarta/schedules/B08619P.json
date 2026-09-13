@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Wijaya 2",
+  "stop_id": "B08619P",
+  "latitude": -6.15063663,
+  "longitude": 106.77895499,
+  "routes": [
+    {
+      "route_id": "JAK.04",
+      "route_short_name": "JAK.04",
+      "route_long_name": "Grogol - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Grogol",
+      "weekdays": [
+        "05:45:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

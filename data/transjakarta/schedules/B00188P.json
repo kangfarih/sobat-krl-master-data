@@ -1,0 +1,21 @@
+{
+  "stop_name": "BSD Plaza 1",
+  "stop_id": "B00188P",
+  "latitude": -6.278263,
+  "longitude": 106.66103,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:13:54",
+        "05:13:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

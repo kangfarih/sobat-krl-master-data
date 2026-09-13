@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Cikoko Timur I",
+  "stop_id": "B01000P",
+  "latitude": -6.244291,
+  "longitude": 106.85863,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:27:08",
+        "06:14:21",
+        "06:28:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

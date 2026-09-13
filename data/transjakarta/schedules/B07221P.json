@@ -1,0 +1,21 @@
+{
+  "stop_name": "Kp. Kemandoran",
+  "stop_id": "B07221P",
+  "latitude": -6.123263,
+  "longitude": 106.686607,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "05:43:59",
+        "06:48:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

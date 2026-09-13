@@ -1,0 +1,21 @@
+{
+  "stop_name": "SDN Rawa Terate",
+  "stop_id": "B06724P",
+  "latitude": -6.188059,
+  "longitude": 106.923138,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:45:46",
+        "06:47:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

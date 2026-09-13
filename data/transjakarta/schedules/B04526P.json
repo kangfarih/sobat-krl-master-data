@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Taman Kebersihan Pegadungan",
+  "stop_id": "B04526P",
+  "latitude": -6.14068,
+  "longitude": 106.71708,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "05:18:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

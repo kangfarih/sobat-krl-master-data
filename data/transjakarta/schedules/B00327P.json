@@ -1,0 +1,20 @@
+{
+  "stop_name": "Dukuh Permai Residence",
+  "stop_id": "B00327P",
+  "latitude": -6.302631,
+  "longitude": 106.8785,
+  "routes": [
+    {
+      "route_id": "JAK.71",
+      "route_short_name": "JAK.71",
+      "route_long_name": "Kampung Rambutan - Pinang Ranti",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:21:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

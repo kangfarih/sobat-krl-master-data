@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pusat Promosi Ikan Hias",
+  "stop_id": "B03027P",
+  "latitude": -6.183173,
+  "longitude": 106.85602,
+  "routes": [
+    {
+      "route_id": "JAK.17",
+      "route_short_name": "JAK.17",
+      "route_long_name": "Senen - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen dan Pulo Gadung",
+      "weekdays": [
+        "05:31:38",
+        "06:59:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

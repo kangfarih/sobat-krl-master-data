@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bulak Tengah II Klender",
+  "stop_id": "B00952P",
+  "latitude": -6.217183,
+  "longitude": 106.90374,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:24:56",
+        "06:37:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

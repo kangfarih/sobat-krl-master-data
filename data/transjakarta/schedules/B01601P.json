@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Sukamulya III Harapan Mulya",
+  "stop_id": "B01601P",
+  "latitude": -6.170439,
+  "longitude": 106.8524,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:05:38",
+        "07:48:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

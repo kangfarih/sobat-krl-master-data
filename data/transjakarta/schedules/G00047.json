@@ -1,0 +1,21 @@
+{
+  "stop_name": "Harmoni",
+  "stop_id": "G00047",
+  "latitude": -6.162678,
+  "longitude": 106.819945,
+  "routes": [
+    {
+      "route_id": "3H",
+      "route_short_name": "3H",
+      "route_long_name": "Damai - Kota",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Kota dan Damai",
+      "weekdays": [
+        "05:15:16",
+        "06:06:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

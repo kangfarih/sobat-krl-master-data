@@ -1,0 +1,21 @@
+{
+  "stop_name": "Terrace 2 Pondok Indah",
+  "stop_id": "B07333P",
+  "latitude": -6.263038,
+  "longitude": 106.777367,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:16:16",
+        "06:25:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "stop_name": "Gold Coast",
+  "stop_id": "B06047P",
+  "latitude": -6.102693,
+  "longitude": 106.74065,
+  "routes": [
+    {
+      "route_id": "1A",
+      "route_short_name": "1A",
+      "route_long_name": "Pantai Maju - Balai Kota",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Penjaringan dan Pantai Maju",
+      "weekdays": [
+        "06:16:05",
+        "06:47:38",
+        "06:59:59",
+        "08:23:37",
+        "08:27:58"
+      ],
+      "weekends": [
+        "07:28:27",
+        "07:38:27"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "06:47:45",
+        "09:27:17"
+      ],
+      "weekends": [
+        "09:27:17"
+      ]
+    }
+  ]
+}

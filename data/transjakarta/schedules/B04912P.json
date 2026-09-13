@@ -1,0 +1,20 @@
+{
+  "stop_name": "Simpang Kb. Baru 2",
+  "stop_id": "B04912P",
+  "latitude": -6.114919,
+  "longitude": 106.92406,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:40:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Rawa Gelam I",
+  "stop_id": "B07628P",
+  "latitude": -6.198065,
+  "longitude": 106.91756,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:43:41",
+        "06:40:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

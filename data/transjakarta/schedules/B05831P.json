@@ -1,0 +1,20 @@
+{
+  "stop_name": "Univ. Islam As Syafiiah",
+  "stop_id": "B05831P",
+  "latitude": -6.26237,
+  "longitude": 106.91073,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:31:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

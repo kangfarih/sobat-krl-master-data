@@ -1,0 +1,23 @@
+{
+  "stop_name": "Gg. Penghulu Kebayoran Lama",
+  "stop_id": "B07416P",
+  "latitude": -6.240165,
+  "longitude": 106.780696,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:17:42",
+        "06:17:44"
+      ],
+      "weekends": [
+        "06:17:42"
+      ]
+    }
+  ]
+}

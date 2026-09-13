@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SDN Cakung Barat 07",
+  "stop_id": "B07295P",
+  "latitude": -6.191769,
+  "longitude": 106.94319,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:29:55",
+        "06:08:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stop_name": "Rusunawa Marunda Blok D3",
+  "stop_id": "B05941P",
+  "latitude": -6.09627,
+  "longitude": 106.9608,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:00:10",
+        "06:52:42",
+        "08:28:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:00:10",
+        "06:27:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ps. Bintang Mas 1",
+  "stop_id": "B02587P",
+  "latitude": -6.206829,
+  "longitude": 106.79052,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:22:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

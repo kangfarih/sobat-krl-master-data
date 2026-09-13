@@ -1,0 +1,22 @@
+{
+  "stop_name": "Jln. Caringin Utara",
+  "stop_id": "B07375P",
+  "latitude": -6.282943,
+  "longitude": 106.79249,
+  "routes": [
+    {
+      "route_id": "JAK.95",
+      "route_short_name": "JAK.95",
+      "route_long_name": "Term. Lebak Bulus - Term. Pasar Minggu",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Lebak Bulus dan Term. Pasar Minggu",
+      "weekdays": [
+        "05:23:16",
+        "06:33:00",
+        "06:33:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

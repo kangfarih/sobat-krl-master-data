@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Taman Mandiri Kelapa Gading",
+  "stop_id": "B04530P",
+  "latitude": -6.142758,
+  "longitude": 106.90991,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "06:05:41",
+        "06:06:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:59:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

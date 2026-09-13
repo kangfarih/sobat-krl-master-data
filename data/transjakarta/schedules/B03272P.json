@@ -1,0 +1,23 @@
+{
+  "stop_name": "Rusun Flamboyan",
+  "stop_id": "B03272P",
+  "latitude": -6.131366,
+  "longitude": 106.72427,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:00:10",
+        "05:17:15",
+        "05:45:55",
+        "05:46:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

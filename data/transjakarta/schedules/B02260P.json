@@ -1,0 +1,20 @@
+{
+  "stop_name": "Masjid Alfalah Annaniyah",
+  "stop_id": "B02260P",
+  "latitude": -6.114116,
+  "longitude": 106.70743,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Buaya",
+      "weekdays": [
+        "05:42:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

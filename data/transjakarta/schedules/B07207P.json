@@ -1,0 +1,21 @@
+{
+  "stop_name": "Palm One Residence",
+  "stop_id": "B07207P",
+  "latitude": -6.31502,
+  "longitude": 106.8999,
+  "routes": [
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:05:54",
+        "05:06:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

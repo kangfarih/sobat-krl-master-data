@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 131",
+  "stop_id": "B04465P",
+  "latitude": -6.362219,
+  "longitude": 106.80175,
+  "routes": [
+    {
+      "route_id": "JAK.47",
+      "route_short_name": "JAK.47",
+      "route_long_name": "Pasar Minggu - Ciganjur via KB Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Ciganjur",
+      "weekdays": [
+        "06:15:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

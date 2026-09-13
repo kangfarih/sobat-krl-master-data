@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sekolah Bhineka Tunggal Ika",
+  "stop_id": "B04619P",
+  "latitude": -6.150601,
+  "longitude": 106.80763,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:19:42",
+        "05:19:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

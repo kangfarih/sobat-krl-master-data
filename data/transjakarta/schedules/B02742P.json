@@ -1,0 +1,32 @@
+{
+  "stop_name": "Perlintasan Bendi Utama",
+  "stop_id": "B02742P",
+  "latitude": -6.2496,
+  "longitude": 106.7745,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:18:52"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:23:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

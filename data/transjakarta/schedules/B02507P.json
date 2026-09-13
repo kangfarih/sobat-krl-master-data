@@ -1,0 +1,20 @@
+{
+  "stop_name": "Mushola Al Barkah",
+  "stop_id": "B02507P",
+  "latitude": -6.184846,
+  "longitude": 106.95902,
+  "routes": [
+    {
+      "route_id": "JAK.27",
+      "route_short_name": "JAK.27",
+      "route_long_name": "Pulo Gebang - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rorotan dan Pulogebang",
+      "weekdays": [
+        "05:31:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

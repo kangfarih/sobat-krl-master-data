@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Ps. Blok A",
+  "stop_id": "B04132P",
+  "latitude": -6.248294,
+  "longitude": 106.79779,
+  "routes": [
+    {
+      "route_id": "S21",
+      "route_short_name": "S21",
+      "route_long_name": "Ciputat - CSW",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "CSW dan Ciputat",
+      "weekdays": [
+        "05:04:12",
+        "06:31:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

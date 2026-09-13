@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kementerian Agama Jakarta Timur",
+  "stop_id": "B06873P",
+  "latitude": -6.218908,
+  "longitude": 106.947344,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:03:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

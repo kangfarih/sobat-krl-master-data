@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kejaksaan Negeri Jakbar",
+  "stop_id": "B01896P",
+  "latitude": -6.184648,
+  "longitude": 106.73731,
+  "routes": [
+    {
+      "route_id": "3E",
+      "route_short_name": "3E",
+      "route_long_name": "Puri Kembangan - Sentraland Cengkareng",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Puri Kembangan",
+      "weekdays": [
+        "05:53:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "06:23:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

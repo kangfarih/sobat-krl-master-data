@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Sekolah Sinar Dharma",
+  "stop_id": "B04398P",
+  "latitude": -6.148846,
+  "longitude": 106.80744,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:18:38",
+        "05:18:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

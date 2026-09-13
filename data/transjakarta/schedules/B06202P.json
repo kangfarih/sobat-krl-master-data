@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Cakung Cilincing 8",
+  "stop_id": "B06202P",
+  "latitude": -6.118429,
+  "longitude": 106.9259,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "06:39:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

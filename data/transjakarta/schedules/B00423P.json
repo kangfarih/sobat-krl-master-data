@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Bidan Baru",
+  "stop_id": "B00423P",
+  "latitude": -6.327013,
+  "longitude": 106.85027,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:24:17",
+        "06:28:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

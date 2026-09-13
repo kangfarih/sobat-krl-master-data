@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Pulau Sangiyang Lingkar Timur 2",
+  "stop_id": "B04242P",
+  "latitude": -6.193302,
+  "longitude": 106.94369,
+  "routes": [
+    {
+      "route_id": "JAK.110A",
+      "route_short_name": "JAK.110A",
+      "route_long_name": "Rusun Marunda - Terminal Terpadu Pulo Gebang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Pulo Gebang dan Rusun Marunda",
+      "weekdays": [
+        "05:15:09",
+        "06:52:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

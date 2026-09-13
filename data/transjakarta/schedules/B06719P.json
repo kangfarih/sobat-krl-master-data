@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Rawabadung",
+  "stop_id": "B06719P",
+  "latitude": -6.208988,
+  "longitude": 106.922724,
+  "routes": [
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:34:06",
+        "06:36:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

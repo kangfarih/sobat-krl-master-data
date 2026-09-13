@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Lagoa",
+  "stop_id": "B04354P",
+  "latitude": -6.11223,
+  "longitude": 106.91162,
+  "routes": [
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:30:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

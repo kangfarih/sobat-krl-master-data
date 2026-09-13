@@ -1,0 +1,21 @@
+{
+  "stop_name": "Wisma Eka Jiwa",
+  "stop_id": "B05888P",
+  "latitude": -6.136853,
+  "longitude": 106.82258,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:27:38",
+        "06:28:36"
+      ],
+      "weekends": []
+    }
+  ]
+}

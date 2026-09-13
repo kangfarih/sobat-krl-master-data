@@ -1,0 +1,24 @@
+{
+  "stop_name": "Gg. Beringin",
+  "stop_id": "B00420P",
+  "latitude": -6.385137,
+  "longitude": 106.829015,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "06:54:27",
+        "08:45:03",
+        "08:56:36"
+      ],
+      "weekends": [
+        "08:45:03"
+      ]
+    }
+  ]
+}

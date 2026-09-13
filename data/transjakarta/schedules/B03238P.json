@@ -1,0 +1,20 @@
+{
+  "stop_name": "Ruko Gading Bukit Indah 2",
+  "stop_id": "B03238P",
+  "latitude": -6.150303,
+  "longitude": 106.89865,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:53:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

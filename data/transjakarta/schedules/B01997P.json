@@ -1,0 +1,20 @@
+{
+  "stop_name": "Klinik Sapta Mitra",
+  "stop_id": "B01997P",
+  "latitude": -6.230813,
+  "longitude": 106.93469,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:19:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

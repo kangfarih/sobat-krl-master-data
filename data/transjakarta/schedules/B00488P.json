@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Industri IX Gunung Sahari",
+  "stop_id": "B00488P",
+  "latitude": -6.144826,
+  "longitude": 106.83425,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "05:39:18",
+        "07:22:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

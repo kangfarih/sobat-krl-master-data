@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Gg. Sawo Ciracas",
+  "stop_id": "B07165P",
+  "latitude": -6.328468,
+  "longitude": 106.87594,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:36:46",
+        "06:28:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

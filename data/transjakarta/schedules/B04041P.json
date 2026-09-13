@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Arrahim Rawa Kompeni",
+  "stop_id": "B04041P",
+  "latitude": -6.104841,
+  "longitude": 106.69008,
+  "routes": [
+    {
+      "route_id": "JAK.80",
+      "route_short_name": "JAK.80",
+      "route_long_name": "Rawa Buaya - Rawa Kompeni",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Kompeni",
+      "weekdays": [
+        "06:31:25"
+      ],
+      "weekends": []
+    }
+  ]
+}

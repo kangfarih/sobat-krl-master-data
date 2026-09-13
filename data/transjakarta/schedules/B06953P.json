@@ -1,0 +1,32 @@
+{
+  "stop_name": "Terminal Kargo 2",
+  "stop_id": "B06953P",
+  "latitude": -6.124955,
+  "longitude": 106.663437,
+  "routes": [
+    {
+      "route_id": "SH1",
+      "route_short_name": "SH1",
+      "route_long_name": "Kalideres - Perkantoran Soekarno-Hatta",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Perkantoran Soetta dan Kalideres",
+      "weekdays": [
+        "06:00:46"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "SH2",
+      "route_short_name": "SH2",
+      "route_long_name": "Blok M - Bandara Soekarno-Hatta",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Bandara Soekarno-Hatta dan Blok M",
+      "weekdays": [
+        "07:24:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

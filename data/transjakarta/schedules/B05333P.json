@@ -1,0 +1,20 @@
+{
+  "stop_name": "SMP Muhammadiyah 2",
+  "stop_id": "B05333P",
+  "latitude": -6.162466,
+  "longitude": 106.84286,
+  "routes": [
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "06:33:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMAN 42",
+  "stop_id": "B04424P",
+  "latitude": -6.255924,
+  "longitude": 106.89172,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:22:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

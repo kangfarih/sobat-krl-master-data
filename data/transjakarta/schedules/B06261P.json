@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gg. Jaimah",
+  "stop_id": "B06261P",
+  "latitude": -6.196894,
+  "longitude": 106.95593,
+  "routes": [
+    {
+      "route_id": "JAK.40",
+      "route_short_name": "JAK.40",
+      "route_long_name": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Harapan Baru dan Pulo Gebang",
+      "weekdays": [
+        "05:47:48",
+        "07:23:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

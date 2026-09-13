@@ -1,0 +1,20 @@
+{
+  "stop_name": "Qbig 1",
+  "stop_id": "B07352P",
+  "latitude": -6.284613,
+  "longitude": 106.638391,
+  "routes": [
+    {
+      "route_id": "S14",
+      "route_short_name": "S14",
+      "route_long_name": "Summarecon Serpong - Lebak Bulus",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Summarecon Serpong",
+      "weekdays": [
+        "18:31:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

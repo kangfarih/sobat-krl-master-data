@@ -1,0 +1,22 @@
+{
+  "stop_name": "Aloha",
+  "stop_id": "B08129P",
+  "latitude": -6.070722,
+  "longitude": 106.713422,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:30:09"
+      ],
+      "weekends": [
+        "05:30:09"
+      ]
+    }
+  ]
+}

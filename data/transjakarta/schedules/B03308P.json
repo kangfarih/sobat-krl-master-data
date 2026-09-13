@@ -1,0 +1,20 @@
+{
+  "stop_name": "Samsat BSD",
+  "stop_id": "B03308P",
+  "latitude": -6.291005,
+  "longitude": 106.6658,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "05:06:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

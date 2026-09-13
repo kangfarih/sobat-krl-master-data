@@ -1,0 +1,21 @@
+{
+  "stop_name": "Mushola Baitul Qorib",
+  "stop_id": "B02516P",
+  "latitude": -6.153817,
+  "longitude": 106.80799,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:21:31",
+        "05:21:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Man 15 Jakarta",
+  "stop_id": "B02201P",
+  "latitude": -6.34233,
+  "longitude": 106.88636,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:06:55",
+        "05:07:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:15:46",
+        "05:15:58"
+      ],
+      "weekends": []
+    }
+  ]
+}

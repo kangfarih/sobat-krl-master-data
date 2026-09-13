@@ -1,0 +1,21 @@
+{
+  "stop_name": "PLN GIS New Senayan",
+  "stop_id": "B08003P",
+  "latitude": -6.227644085,
+  "longitude": 106.7718803,
+  "routes": [
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:08:37",
+        "06:27:48"
+      ],
+      "weekends": []
+    }
+  ]
+}

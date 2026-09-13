@@ -1,0 +1,32 @@
+{
+  "stop_name": "Ruko Bungur Besar",
+  "stop_id": "B03230P",
+  "latitude": -6.161321,
+  "longitude": 106.83979,
+  "routes": [
+    {
+      "route_id": "12B",
+      "route_short_name": "12B",
+      "route_long_name": "Pluit - Senen",
+      "color": "91BF91",
+      "category": "Non-BRT",
+      "direction": "Pluit",
+      "weekdays": [
+        "05:07:57"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung Via Kelapa Gading",
+      "weekdays": [
+        "05:07:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

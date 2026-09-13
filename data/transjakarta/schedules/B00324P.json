@@ -1,0 +1,20 @@
+{
+  "stop_name": "Dukuh 5",
+  "stop_id": "B00324P",
+  "latitude": -6.289913,
+  "longitude": 106.87753,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "05:24:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

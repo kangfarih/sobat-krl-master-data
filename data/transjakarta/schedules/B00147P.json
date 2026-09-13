@@ -1,0 +1,63 @@
+{
+  "stop_name": "Bintaro Park View",
+  "stop_id": "B00147P",
+  "latitude": -6.257977,
+  "longitude": 106.75969,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:06:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Bintaro",
+      "weekdays": [
+        "06:02:16",
+        "06:03:18"
+      ],
+      "weekends": [
+        "06:03:18"
+      ]
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:29:47",
+        "06:50:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "05:43:46",
+        "05:48:53",
+        "05:49:23",
+        "07:03:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

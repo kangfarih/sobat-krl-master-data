@@ -1,0 +1,32 @@
+{
+  "stop_name": "Monas 1",
+  "stop_id": "B02475P",
+  "latitude": -6.172531,
+  "longitude": 106.82315,
+  "routes": [
+    {
+      "route_id": "BW2",
+      "route_short_name": "BW2",
+      "route_long_name": "Monas Explorer",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Monas Explorer",
+      "weekdays": [
+        "10:30:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "BW4",
+      "route_short_name": "BW4",
+      "route_long_name": "Pencakar Langit",
+      "color": "FFB6DB",
+      "category": "Wisata",
+      "direction": "Pencakar Langit",
+      "weekdays": [
+        "11:34:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

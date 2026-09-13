@@ -1,0 +1,21 @@
+{
+  "stop_name": "Puskesmas Tambora",
+  "stop_id": "B03066P",
+  "latitude": -6.147343,
+  "longitude": 106.807131,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:47:01",
+        "06:46:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

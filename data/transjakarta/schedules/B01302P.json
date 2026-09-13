@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Kramat Pangeran Syarif",
+  "stop_id": "B01302P",
+  "latitude": -6.28524,
+  "longitude": 106.90141,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "06:17:16"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:01:55",
+        "05:01:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

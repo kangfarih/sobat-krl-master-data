@@ -1,0 +1,20 @@
+{
+  "stop_name": "Taman Intirub 4",
+  "stop_id": "B08422P",
+  "latitude": -6.265608,
+  "longitude": 106.877359,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Dwikora",
+      "weekdays": [
+        "05:07:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stop_name": "Masjid Jami Assyakirin Kalimalang",
+  "stop_id": "B02332P",
+  "latitude": -6.239262,
+  "longitude": 106.88963,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:17:13",
+        "06:18:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kapin dan Kampung Melayu",
+      "weekdays": [
+        "05:30:12",
+        "05:30:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

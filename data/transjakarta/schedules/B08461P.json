@@ -1,0 +1,21 @@
+{
+  "stop_name": "Stasiun Jatinegara 1",
+  "stop_id": "B08461P",
+  "latitude": -6.215398,
+  "longitude": 106.868838,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:11:39",
+        "06:21:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

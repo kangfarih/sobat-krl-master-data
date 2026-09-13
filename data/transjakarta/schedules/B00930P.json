@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Bendungan Hilir Gg. V",
+  "stop_id": "B00930P",
+  "latitude": -6.214506,
+  "longitude": 106.81469,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:41:16",
+        "06:01:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

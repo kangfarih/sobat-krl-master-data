@@ -1,0 +1,20 @@
+{
+  "stop_name": "United Tractors Belakang",
+  "stop_id": "B07701P",
+  "latitude": -6.187249,
+  "longitude": 106.93321,
+  "routes": [
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "06:14:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

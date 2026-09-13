@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Manunggal XIII Raya Condet",
+  "stop_id": "B01363P",
+  "latitude": -6.277929,
+  "longitude": 106.85496,
+  "routes": [
+    {
+      "route_id": "JAK.16",
+      "route_short_name": "JAK.16",
+      "route_long_name": "Cililitan - Condet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:01:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

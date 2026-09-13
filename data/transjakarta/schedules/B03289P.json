@@ -1,0 +1,35 @@
+{
+  "stop_name": "Rusun Pondok Bambu",
+  "stop_id": "B03289P",
+  "latitude": -6.241583,
+  "longitude": 106.91085,
+  "routes": [
+    {
+      "route_id": "11P",
+      "route_short_name": "11P",
+      "route_long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Walikota Jakarta Timur",
+      "weekdays": [
+        "05:00:10",
+        "05:42:54"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:15:24",
+        "06:20:12",
+        "06:27:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Kel. Cijantung",
+  "stop_id": "B01908P",
+  "latitude": -6.325792,
+  "longitude": 106.8619,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:50:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

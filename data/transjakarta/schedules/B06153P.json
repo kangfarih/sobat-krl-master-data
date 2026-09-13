@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Masjid Al Barokah",
+  "stop_id": "B06153P",
+  "latitude": -6.144081,
+  "longitude": 106.763355,
+  "routes": [
+    {
+      "route_id": "JAK.79",
+      "route_short_name": "JAK.79",
+      "route_long_name": "Cengkareng - Tubagus Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tubagus Angke dan Cengkareng",
+      "weekdays": [
+        "05:11:08",
+        "05:51:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

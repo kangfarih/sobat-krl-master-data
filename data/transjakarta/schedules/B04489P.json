@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. SMPN 252",
+  "stop_id": "B04489P",
+  "latitude": -6.239289,
+  "longitude": 106.94229,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:01:07",
+        "05:01:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "06:24:55",
+        "06:25:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

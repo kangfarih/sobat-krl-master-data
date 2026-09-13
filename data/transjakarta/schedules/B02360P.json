@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Unwanussaadah",
+  "stop_id": "B02360P",
+  "latitude": -6.120175,
+  "longitude": 106.92866,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:13:25",
+        "06:42:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

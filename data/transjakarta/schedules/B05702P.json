@@ -1,0 +1,20 @@
+{
+  "stop_name": "Term. Depok",
+  "stop_id": "B05702P",
+  "latitude": -6.39164,
+  "longitude": 106.82466,
+  "routes": [
+    {
+      "route_id": "D11",
+      "route_short_name": "D11",
+      "route_long_name": "Depok - Cawang Sentral via Cibubur",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang Sental dan Depok",
+      "weekdays": [
+        "05:01:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

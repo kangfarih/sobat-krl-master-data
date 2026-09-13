@@ -1,0 +1,21 @@
+{
+  "stop_name": "Teraskota",
+  "stop_id": "B05699P",
+  "latitude": -6.295262,
+  "longitude": 106.66658,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "07:27:37",
+        "09:58:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

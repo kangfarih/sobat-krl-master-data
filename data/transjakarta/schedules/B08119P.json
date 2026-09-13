@@ -1,0 +1,25 @@
+{
+  "stop_name": "Komsen",
+  "stop_id": "B08119P",
+  "latitude": -6.292867,
+  "longitude": 106.959434,
+  "routes": [
+    {
+      "route_id": "B41",
+      "route_short_name": "B41",
+      "route_long_name": "Vida Bekasi - Cawang Sentral via Jatiasih",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Komsen dan Cawang Sentral",
+      "weekdays": [
+        "05:00:10",
+        "05:28:48",
+        "06:18:12",
+        "06:18:25",
+        "07:31:18",
+        "07:59:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

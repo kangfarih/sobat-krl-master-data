@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Jln. Radius Halim",
+  "stop_id": "B04873P",
+  "latitude": -6.24517,
+  "longitude": 106.89228,
+  "routes": [
+    {
+      "route_id": "JAK.22",
+      "route_short_name": "JAK.22",
+      "route_long_name": "Dwikora - Halim",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Halim dan Dwikora",
+      "weekdays": [
+        "05:59:31",
+        "05:59:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "stop_name": "Simpang Jln. BRI Radio Dalam 2",
+  "stop_id": "B07425P",
+  "latitude": -6.257091,
+  "longitude": 106.790758,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:23:53",
+        "05:29:27",
+        "06:44:57",
+        "06:50:34"
+      ],
+      "weekends": [
+        "05:23:53",
+        "06:44:57"
+      ]
+    }
+  ]
+}

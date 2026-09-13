@@ -1,0 +1,44 @@
+{
+  "stop_name": "Pesakih",
+  "stop_id": "G00159",
+  "latitude": -6.154838,
+  "longitude": 106.715307,
+  "routes": [
+    {
+      "route_id": "3",
+      "route_short_name": "3",
+      "route_long_name": "Kalideres - Monumen Nasional via Veteran",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Petojo dan Kalideres via Setneg",
+      "weekdays": [
+        "06:05:56",
+        "06:06:36",
+        "06:41:52",
+        "07:13:00",
+        "07:20:13",
+        "07:26:24"
+      ],
+      "weekends": [
+        "06:41:52",
+        "07:20:13"
+      ]
+    },
+    {
+      "route_id": "3F",
+      "route_short_name": "3F",
+      "route_long_name": "Kalideres - Senayan Bank Jakarta",
+      "color": "FDCB1C",
+      "category": "BRT",
+      "direction": "Senayan Bank Jakarta dan Kalideres",
+      "weekdays": [
+        "06:35:19",
+        "07:13:57",
+        "07:49:05"
+      ],
+      "weekends": [
+        "06:35:19"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Perintis 2",
+  "stop_id": "B05064P",
+  "latitude": -6.229105,
+  "longitude": 106.88833,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "05:55:00",
+        "05:55:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

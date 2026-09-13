@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. H. Jian 2B Cipete",
+  "stop_id": "B03711P",
+  "latitude": -6.264625,
+  "longitude": 106.8043,
+  "routes": [
+    {
+      "route_id": "JAK.31",
+      "route_short_name": "JAK.31",
+      "route_long_name": "Blok M - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Andara",
+      "weekdays": [
+        "05:25:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

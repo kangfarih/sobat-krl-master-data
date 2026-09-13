@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bidara Raya Jati Pulo",
+  "stop_id": "B00934P",
+  "latitude": -6.180551,
+  "longitude": 106.80285,
+  "routes": [
+    {
+      "route_id": "JAK.54",
+      "route_short_name": "JAK.54",
+      "route_long_name": "Grogol - Benhil",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bendungan Hilir dan Grogol",
+      "weekdays": [
+        "05:26:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Fuso",
+  "stop_id": "B03494P",
+  "latitude": -6.176222,
+  "longitude": 106.87668,
+  "routes": [
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:31:33",
+        "08:14:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:20:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

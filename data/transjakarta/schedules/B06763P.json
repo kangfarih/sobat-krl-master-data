@@ -1,0 +1,21 @@
+{
+  "stop_name": "Bumi Malaka 2",
+  "stop_id": "B06763P",
+  "latitude": -6.22049,
+  "longitude": 106.92543,
+  "routes": [
+    {
+      "route_id": "JAK.106",
+      "route_short_name": "JAK.106",
+      "route_long_name": "Term. Kampung Melayu - Term. Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Kampung Melayu dan Term. Klender",
+      "weekdays": [
+        "05:19:22",
+        "05:20:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

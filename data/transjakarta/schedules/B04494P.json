@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMPN 36",
+  "stop_id": "B04494P",
+  "latitude": -6.226772,
+  "longitude": 106.87202,
+  "routes": [
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:09:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

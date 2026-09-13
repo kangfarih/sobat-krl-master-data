@@ -1,0 +1,21 @@
+{
+  "stop_name": "Klinik Yadika Petukangan",
+  "stop_id": "B02000P",
+  "latitude": -6.248481,
+  "longitude": 106.75496,
+  "routes": [
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:36:04",
+        "05:36:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

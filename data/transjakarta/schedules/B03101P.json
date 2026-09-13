@@ -1,0 +1,21 @@
+{
+  "stop_name": "Romantis PIK Penggilingan",
+  "stop_id": "B03101P",
+  "latitude": -6.205114,
+  "longitude": 106.92803,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:33:29",
+        "05:35:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

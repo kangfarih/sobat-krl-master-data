@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Minimarket Warakas 3",
+  "stop_id": "B04100P",
+  "latitude": -6.1193,
+  "longitude": 106.87721,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:51:12"
+      ],
+      "weekends": []
+    }
+  ]
+}

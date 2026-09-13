@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Puskesmas Kel. Papanggo",
+  "stop_id": "B04252P",
+  "latitude": -6.129782,
+  "longitude": 106.87238,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:02:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jembatan Item",
+      "weekdays": [
+        "05:21:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Perdana Kusuma",
+  "stop_id": "B01477P",
+  "latitude": -6.154761,
+  "longitude": 106.770108,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
+      "weekdays": [
+        "05:59:42",
+        "05:59:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

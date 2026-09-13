@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pom Bensin Mulyadi",
+  "stop_id": "B02920P",
+  "latitude": -6.252929,
+  "longitude": 107.02303,
+  "routes": [
+    {
+      "route_id": "B21",
+      "route_short_name": "B21",
+      "route_long_name": "Bekasi Timur - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Bekasi Timur",
+      "weekdays": [
+        "05:01:35",
+        "22:01:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

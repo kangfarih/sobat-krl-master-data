@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Komplek DPR III",
+  "stop_id": "B03969P",
+  "latitude": -6.215021,
+  "longitude": 106.73294,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Meruya via Roxy",
+      "weekdays": [
+        "06:31:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

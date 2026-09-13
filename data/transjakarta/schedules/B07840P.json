@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. 21 Teluk Gong",
+  "stop_id": "B07840P",
+  "latitude": -6.135295,
+  "longitude": 106.777381,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:17:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

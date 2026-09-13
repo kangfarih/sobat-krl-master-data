@@ -1,0 +1,32 @@
+{
+  "stop_name": "Bumi Perkemahan Ragunan",
+  "stop_id": "B00213P",
+  "latitude": -6.295825,
+  "longitude": 106.82153,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:05:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7E",
+      "route_short_name": "7E",
+      "route_long_name": "Kampung Rambutan - Ragunan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:06:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "stop_name": "Beverly Tower",
+  "stop_id": "B00132P",
+  "latitude": -6.291805,
+  "longitude": 106.78636,
+  "routes": [
+    {
+      "route_id": "7A",
+      "route_short_name": "7A",
+      "route_long_name": "Kampung Rambutan - Lebak Bulus",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Lebak Bulus dan Kampung Rambutan",
+      "weekdays": [
+        "05:16:33",
+        "06:20:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:16:00",
+        "06:23:43"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D41",
+      "route_short_name": "D41",
+      "route_long_name": "Sawangan - Lebak Bulus via Tol Desari",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Sawangan",
+      "weekdays": [
+        "05:16:04",
+        "05:16:34",
+        "06:40:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

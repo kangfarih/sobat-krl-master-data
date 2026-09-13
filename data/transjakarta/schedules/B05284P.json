@@ -1,0 +1,22 @@
+{
+  "stop_name": "SMAN 94",
+  "stop_id": "B05284P",
+  "latitude": -6.167345,
+  "longitude": 106.70496,
+  "routes": [
+    {
+      "route_id": "JAK.50",
+      "route_short_name": "JAK.50",
+      "route_long_name": "Kalideres - Puri Kembangan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Puri Kembangan dan Kalideres",
+      "weekdays": [
+        "05:54:38",
+        "06:08:25",
+        "08:02:37"
+      ],
+      "weekends": []
+    }
+  ]
+}

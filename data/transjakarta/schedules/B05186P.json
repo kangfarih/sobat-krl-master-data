@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Tebet Barat Raya",
+  "stop_id": "B05186P",
+  "latitude": -6.23012,
+  "longitude": 106.85121,
+  "routes": [
+    {
+      "route_id": "5N",
+      "route_short_name": "5N",
+      "route_long_name": "Kampung Melayu - Ragunan",
+      "color": "D48961",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "06:30:59",
+        "06:33:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

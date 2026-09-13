@@ -1,0 +1,33 @@
+{
+  "stop_name": "Masjid Jami Al Mubarok",
+  "stop_id": "B06504P",
+  "latitude": -6.328564,
+  "longitude": 106.833394,
+  "routes": [
+    {
+      "route_id": "4B",
+      "route_short_name": "4B",
+      "route_long_name": "Stasiun Manggarai - UI",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Stasiun Manggarai",
+      "weekdays": [
+        "05:14:14"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D21",
+      "route_short_name": "D21",
+      "route_long_name": "Universitas Indonesia - Lebak Bulus",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Lebak Bulus dan Universitas Indonesia",
+      "weekdays": [
+        "05:14:14",
+        "05:14:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

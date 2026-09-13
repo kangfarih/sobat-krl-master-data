@@ -1,0 +1,34 @@
+{
+  "stop_name": "Kel. Pesanggrahan 2",
+  "stop_id": "B01935P",
+  "latitude": -6.255333,
+  "longitude": 106.756496,
+  "routes": [
+    {
+      "route_id": "1C",
+      "route_short_name": "1C",
+      "route_long_name": "Pesanggrahan - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:12:04",
+        "05:48:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:41:34",
+        "05:41:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

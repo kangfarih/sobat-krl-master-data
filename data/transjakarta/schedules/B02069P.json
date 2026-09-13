@@ -1,0 +1,20 @@
+{
+  "stop_name": "Komplek Unilever Meruya Selatan",
+  "stop_id": "B02069P",
+  "latitude": -6.215488,
+  "longitude": 106.7273,
+  "routes": [
+    {
+      "route_id": "JAK.30",
+      "route_short_name": "JAK.30",
+      "route_long_name": "Grogol - Meruya via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol via Roxy",
+      "weekdays": [
+        "05:02:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

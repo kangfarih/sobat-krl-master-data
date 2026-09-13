@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Angkasa Bundaran Kemayoran",
+  "stop_id": "B00861P",
+  "latitude": -6.156032,
+  "longitude": 106.85067,
+  "routes": [
+    {
+      "route_id": "JAK.120",
+      "route_short_name": "JAK.120",
+      "route_long_name": "JIS - Term. Muara Angke",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Muara Angke dan JIS",
+      "weekdays": [
+        "05:35:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.33",
+      "route_short_name": "JAK.33",
+      "route_long_name": "Pulo Gadung - Kota",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Pulo Gadung",
+      "weekdays": [
+        "06:00:33",
+        "06:00:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Bella Terra",
+  "stop_id": "B00124P",
+  "latitude": -6.175296,
+  "longitude": 106.89567,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawa Sengon",
+      "weekdays": [
+        "05:37:31"
+      ],
+      "weekends": []
+    }
+  ]
+}

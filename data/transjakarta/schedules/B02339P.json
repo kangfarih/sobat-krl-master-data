@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Jami Attaubah 2",
+  "stop_id": "B02339P",
+  "latitude": -6.231559,
+  "longitude": 106.87297,
+  "routes": [
+    {
+      "route_id": "JAK.02",
+      "route_short_name": "JAK.02",
+      "route_long_name": "Kampung Melayu - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kampung Melayu",
+      "weekdays": [
+        "05:44:07",
+        "06:42:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

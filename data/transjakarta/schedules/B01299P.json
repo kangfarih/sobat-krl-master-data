@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kramat III Rawabinong",
+  "stop_id": "B01299P",
+  "latitude": -6.299055,
+  "longitude": 106.90782,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:23:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:25:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

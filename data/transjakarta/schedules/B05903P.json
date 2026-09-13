@@ -1,0 +1,21 @@
+{
+  "stop_name": "WTC Matahari 2",
+  "stop_id": "B05903P",
+  "latitude": -6.266719,
+  "longitude": 106.65469,
+  "routes": [
+    {
+      "route_id": "S11",
+      "route_short_name": "S11",
+      "route_long_name": "BSD - Jelambar",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Jelambar 2 dan BSD",
+      "weekdays": [
+        "07:09:54",
+        "09:40:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

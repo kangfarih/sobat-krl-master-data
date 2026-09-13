@@ -1,0 +1,32 @@
+{
+  "stop_name": "Golf Lake Residence",
+  "stop_id": "B07687P",
+  "latitude": -6.1276508,
+  "longitude": 106.73039,
+  "routes": [
+    {
+      "route_id": "3B",
+      "route_short_name": "3B",
+      "route_long_name": "Rusun Flamboyan - Cengkareng",
+      "color": "FDECB4",
+      "category": "Rusun",
+      "direction": "Cengkareng dan Rusun Flamboyan",
+      "weekdays": [
+        "05:14:37"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.78A",
+      "route_short_name": "JAK.78A",
+      "route_long_name": "Benda - Cengkareng Timur",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Cengkareng Timur dan Benda",
+      "weekdays": [
+        "05:41:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Akses Bawah Sungai Landak",
+  "stop_id": "B00021P",
+  "latitude": -6.109857,
+  "longitude": 106.94134,
+  "routes": [
+    {
+      "route_id": "JAK.05",
+      "route_short_name": "JAK.05",
+      "route_long_name": "Semper - Rorotan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Semper dan Rorotan",
+      "weekdays": [
+        "05:41:04",
+        "05:41:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "stop_name": "Simpang Tiga 2",
+  "stop_id": "B05201P",
+  "latitude": -6.210983,
+  "longitude": 106.93935,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:57:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:29:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:42:39",
+        "06:20:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

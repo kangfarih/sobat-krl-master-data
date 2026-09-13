@@ -1,0 +1,21 @@
+{
+  "stop_name": "TPA As Sholihin",
+  "stop_id": "B05777P",
+  "latitude": -6.179921,
+  "longitude": 106.90687,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:18:39",
+        "05:18:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

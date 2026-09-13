@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Asam Kelapa Dua Wetan",
+  "stop_id": "B07169P",
+  "latitude": -6.33435,
+  "longitude": 106.8873,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:47:08",
+        "06:39:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Kantor Kel. Pisangan Baru",
+  "stop_id": "B06553P",
+  "latitude": -6.209053,
+  "longitude": 106.87114,
+  "routes": [
+    {
+      "route_id": "JAK.86",
+      "route_short_name": "JAK.86",
+      "route_long_name": "Term. Rawamangun - Term. Manggarai",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Term. Manggarai dan Term. Rawamangun",
+      "weekdays": [
+        "05:29:28",
+        "06:31:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. SMPN 148",
+  "stop_id": "B04469P",
+  "latitude": -6.218411,
+  "longitude": 106.89498,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:36:50",
+        "06:45:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

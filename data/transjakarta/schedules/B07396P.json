@@ -1,0 +1,22 @@
+{
+  "stop_name": "Puri Sakti 2",
+  "stop_id": "B07396P",
+  "latitude": -6.273018,
+  "longitude": 106.808563,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "05:20:11"
+      ],
+      "weekends": [
+        "05:20:11"
+      ]
+    }
+  ]
+}

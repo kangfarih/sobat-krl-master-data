@@ -1,0 +1,20 @@
+{
+  "stop_name": "Pertigaan Setu Rukun",
+  "stop_id": "B02783P",
+  "latitude": -6.307545,
+  "longitude": 106.91557,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:37:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

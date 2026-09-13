@@ -1,0 +1,25 @@
+{
+  "stop_name": "Dukuh Atas",
+  "stop_id": "G00024",
+  "latitude": -6.205621,
+  "longitude": 106.822203,
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "1",
+      "route_long_name": "Blok M - Kota",
+      "color": "D62126",
+      "category": "BRT",
+      "direction": "Tosari dan Blok M",
+      "weekdays": [
+        "05:28:24",
+        "05:28:31",
+        "05:28:32",
+        "05:28:33",
+        "06:28:49",
+        "08:28:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

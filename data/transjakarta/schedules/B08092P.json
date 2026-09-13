@@ -1,0 +1,21 @@
+{
+  "stop_name": "Gedung Pompa Rawa Malang",
+  "stop_id": "B08092P",
+  "latitude": -6.12618,
+  "longitude": 106.940501,
+  "routes": [
+    {
+      "route_id": "JAK.113",
+      "route_short_name": "JAK.113",
+      "route_long_name": "Tanah Merdeka - Kampung Sawah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Sawah dan Tanah Merdeka via Permai Koja",
+      "weekdays": [
+        "05:05:32",
+        "05:36:00"
+      ],
+      "weekends": []
+    }
+  ]
+}

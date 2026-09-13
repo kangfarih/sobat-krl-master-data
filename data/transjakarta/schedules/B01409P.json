@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Mundu",
+  "stop_id": "B01409P",
+  "latitude": -6.294375,
+  "longitude": 106.88957,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:05:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

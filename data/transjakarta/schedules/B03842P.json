@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Jln. Serba Guna Cijantung",
+  "stop_id": "B03842P",
+  "latitude": -6.325286,
+  "longitude": 106.85145,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:22:09",
+        "06:26:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

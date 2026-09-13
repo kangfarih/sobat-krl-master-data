@@ -1,0 +1,25 @@
+{
+  "stop_name": "Tol Barat 2",
+  "stop_id": "B07548P",
+  "latitude": -6.250045,
+  "longitude": 106.99167,
+  "routes": [
+    {
+      "route_id": "B11",
+      "route_short_name": "B11",
+      "route_long_name": "Bekasi Barat - Cawang",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Cawang dan Summarecon Bekasi",
+      "weekdays": [
+        "05:00:10",
+        "05:20:32",
+        "07:23:33"
+      ],
+      "weekends": [
+        "05:00:10",
+        "07:23:33"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Premier Terrace",
+  "stop_id": "B04240P",
+  "latitude": -6.329219,
+  "longitude": 106.87629,
+  "routes": [
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan Via Poncol",
+      "weekdays": [
+        "05:16:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:37:50",
+        "06:30:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

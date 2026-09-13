@@ -1,0 +1,21 @@
+{
+  "stop_name": "SMP 208 Ciracas",
+  "stop_id": "B07162P",
+  "latitude": -6.320181,
+  "longitude": 106.87752,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:31:42",
+        "06:23:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

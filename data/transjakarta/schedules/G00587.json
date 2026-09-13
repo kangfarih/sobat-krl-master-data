@@ -1,0 +1,52 @@
+{
+  "stop_name": "Mayestik",
+  "stop_id": "G00587",
+  "latitude": -6.241938,
+  "longitude": 106.790765,
+  "routes": [
+    {
+      "route_id": "13",
+      "route_short_name": "13",
+      "route_long_name": "Ciledug - Tegal Mampang",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Tegal Mampang dan Ciledug",
+      "weekdays": [
+        "01:23:55",
+        "05:22:08",
+        "05:22:09",
+        "05:22:15",
+        "05:56:51",
+        "06:35:46",
+        "23:07:45"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13B",
+      "route_short_name": "13B",
+      "route_long_name": "Puri Beta - Pancoran",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Pancoran dan Puri Beta",
+      "weekdays": [
+        "05:25:46",
+        "06:36:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "13E",
+      "route_short_name": "13E",
+      "route_long_name": "Puri Beta - Flyover Kuningan",
+      "color": "7A357B",
+      "category": "BRT",
+      "direction": "Flyover Kuningan dan Puri Beta",
+      "weekdays": [],
+      "weekends": [
+        "05:53:20",
+        "07:19:52"
+      ]
+    }
+  ]
+}

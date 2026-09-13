@@ -1,0 +1,46 @@
+{
+  "stop_name": "Sekolah Pami Jaya",
+  "stop_id": "B04644P",
+  "latitude": -6.248519,
+  "longitude": 106.92513,
+  "routes": [
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:16:54",
+        "05:17:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.84",
+      "route_short_name": "JAK.84",
+      "route_long_name": "Terminal Kampung Melayu - Kapin Raya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu",
+      "weekdays": [
+        "05:08:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.99",
+      "route_short_name": "JAK.99",
+      "route_long_name": "Term. Pulo Gadung - Lampiri",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lampiri dan Term. Pulo Gadung",
+      "weekdays": [
+        "05:08:10",
+        "06:10:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

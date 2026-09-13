@@ -1,0 +1,21 @@
+{
+  "stop_name": "Danau Sunter Barat",
+  "stop_id": "B07069P",
+  "latitude": -6.14686,
+  "longitude": 106.8695,
+  "routes": [
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "05:55:04",
+        "05:57:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

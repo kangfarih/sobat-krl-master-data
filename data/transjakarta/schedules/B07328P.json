@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Nawi Raya",
+  "stop_id": "B07328P",
+  "latitude": -6.263949,
+  "longitude": 106.79136,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:36:47"
+      ],
+      "weekends": []
+    }
+  ]
+}

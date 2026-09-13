@@ -1,0 +1,26 @@
+{
+  "stop_name": "Sbr. Yayasan Al Mahbubiyah",
+  "stop_id": "B07445P",
+  "latitude": -6.28949,
+  "longitude": 106.812745,
+  "routes": [
+    {
+      "route_id": "JAK.93",
+      "route_short_name": "JAK.93",
+      "route_long_name": "Jeruk Purut - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Jeruk Purut",
+      "weekdays": [
+        "06:05:04",
+        "06:10:38",
+        "07:26:07",
+        "07:31:44"
+      ],
+      "weekends": [
+        "06:05:04",
+        "07:26:07"
+      ]
+    }
+  ]
+}

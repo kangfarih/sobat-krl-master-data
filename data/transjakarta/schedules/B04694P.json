@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Adiaksa",
+  "stop_id": "B04694P",
+  "latitude": -6.298081,
+  "longitude": 106.774834,
+  "routes": [
+    {
+      "route_id": "JAK.03",
+      "route_short_name": "JAK.03",
+      "route_long_name": "Lebak Bulus - Andara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Andara",
+      "weekdays": [
+        "05:33:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.45",
+      "route_short_name": "JAK.45",
+      "route_long_name": "Lebak Bulus - Ragunan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Ragunan",
+      "weekdays": [
+        "05:07:32",
+        "06:18:24"
+      ],
+      "weekends": []
+    }
+  ]
+}

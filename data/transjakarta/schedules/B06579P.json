@@ -1,0 +1,64 @@
+{
+  "stop_name": "Blok M Jalur 4",
+  "stop_id": "B06579P",
+  "latitude": -6.243474,
+  "longitude": 106.80188,
+  "routes": [
+    {
+      "route_id": "1W",
+      "route_short_name": "1W",
+      "route_long_name": "Blok M - Ancol",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "07:13:38"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "P11",
+      "route_short_name": "P11",
+      "route_long_name": "Bogor - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "07:52:41",
+        "09:26:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "05:00:00",
+        "07:21:03",
+        "07:22:49"
+      ],
+      "weekends": [
+        "07:22:49"
+      ]
+    },
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:00:10",
+        "07:53:14"
+      ],
+      "weekends": []
+    }
+  ]
+}

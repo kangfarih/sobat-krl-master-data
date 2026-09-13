@@ -1,0 +1,20 @@
+{
+  "stop_name": "SDN Duren Sawit 02",
+  "stop_id": "B03363P",
+  "latitude": -6.22516,
+  "longitude": 106.91453,
+  "routes": [
+    {
+      "route_id": "JAK.39",
+      "route_short_name": "JAK.39",
+      "route_long_name": "Kalimalang - Duren Sawit",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Duren Sawit dan Kalimalang",
+      "weekdays": [
+        "05:33:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

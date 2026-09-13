@@ -1,0 +1,20 @@
+{
+  "stop_name": "Menara MTH",
+  "stop_id": "B02415P",
+  "latitude": -6.242955,
+  "longitude": 106.85501,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek via Cawang Kompor",
+      "weekdays": [
+        "05:31:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

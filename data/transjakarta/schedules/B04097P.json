@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Minimarket Pondok Kelapa",
+  "stop_id": "B04097P",
+  "latitude": -6.228599,
+  "longitude": 106.93531,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:48:21",
+        "06:52:51",
+        "06:59:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

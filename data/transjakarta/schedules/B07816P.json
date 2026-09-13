@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tlk Nimbung",
+  "stop_id": "B07816P",
+  "latitude": -6.12902,
+  "longitude": 106.777147,
+  "routes": [
+    {
+      "route_id": "JAK.78B",
+      "route_short_name": "JAK.78B",
+      "route_long_name": "Jembatan Tiga - Teluk Gong",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Teluk Gong dan Jembatan Tiga",
+      "weekdays": [
+        "05:25:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

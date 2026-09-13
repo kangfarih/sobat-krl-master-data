@@ -1,0 +1,33 @@
+{
+  "stop_name": "Jln. Trikora",
+  "stop_id": "B01690P",
+  "latitude": -6.304918,
+  "longitude": 106.86567,
+  "routes": [
+    {
+      "route_id": "7B",
+      "route_short_name": "7B",
+      "route_long_name": "Kampung Rambutan - Blok M",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Tendean dan Kampung Rambutan",
+      "weekdays": [
+        "05:12:20",
+        "05:12:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.72",
+      "route_short_name": "JAK.72",
+      "route_long_name": "Kampung Rambutan - Pasar Rebo via Poncol",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo Via Poncol",
+      "weekdays": [
+        "06:09:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

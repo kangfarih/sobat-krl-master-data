@@ -1,0 +1,20 @@
+{
+  "stop_name": "Menara Kelapa Gading",
+  "stop_id": "B02413P",
+  "latitude": -6.168901,
+  "longitude": 106.91591,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:48:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Lapangan Hankam",
+  "stop_id": "B02117P",
+  "latitude": -6.258139,
+  "longitude": 106.76796,
+  "routes": [
+    {
+      "route_id": "1Q",
+      "route_short_name": "1Q",
+      "route_long_name": "Rempoa - Blok M",
+      "color": "D65E62",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:11:56"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "8E",
+      "route_short_name": "8E",
+      "route_long_name": "Bintaro - Blok M",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:17:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

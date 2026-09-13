@@ -1,0 +1,23 @@
+{
+  "stop_name": "Sbr. Sekolah Tarsisius 2",
+  "stop_id": "B04400P",
+  "latitude": -6.199625,
+  "longitude": 106.78244,
+  "routes": [
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:49:09",
+        "05:49:11",
+        "05:49:12",
+        "08:12:38"
+      ],
+      "weekends": []
+    }
+  ]
+}

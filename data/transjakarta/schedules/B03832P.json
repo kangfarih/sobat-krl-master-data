@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. Jln. Sanggau Cideng",
+  "stop_id": "B03832P",
+  "latitude": -6.170165,
+  "longitude": 106.80401,
+  "routes": [
+    {
+      "route_id": "JAK.08",
+      "route_short_name": "JAK.08",
+      "route_long_name": "Tanah Abang - Benhil via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Benhil",
+      "weekdays": [
+        "05:12:15"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.09",
+      "route_short_name": "JAK.09",
+      "route_long_name": "Tanah Abang - Karet via Roxy",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Roxy dan Tanah Abang",
+      "weekdays": [
+        "05:12:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

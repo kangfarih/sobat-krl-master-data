@@ -1,0 +1,22 @@
+{
+  "stop_name": "Menara Syariah",
+  "stop_id": "B08128P",
+  "latitude": -6.067936,
+  "longitude": 106.705381,
+  "routes": [
+    {
+      "route_id": "T31",
+      "route_short_name": "T31",
+      "route_long_name": "PIK 2 - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Semanggi dan PIK 2",
+      "weekdays": [
+        "05:24:44"
+      ],
+      "weekends": [
+        "05:24:44"
+      ]
+    }
+  ]
+}

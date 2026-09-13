@@ -1,0 +1,33 @@
+{
+  "stop_name": "Komplek Angkasa Halim PK",
+  "stop_id": "B02018P",
+  "latitude": -6.26198,
+  "longitude": 106.886507,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:15:30",
+        "06:07:50"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:10:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

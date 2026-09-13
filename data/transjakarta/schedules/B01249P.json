@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kelapa Hybrida IV",
+  "stop_id": "B01249P",
+  "latitude": -6.146604,
+  "longitude": 106.90973,
+  "routes": [
+    {
+      "route_id": "JAK.59",
+      "route_short_name": "JAK.59",
+      "route_long_name": "Rawamangun - Rawa Sengon",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun",
+      "weekdays": [
+        "05:15:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "07:27:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

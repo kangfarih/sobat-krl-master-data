@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Perdagangan",
+  "stop_id": "B01475P",
+  "latitude": -6.305576,
+  "longitude": 106.91666,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:32:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

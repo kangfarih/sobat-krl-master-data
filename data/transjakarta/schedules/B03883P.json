@@ -1,0 +1,47 @@
+{
+  "stop_name": "Sbr. Jembatan Pintu Satu",
+  "stop_id": "B03883P",
+  "latitude": -6.300665,
+  "longitude": 106.88386,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:53:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.108",
+      "route_short_name": "JAK.108",
+      "route_long_name": "Kramat Jati - Bambu Apus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kramat Jati dan Bambu Apus",
+      "weekdays": [
+        "05:15:18",
+        "05:57:13",
+        "05:58:36"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.36",
+      "route_short_name": "JAK.36",
+      "route_long_name": "Cilangkap - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Cilangkap",
+      "weekdays": [
+        "05:29:15",
+        "06:33:44"
+      ],
+      "weekends": []
+    }
+  ]
+}

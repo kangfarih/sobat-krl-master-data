@@ -1,0 +1,34 @@
+{
+  "stop_name": "Gg. Marang",
+  "stop_id": "B00512P",
+  "latitude": -6.217246,
+  "longitude": 106.74855,
+  "routes": [
+    {
+      "route_id": "8D",
+      "route_short_name": "8D",
+      "route_long_name": "Joglo - Blok M via Meruya Selatan",
+      "color": "DD6AAB",
+      "category": "Non-BRT",
+      "direction": "Blok M",
+      "weekdays": [
+        "05:04:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.32",
+      "route_short_name": "JAK.32",
+      "route_long_name": "Joglo - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Joglo",
+      "weekdays": [
+        "05:00:10",
+        "06:23:26",
+        "07:42:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

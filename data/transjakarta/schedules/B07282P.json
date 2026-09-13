@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Kecapi 2",
+  "stop_id": "B07282P",
+  "latitude": -6.199739,
+  "longitude": 106.937584,
+  "routes": [
+    {
+      "route_id": "JAK.100",
+      "route_short_name": "JAK.100",
+      "route_long_name": "Term. Pulo Gebang - Rusun Pinus Elok",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Pinus Elok dan Term. Pulo Gebang",
+      "weekdays": [
+        "05:05:49",
+        "05:44:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

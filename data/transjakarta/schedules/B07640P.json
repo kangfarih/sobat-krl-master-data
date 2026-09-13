@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pulokambing Raya 2",
+  "stop_id": "B07640P",
+  "latitude": -6.198571,
+  "longitude": 106.910034,
+  "routes": [
+    {
+      "route_id": "11W",
+      "route_short_name": "11W",
+      "route_long_name": "St. Klender - Pulo Gadung via JIEP",
+      "color": "504f92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gadung via St. Klender dan JIEP",
+      "weekdays": [
+        "05:18:05"
+      ],
+      "weekends": []
+    }
+  ]
+}

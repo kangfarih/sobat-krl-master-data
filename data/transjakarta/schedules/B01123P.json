@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Mawar Sunter",
+  "stop_id": "B01123P",
+  "latitude": -6.157856,
+  "longitude": 106.86771,
+  "routes": [
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "06:44:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

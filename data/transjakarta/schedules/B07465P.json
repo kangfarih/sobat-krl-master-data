@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Bangka Raya",
+  "stop_id": "B07465P",
+  "latitude": -6.254179,
+  "longitude": 106.814418,
+  "routes": [
+    {
+      "route_id": "6W",
+      "route_short_name": "6W",
+      "route_long_name": "Duren Tiga - Blok M via Bangka Raya",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Duren Tiga dan Blok M via Bangka Raya",
+      "weekdays": [
+        "06:19:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

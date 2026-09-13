@@ -1,0 +1,34 @@
+{
+  "stop_name": "Sbr. Taman Wiladatika",
+  "stop_id": "B04538P",
+  "latitude": -6.369769,
+  "longitude": 106.89298,
+  "routes": [
+    {
+      "route_id": "JAK.28",
+      "route_short_name": "JAK.28",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Bulak Sereh",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan St. LRT Harjamukti",
+      "weekdays": [
+        "05:47:43",
+        "06:25:48"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:54:34",
+        "06:39:39"
+      ],
+      "weekends": []
+    }
+  ]
+}

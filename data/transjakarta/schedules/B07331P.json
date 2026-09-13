@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Masjid Al Musyawarah Pondok Indah",
+  "stop_id": "B07331P",
+  "latitude": -6.26398,
+  "longitude": 106.779282,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:44:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

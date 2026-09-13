@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Melati",
+  "stop_id": "B01379P",
+  "latitude": -6.272865,
+  "longitude": 106.8769,
+  "routes": [
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:10:02"
+      ],
+      "weekends": []
+    }
+  ]
+}

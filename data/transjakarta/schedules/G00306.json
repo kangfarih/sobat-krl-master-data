@@ -1,0 +1,35 @@
+{
+  "stop_name": "Ragunan",
+  "stop_id": "G00306",
+  "latitude": -6.305712,
+  "longitude": 106.818835,
+  "routes": [
+    {
+      "route_id": "6B",
+      "route_short_name": "6B",
+      "route_long_name": "Ragunan - Balai Kota via Semanggi",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Kebon Sirih dan Ragunan",
+      "weekdays": [
+        "05:00:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6V",
+      "route_short_name": "6V",
+      "route_long_name": "Ragunan - Senayan Bank Jakarta",
+      "color": "1BAC47",
+      "category": "BRT",
+      "direction": "Senayan BANK Jakarta dan Ragunan",
+      "weekdays": [
+        "05:00:10",
+        "13:30:10"
+      ],
+      "weekends": [
+        "05:00:10"
+      ]
+    }
+  ]
+}

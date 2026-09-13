@@ -1,0 +1,45 @@
+{
+  "stop_name": "Cililitan",
+  "stop_id": "G00327",
+  "latitude": -6.262484,
+  "longitude": 106.866388,
+  "routes": [
+    {
+      "route_id": "7",
+      "route_short_name": "7",
+      "route_long_name": "Kampung Rambutan - Kampung Melayu",
+      "color": "914900",
+      "category": "BRT",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:32:09"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7Q",
+      "route_short_name": "7Q",
+      "route_long_name": "Blok M - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Blok M",
+      "weekdays": [
+        "06:12:23"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "06:20:15",
+        "07:23:59"
+      ],
+      "weekends": []
+    }
+  ]
+}

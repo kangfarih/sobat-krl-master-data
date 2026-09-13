@@ -1,0 +1,21 @@
+{
+  "stop_name": "Pulo Gebang",
+  "stop_id": "G00514",
+  "latitude": -6.213326,
+  "longitude": 106.953223,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:00:10",
+        "06:09:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

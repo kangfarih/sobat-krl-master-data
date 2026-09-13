@@ -1,0 +1,46 @@
+{
+  "stop_name": "Masjid Jami Al Mamur Bukit Duri",
+  "stop_id": "B02320P",
+  "latitude": -6.225059,
+  "longitude": 106.85606,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:53:13"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:12:58"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:41:15",
+        "06:23:27",
+        "07:05:42"
+      ],
+      "weekends": []
+    }
+  ]
+}

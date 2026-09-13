@@ -1,0 +1,56 @@
+{
+  "stop_name": "Epicentrum Selatan",
+  "stop_id": "B00389P",
+  "latitude": -6.22414,
+  "longitude": 106.83303,
+  "routes": [
+    {
+      "route_id": "6C",
+      "route_short_name": "6C",
+      "route_long_name": "Stasiun Tebet - Kuningan",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Kuningan dan Stasiun Tebet",
+      "weekdays": [
+        "05:29:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "6P",
+      "route_short_name": "6P",
+      "route_long_name": "Cibubur - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cibubur",
+      "weekdays": [
+        "16:38:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "B14",
+      "route_short_name": "B14",
+      "route_long_name": "Bekasi Barat - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bekasi Barat",
+      "weekdays": [
+        "16:38:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "D31",
+      "route_short_name": "D31",
+      "route_long_name": "Cinere - Kuningan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Cinere",
+      "weekdays": [
+        "16:36:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

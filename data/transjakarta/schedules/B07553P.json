@@ -1,0 +1,22 @@
+{
+  "stop_name": "Penjaringan 1",
+  "stop_id": "B07553P",
+  "latitude": -6.126005,
+  "longitude": 106.7917802,
+  "routes": [
+    {
+      "route_id": "12C",
+      "route_short_name": "12C",
+      "route_long_name": "Rusun Waduk Pluit - Penjaringan",
+      "color": "A8BFA8",
+      "category": "Rusun",
+      "direction": "Penjaringan dan Rusun Waduk Pluit",
+      "weekdays": [
+        "05:00:10",
+        "05:29:00",
+        "05:29:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

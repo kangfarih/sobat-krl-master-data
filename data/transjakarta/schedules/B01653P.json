@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tanah Abang V",
+  "stop_id": "B01653P",
+  "latitude": -6.179361,
+  "longitude": 106.8182,
+  "routes": [
+    {
+      "route_id": "JAK.10",
+      "route_short_name": "JAK.10",
+      "route_long_name": "Tanah Abang - Kota",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota dan Tanah Abang",
+      "weekdays": [
+        "05:06:22"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stop_name": "Palem Semi 1",
+  "stop_id": "B02556P",
+  "latitude": -6.218812,
+  "longitude": 106.61807,
+  "routes": [
+    {
+      "route_id": "T11",
+      "route_short_name": "T11",
+      "route_long_name": "Poris Plawad - Petamburan",
+      "color": "FFFF6D",
+      "category": "Transjabodetabek",
+      "direction": "Petamburan dan Poris Plawad",
+      "weekdays": [
+        "05:00:10",
+        "05:43:46",
+        "05:43:47",
+        "07:01:37",
+        "08:54:41"
+      ],
+      "weekends": []
+    }
+  ]
+}

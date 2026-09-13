@@ -1,0 +1,21 @@
+{
+  "stop_name": "Simpang Teratai Putih Nusa Indah",
+  "stop_id": "B05195P",
+  "latitude": -6.218319,
+  "longitude": 106.93118,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:02:22",
+        "05:02:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

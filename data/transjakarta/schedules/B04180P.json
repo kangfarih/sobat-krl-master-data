@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. PAUD Tunas Bahari",
+  "stop_id": "B04180P",
+  "latitude": -6.236813,
+  "longitude": 106.915,
+  "routes": [
+    {
+      "route_id": "JAK.85",
+      "route_short_name": "JAK.85",
+      "route_long_name": "Bintara - Cipinang Indah",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipinang Indah dan Bintara",
+      "weekdays": [
+        "05:29:20",
+        "06:33:49",
+        "06:40:52"
+      ],
+      "weekends": []
+    }
+  ]
+}

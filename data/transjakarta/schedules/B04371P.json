@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SDN Srengseng Sawah 01",
+  "stop_id": "B04371P",
+  "latitude": -6.332916,
+  "longitude": 106.83378,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "05:44:46"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "stop_name": "Renata",
+  "stop_id": "B08110P",
+  "latitude": -6.223681,
+  "longitude": 106.66344,
+  "routes": [
+    {
+      "route_id": "S61",
+      "route_short_name": "S61",
+      "route_long_name": "Alam Sutera - Blok M",
+      "color": "ffff6d",
+      "category": "Transjabodetabek",
+      "direction": "Blok M dan Alam Sutera",
+      "weekdays": [
+        "06:57:18",
+        "09:06:06",
+        "09:19:37"
+      ],
+      "weekends": [
+        "09:06:06",
+        "09:19:37"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Cibubur IV",
+  "stop_id": "B00994P",
+  "latitude": -6.34947,
+  "longitude": 106.87613,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Bulak Ringin",
+      "weekdays": [
+        "05:59:43"
+      ],
+      "weekends": []
+    }
+  ]
+}

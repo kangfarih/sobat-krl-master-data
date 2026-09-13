@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Daud I Sukabumi Utara",
+  "stop_id": "B01033P",
+  "latitude": -6.206437,
+  "longitude": 106.77434,
+  "routes": [
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Grogol",
+      "weekdays": [
+        "05:11:23"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "stop_name": "Imigrasi Kelas I Jaksel",
+  "stop_id": "B00794P",
+  "latitude": -6.273244,
+  "longitude": 106.77478,
+  "routes": [
+    {
+      "route_id": "JAK.102",
+      "route_short_name": "JAK.102",
+      "route_long_name": "Blok M - Lebak Bulus",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lebak Bulus dan Blok M",
+      "weekdays": [
+        "05:55:25"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.49",
+      "route_short_name": "JAK.49",
+      "route_long_name": "Lebak Bulus - Cipulir",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cipulir dan Lebak Bulus",
+      "weekdays": [
+        "06:12:48",
+        "07:32:08"
+      ],
+      "weekends": []
+    }
+  ]
+}

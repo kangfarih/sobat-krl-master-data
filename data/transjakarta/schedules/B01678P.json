@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Teratai Cililitan",
+  "stop_id": "B01678P",
+  "latitude": -6.269234,
+  "longitude": 106.86015,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:46:28"
+      ],
+      "weekends": []
+    }
+  ]
+}

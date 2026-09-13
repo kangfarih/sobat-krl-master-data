@@ -1,0 +1,33 @@
+{
+  "stop_name": "Cikoko Arah Timur",
+  "stop_id": "G00732",
+  "latitude": -6.242993,
+  "longitude": 106.858082,
+  "routes": [
+    {
+      "route_id": "7D",
+      "route_short_name": "7D",
+      "route_long_name": "TMII - Pancoran",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Pancoran dan Kampung Rambutan",
+      "weekdays": [
+        "06:14:18"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "9A",
+      "route_short_name": "9A",
+      "route_long_name": "Cililitan - Grogol",
+      "color": "45A49E",
+      "category": "BRT",
+      "direction": "Kota Bambu dan Cililitan",
+      "weekdays": [
+        "06:01:19",
+        "07:05:03"
+      ],
+      "weekends": []
+    }
+  ]
+}

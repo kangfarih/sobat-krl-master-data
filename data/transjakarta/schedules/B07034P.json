@@ -1,0 +1,34 @@
+{
+  "stop_name": "Jln. H. Hanafi",
+  "stop_id": "B07034P",
+  "latitude": -6.228604,
+  "longitude": 106.893134,
+  "routes": [
+    {
+      "route_id": "JAK.105",
+      "route_short_name": "JAK.105",
+      "route_long_name": "Stasiun Tebet - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Tebet dan Cipinang Muara",
+      "weekdays": [
+        "05:33:37",
+        "06:19:06"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.74",
+      "route_short_name": "JAK.74",
+      "route_long_name": "Terminal Rawamangun - Cipinang Muara",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Cipinang Muara",
+      "weekdays": [
+        "05:40:25",
+        "06:37:21"
+      ],
+      "weekends": []
+    }
+  ]
+}

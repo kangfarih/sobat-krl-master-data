@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. Jln. Warakas I Gg. 8",
+  "stop_id": "B06888P",
+  "latitude": -6.117617,
+  "longitude": 106.87667,
+  "routes": [
+    {
+      "route_id": "JAK.77",
+      "route_short_name": "JAK.77",
+      "route_long_name": "Tanjung Priok - Jembatan Item",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanjung Priok",
+      "weekdays": [
+        "05:52:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

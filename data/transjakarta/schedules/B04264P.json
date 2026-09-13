@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Puskesmas Tambora",
+  "stop_id": "B04264P",
+  "latitude": -6.14751,
+  "longitude": 106.80728,
+  "routes": [
+    {
+      "route_id": "JAK.13",
+      "route_short_name": "JAK.13",
+      "route_long_name": "Tanah Abang - Jembatan Lima",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kota Intan",
+      "weekdays": [
+        "05:17:47",
+        "05:17:55"
+      ],
+      "weekends": []
+    }
+  ]
+}

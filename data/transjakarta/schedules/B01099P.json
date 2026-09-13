@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. H. Buang",
+  "stop_id": "B01099P",
+  "latitude": -6.296921,
+  "longitude": 106.89716,
+  "routes": [
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:11:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

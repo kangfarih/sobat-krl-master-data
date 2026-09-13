@@ -1,0 +1,21 @@
+{
+  "stop_name": "Paud Al Arif",
+  "stop_id": "B08426P",
+  "latitude": -6.291787,
+  "longitude": 106.854991,
+  "routes": [
+    {
+      "route_id": "JAK.37",
+      "route_short_name": "JAK.37",
+      "route_long_name": "Cililitan - Condet via Kayu Manis",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Condet",
+      "weekdays": [
+        "05:35:34",
+        "06:29:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

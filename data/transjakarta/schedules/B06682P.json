@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Bisma Raya 2",
+  "stop_id": "B06682P",
+  "latitude": -6.132686,
+  "longitude": 106.86793,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:05:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.90",
+      "route_short_name": "JAK.90",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Term. Tanjung Priok",
+      "weekdays": [
+        "06:49:34"
+      ],
+      "weekends": []
+    }
+  ]
+}

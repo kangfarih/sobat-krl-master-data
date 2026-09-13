@@ -1,0 +1,32 @@
+{
+  "stop_name": "Cililitan Besar 1",
+  "stop_id": "B00255P",
+  "latitude": -6.263567,
+  "longitude": 106.86709,
+  "routes": [
+    {
+      "route_id": "JAK.21",
+      "route_short_name": "JAK.21",
+      "route_long_name": "Cililitan - Dwikora",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:26:19"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan",
+      "weekdays": [
+        "05:21:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Timbul IV",
+  "stop_id": "B01683P",
+  "latitude": -6.350916,
+  "longitude": 106.80771,
+  "routes": [
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "06:21:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.64",
+      "route_short_name": "JAK.64",
+      "route_long_name": "Lenteng Agung - Aseli",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Lenteng Agung dan Aseli",
+      "weekdays": [
+        "06:16:51"
+      ],
+      "weekends": []
+    }
+  ]
+}

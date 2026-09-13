@@ -1,0 +1,69 @@
+{
+  "stop_name": "Ruko Enggano",
+  "stop_id": "B03236P",
+  "latitude": -6.10982,
+  "longitude": 106.88493,
+  "routes": [
+    {
+      "route_id": "10A",
+      "route_short_name": "10A",
+      "route_long_name": "Rusun Marunda - Tanjung Priok",
+      "color": "9B7172",
+      "category": "Rusun",
+      "direction": "Tanjung Priok dan Rusun Marunda",
+      "weekdays": [
+        "06:01:42"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:02:27",
+        "06:21:35"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.117",
+      "route_short_name": "JAK.117",
+      "route_long_name": "Tanjung Priok - Tanah Merdeka",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka",
+      "weekdays": [
+        "05:02:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.15",
+      "route_short_name": "JAK.15",
+      "route_long_name": "Terminal Tanjung Priok - Rusun Marunda",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Marunda",
+      "weekdays": [
+        "05:02:27"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.29",
+      "route_short_name": "JAK.29",
+      "route_long_name": "Tanjung Priok - Sukapura",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Sukapura",
+      "weekdays": [
+        "05:02:17"
+      ],
+      "weekends": []
+    }
+  ]
+}

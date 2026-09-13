@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Swasembada Barat VIII",
+  "stop_id": "B01631P",
+  "latitude": -6.123894,
+  "longitude": 106.88502,
+  "routes": [
+    {
+      "route_id": "JAK.01",
+      "route_short_name": "JAK.01",
+      "route_long_name": "Tanjung Priok - Plumpang",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Plumpang dan Tanjung Priok",
+      "weekdays": [
+        "05:21:16",
+        "05:59:49"
+      ],
+      "weekends": []
+    }
+  ]
+}

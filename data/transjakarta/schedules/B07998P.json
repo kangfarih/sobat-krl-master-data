@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Pedurenan",
+  "stop_id": "B07998P",
+  "latitude": -6.277194,
+  "longitude": 106.820336,
+  "routes": [
+    {
+      "route_id": "6N",
+      "route_short_name": "6N",
+      "route_long_name": "Ragunan - Blok M via Kemang",
+      "color": "4CAC67",
+      "category": "Non-BRT",
+      "direction": "Blok M via Kemang",
+      "weekdays": [
+        "05:19:27"
+      ],
+      "weekends": []
+    }
+  ]
+}

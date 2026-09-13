@@ -1,0 +1,36 @@
+{
+  "stop_name": "Jln. Masjid Al Anwar Sukabumi Selatan",
+  "stop_id": "B01368P",
+  "latitude": -6.210884,
+  "longitude": 106.78348,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:20:55",
+        "05:21:07",
+        "06:19:59",
+        "07:40:49"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:37:11",
+        "05:56:54"
+      ],
+      "weekends": []
+    }
+  ]
+}

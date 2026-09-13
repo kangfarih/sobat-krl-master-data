@@ -1,0 +1,32 @@
+{
+  "stop_name": "Masjid Raya Uswatun Hasanah",
+  "stop_id": "B02384P",
+  "latitude": -6.158576,
+  "longitude": 106.764117,
+  "routes": [
+    {
+      "route_id": "3D",
+      "route_short_name": "3D",
+      "route_long_name": "Taman Kota - Penjaringan via Tubagus Angke",
+      "color": "FDDB6A",
+      "category": "Non-BRT",
+      "direction": "Taman Kota via Tubagus Angke dan Penjaringan",
+      "weekdays": [
+        "06:17:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.107",
+      "route_short_name": "JAK.107",
+      "route_long_name": "Jembatan Garden - Puri Beta",
+      "color": "00609c",
+      "category": "Mikrotrans",
+      "direction": "Puri Beta",
+      "weekdays": [
+        "05:00:57"
+      ],
+      "weekends": []
+    }
+  ]
+}

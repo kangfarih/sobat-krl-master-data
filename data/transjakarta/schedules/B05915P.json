@@ -1,0 +1,33 @@
+{
+  "stop_name": "Yayasan Asih Budi",
+  "stop_id": "B05915P",
+  "latitude": -6.229867,
+  "longitude": 106.92007,
+  "routes": [
+    {
+      "route_id": "JAK.34",
+      "route_short_name": "JAK.34",
+      "route_long_name": "Rawamangun - Klender",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rawamangun dan Klender",
+      "weekdays": [
+        "05:40:40",
+        "06:52:47"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "07:07:11"
+      ],
+      "weekends": []
+    }
+  ]
+}

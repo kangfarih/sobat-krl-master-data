@@ -1,0 +1,22 @@
+{
+  "stop_name": "Sbr. Ps. Bukit Duri",
+  "stop_id": "B04133P",
+  "latitude": -6.217564,
+  "longitude": 106.85417,
+  "routes": [
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "06:00:41",
+        "06:47:59",
+        "07:01:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

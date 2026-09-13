@@ -1,0 +1,62 @@
+{
+  "stop_name": "Cawang Cililitan",
+  "stop_id": "G00335",
+  "latitude": -6.257707,
+  "longitude": 106.870045,
+  "routes": [
+    {
+      "route_id": "10",
+      "route_short_name": "10",
+      "route_long_name": "Tanjung Priok - PGC",
+      "color": "9b1f21",
+      "category": "BRT",
+      "direction": "Sunter Kelapa Gading dan PGC",
+      "weekdays": [
+        "06:28:13",
+        "07:15:41",
+        "07:58:31"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "5C",
+      "route_short_name": "5C",
+      "route_long_name": "Cililitan - Juanda",
+      "color": "D46425",
+      "category": "BRT",
+      "direction": "Pecenongan dan Cililitan",
+      "weekdays": [
+        "06:03:48",
+        "07:16:29",
+        "07:21:07",
+        "07:36:02"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7C",
+      "route_short_name": "7C",
+      "route_long_name": "Cibubur - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Cibubur",
+      "weekdays": [
+        "06:01:32"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "7P",
+      "route_short_name": "7P",
+      "route_long_name": "Pondok Kelapa - Cawang Cililitan",
+      "color": "916131",
+      "category": "Non-BRT",
+      "direction": "Cawang Cililitan dan Pondok Kelapa",
+      "weekdays": [
+        "05:56:17",
+        "05:57:19"
+      ],
+      "weekends": []
+    }
+  ]
+}

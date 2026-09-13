@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sekolah Cahaya Sakti Otista I",
+  "stop_id": "B04623P",
+  "latitude": -6.225391,
+  "longitude": 106.86708,
+  "routes": [
+    {
+      "route_id": "11Q",
+      "route_short_name": "11Q",
+      "route_long_name": "Kampung Melayu - Pulo Gebang via BKT",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Kampung Melayu dan Pulo Gebang",
+      "weekdays": [
+        "06:07:32",
+        "06:07:40"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.41",
+      "route_short_name": "JAK.41",
+      "route_long_name": "Kampung Melayu - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pulo Gadung",
+      "weekdays": [
+        "05:05:45"
+      ],
+      "weekends": []
+    }
+  ]
+}

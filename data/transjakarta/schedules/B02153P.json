@@ -1,0 +1,20 @@
+{
+  "stop_name": "Lotte Mall Kelapa Gading 2",
+  "stop_id": "B02153P",
+  "latitude": -6.154794,
+  "longitude": 106.89603,
+  "routes": [
+    {
+      "route_id": "JAK.61",
+      "route_short_name": "JAK.61",
+      "route_long_name": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cempaka Putih dan Pulo Gadung",
+      "weekdays": [
+        "06:50:20"
+      ],
+      "weekends": []
+    }
+  ]
+}

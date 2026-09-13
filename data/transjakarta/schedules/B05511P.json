@@ -1,0 +1,48 @@
+{
+  "stop_name": "St. Tebet 2",
+  "stop_id": "B05511P",
+  "latitude": -6.225525,
+  "longitude": 106.85813,
+  "routes": [
+    {
+      "route_id": "JAK.18",
+      "route_short_name": "JAK.18",
+      "route_long_name": "Kalibata - Kuningan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kuningan dan Kalibata",
+      "weekdays": [
+        "06:54:24"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.43B",
+      "route_short_name": "JAK.43B",
+      "route_long_name": "Tongtek - Tebet Eco Park (TEP) - Cililitan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cililitan dan Tongtek",
+      "weekdays": [
+        "05:14:10"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.48A",
+      "route_short_name": "JAK.48A",
+      "route_long_name": "Stasiun Tebet - Karet",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Karet Tengsin dan St. Tebet",
+      "weekdays": [
+        "05:00:10",
+        "05:42:26",
+        "06:00:10",
+        "06:24:38",
+        "07:06:53"
+      ],
+      "weekends": []
+    }
+  ]
+}

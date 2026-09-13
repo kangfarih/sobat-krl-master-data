@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Yayasan Perguruan Rakyat",
+  "stop_id": "B04602P",
+  "latitude": -6.228811,
+  "longitude": 106.89897,
+  "routes": [
+    {
+      "route_id": "JAK.42",
+      "route_short_name": "JAK.42",
+      "route_long_name": "Kampung Melayu - Pondok Kelapa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Melayu dan Pondok Kelapa",
+      "weekdays": [
+        "05:45:37",
+        "06:54:40"
+      ],
+      "weekends": []
+    }
+  ]
+}

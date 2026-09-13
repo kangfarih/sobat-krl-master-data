@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Tj. Duren Timur I",
+  "stop_id": "B01659P",
+  "latitude": -6.181546,
+  "longitude": 106.79251,
+  "routes": [
+    {
+      "route_id": "JAK.53",
+      "route_short_name": "JAK.53",
+      "route_long_name": "Grogol - Pos Pengumben via Slipi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pos Pengumben dan Grogol",
+      "weekdays": [
+        "05:25:26"
+      ],
+      "weekends": []
+    }
+  ]
+}

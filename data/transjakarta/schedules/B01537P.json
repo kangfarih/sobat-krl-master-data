@@ -1,0 +1,20 @@
+{
+  "stop_name": "Jln. Rawa Indah",
+  "stop_id": "B01537P",
+  "latitude": -6.266569,
+  "longitude": 106.91152,
+  "routes": [
+    {
+      "route_id": "4F",
+      "route_short_name": "4F",
+      "route_long_name": "Pinang Ranti - Pulo Gadung",
+      "color": "553C62",
+      "category": "Non-BRT",
+      "direction": "Pinang Ranti",
+      "weekdays": [
+        "05:59:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

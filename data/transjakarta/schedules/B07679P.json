@@ -1,0 +1,32 @@
+{
+  "stop_name": "Sbr. United Tractors Belakang",
+  "stop_id": "B07679P",
+  "latitude": -6.18722,
+  "longitude": 106.933342,
+  "routes": [
+    {
+      "route_id": "11D",
+      "route_short_name": "11D",
+      "route_long_name": "Pulo Gebang - Pulo Gadung via PIK",
+      "color": "504F92",
+      "category": "Non-BRT",
+      "direction": "Pulo Gebang",
+      "weekdays": [
+        "05:17:34"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "11R",
+      "route_short_name": "11R",
+      "route_long_name": "Rusun Cakung KM 2 - Penggilingan via Rusun PIK",
+      "color": "717092",
+      "category": "Rusun",
+      "direction": "Penggilingan dan Rusun Cakung KM 2",
+      "weekdays": [
+        "05:05:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

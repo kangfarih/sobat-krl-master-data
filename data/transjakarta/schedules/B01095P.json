@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. H. Ali Solihin Cibubur",
+  "stop_id": "B01095P",
+  "latitude": -6.359265,
+  "longitude": 106.87595,
+  "routes": [
+    {
+      "route_id": "JAK.38",
+      "route_short_name": "JAK.38",
+      "route_long_name": "Bulak Ringin - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:00:10",
+        "06:11:06"
+      ],
+      "weekends": []
+    }
+  ]
+}

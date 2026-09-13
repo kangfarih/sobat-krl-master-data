@@ -1,0 +1,32 @@
+{
+  "stop_name": "Jln. Kapuk Bambu Apus",
+  "stop_id": "B01203P",
+  "latitude": -6.30636,
+  "longitude": 106.91366,
+  "routes": [
+    {
+      "route_id": "JAK.06",
+      "route_short_name": "JAK.06",
+      "route_long_name": "Kampung Rambutan - Pondok Gede",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pondok Gede",
+      "weekdays": [
+        "05:47:28"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.19",
+      "route_short_name": "JAK.19",
+      "route_long_name": "Pinang Ranti - Kampung Rambutan",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Rambutan",
+      "weekdays": [
+        "05:33:04"
+      ],
+      "weekends": []
+    }
+  ]
+}

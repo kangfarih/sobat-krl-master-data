@@ -1,0 +1,21 @@
+{
+  "stop_name": "Sbr. Villa Cibubur Indah",
+  "stop_id": "B04583P",
+  "latitude": -6.360054,
+  "longitude": 106.88891,
+  "routes": [
+    {
+      "route_id": "JAK.73",
+      "route_short_name": "JAK.73",
+      "route_long_name": "Pasar Rebo - St. LRT Harjamukti via Jln. Kiwi",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Jambore",
+      "weekdays": [
+        "05:46:45",
+        "06:31:50"
+      ],
+      "weekends": []
+    }
+  ]
+}

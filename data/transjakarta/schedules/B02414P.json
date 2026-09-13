@@ -1,0 +1,20 @@
+{
+  "stop_name": "Menara Mandiri",
+  "stop_id": "B02414P",
+  "latitude": -6.223667,
+  "longitude": 106.8071,
+  "routes": [
+    {
+      "route_id": "D32",
+      "route_short_name": "D32",
+      "route_long_name": "Cinere - Bundaran Senayan",
+      "color": "9C4782",
+      "category": "Royaltrans",
+      "direction": "Bundaran Senayan",
+      "weekdays": [
+        "07:37:10"
+      ],
+      "weekends": []
+    }
+  ]
+}

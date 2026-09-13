@@ -1,0 +1,33 @@
+{
+  "stop_name": "Simpang Kelapa Nias Pegangsaan",
+  "stop_id": "B04920P",
+  "latitude": -6.154678,
+  "longitude": 106.91592,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah dan Pulo Gadung",
+      "weekdays": [
+        "05:52:29",
+        "05:53:20"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.60",
+      "route_short_name": "JAK.60",
+      "route_long_name": "Kelapa Gading - Rusun Kemayoran",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Rusun Kemayoran dan Kelapa Gading",
+      "weekdays": [
+        "05:21:32"
+      ],
+      "weekends": []
+    }
+  ]
+}

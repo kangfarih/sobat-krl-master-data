@@ -1,0 +1,21 @@
+{
+  "stop_name": "Jln. Saluran Ciracas",
+  "stop_id": "B07170P",
+  "latitude": -6.336904,
+  "longitude": 106.88758,
+  "routes": [
+    {
+      "route_id": "JAK.98",
+      "route_short_name": "JAK.98",
+      "route_long_name": "Pasar Rebo - Munjul",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merdeka dan Munjul",
+      "weekdays": [
+        "05:19:01",
+        "05:19:13"
+      ],
+      "weekends": []
+    }
+  ]
+}

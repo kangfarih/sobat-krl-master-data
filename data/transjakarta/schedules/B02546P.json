@@ -1,0 +1,21 @@
+{
+  "stop_name": "Padang Golf Halim 2",
+  "stop_id": "B02546P",
+  "latitude": -6.281522,
+  "longitude": 106.89131,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:13:07",
+        "05:13:18"
+      ],
+      "weekends": []
+    }
+  ]
+}

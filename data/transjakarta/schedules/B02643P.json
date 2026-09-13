@@ -1,0 +1,45 @@
+{
+  "stop_name": "Ps. Mandiri Kelapa Gading",
+  "stop_id": "B02643P",
+  "latitude": -6.160819,
+  "longitude": 106.90862,
+  "routes": [
+    {
+      "route_id": "JAK.112",
+      "route_short_name": "JAK.112",
+      "route_long_name": "Terminal Tanah Merah - Pulo Gadung",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Merah",
+      "weekdays": [
+        "05:44:01"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.115",
+      "route_short_name": "JAK.115",
+      "route_long_name": "Term. Tj. Priok - Pegangsaan II IGI",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Terminal Tj. Priok dan Pegangsaan II IGI",
+      "weekdays": [
+        "05:16:04",
+        "05:16:17"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.24",
+      "route_short_name": "JAK.24",
+      "route_long_name": "Senen - Pulo Gadung via Kelapa Gading",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Senen Via Kelapa Gading",
+      "weekdays": [
+        "05:37:30"
+      ],
+      "weekends": []
+    }
+  ]
+}

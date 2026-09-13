@@ -1,0 +1,33 @@
+{
+  "stop_name": "Sbr. Gg. Ahmad Squadron",
+  "stop_id": "B03497P",
+  "latitude": -6.269167,
+  "longitude": 106.87759,
+  "routes": [
+    {
+      "route_id": "JAK.20",
+      "route_short_name": "JAK.20",
+      "route_long_name": "Cawang Sentral - Lubang Buaya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Cawang Sentral dan Lubang Buaya",
+      "weekdays": [
+        "05:25:57",
+        "06:18:11"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.75",
+      "route_short_name": "JAK.75",
+      "route_long_name": "Cililitan - Kampung Pulo",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kampung Pulo",
+      "weekdays": [
+        "05:35:16"
+      ],
+      "weekends": []
+    }
+  ]
+}

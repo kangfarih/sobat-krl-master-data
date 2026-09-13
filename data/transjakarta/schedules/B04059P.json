@@ -1,0 +1,32 @@
+{
+  "stop_name": "Kelurahan Baru Jagakarsa",
+  "stop_id": "B04059P",
+  "latitude": -6.326724,
+  "longitude": 106.822687,
+  "routes": [
+    {
+      "route_id": "JAK.44",
+      "route_short_name": "JAK.44",
+      "route_long_name": "Andara - Stasiun Universitas Pancasila",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Stasiun Universitas Pancasila dan Andara",
+      "weekdays": [
+        "06:19:26"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.46",
+      "route_short_name": "JAK.46",
+      "route_long_name": "Pasar Minggu - Jagakarsa",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Jagakarsa",
+      "weekdays": [
+        "05:59:01"
+      ],
+      "weekends": []
+    }
+  ]
+}

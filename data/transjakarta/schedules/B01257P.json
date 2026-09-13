@@ -1,0 +1,64 @@
+{
+  "stop_name": "Jln. Kemandoran III Grogol Utara",
+  "stop_id": "B01257P",
+  "latitude": -6.20692,
+  "longitude": 106.785842,
+  "routes": [
+    {
+      "route_id": "JAK.11",
+      "route_short_name": "JAK.11",
+      "route_long_name": "Tanah Abang - Kebayoran Lama",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kebayoran Lama dan Tanah Abang",
+      "weekdays": [
+        "05:34:48",
+        "05:41:31",
+        "07:34:55"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.12",
+      "route_short_name": "JAK.12",
+      "route_long_name": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Kebayoran Lama",
+      "weekdays": [
+        "05:34:39",
+        "05:35:06",
+        "06:06:10",
+        "06:41:21"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.14",
+      "route_short_name": "JAK.14",
+      "route_long_name": "Tanah Abang - Meruya",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Tanah Abang dan Meruya",
+      "weekdays": [
+        "05:34:54",
+        "06:11:27",
+        "06:55:20",
+        "07:35:12"
+      ],
+      "weekends": []
+    },
+    {
+      "route_id": "JAK.56",
+      "route_short_name": "JAK.56",
+      "route_long_name": "Pesing - Srengseng",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Srengseng",
+      "weekdays": [
+        "06:06:33"
+      ],
+      "weekends": []
+    }
+  ]
+}

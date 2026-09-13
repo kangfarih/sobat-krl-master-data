@@ -1,0 +1,20 @@
+{
+  "stop_name": "Sbr. SMKN 23",
+  "stop_id": "B06693P",
+  "latitude": -6.137518,
+  "longitude": 106.84278,
+  "routes": [
+    {
+      "route_id": "JAK.118",
+      "route_short_name": "JAK.118",
+      "route_long_name": "Waduk Papanggo - Kota Tua",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Kota Tua dan Waduk Papanggo",
+      "weekdays": [
+        "05:51:07"
+      ],
+      "weekends": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stop_name": "Masjid Al Jadid Cijantung",
+  "stop_id": "B02247P",
+  "latitude": -6.326479,
+  "longitude": 106.85232,
+  "routes": [
+    {
+      "route_id": "JAK.25",
+      "route_short_name": "JAK.25",
+      "route_long_name": "Pasar Rebo - Kalisari",
+      "color": "00609C",
+      "category": "Mikrotrans",
+      "direction": "Pasar Rebo dan Kalisari",
+      "weekdays": [
+        "05:21:12",
+        "06:25:49"
+      ],
+      "weekends": []
+    }
+  ]
+}
