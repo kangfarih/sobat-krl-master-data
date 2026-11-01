@@ -1,0 +1,3 @@
+service_id,date,exception_type
+"krl:edition","20260910","1"
+"krl:edition-weekday","20260910","1"

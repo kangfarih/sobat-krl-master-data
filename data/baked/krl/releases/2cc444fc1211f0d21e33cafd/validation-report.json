@@ -1,0 +1,505 @@
+{
+  "schema_version": 1,
+  "dataset_version": "2cc444fc1211f0d21e33cafd",
+  "input": {
+    "stationCount": 111,
+    "routeCount": 1192,
+    "scheduleCount": 17463,
+    "observedTripCount": 1192,
+    "supportedTripCount": 1126
+  },
+  "acceptedTripCount": 1093,
+  "rejectedTripCount": 99,
+  "rejected_trips": [
+    {
+      "trip_id": "krl:1462",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1466",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1468",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1469",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1470",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1727D",
+      "reason": "Destination has a departure observation"
+    },
+    {
+      "trip_id": "krl:1814D",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1816D",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1820D",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:1831",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:2024A",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:311",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:312",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:313",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:314",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:315",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:316",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:317",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:318",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:319",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:320",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:321",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:322",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:323",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:324",
+      "reason": "Unsupported route: COMMUTERLINE MERAK"
+    },
+    {
+      "trip_id": "krl:326",
+      "reason": "Unsupported route: COMMUTER LINE WALAHAR"
+    },
+    {
+      "trip_id": "krl:328",
+      "reason": "Unsupported route: COMMUTER LINE WALAHAR"
+    },
+    {
+      "trip_id": "krl:330",
+      "reason": "Unsupported route: COMMUTER LINE WALAHAR"
+    },
+    {
+      "trip_id": "krl:332",
+      "reason": "Unsupported route: COMMUTER LINE WALAHAR"
+    },
+    {
+      "trip_id": "krl:334",
+      "reason": "Unsupported route: COMMUTER LINE WALAHAR"
+    },
+    {
+      "trip_id": "krl:336",
+      "reason": "Unsupported route: COMMUTER LINE JATILUHUR"
+    },
+    {
+      "trip_id": "krl:338",
+      "reason": "Unsupported route: COMMUTER LINE JATILUHUR"
+    },
+    {
+      "trip_id": "krl:501",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:502",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:503",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:504",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:505",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:5052C",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:506",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:507",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:508",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:509",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:5094B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5095B",
+      "reason": "Destination has a departure observation"
+    },
+    {
+      "trip_id": "krl:510",
+      "reason": "Unsupported route: COMMUTER LINE PRAMEKS"
+    },
+    {
+      "trip_id": "krl:5100C",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5126C",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5142B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5156B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5166B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5168C",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5169C",
+      "reason": "Destination has a departure observation"
+    },
+    {
+      "trip_id": "krl:5174B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5176B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5192B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5194B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5198B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5205A",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5710B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5719B",
+      "reason": "Destination has a departure observation"
+    },
+    {
+      "trip_id": "krl:5734B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5736B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:5752B",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:6085A",
+      "reason": "Origin departure missing or chronology inconsistent"
+    },
+    {
+      "trip_id": "krl:701",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:702",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:703",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:704",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:705",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:706",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:707",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:708",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:709",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:710",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:711",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:712",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:714",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:715",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:716",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:717",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:718A",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:720",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:721",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:722",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:723",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:724",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:725",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:726",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:727",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:728",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:730F",
+      "reason": "Unsupported route: COMMUTER LINE YOGYAKARTA"
+    },
+    {
+      "trip_id": "krl:D1/R1173-2",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:D1/R1191-2",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1100",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1102",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1106",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1181-2",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1187-2",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    },
+    {
+      "trip_id": "krl:R1207-2",
+      "reason": "Unsupported route: DINAS RANGKAIAN KRL"
+    }
+  ],
+  "missing_coordinates": [
+    "krl:AC",
+    "krl:AK",
+    "krl:BJD",
+    "krl:BKS",
+    "krl:BKST",
+    "krl:BOI",
+    "krl:BOO",
+    "krl:BPR",
+    "krl:BUA",
+    "krl:CBN",
+    "krl:CC",
+    "krl:CIT",
+    "krl:CJT",
+    "krl:CKI",
+    "krl:CKR",
+    "krl:CKY",
+    "krl:CLT",
+    "krl:CSK",
+    "krl:CTA",
+    "krl:CTR",
+    "krl:CUK",
+    "krl:CW",
+    "krl:DAR",
+    "krl:DP",
+    "krl:DPB",
+    "krl:DRN",
+    "krl:DU",
+    "krl:GDD",
+    "krl:GST",
+    "krl:JAKK",
+    "krl:JAY",
+    "krl:JIS",
+    "krl:JMU",
+    "krl:JNG",
+    "krl:JTK",
+    "krl:JUA",
+    "krl:KAT",
+    "krl:KBY",
+    "krl:KDS",
+    "krl:KLD",
+    "krl:KLDB",
+    "krl:KMO",
+    "krl:KMT",
+    "krl:KPB",
+    "krl:KRI",
+    "krl:LNA",
+    "krl:MGB",
+    "krl:MJ",
+    "krl:MRI",
+    "krl:MTR",
+    "krl:NMO",
+    "krl:PDJ",
+    "krl:PDRG",
+    "krl:PI",
+    "krl:PLM",
+    "krl:POC",
+    "krl:POK",
+    "krl:PRP",
+    "krl:PSE",
+    "krl:PSG",
+    "krl:PSM",
+    "krl:PSMB",
+    "krl:RJW",
+    "krl:RK",
+    "krl:RU",
+    "krl:RW",
+    "krl:SDM",
+    "krl:SRP",
+    "krl:SUD",
+    "krl:SUDB",
+    "krl:SW",
+    "krl:TB",
+    "krl:TEB",
+    "krl:TEJ",
+    "krl:TGS",
+    "krl:THB",
+    "krl:THI",
+    "krl:TKO",
+    "krl:TLM",
+    "krl:TNG",
+    "krl:TNT",
+    "krl:TPK",
+    "krl:UI",
+    "krl:UP"
+  ],
+  "calendar_status": "unknown",
+  "gtfs_exportable": false,
+  "limitations": [
+    "Intermediate stops may be absent upstream; no missing stop or dwell time is invented.",
+    "Source stop order is reconstructed from departure times and destination arrival.",
+    "Direction IDs and track shapes are unavailable; geographic simulation is disabled.",
+    "No operating calendar supplied; date-based simulation is disabled."
+  ]
+}
