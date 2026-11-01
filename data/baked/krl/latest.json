@@ -11,7 +11,7 @@
     "android-data.json.gz": {
       "path": "releases/586bfc4c22de49696ec00860/android-data.json.gz",
       "bytes": 264526,
-      "sha256": "d9d621cc9aaddc3f72bcc46ef657478250344b1e993e799fee3c0f79da6ae480"
+      "sha256": "0bc5033665458c4f530a1c33f6e5d08e22a7cccd79610cdb67bc20dca91d632c"
     },
     "gtfs.zip": {
       "path": "releases/586bfc4c22de49696ec00860/gtfs.zip",
