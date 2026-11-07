@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "dataset_version": "8410240e8192c1a208fbb059",
+  "source_updated_at": "2026-11-07T16:39:22.243Z",
+  "capabilities": {
+    "schedule_simulation": true,
+    "geographic_simulation": false
+  },
+  "files": {
+    "android-data.json.gz": {
+      "path": "releases/8410240e8192c1a208fbb059/android-data.json.gz",
+      "bytes": 76427,
+      "sha256": "006a97118dd204291bac94c9552b8d92c758d578f275a9cb513bdff7b325e121"
+    },
+    "gtfs.zip": {
+      "path": "releases/8410240e8192c1a208fbb059/gtfs.zip",
+      "bytes": 45501,
+      "sha256": "0acbc2a2158ae82cf41cef1603335b33d67a3ada1493633b98229c39b22a68d5"
+    },
+    "validation-report.json": {
+      "path": "releases/8410240e8192c1a208fbb059/validation-report.json",
+      "bytes": 2360,
+      "sha256": "f784175880eb430e9e59ecd3cfa8a296f01c056f5473494a33b63baafd685e2d"
+    }
+  }
+}

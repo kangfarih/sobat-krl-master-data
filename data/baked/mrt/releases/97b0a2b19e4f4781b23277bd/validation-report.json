@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "dataset_version": "97b0a2b19e4f4781b23277bd",
+  "input": {
+    "stationCount": 13,
+    "scheduleEntryCount": 6024
+  },
+  "acceptedTripCount": 504,
+  "partial_trips": [
+    {
+      "direction": "to_end",
+      "day": "weekdays",
+      "from": "BKM",
+      "to": "DKA",
+      "start_seconds": 18000
+    },
+    {
+      "direction": "to_end",
+      "day": "weekdays",
+      "from": "LBB",
+      "to": "BKA",
+      "start_seconds": 84420
+    },
+    {
+      "direction": "to_end",
+      "day": "weekends",
+      "from": "ASEAN",
+      "to": "DKA",
+      "start_seconds": 18120
+    },
+    {
+      "direction": "to_end",
+      "day": "weekends",
+      "from": "LBB",
+      "to": "BKM",
+      "start_seconds": 84420
+    }
+  ],
+  "validation_warnings": [
+    "to_end/weekdays: partial trip BKM -> DKA at 05:00:00",
+    "to_end/weekdays: partial trip LBB -> BKA at 23:27:00",
+    "to_end/weekends: partial trip ASEAN -> DKA at 05:02:00",
+    "to_end/weekends: partial trip LBB -> BKM at 23:27:00"
+  ],
+  "calendar_status": "configured",
+  "gtfs_exportable": true,
+  "limitations": [
+    "The source lists departures per station without train IDs; trips are rebuilt by matching departures between consecutive stations.",
+    "No terminus arrival is published; it is estimated from the opposite direction and marked estimated_from_opposite_direction.",
+    "Partial trips (a train that starts or ends at an intermediate station) are kept as the source shows them and listed in partial_trips.",
+    "Public holidays follow the weekend timetable only when listed in config/mrt.json holidays.",
+    "Track shapes are unavailable; geographic simulation is disabled."
+  ]
+}
