@@ -4,3 +4,4 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color
 "krl:rangkasbitung","krl:kci","R","Commuter Line Rangkasbitung","2","009A44"
 "krl:tangerang","krl:kci","T","Commuter Line Tangerang","2","9063CD"
 "krl:tanjung-priok","krl:kci","TP","Commuter Line Tanjung Priok","2","DD0067"
+"krl:merak","krl:kci","LM","Commuter Line Merak","2","24824D"

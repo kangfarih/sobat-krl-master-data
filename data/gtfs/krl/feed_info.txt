@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_start_date,feed_end_date,feed_contact_url
-"Sobat KRL","https://github.com/kangfarih/sobat-krl-master-data","id","a28d0bc391f6de4ae4a95d6c:2026-12-01","20261201","20270228","https://github.com/kangfarih/sobat-krl-master-data/issues"
+"Sobat KRL","https://github.com/kangfarih/sobat-krl-master-data","id","adf78567ecf5dfca37d25565:2026-12-01","20261201","20270228","https://github.com/kangfarih/sobat-krl-master-data/issues"
