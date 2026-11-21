@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+"lrt:cb","lrt:jabodebek","CB","LRT Jabodebek Cibubur Line","0","20409A"
+"lrt:bk","lrt:jabodebek","BK","LRT Jabodebek Bekasi Line","0","0E6938"
