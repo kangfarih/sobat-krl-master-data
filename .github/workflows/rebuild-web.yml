@@ -1,0 +1,38 @@
+name: Rebuild web app
+
+# When a data release lands, ask Vercel to rebuild the web app (sobat-krl-web) so it serves the new
+# timetable right away. Without this the site still picks the release up within an hour.
+#
+# Setup: in Vercel, project sobat-krl-web > Settings > Git > Deploy Hooks, create a hook for branch
+# main, then store its URL as the secret VERCEL_DEPLOY_HOOK_URL in this repository.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/baked/**'
+  workflow_dispatch:
+
+permissions: {}
+
+# Several modes are often published back to back: one rebuild after the last is enough.
+concurrency:
+  group: rebuild-web
+  cancel-in-progress: true
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the Vercel deploy hook
+        env:
+          HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK_URL" ]; then
+            echo "::warning::VERCEL_DEPLOY_HOOK_URL is not set; the web app will pick up this release within an hour."
+            exit 0
+          fi
+          # Give a publish that pushes several commits a moment to finish before building.
+          sleep 30
+          curl --fail --silent --show-error --max-time 30 -X POST "$HOOK_URL" --output /dev/null
+          echo "Rebuild requested."
