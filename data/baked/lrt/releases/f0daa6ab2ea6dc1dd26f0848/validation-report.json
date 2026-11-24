@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "dataset_version": "f0daa6ab2ea6dc1dd26f0848",
+  "input": {
+    "stationCount": 18,
+    "scheduleEntryCount": 8400
+  },
+  "acceptedTripCount": 700,
+  "partial_trips": [
+    {
+      "day": "weekdays",
+      "direction": "out",
+      "branch": "cb",
+      "reason": "does not cover the whole line",
+      "from": "DKA",
+      "to": "KRB",
+      "trip_id": "lrt:wd:out:cb:072"
+    },
+    {
+      "day": "weekdays",
+      "direction": "in",
+      "branch": "cb",
+      "reason": "does not cover the whole line",
+      "from": "HMK",
+      "to": "CRC",
+      "trip_id": "lrt:wd:in:cb:088"
+    }
+  ],
+  "interchanges": [
+    {
+      "from_stop_id": "mrt:DKA",
+      "to_stop_id": "lrt:DKA",
+      "distance_m": 543,
+      "walk_seconds": 625,
+      "walk_basis": "estimate: 543 m straight line x 1.3 detour at 75 m/min + 60 s station access; no official figure published"
+    },
+    {
+      "from_stop_id": "krl:SUD",
+      "to_stop_id": "lrt:DKA",
+      "distance_m": 356,
+      "walk_seconds": 430,
+      "walk_basis": "estimate: 356 m straight line x 1.3 detour at 75 m/min + 60 s station access; no official figure published"
+    },
+    {
+      "from_stop_id": "krl:SUDB",
+      "to_stop_id": "lrt:DKA",
+      "distance_m": 737,
+      "walk_seconds": 827,
+      "walk_basis": "estimate: 737 m straight line x 1.3 detour at 75 m/min + 60 s station access; no official figure published"
+    },
+    {
+      "from_stop_id": "krl:CW",
+      "to_stop_id": "lrt:CKK",
+      "distance_m": 214,
+      "walk_seconds": 240,
+      "walk_basis": "Google Maps walking directions Stasiun Cawang to Stasiun LRT Cikoko, 4 min, 250 m via Jl. MT Haryono (checked 2026-11-21); straight line 214 m"
+    }
+  ],
+  "validation_warnings": [],
+  "calendar_status": "configured",
+  "gtfs_exportable": true,
+  "separation": {
+    "weekdays": {
+      "skipped": 2,
+      "unexplained_branch_entries": 1,
+      "junction_rank": 2,
+      "hops": {
+        "in:JTM>BKB": 5,
+        "in:BKB>CK2": 4,
+        "in:CK2>CK1": 3,
+        "in:CK1>JTB": 4,
+        "in:JTB>HLM": 6,
+        "in:HMK>CRC": 7,
+        "in:CRC>KRB": 3,
+        "in:KRB>TMI": 4,
+        "in:HLM>CWG": 5,
+        "in:TMI>CWG": 11,
+        "in:CWG>CLW": 3,
+        "in:CLW>CKK": 3,
+        "in:CKK>PCR": 4,
+        "in:PCR>KNG": 5,
+        "in:KNG>RSS": 3,
+        "in:RSS>STB": 3,
+        "out:DKA>STB": 2,
+        "out:STB>RSS": 3,
+        "out:RSS>KNG": 3,
+        "out:KNG>PCR": 5,
+        "out:PCR>CKK": 4,
+        "out:CKK>CLW": 3,
+        "out:CLW>CWG": 3,
+        "out:CWG>HLM": 5,
+        "out:CWG>TMI": 10,
+        "out:HLM>JTB": 6,
+        "out:JTB>CK1": 4,
+        "out:CK1>CK2": 3,
+        "out:CK2>BKB": 4,
+        "out:TMI>KRB": 4,
+        "out:KRB>CRC": 3
+      },
+      "early_explained": {
+        "JTM>BKB": "6/6",
+        "BKB>CK2": "6/6",
+        "CK2>CK1": "5/5",
+        "CK1>JTB": "5/5",
+        "JTB>HLM": "4/4",
+        "HMK>CRC": "5/5",
+        "CRC>KRB": "5/5",
+        "KRB>TMI": "4/4",
+        "HLM+TMI>CWG": "7/7",
+        "CWG>CLW": "6/6",
+        "CLW>CKK": "5/5",
+        "CKK>PCR": "5/5",
+        "PCR>KNG": "3/3",
+        "KNG>RSS": "3/3",
+        "RSS>STB": "2/2"
+      },
+      "fit": {
+        "alpha": 1.76,
+        "beta_per_km": 0.9,
+        "points": 8
+      }
+    },
+    "holidays": {
+      "skipped": 0,
+      "unexplained_branch_entries": 0,
+      "junction_rank": 0,
+      "hops": {
+        "in:JTM>BKB": 4,
+        "in:BKB>CK2": 5,
+        "in:CK2>CK1": 3,
+        "in:CK1>JTB": 4,
+        "in:JTB>HLM": 7,
+        "in:HMK>CRC": 7,
+        "in:CRC>KRB": 3,
+        "in:KRB>TMI": 5,
+        "in:HLM>CWG": 5,
+        "in:TMI>CWG": 10,
+        "in:CWG>CLW": 3,
+        "in:CLW>CKK": 3,
+        "in:CKK>PCR": 4,
+        "in:PCR>KNG": 5,
+        "in:KNG>RSS": 3,
+        "in:RSS>STB": 4,
+        "out:DKA>STB": 3,
+        "out:STB>RSS": 4,
+        "out:RSS>KNG": 3,
+        "out:KNG>PCR": 5,
+        "out:PCR>CKK": 4,
+        "out:CKK>CLW": 3,
+        "out:CLW>CWG": 3,
+        "out:CWG>HLM": 5,
+        "out:CWG>TMI": 10,
+        "out:HLM>JTB": 7,
+        "out:JTB>CK1": 4,
+        "out:CK1>CK2": 3,
+        "out:CK2>BKB": 5,
+        "out:TMI>KRB": 5,
+        "out:KRB>CRC": 3
+      },
+      "early_explained": {
+        "JTM>BKB": "3/3",
+        "BKB>CK2": "3/3",
+        "CK2>CK1": "3/3",
+        "CK1>JTB": "3/3",
+        "JTB>HLM": "2/2",
+        "HMK>CRC": "3/3",
+        "CRC>KRB": "2/2",
+        "KRB>TMI": "2/2",
+        "HLM+TMI>CWG": "4/4",
+        "CWG>CLW": "3/3",
+        "CLW>CKK": "3/3",
+        "CKK>PCR": "2/2",
+        "PCR>KNG": "2/2",
+        "KNG>RSS": "2/2",
+        "RSS>STB": "1/1"
+      },
+      "fit": {
+        "alpha": 2.04,
+        "beta_per_km": 0.89,
+        "points": 8
+      }
+    }
+  },
+  "limitations": [
+    "The source lists departure minutes per station with directions and the two lines merged; trains are rebuilt by following each direction from the terminals and splitting the branches at Cawang (scripts/lib/lrt-demerge.js). Counts add up at every station.",
+    "Times are published to the minute; travel times between stations vary by about a minute from train to train because of that rounding.",
+    "The source gives no arrival at the last station of a trip; it is estimated from the opposite direction and marked estimated_from_opposite_direction.",
+    "A few trains that start or short-work mid-line are kept as partial trips (listed in partial_trips); nothing is invented to complete them.",
+    "'Hari Libur' times are used for weekends and the national holidays listed in config/lrt.json.",
+    "Interchange walking times are estimates from distance (see each walk_basis).",
+    "Track shapes come from OpenStreetMap route relations (ODbL), snapped to station coordinates; approximate."
+  ],
+  "shapes": {
+    "source": "OpenStreetMap contributors (ODbL); snapped to station coordinates, approximate",
+    "track_source": "route relations",
+    "patterns_by_line": {
+      "BK": 2,
+      "all-relations": 3,
+      "CB": 1
+    },
+    "rail_ways_used": 38,
+    "junction_gaps_healed": 2,
+    "lateral_links": 539,
+    "graph_vertices": 1102,
+    "patterns": 6,
+    "patterns_shaped": 6,
+    "trips_with_shape": 700,
+    "trips_without_shape": 0,
+    "straight_fallback_legs": [],
+    "unsnapped_stops": [],
+    "stops_matched_to_osm_station": 18,
+    "coordinate_deltas_over_200m": [
+      {
+        "stop_id": "lrt:DKA",
+        "stop_name": "Dukuh Atas BNI",
+        "registry": [
+          -6.2048511,
+          106.8255247
+        ],
+        "osm": [
+          -6.2007957,
+          106.822788
+        ],
+        "delta_m": 543
+      }
+    ],
+    "failed_patterns": [],
+    "snap_distance_max_m": 539,
+    "parameters": {
+      "snapMeters": 800,
+      "detourRatio": 2.5,
+      "epsilonMeters": 3,
+      "maxStraightLeg": 6000
+    }
+  }
+}
