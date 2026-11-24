@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dataset_version": "d09b418f5ea55c57b7465dfb",
+  "dataset_version": "9aadccc3ae6bac2382ae3f4e",
   "source_updated_at": "2026-12-01T00:00:00+07:00",
   "capabilities": {
     "schedule_simulation": true,
@@ -9,19 +9,19 @@
   "release_status": "preview",
   "files": {
     "android-data.json.gz": {
-      "path": "releases/d09b418f5ea55c57b7465dfb/android-data.json.gz",
-      "bytes": 352772,
-      "sha256": "980fec02494b778149880a1174214385772220cf451cd11aea75c793cc396bff"
+      "path": "releases/9aadccc3ae6bac2382ae3f4e/android-data.json.gz",
+      "bytes": 354477,
+      "sha256": "e0b7aafecc2909e73d167c3493215804fcf941fc7bf5e30d9885e5431887d2da"
     },
     "gtfs.zip": {
-      "path": "releases/d09b418f5ea55c57b7465dfb/gtfs.zip",
+      "path": "releases/9aadccc3ae6bac2382ae3f4e/gtfs.zip",
       "bytes": 229380,
       "sha256": "324b34979b69edf2a19b421600d338d4f5adfa5d3f562f18227d8242f800243f"
     },
     "validation-report.json": {
-      "path": "releases/d09b418f5ea55c57b7465dfb/validation-report.json",
-      "bytes": 417594,
-      "sha256": "413470b4794c926dc5d88afdce8bc3bb74520e8b041f6a017a41e5638c521d73"
+      "path": "releases/9aadccc3ae6bac2382ae3f4e/validation-report.json",
+      "bytes": 425865,
+      "sha256": "c75fa02bcf589ceb9680830d15124dcd52282acd68e36ee9385128ec662251b2"
     }
   }
 }
